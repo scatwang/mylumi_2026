@@ -230,19 +230,15 @@
     overlay.className = "fll-auth-overlay";
     overlay.innerHTML = `
       <div class="fll-auth-card">
-        <div class="fll-auth-icon">🔐</div>
-        <div class="fll-auth-title">NorCal FLL BIOGLOW</div>
-        <div class="fll-auth-desc">
-          战队竞技情报与合规审查系统<br>
-          <span style="color: #64748b; font-size: 0.8rem;">受保护的内部看板 · 请验证访问密码</span>
-        </div>
+        <div class="fll-auth-icon">🔒</div>
+        <div class="fll-auth-title">NorCal</div>
         <form class="fll-auth-form" id="fllAuthForm" onsubmit="return false;">
           <div class="fll-auth-input-wrap">
             <input 
               type="password" 
               id="fllAuthInput" 
               class="fll-auth-input" 
-              placeholder="请输入系统密码..." 
+              placeholder="请输入密码..." 
               autocomplete="current-password" 
               required
             />
@@ -252,11 +248,10 @@
           <div class="fll-auth-options">
             <label class="fll-auth-remember">
               <input type="checkbox" id="fllAuthRemember" checked />
-              <span>记住登录 (本机免密)</span>
+              <span>记住登录</span>
             </label>
-            <span class="fll-auth-hint" title="默认系统预设密码">默认: fll2026</span>
           </div>
-          <button type="submit" class="fll-auth-btn" id="fllAuthSubmit">解锁进入看板 ⚡</button>
+          <button type="submit" class="fll-auth-btn" id="fllAuthSubmit">进入</button>
         </form>
       </div>
     `;
@@ -293,7 +288,7 @@
         }, 360);
       } else {
         input.classList.add("error");
-        msgEl.textContent = "密码错误，请重试（提示：默认密码 fll2026）";
+        msgEl.textContent = "密码错误，请重试";
         input.focus();
         setTimeout(() => {
           input.classList.remove("error");
@@ -313,8 +308,8 @@
     const lockBtn = document.createElement("button");
     lockBtn.id = "fllLogoutBtn";
     lockBtn.className = "fll-nav-lock-btn";
-    lockBtn.title = "锁定看板并清除本地登录凭证";
-    lockBtn.innerHTML = `<span>🔒</span><span>锁定系统</span>`;
+    lockBtn.title = "锁定并清除本地登录凭证";
+    lockBtn.innerHTML = `<span>🔒</span><span>锁定</span>`;
     lockBtn.onclick = () => {
       clearAuthorized();
       location.reload();
