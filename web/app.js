@@ -459,10 +459,16 @@ function renderMatrixTable() {
     const ly = past.find(p => p.season_year === 2025);
     const lyM = ly ? ly.metrics : null;
 
-    // Date formatting
-    const dateObj = new Date(e.date + 'T12:00:00');
-    const dayName = dateObj.toLocaleDateString('en-US', { weekday: 'short' });
-    const monthDay = dateObj.toLocaleDateString('en-US', { month: '2-digit', day: '2-digit' });
+    // Date formatting (timezone-safe)
+    let dayName = '', monthDay = '';
+    if (e.date) {
+      const parts = e.date.split("T")[0].split("-");
+      if (parts.length === 3) {
+        const d = new Date(parseInt(parts[0], 10), parseInt(parts[1], 10) - 1, parseInt(parts[2], 10));
+        dayName = d.toLocaleDateString('en-US', { weekday: 'short' });
+        monthDay = String(d.getMonth() + 1).padStart(2, '0') + '/' + String(d.getDate()).padStart(2, '0');
+      }
+    }
 
     // Weekend tag
     const wkClass = `week-${e.weekend}`;

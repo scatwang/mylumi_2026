@@ -1222,6 +1222,33 @@
     let matrixSortDir = "asc";
     let matrixSearchQuery = "";
 
+    // Robust date parser & formatter (avoids JavaScript UTC new Date() timezone rollback bug)
+    function parseEventDate(dateStr) {
+      if (!dateStr) return null;
+      const clean = dateStr.split("T")[0];
+      const parts = clean.split("-");
+      if (parts.length === 3) {
+        const yr = parseInt(parts[0], 10);
+        const mo = parseInt(parts[1], 10);
+        const dy = parseInt(parts[2], 10);
+        // Using local constructor (yr, mo-1, dy) prevents UTC midnight offset shifting backward 1 day
+        const d = new Date(yr, mo - 1, dy);
+        return { year: yr, month: mo, day: dy, dateObj: d };
+      }
+      return null;
+    }
+
+    function formatEventDate(dateStr, includeYear = false) {
+      const parsed = parseEventDate(dateStr);
+      if (!parsed) return dateStr || '待公布';
+      const daysOfWeek = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+      const weekday = daysOfWeek[parsed.dateObj.getDay()];
+      if (includeYear) {
+        return `${parsed.year}年${parsed.month}月${parsed.day}日 (${weekday})`;
+      }
+      return `${parsed.month}月${parsed.day}日 (${weekday})`;
+    }
+
     document.addEventListener("DOMContentLoaded", () => {
       // 1. Check URL parameters (e.g. ?event=311)
       const urlParams = new URLSearchParams(window.location.search);
@@ -1350,19 +1377,8 @@
         const exp = ev.experience || { veteran_count: 0, veteran_pct: 0, experienced_count: 0, rookie_count: 0 };
         const st = ev.strength || { top_career_score: 0, top_team_number: null, top_team_name: '', total_career_awards: 0, teams_with_advancement: 0 };
 
-        // Format date display
-        let dateDisplay = '待定';
-        if (ev.start_time) {
-          const d = new Date(ev.start_time);
-          if (!isNaN(d.getTime())) {
-            const m = d.getMonth() + 1;
-            const day = d.getDate();
-            const daysOfWeek = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
-            dateDisplay = `${m}月${day}日 (${daysOfWeek[d.getDay()]})`;
-          } else {
-            dateDisplay = ev.start_time.split("T")[0];
-          }
-        }
+        // Format date display (timezone-safe)
+        const dateDisplay = formatEventDate(ev.start_time, false);
 
         return `
           <tr class="event-row ${isCurrent ? 'active-event-row' : ''}" onclick="selectEvent(${ev.event_id})">
@@ -1480,7 +1496,7 @@
               <span>${escapeHtml(ev.name)}</span>
             </h2>
             <div class="hero-sub-details">
-              <span>📅 比赛日期：<strong>${ev.start_time || '待公布'}</strong></span>
+              <span>📅 比赛日期：<strong>${formatEventDate(ev.start_time, true)}</strong></span>
               <span>📍 比赛场馆：<strong>${escapeHtml(ev.venue_name)} (${escapeHtml(ev.venue_city)})</strong></span>
               <span>🏆 赛季主题：<strong style="color:var(--cyan-neon);">${escapeHtml(ev.season)}</strong></span>
             </div>
@@ -2038,7 +2054,7 @@
               <div style="font-weight:600;color:#fff;cursor:pointer;" onclick="selectEvent(${ev.event_id})">${escapeHtml(ev.name)}</div>
               <div style="font-size:0.75rem;color:var(--text-dim);margin-top:2px;">${escapeHtml(ev.program)}</div>
             </td>
-            <td><span style="font-family:var(--font-mono);font-size:0.82rem;">${ev.start_time || '-'}</span></td>
+            <td><span style="font-family:var(--font-mono);font-size:0.82rem;">${formatEventDate(ev.start_time, false)}</span></td>
             <td>
               <div style="font-weight:500;">${escapeHtml(ev.venue_city || 'TBD')}</div>
               <div style="font-size:0.72rem;color:var(--text-dim);">${escapeHtml(ev.venue_name || '')}</div>
