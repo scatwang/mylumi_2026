@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 1661,
+      "team": {
+        "id": 2113,
+        "number": 17491,
+        "name": "17491",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1568,
+      "team": {
+        "id": 2183,
+        "number": 37811,
+        "name": "OwOls",
+        "city": "Danville",
+        "org_name": "Athenian School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1590,
+      "team": {
+        "id": 1659,
+        "number": 39190,
+        "name": "Owls",
+        "city": "Danville",
+        "org_name": "Athenian School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1663,
+      "team": {
+        "id": 2184,
+        "number": 47206,
+        "name": "Owlz",
+        "city": "Danville",
+        "org_name": "Athenian School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1519,
+      "team": {
+        "id": 1669,
+        "number": 51095,
+        "name": "CreaTech",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1610,
+      "team": {
+        "id": 1964,
+        "number": 60418,
+        "name": "Hedgedroid",
+        "city": "Palo Alto",
+        "org_name": "Jane Lathrop Stanford Middle"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1533,
+      "team": {
+        "id": 1741,
+        "number": 65685,
+        "name": "FLL-C 65685",
+        "city": "Oakland",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1640,
+      "team": {
+        "id": 1761,
+        "number": 66280,
+        "name": "DELTABOTS",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1547,
+      "team": {
+        "id": 2019,
+        "number": 67150,
+        "name": "Coding Ninjas",
+        "city": "Palo Alto",
+        "org_name": "ULEAP"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1592,
+      "team": {
+        "id": 1785,
+        "number": 67422,
+        "name": "The Alameda Wild Turkey Gang",
+        "city": "Alameda",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1675,
+      "team": {
+        "id": 2248,
+        "number": 70550,
+        "name": "BionicPanthers",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1624,
+      "team": {
+        "id": 2074,
+        "number": 71232,
+        "name": "Aura100%",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1619,
+      "team": {
+        "id": 1930,
+        "number": 71418,
+        "name": "SALADS2025",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1615,
+      "team": {
+        "id": 2232,
+        "number": 71713,
+        "name": "BuildHers",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1565,
+      "team": {
+        "id": 1625,
+        "number": 71755,
+        "name": "Avolving_Earthbots",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1518,
+      "team": {
+        "id": 2242,
+        "number": 71969,
+        "name": "HUNTRX",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1574,
+      "team": {
+        "id": 2156,
+        "number": 72068,
+        "name": "DVMS Robotics",
+        "city": "Danville",
+        "org_name": "Diablo Vista Middle"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1594,
+      "team": {
+        "id": 2175,
+        "number": 72906,
+        "name": "Argo Robotics Team 252",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

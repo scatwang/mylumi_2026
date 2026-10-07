@@ -1,0 +1,201 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 701,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 191,
+        "team": {
+          "number": 4979,
+          "name": "4979",
+          "org_name": "Cabrillo Middle School",
+          "org": {
+            "name": "Cabrillo Middle School"
+          },
+          "city": "Santa Clara",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 700,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 191,
+        "team": {
+          "number": 17494,
+          "name": "17494",
+          "org_name": "Cabrillo Middle School",
+          "org": {
+            "name": "Cabrillo Middle School"
+          },
+          "city": "Santa Clara",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 697,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 191,
+        "team": {
+          "number": 53591,
+          "name": "Tiger Robotics 2",
+          "org_name": "Town School for Boys",
+          "org": {
+            "name": "Town School for Boys"
+          },
+          "city": "San Francisco",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 698,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 191,
+        "team": {
+          "number": 72540,
+          "name": "TBD123",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 699,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 191,
+        "team": {
+          "number": 60942,
+          "name": "Excavators",
+          "org_name": "Jane Lathrop Stanford Middle",
+          "org": {
+            "name": "Jane Lathrop Stanford Middle"
+          },
+          "city": "Palo Alto",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 696,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "Eric Wild",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 191,
+        "team": {
+          "number": 53591,
+          "name": "Tiger Robotics 2",
+          "org_name": "Town School for Boys",
+          "org": {
+            "name": "Town School for Boys"
+          },
+          "city": "San Francisco",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": []
+  }
+}

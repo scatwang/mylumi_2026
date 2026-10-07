@@ -1,0 +1,173 @@
+{
+  "count": 14,
+  "results": [
+    {
+      "id": 1397,
+      "team": {
+        "id": 1118,
+        "number": 61692,
+        "name": "Blue Bots",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1357,
+      "team": {
+        "id": 1423,
+        "number": 65193,
+        "name": "DECT",
+        "city": "San Mateo",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1225,
+      "team": {
+        "id": 832,
+        "number": 65801,
+        "name": "Pink Potato Chips",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1237,
+      "team": {
+        "id": 842,
+        "number": 66045,
+        "name": "BrickSlayers2.0",
+        "city": "alameda",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1274,
+      "team": {
+        "id": 852,
+        "number": 66668,
+        "name": "Springer Legonauts",
+        "city": "MOUNTAIN VIEW",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1282,
+      "team": {
+        "id": 1054,
+        "number": 66875,
+        "name": "Famous Lego Lords",
+        "city": "FREMONT",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1258,
+      "team": {
+        "id": 1129,
+        "number": 67430,
+        "name": "BayBots",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1272,
+      "team": {
+        "id": 1266,
+        "number": 67557,
+        "name": "Sun Valley Challenge",
+        "city": "San Rafael",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1277,
+      "team": {
+        "id": 1268,
+        "number": 67841,
+        "name": "The Striker Bots",
+        "city": "Fremont",
+        "org_name": "Fremont Unified Elementary Schools"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1403,
+      "team": {
+        "id": 1443,
+        "number": 68164,
+        "name": "Springer Lego-logists",
+        "city": "Mountain View",
+        "org_name": "Springer Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1224,
+      "team": {
+        "id": 1121,
+        "number": 68221,
+        "name": "20,000 Legos Under the Sea",
+        "city": "Palo Alto",
+        "org_name": "Silicon Valley International School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1263,
+      "team": {
+        "id": 1123,
+        "number": 68412,
+        "name": "QuantumBots",
+        "city": "Palo Alto",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1287,
+      "team": {
+        "id": 1348,
+        "number": 69947,
+        "name": "Megalobot",
+        "city": "Danville",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1236,
+      "team": {
+        "id": 1418,
+        "number": 70178,
+        "name": "Crystal Springs Uplands Middle School 1",
+        "city": "Belmont",
+        "org_name": "Crystal Springs Uplands School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

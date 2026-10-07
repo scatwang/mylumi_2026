@@ -1,0 +1,900 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 60033,
+        "name": "Pokémon ",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-08 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-11-08 11:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-11-08 13:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-11-08 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-08 13:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61016,
+        "name": "Mecha Lions FLL A",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-08 11:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-08 13:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-11-08 15:20:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 10:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61017,
+        "name": "Mecha Lions FLL B",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2025-11-08 10:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-08 13:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-11-08 15:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 11:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66078,
+        "name": "Pleasanton Explorers",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-08 11:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-08 13:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-11-08 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 10:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66764,
+        "name": "Celsius and Beyond ",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-11-08 12:00:00-08:00",
+            "length": 75,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-08 13:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-11-08 15:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 10:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66785,
+        "name": "Orange,Peach",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-08 10:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-08 11:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-11-08 13:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-11-08 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-08 14:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66816,
+        "name": "Six Stars",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-08 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2025-11-08 11:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-11-08 14:30:00-08:00",
+            "length": 40,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-11-08 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-08 13:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73526,
+        "name": "Evergreen Mangoes",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-08 10:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-11-08 11:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-11-08 14:30:00-08:00",
+            "length": 40,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-11-08 16:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-08 13:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73527,
+        "name": "EV Lutions",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2025-11-08 10:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-11-08 14:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-11-08 15:20:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 11:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73528,
+        "name": "Zap Squad",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-08 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2025-11-08 11:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-11-08 14:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-11-08 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-08 13:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73529,
+        "name": "K-Pop LEGO Hunters",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-08 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-08 11:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-11-08 14:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-11-08 16:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-08 14:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 74260,
+        "name": "Brickaneers",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-11-08 12:00:00-08:00",
+            "length": 75,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-11-08 14:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-11-08 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 10:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-11-08 10:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66078 - Pleasanton Explorers",
+              "61016 - Mecha Lions FLL A"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-11-08 10:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66764 - Celsius and Beyond ",
+              "74260 - Brickaneers"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-11-08 11:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "73527 - EV Lutions",
+              "61017 - Mecha Lions FLL B"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-11-08 13:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66816 - Six Stars",
+              "73528 - Zap Squad"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2025-11-08 13:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "73526 - Evergreen Mangoes",
+              "60033 - Pokémon "
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2025-11-08 14:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66785 - Orange,Peach",
+              "73529 - K-Pop LEGO Hunters"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 921,
+        "name": "TABLE A"
+      },
+      {
+        "id": 922,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2025-11-08 09:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66078 - Pleasanton Explorers",
+          "#61017 - Mecha Lions FLL B"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2025-11-08 09:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#74260 - Brickaneers",
+          "#61016 - Mecha Lions FLL A"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2025-11-08 09:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#73527 - EV Lutions",
+          "#66764 - Celsius and Beyond "
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2025-11-08 10:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66816 - Six Stars",
+          "#73529 - K-Pop LEGO Hunters"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2025-11-08 10:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60033 - Pokémon ",
+          "#73528 - Zap Squad"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2025-11-08 10:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66785 - Orange,Peach",
+          "#73526 - Evergreen Mangoes"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2025-11-08 10:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61017 - Mecha Lions FLL B",
+          "#73527 - EV Lutions"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2025-11-08 11:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#73528 - Zap Squad",
+          "#66816 - Six Stars"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2025-11-08 11:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60033 - Pokémon ",
+          "#73526 - Evergreen Mangoes"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2025-11-08 11:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#73529 - K-Pop LEGO Hunters",
+          "#66785 - Orange,Peach"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2025-11-08 11:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61016 - Mecha Lions FLL A",
+          "#66078 - Pleasanton Explorers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2025-11-08 12:00:00-08:00",
+        "length": 75,
+        "tables": [
+          "#74260 - Brickaneers",
+          "#66764 - Celsius and Beyond "
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2025-11-08 13:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66785 - Orange,Peach",
+          "#60033 - Pokémon "
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2025-11-08 13:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66764 - Celsius and Beyond ",
+          "#66078 - Pleasanton Explorers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2025-11-08 13:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61017 - Mecha Lions FLL B",
+          "#61016 - Mecha Lions FLL A"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2025-11-08 14:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#73529 - K-Pop LEGO Hunters",
+          "#73528 - Zap Squad"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2025-11-08 14:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#73527 - EV Lutions",
+          "#74260 - Brickaneers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2025-11-08 14:30:00-08:00",
+        "length": 40,
+        "tables": [
+          "#73526 - Evergreen Mangoes",
+          "#66816 - Six Stars"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2025-11-08 15:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66078 - Pleasanton Explorers",
+          "#74260 - Brickaneers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2025-11-08 15:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61016 - Mecha Lions FLL A",
+          "#73527 - EV Lutions"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2025-11-08 15:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66764 - Celsius and Beyond ",
+          "#61017 - Mecha Lions FLL B"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2025-11-08 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66816 - Six Stars",
+          "#60033 - Pokémon "
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2025-11-08 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#73528 - Zap Squad",
+          "#66785 - Orange,Peach"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2025-11-08 16:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#73526 - Evergreen Mangoes",
+          "#73529 - K-Pop LEGO Hunters"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-10-26 15:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    1824,
+    1773,
+    1774,
+    1775,
+    1779,
+    1782,
+    1783,
+    1785,
+    1786,
+    1821,
+    1822,
+    1823
+  ]
+}

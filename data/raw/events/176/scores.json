@@ -1,0 +1,432 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 71804,
+      "name": "Astrobot",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 440,
+      "highest_display": 440,
+      "rounds": [
+        400,
+        440,
+        380
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        440,
+        400,
+        380
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 60507,
+      "name": "Team Prime",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 400,
+      "highest_display": 400,
+      "rounds": [
+        155,
+        400,
+        400
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        400,
+        400,
+        155
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 72905,
+      "name": "Argo Robotics Team 251",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 400,
+      "highest_display": 400,
+      "rounds": [
+        320,
+        400,
+        390
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        400,
+        390,
+        320
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 66075,
+      "name": "TechTitans",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 380,
+      "highest_display": 380,
+      "rounds": [
+        295,
+        380,
+        335
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        380,
+        335,
+        295
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 61406,
+      "name": "Quantum Bots",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 360,
+      "highest_display": 360,
+      "rounds": [
+        360,
+        310,
+        350
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        360,
+        350,
+        310
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 68960,
+      "name": "Seismic Cyborgs",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 360,
+      "highest_display": 360,
+      "rounds": [
+        360,
+        310,
+        330
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        360,
+        330,
+        310
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 61055,
+      "name": "Robotic Athletes",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 315,
+      "highest_display": 315,
+      "rounds": [
+        280,
+        225,
+        315
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        315,
+        280,
+        225
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 72123,
+      "name": "Dig Deep Discoverers",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        215,
+        265,
+        280
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        265,
+        215
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 71435,
+      "name": "Servo Dei",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        280,
+        150,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        170,
+        150
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 71252,
+      "name": "Lions",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        265,
+        275,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        265,
+        250
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 61776,
+      "name": "Tech Ninja",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        195,
+        260,
+        270
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Several parts found to be significantly worn-possibly intentional as well as a separate robot of different design submitted for judging was found in the tournament area that was claimed to be owned by team."
+      ],
+      "rounds_sorted": [
+        270,
+        260,
+        195
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 72151,
+      "name": "Miniona Jones",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        260,
+        260,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        260,
+        210
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 56489,
+      "name": "Gear Girls",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        200,
+        240,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        200,
+        165
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 30497,
+      "name": "FBI(Fascinating Bot Intelligence)",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        220,
+        185,
+        205
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        205,
+        185
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 72102,
+      "name": "The Radical Robots",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        175,
+        205,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        175,
+        135
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 445,
+      "name": "Mighty Robo Pines",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        140,
+        160,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        155,
+        140
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 20710,
+      "name": "Our Savior Lions",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 115,
+      "highest_display": 115,
+      "rounds": [
+        115,
+        105,
+        95
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        115,
+        105,
+        95
+      ],
+      "ordinal": "17th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

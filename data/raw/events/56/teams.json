@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 681,
+      "team": {
+        "id": 883,
+        "number": 2847,
+        "name": "Aquavengers",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 640,
+      "team": {
+        "id": 888,
+        "number": 4979,
+        "name": "Aquabots",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 889,
+      "team": {
+        "id": 891,
+        "number": 8278,
+        "name": "Titanium Turtles",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 636,
+      "team": {
+        "id": 893,
+        "number": 8445,
+        "name": "Ultra Mega Technologies",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 706,
+      "team": {
+        "id": 926,
+        "number": 53140,
+        "name": "Fin Finders",
+        "city": "San Jose",
+        "org_name": "Bret Harte Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 659,
+      "team": {
+        "id": 937,
+        "number": 56993,
+        "name": "SuperChargers ",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 644,
+      "team": {
+        "id": 721,
+        "number": 60338,
+        "name": "Astrocubs",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 773,
+      "team": {
+        "id": 967,
+        "number": 60642,
+        "name": "Code CrasherZ",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 711,
+      "team": {
+        "id": 975,
+        "number": 60787,
+        "name": "Shelby",
+        "city": "Saratoga",
+        "org_name": "Saratoga Elementary School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 883,
+      "team": {
+        "id": 978,
+        "number": 60869,
+        "name": "Techno Troopers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 689,
+      "team": {
+        "id": 834,
+        "number": 65885,
+        "name": "Ocean Plate Explorers",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 916,
+      "team": {
+        "id": 836,
+        "number": 65896,
+        "name": "Votel /Cook - 4th Grade",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 772,
+      "team": {
+        "id": 837,
+        "number": 65897,
+        "name": "Garcia / Lofft - 5th Grade",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 701,
+      "team": {
+        "id": 1037,
+        "number": 65978,
+        "name": "Notre Dame Robotics - Blue Team",
+        "city": "Belmont",
+        "org_name": "Notre Dame Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 716,
+      "team": {
+        "id": 1156,
+        "number": 66785,
+        "name": "Orange,Peach",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 741,
+      "team": {
+        "id": 868,
+        "number": 67117,
+        "name": "Super Divers ",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 781,
+      "team": {
+        "id": 1213,
+        "number": 67352,
+        "name": "BlockBuster18",
+        "city": "Fremont",
+        "org_name": "Patterson Elementary, Ardenwood Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 936,
+      "team": {
+        "id": 1285,
+        "number": 68452,
+        "name": "Argo Bears",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

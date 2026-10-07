@@ -1,0 +1,437 @@
+{
+  "count": 36,
+  "results": [
+    {
+      "id": 496,
+      "team": {
+        "id": 291,
+        "number": 4506,
+        "name": "Techno Cavs",
+        "city": "Sacramento",
+        "org_name": "Sacramento Country Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 465,
+      "team": {
+        "id": 163,
+        "number": 10586,
+        "name": "Da Vinci",
+        "city": "Hillsborough",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 415,
+      "team": {
+        "id": 256,
+        "number": 20915,
+        "name": "TroBots",
+        "city": "Burlingame",
+        "org_name": "Burlingame Intermediate School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 370,
+      "team": {
+        "id": 242,
+        "number": 25573,
+        "name": "X-Mann Bots",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 491,
+      "team": {
+        "id": 180,
+        "number": 30517,
+        "name": "Ice Cream Sundays",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 433,
+      "team": {
+        "id": 90,
+        "number": 37489,
+        "name": "Human Joulez",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 384,
+      "team": {
+        "id": 212,
+        "number": 38103,
+        "name": "Astrobots",
+        "city": "Sacramento",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 528,
+      "team": {
+        "id": 356,
+        "number": 39190,
+        "name": "Owlz",
+        "city": "Danville",
+        "org_name": "Athenian School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 493,
+      "team": {
+        "id": 170,
+        "number": 40997,
+        "name": "Denman Robotics",
+        "city": "San Francisco",
+        "org_name": "James Denman Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 520,
+      "team": {
+        "id": 138,
+        "number": 44530,
+        "name": "Platinum Programmers",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 487,
+      "team": {
+        "id": 211,
+        "number": 48793,
+        "name": "Mountain House",
+        "city": "Mountain House",
+        "org_name": "Mountain House Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 390,
+      "team": {
+        "id": 42,
+        "number": 51057,
+        "name": "ROCKING ROBOTS",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 373,
+      "team": {
+        "id": 12,
+        "number": 51197,
+        "name": "Jumping Jelly Beans",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 485,
+      "team": {
+        "id": 63,
+        "number": 52090,
+        "name": "Canary1",
+        "city": "San Francisco",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 425,
+      "team": {
+        "id": 152,
+        "number": 52397,
+        "name": "Invalid Syntax",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 494,
+      "team": {
+        "id": 68,
+        "number": 52427,
+        "name": "Circuit Squad",
+        "city": "Rocklin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 424,
+      "team": {
+        "id": 286,
+        "number": 52498,
+        "name": "MovingTreeHouse",
+        "city": "Palo Alto",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 414,
+      "team": {
+        "id": 193,
+        "number": 52597,
+        "name": "Flaming Stars",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 405,
+      "team": {
+        "id": 67,
+        "number": 54145,
+        "name": "G.O.A.T.S",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 490,
+      "team": {
+        "id": 149,
+        "number": 55794,
+        "name": "Purple People Eaters",
+        "city": "Oakland",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 388,
+      "team": {
+        "id": 331,
+        "number": 55867,
+        "name": "Harrybot",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 375,
+      "team": {
+        "id": 218,
+        "number": 55959,
+        "name": "Shrek's Friends",
+        "city": "Foster City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 464,
+      "team": {
+        "id": 258,
+        "number": 56453,
+        "name": "Donut Powered",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 486,
+      "team": {
+        "id": 398,
+        "number": 56940,
+        "name": "RoboMasters",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 376,
+      "team": {
+        "id": 75,
+        "number": 57010,
+        "name": "Rocket",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 387,
+      "team": {
+        "id": 95,
+        "number": 58380,
+        "name": "Lego Masters1",
+        "city": "Folsom",
+        "org_name": "Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 483,
+      "team": {
+        "id": 345,
+        "number": 59943,
+        "name": "THESHOOTINGSTARS",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 497,
+      "team": {
+        "id": 366,
+        "number": 60070,
+        "name": "Robo-Sapiens",
+        "city": "Milpitas",
+        "org_name": "Fremont Robotics Academy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 379,
+      "team": {
+        "id": 45,
+        "number": 60198,
+        "name": "Chronobot",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 500,
+      "team": {
+        "id": 32,
+        "number": 60428,
+        "name": "LegoLegends",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 391,
+      "team": {
+        "id": 225,
+        "number": 60718,
+        "name": "Rockin Robos",
+        "city": "Rocklin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 428,
+      "team": {
+        "id": 178,
+        "number": 60958,
+        "name": "Puma",
+        "city": "Oakland",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 385,
+      "team": {
+        "id": 156,
+        "number": 61168,
+        "name": "Foothill 2023C",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 394,
+      "team": {
+        "id": 199,
+        "number": 61301,
+        "name": "Fantastic Fource",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 396,
+      "team": {
+        "id": 352,
+        "number": 61406,
+        "name": "STEAM Bots",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 530,
+      "team": {
+        "id": 374,
+        "number": 62274,
+        "name": "The Van Goes",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

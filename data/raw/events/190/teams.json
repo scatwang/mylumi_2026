@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 1589,
+      "team": {
+        "id": 1639,
+        "number": 8560,
+        "name": "ProGRAHAMers",
+        "city": "Mountain View",
+        "org_name": "Graham Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1634,
+      "team": {
+        "id": 1991,
+        "number": 9726,
+        "name": "Stampede",
+        "city": "Santa Clara",
+        "org_name": "Monticello Academy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1535,
+      "team": {
+        "id": 1642,
+        "number": 12287,
+        "name": "Pantherbots JV",
+        "city": "Mountain View",
+        "org_name": "Crittenden Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1521,
+      "team": {
+        "id": 2114,
+        "number": 17492,
+        "name": "17492",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1653,
+      "team": {
+        "id": 2182,
+        "number": 18197,
+        "name": "Flashfang",
+        "city": "San Bruno",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1587,
+      "team": {
+        "id": 1647,
+        "number": 30516,
+        "name": "Cheerios FLL-C 30516",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1650,
+      "team": {
+        "id": 1994,
+        "number": 32759,
+        "name": "LEGOstangs",
+        "city": "Santa Clara",
+        "org_name": "Monticello Academy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1571,
+      "team": {
+        "id": 2000,
+        "number": 56793,
+        "name": "BCS Blue Team: Paleo-Paws",
+        "city": "Los Altos",
+        "org_name": "Bullis Charter School N"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1545,
+      "team": {
+        "id": 1692,
+        "number": 60085,
+        "name": "Lego Artisans",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1573,
+      "team": {
+        "id": 2121,
+        "number": 61692,
+        "name": "Blue Bots",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1564,
+      "team": {
+        "id": 2080,
+        "number": 67149,
+        "name": "Imagination Lab School Team",
+        "city": "Palo Alto",
+        "org_name": "ULEAP"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1622,
+      "team": {
+        "id": 2082,
+        "number": 68557,
+        "name": "M-A Cubs 1",
+        "city": "Menlo Park",
+        "org_name": "La Entrada Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1532,
+      "team": {
+        "id": 2083,
+        "number": 68558,
+        "name": "M-A Cubs 2",
+        "city": "Menlo Park",
+        "org_name": "La Entrada Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1617,
+      "team": {
+        "id": 2084,
+        "number": 68559,
+        "name": "M-A Cubs 3",
+        "city": "Menlo Park",
+        "org_name": "La Entrada Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1649,
+      "team": {
+        "id": 2085,
+        "number": 68560,
+        "name": "M-A Cubs 4",
+        "city": "Menlo Park",
+        "org_name": "La Entrada Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1605,
+      "team": {
+        "id": 2098,
+        "number": 70148,
+        "name": "TerraKnights",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1593,
+      "team": {
+        "id": 1912,
+        "number": 72044,
+        "name": "Earth Giants",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1580,
+      "team": {
+        "id": 2166,
+        "number": 72923,
+        "name": "Waffle",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

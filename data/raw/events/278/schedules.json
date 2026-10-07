@@ -1,0 +1,718 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 4506,
+        "name": "Techno Cavs",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-04-26 10:15:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-04-26 11:00:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-04-26 13:45:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-04-26 14:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-26 13:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 59922,
+        "name": "Baxter's Builders",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-26 09:15:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-04-26 11:45:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-04-26 13:15:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-04-26 15:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-26 10:45:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71984,
+        "name": "Lego Llamas",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-26 10:00:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-04-26 11:00:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-04-26 14:00:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-04-26 15:05:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-26 13:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72039,
+        "name": "FLL Folsom Challenge team",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-26 09:15:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-04-26 11:30:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-04-26 13:30:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-04-26 14:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-26 10:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72683,
+        "name": "Team Samurai",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-04-26 10:15:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-04-26 11:45:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-04-26 13:30:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-04-26 15:05:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-26 10:45:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73045,
+        "name": "Archeo Tech",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-26 09:30:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-04-26 11:15:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-04-26 13:00:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-04-26 15:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2026-04-26 13:45:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73217,
+        "name": "FLEAS: Fuzzy Little Evil Animals Squadron",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-26 10:00:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 6,
+            "start_time_display": "2026-04-26 10:45:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-04-26 13:00:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-04-26 15:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-26 11:30:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73742,
+        "name": "Sphere Scavengers",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-26 09:45:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 6,
+            "start_time_display": "2026-04-26 10:45:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-04-26 13:45:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-04-26 14:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-26 11:30:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 74935,
+        "name": "FLL-A3SI",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-26 09:30:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-04-26 11:30:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-04-26 14:00:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-04-26 14:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-26 10:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2026-04-26 10:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "72039 - FLL Folsom Challenge team",
+              "74935 - FLL-A3SI"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2026-04-26 10:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "72683 - Team Samurai",
+              "59922 - Baxter's Builders"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2026-04-26 11:30:00-07:00",
+            "length": 30,
+            "rooms": [
+              "73217 - FLEAS: Fuzzy Little Evil Animals Squadron",
+              "73742 - Sphere Scavengers"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2026-04-26 13:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "4506 - Techno Cavs",
+              "71984 - Lego Llamas"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2026-04-26 13:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "73045 - Archeo Tech",
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 1178,
+        "name": "TABLE A"
+      },
+      {
+        "id": 1179,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2026-04-26 09:15:00-07:00",
+        "length": 15,
+        "tables": [
+          "#72039 - FLL Folsom Challenge team",
+          "#59922 - Baxter's Builders"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2026-04-26 09:30:00-07:00",
+        "length": 15,
+        "tables": [
+          "#73045 - Archeo Tech",
+          "#74935 - FLL-A3SI"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2026-04-26 09:45:00-07:00",
+        "length": 15,
+        "tables": [
+          "#73742 - Sphere Scavengers",
+          ""
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2026-04-26 10:00:00-07:00",
+        "length": 15,
+        "tables": [
+          "#73217 - FLEAS: Fuzzy Little Evil Animals Squadron",
+          "#71984 - Lego Llamas"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2026-04-26 10:15:00-07:00",
+        "length": 15,
+        "tables": [
+          "#4506 - Techno Cavs",
+          "#72683 - Team Samurai"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2026-04-26 10:45:00-07:00",
+        "length": 15,
+        "tables": [
+          "#73742 - Sphere Scavengers",
+          "#73217 - FLEAS: Fuzzy Little Evil Animals Squadron"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 7,
+        "start_time": "2026-04-26 11:00:00-07:00",
+        "length": 15,
+        "tables": [
+          "#71984 - Lego Llamas",
+          "#4506 - Techno Cavs"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2026-04-26 11:15:00-07:00",
+        "length": 15,
+        "tables": [
+          "",
+          "#73045 - Archeo Tech"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2026-04-26 11:30:00-07:00",
+        "length": 15,
+        "tables": [
+          "#74935 - FLL-A3SI",
+          "#72039 - FLL Folsom Challenge team"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2026-04-26 11:45:00-07:00",
+        "length": 15,
+        "tables": [
+          "#59922 - Baxter's Builders",
+          "#72683 - Team Samurai"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2026-04-26 13:00:00-07:00",
+        "length": 15,
+        "tables": [
+          "#73045 - Archeo Tech",
+          "#73217 - FLEAS: Fuzzy Little Evil Animals Squadron"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2026-04-26 13:15:00-07:00",
+        "length": 15,
+        "tables": [
+          "",
+          "#59922 - Baxter's Builders"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2026-04-26 13:30:00-07:00",
+        "length": 15,
+        "tables": [
+          "#72683 - Team Samurai",
+          "#72039 - FLL Folsom Challenge team"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2026-04-26 13:45:00-07:00",
+        "length": 15,
+        "tables": [
+          "#4506 - Techno Cavs",
+          "#73742 - Sphere Scavengers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2026-04-26 14:00:00-07:00",
+        "length": 15,
+        "tables": [
+          "#71984 - Lego Llamas",
+          "#74935 - FLL-A3SI"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2026-04-26 14:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72039 - FLL Folsom Challenge team",
+          "#73742 - Sphere Scavengers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2026-04-26 14:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74935 - FLL-A3SI",
+          "#4506 - Techno Cavs"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2026-04-26 15:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72683 - Team Samurai",
+          "#71984 - Lego Llamas"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2026-04-26 15:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#59922 - Baxter's Builders",
+          "#73045 - Archeo Tech"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2026-04-26 15:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#73217 - FLEAS: Fuzzy Little Evil Animals Squadron",
+          ""
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2026-04-23 03:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    2209,
+    2211,
+    2218,
+    2219,
+    2220,
+    2221,
+    2222,
+    2233,
+    2234
+  ]
+}

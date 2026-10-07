@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 68861,
+      "name": "Technic Pythons",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 455,
+      "highest_display": 455,
+      "rounds": [
+        445,
+        365,
+        455
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "We're great about pointing out referee error. They felt they didn't deserve points for map reveal and explained it well. Good sports. Very polite"
+      ],
+      "rounds_sorted": [
+        455,
+        445,
+        365
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 72257,
+      "name": "Lego Benders",
+      "judging_lane_name": "RED POD 2",
+      "highest": 350,
+      "highest_display": 350,
+      "rounds": [
+        350,
+        310,
+        325
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        350,
+        325,
+        310
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 71326,
+      "name": "Lightning R7",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 310,
+      "highest_display": 310,
+      "rounds": [
+        285,
+        310,
+        270
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        310,
+        285,
+        270
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 61685,
+      "name": "Union Megatrons",
+      "judging_lane_name": "RED POD 2",
+      "highest": 310,
+      "highest_display": 310,
+      "rounds": [
+        255,
+        175,
+        310
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        310,
+        255,
+        175
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 53140,
+      "name": "Fin Finders",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 310,
+      "highest_display": 310,
+      "rounds": [
+        155,
+        165,
+        310
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "This was the issue with them saying someone else in the room activated Bluetooth and took over their robot. After we explained that it was impossible, they continued to insist The team continued to push back. The parents wanted to defy the rules and speak to me directly. They continued to push on the tournament director. It was so bad that the behavior of the parents should reflect on the team at this point. ",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        310,
+        165,
+        155
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 67841,
+      "name": "The Striker Bots",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 295,
+      "highest_display": 295,
+      "rounds": [
+        295,
+        185,
+        295
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        295,
+        295,
+        185
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 72384,
+      "name": "Kinetic Bots",
+      "judging_lane_name": "RED POD 2",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        270,
+        175,
+        215
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        215,
+        175
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 66756,
+      "name": "Cryptobots",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 265,
+      "highest_display": 265,
+      "rounds": [
+        205,
+        235,
+        265
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        265,
+        235,
+        205
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 68216,
+      "name": "Circuit Breakers",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        250,
+        260,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        250,
+        165
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 67430,
+      "name": "BayBots",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        220,
+        250,
+        235
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        235,
+        220
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 68726,
+      "name": "Daedalus Bots",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        220,
+        230,
+        240
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        230,
+        220
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 61932,
+      "name": "BCS Gold Miners",
+      "judging_lane_name": "RED POD 2",
+      "highest": 95,
+      "highest_display": 95,
+      "rounds": [
+        80,
+        95,
+        75
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "This was the issue with them saying someone else in the room activated Bluetooth and took over their robot. After we explained that it was impossible, they continued to insist. This team joined with the other running at the same time but did not push as hard",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        95,
+        80,
+        75
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

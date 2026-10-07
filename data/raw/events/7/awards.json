@@ -1,0 +1,234 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 102,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 7,
+        "team": {
+          "number": 54145,
+          "name": "G.O.A.T.S",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 103,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 7,
+        "team": {
+          "number": 54145,
+          "name": "G.O.A.T.S",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 106,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 7,
+        "team": {
+          "number": 61168,
+          "name": "Foothill 2023C",
+          "org_name": "Foothill Elementary School",
+          "org": {
+            "name": "Foothill Elementary School"
+          },
+          "city": "Saratoga",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 105,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 7,
+        "team": {
+          "number": 40997,
+          "name": "Denman Robotics",
+          "org_name": "James Denman Middle School",
+          "org": {
+            "name": "James Denman Middle School"
+          },
+          "city": "San Francisco",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 104,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 7,
+        "team": {
+          "number": 52090,
+          "name": "Canary1",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Francisco",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 108,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "Anna Utgoff",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 7,
+        "team": {
+          "number": 52090,
+          "name": "Canary1",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Francisco",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": [
+      {
+        "id": 107,
+        "award_type": {
+          "id": 6,
+          "name": "Rising All-Star Award",
+          "display_name": "Rising All-Star Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 7,
+        "team": {
+          "number": 59937,
+          "name": "Robo Mangal",
+          "org_name": "Harvey Green Elementary School",
+          "org": {
+            "name": "Harvey Green Elementary School"
+          },
+          "city": "Fremont",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ]
+  }
+}

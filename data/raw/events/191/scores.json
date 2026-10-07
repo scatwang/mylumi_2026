@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 17494,
+      "name": "17494",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 505,
+      "highest_display": 505,
+      "rounds": [
+        385,
+        425,
+        505
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Corrected me when I accidentally scored a mission they didn't do",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        505,
+        425,
+        385
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 71920,
+      "name": "RoboWizards",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 420,
+      "highest_display": 420,
+      "rounds": [
+        300,
+        290,
+        420
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Smirked at other teams failure",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        420,
+        300,
+        290
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 72540,
+      "name": "TBD123",
+      "judging_lane_name": "RED POD 2",
+      "highest": 370,
+      "highest_display": 370,
+      "rounds": [
+        360,
+        370,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "They corrected me when I gave them extra points",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        370,
+        360,
+        290
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 2847,
+      "name": "2847",
+      "judging_lane_name": "RED POD 2",
+      "highest": 335,
+      "highest_display": 335,
+      "rounds": [
+        210,
+        275,
+        335
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        335,
+        275,
+        210
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 2713,
+      "name": "CTRL-Xcavators",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 330,
+      "highest_display": 330,
+      "rounds": [
+        280,
+        330,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        330,
+        290,
+        280
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 4979,
+      "name": "4979",
+      "judging_lane_name": "RED POD 2",
+      "highest": 315,
+      "highest_display": 315,
+      "rounds": [
+        240,
+        265,
+        315
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "They were very positive and were changing in the end even when there robot stopped"
+      ],
+      "rounds_sorted": [
+        315,
+        265,
+        240
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 65801,
+      "name": "Pink Potato Chips",
+      "judging_lane_name": "RED POD 2",
+      "highest": 290,
+      "highest_display": 290,
+      "rounds": [
+        165,
+        270,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "One girl was screaming at the other, and were mean to each other even though they were doing good.",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        290,
+        270,
+        165
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 4416,
+      "name": "4416",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        265,
+        275,
+        270
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "They supported the other team and were very positive",
+        "",
+        "Cheered on the other team when they where sad"
+      ],
+      "rounds_sorted": [
+        275,
+        270,
+        265
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 53591,
+      "name": "Tiger Robotics 2",
+      "judging_lane_name": "RED POD 2",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        225,
+        215,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        225,
+        215
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 60942,
+      "name": "Excavators",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 245,
+      "highest_display": 245,
+      "rounds": [
+        195,
+        245,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "They were very mean to one team member for not performing up to their standards",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        245,
+        195,
+        195
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 74425,
+      "name": "Andromeda",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 200,
+      "highest_display": 200,
+      "rounds": [
+        190,
+        200,
+        125
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "They helped find a missing piece for other team during match",
+        ""
+      ],
+      "rounds_sorted": [
+        200,
+        190,
+        125
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 64902,
+      "name": "TBT",
+      "judging_lane_name": "RED POD 2",
+      "highest": 140,
+      "highest_display": 140,
+      "rounds": [
+        115,
+        125,
+        140
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        140,
+        125,
+        115
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

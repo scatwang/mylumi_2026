@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 1740,
+      "team": {
+        "id": 1633,
+        "number": 2713,
+        "name": "CTRL-Xcavators",
+        "city": "Mountain View",
+        "org_name": "Crittenden Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1523,
+      "team": {
+        "id": 2108,
+        "number": 2847,
+        "name": "2847",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1671,
+      "team": {
+        "id": 2110,
+        "number": 4416,
+        "name": "4416",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1543,
+      "team": {
+        "id": 2112,
+        "number": 4979,
+        "name": "4979",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1678,
+      "team": {
+        "id": 2116,
+        "number": 17494,
+        "name": "17494",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1738,
+      "team": {
+        "id": 1676,
+        "number": 53591,
+        "name": "Tiger Robotics 2",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1879,
+      "team": {
+        "id": 1706,
+        "number": 60942,
+        "name": "Excavators",
+        "city": "Palo Alto",
+        "org_name": "Jane Lathrop Stanford Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1739,
+      "team": {
+        "id": 2013,
+        "number": 64902,
+        "name": "TBT",
+        "city": "Alamo",
+        "org_name": "Tice Creek School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1561,
+      "team": {
+        "id": 1750,
+        "number": 65801,
+        "name": "Pink Potato Chips",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1737,
+      "team": {
+        "id": 1630,
+        "number": 71920,
+        "name": "RoboWizards",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1735,
+      "team": {
+        "id": 1985,
+        "number": 72540,
+        "name": "TBD123",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1734,
+      "team": {
+        "id": 2283,
+        "number": 74425,
+        "name": "Andromeda",
+        "city": "Mountain View",
+        "org_name": "Khan Lab School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

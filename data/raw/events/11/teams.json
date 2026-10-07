@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 109,
+      "team": {
+        "id": 19,
+        "number": 51095,
+        "name": "CreaTech",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 46,
+      "team": {
+        "id": 56,
+        "number": 52765,
+        "name": "Dragonoids",
+        "city": "Fremont",
+        "org_name": "Thorton Middle school"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 11,
+      "team": {
+        "id": 126,
+        "number": 56649,
+        "name": "Innovative Energizers",
+        "city": "Fremont",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 92,
+      "team": {
+        "id": 14,
+        "number": 57125,
+        "name": "Incredibuilders",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 36,
+      "team": {
+        "id": 278,
+        "number": 58668,
+        "name": "Techno Sharks Allstars",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 81,
+      "team": {
+        "id": 137,
+        "number": 59703,
+        "name": "Brick-o-Brainiacs",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 4,
+      "team": {
+        "id": 72,
+        "number": 60151,
+        "name": "Best Bees",
+        "city": "Fremont",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 8,
+      "team": {
+        "id": 27,
+        "number": 60268,
+        "name": "Lego Beats",
+        "city": "Fremont",
+        "org_name": "John M Gomes Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 42,
+      "team": {
+        "id": 257,
+        "number": 60496,
+        "name": "Alternative Force",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 14,
+      "team": {
+        "id": 104,
+        "number": 60668,
+        "name": "Legendary Builders",
+        "city": "Fremont",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 103,
+      "team": {
+        "id": 216,
+        "number": 60734,
+        "name": "Gopher Botz",
+        "city": "Fremont",
+        "org_name": "John M Gomes Elementary School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 39,
+      "team": {
+        "id": 205,
+        "number": 60967,
+        "name": "Lightening Bots",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 63,
+      "team": {
+        "id": 269,
+        "number": 61603,
+        "name": "Wrecker Jaw",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 29,
+      "team": {
+        "id": 271,
+        "number": 61605,
+        "name": "Smash Clan",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 30,
+      "team": {
+        "id": 136,
+        "number": 61713,
+        "name": "brick-o-brainiacs wizards",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 37,
+      "team": {
+        "id": 346,
+        "number": 61717,
+        "name": "Robo Titans",
+        "city": "Fremont",
+        "org_name": "John M Gomes Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 54,
+      "team": {
+        "id": 82,
+        "number": 61998,
+        "name": "TechTitans",
+        "city": "Fremont",
+        "org_name": "John M Horner Jr High School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 53,
+      "team": {
+        "id": 204,
+        "number": 62079,
+        "name": "San Ramon Thunders",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

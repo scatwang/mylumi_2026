@@ -1,0 +1,293 @@
+{
+  "count": 24,
+  "results": [
+    {
+      "id": 185,
+      "team": {
+        "id": 234,
+        "number": 2848,
+        "name": "S.H.R.E.K.",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 15,
+      "team": {
+        "id": 86,
+        "number": 5254,
+        "name": "Golden Surfers",
+        "city": "East Palo Alto",
+        "org_name": "Aspire East Palo Alto Charter School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 196,
+      "team": {
+        "id": 102,
+        "number": 7434,
+        "name": "Pikachu Power Plant",
+        "city": "San Bruno",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 266,
+      "team": {
+        "id": 110,
+        "number": 37486,
+        "name": "Cyber Kings",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 177,
+      "team": {
+        "id": 196,
+        "number": 51047,
+        "name": "NETHER BOTS 20",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 193,
+      "team": {
+        "id": 228,
+        "number": 51168,
+        "name": "The Warriors",
+        "city": "Rancho Cordova",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 237,
+      "team": {
+        "id": 101,
+        "number": 52306,
+        "name": "Infinite AI",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 64,
+      "team": {
+        "id": 21,
+        "number": 52481,
+        "name": "Vision",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 212,
+      "team": {
+        "id": 50,
+        "number": 52522,
+        "name": "Coding-Arsenals",
+        "city": "San Ramon",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 146,
+      "team": {
+        "id": 6,
+        "number": 56339,
+        "name": "Electric Sources",
+        "city": "FREMONT",
+        "org_name": "William Hopkins Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 154,
+      "team": {
+        "id": 157,
+        "number": 56747,
+        "name": "MillikinBots",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 199,
+      "team": {
+        "id": 7,
+        "number": 58305,
+        "name": "RoboWarriors",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 119,
+      "team": {
+        "id": 81,
+        "number": 60291,
+        "name": "Lightning Lego Legends",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 277,
+      "team": {
+        "id": 131,
+        "number": 60433,
+        "name": "Dragon Monkeys",
+        "city": "Santa Clara",
+        "org_name": "St Lawrence Elem & Middle Sch"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 191,
+      "team": {
+        "id": 46,
+        "number": 60502,
+        "name": "Codebreakerz",
+        "city": "San Ramon",
+        "org_name": "Newagecoders"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 38,
+      "team": {
+        "id": 48,
+        "number": 60533,
+        "name": "Artify",
+        "city": "San Ramon",
+        "org_name": "Newagecoders"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 76,
+      "team": {
+        "id": 262,
+        "number": 60684,
+        "name": "TheArcticPack",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 249,
+      "team": {
+        "id": 305,
+        "number": 60727,
+        "name": "Cyber Soldiers",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 197,
+      "team": {
+        "id": 118,
+        "number": 60787,
+        "name": "Shelby",
+        "city": "Saratoga",
+        "org_name": "Saratoga Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 35,
+      "team": {
+        "id": 263,
+        "number": 61597,
+        "name": "Split Bot",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 232,
+      "team": {
+        "id": 168,
+        "number": 61708,
+        "name": "Squirtle",
+        "city": "Saratoga",
+        "org_name": "Saratoga Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 278,
+      "team": {
+        "id": 132,
+        "number": 61769,
+        "name": "Flaming Phoenixes",
+        "city": "Santa Clara",
+        "org_name": "St Lawrence Elem & Middle Sch"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 195,
+      "team": {
+        "id": 109,
+        "number": 61949,
+        "name": "ULTRAVIOLET",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 282,
+      "team": {
+        "id": 348,
+        "number": 62308,
+        "name": "Funky Potatoes",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

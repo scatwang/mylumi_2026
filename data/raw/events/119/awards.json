@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 511,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 119,
+        "team": {
+          "number": 67086,
+          "name": "Any Fling",
+          "org_name": "Harker",
+          "org": {
+            "name": "Harker"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 512,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 119,
+        "team": {
+          "number": 66438,
+          "name": "Fearsome 5",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "FOLSOM",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 514,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 119,
+        "team": {
+          "number": 66816,
+          "name": "Seven Seas",
+          "org_name": "Herbert Hoover Elementary",
+          "org": {
+            "name": "Herbert Hoover Elementary"
+          },
+          "city": "Palo Alto",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 515,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 119,
+        "team": {
+          "number": 65572,
+          "name": "Lego Llamas",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Folsom",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 513,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 119,
+        "team": {
+          "number": 65321,
+          "name": "DCADS - Astro Cubs",
+          "org_name": "Don Callejon Arts and Design School",
+          "org": {
+            "name": "Don Callejon Arts and Design School"
+          },
+          "city": "Santa Clara",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 518,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 119,
+        "team": {
+          "number": 70238,
+          "name": "Trapped in Union City",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Union City",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": [
+      {
+        "id": 517,
+        "award_type": {
+          "id": 6,
+          "name": "Rising All-Star Award",
+          "display_name": "Rising All-Star Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 119,
+        "team": {
+          "number": 69207,
+          "name": "Depth",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 516,
+        "award_type": {
+          "id": 55,
+          "name": "Motivate Award",
+          "display_name": "Motivate Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 119,
+        "team": {
+          "number": 65320,
+          "name": "DCADS - Cyber Cubs",
+          "org_name": "Don Callejon Arts and Design School",
+          "org": {
+            "name": "Don Callejon Arts and Design School"
+          },
+          "city": "Santa Clara",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ]
+  }
+}

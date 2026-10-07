@@ -1,0 +1,407 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 65258,
+      "name": "CrypticButterflies",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 335,
+      "highest_display": 335,
+      "rounds": [
+        335,
+        295,
+        240
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        335,
+        295,
+        240
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 60100,
+      "name": "Cobras",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 310,
+      "highest_display": 310,
+      "rounds": [
+        225,
+        145,
+        310
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        310,
+        225,
+        145
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 65770,
+      "name": "CoralCrew",
+      "judging_lane_name": "RED POD 2",
+      "highest": 295,
+      "highest_display": 295,
+      "rounds": [
+        240,
+        245,
+        295
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        295,
+        245,
+        240
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 67395,
+      "name": "Marine Mavericks",
+      "judging_lane_name": "RED POD 2",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        275,
+        245,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        260,
+        245
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 67865,
+      "name": "HydroHackers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 255,
+      "highest_display": 255,
+      "rounds": [
+        175,
+        225,
+        255
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        255,
+        225,
+        175
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 55971,
+      "name": "Electroid Marines",
+      "judging_lane_name": "RED POD 2",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        200,
+        235,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        235,
+        200
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 61950,
+      "name": "Codettes",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        235,
+        185,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        185,
+        170
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 67213,
+      "name": "Naji M Abdulla",
+      "judging_lane_name": "RED POD 2",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        210,
+        200,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        200,
+        160
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 52489,
+      "name": "Flaming Jalapenos",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        135,
+        185,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        185,
+        135
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 66795,
+      "name": "Dilworth-Dragons",
+      "judging_lane_name": "RED POD 2",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        200,
+        205,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        200,
+        165
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 38159,
+      "name": "Otterly Awesome",
+      "judging_lane_name": "RED POD 2",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        145,
+        85,
+        205
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        145,
+        85
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 61778,
+      "name": "Crab Surfers",
+      "judging_lane_name": "RED POD 2",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        165,
+        125,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        165,
+        125
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 61185,
+      "name": "Electrolyte Stingers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        185,
+        110,
+        140
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        140,
+        110
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 61055,
+      "name": "Robotic Athletes",
+      "judging_lane_name": "RED POD 2",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        60,
+        170,
+        125
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        170,
+        125,
+        60
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 67736,
+      "name": "Robo Pro Max",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        145,
+        160,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        145,
+        135
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 65848,
+      "name": "Cougars Techwiz",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 145,
+      "highest_display": 145,
+      "rounds": [
+        145,
+        85,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        145,
+        115,
+        85
+      ],
+      "ordinal": "16th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

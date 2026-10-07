@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 2202,
+      "team": {
+        "id": 1908,
+        "number": 31740,
+        "name": "Yetibots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2199,
+      "team": {
+        "id": 2404,
+        "number": 34049,
+        "name": "Mini Minds",
+        "city": "Fremont",
+        "org_name": "New Horizons School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2230,
+      "team": {
+        "id": 2045,
+        "number": 34451,
+        "name": "Galileo's Mind Set",
+        "city": "San Francisco",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2197,
+      "team": {
+        "id": 2286,
+        "number": 34554,
+        "name": "Fighting Irish Explorers",
+        "city": "San Francisco",
+        "org_name": "St Cecilia School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2205,
+      "team": {
+        "id": 2086,
+        "number": 34637,
+        "name": "Panda Bots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2203,
+      "team": {
+        "id": 2132,
+        "number": 34981,
+        "name": "RAK2",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2204,
+      "team": {
+        "id": 2174,
+        "number": 35045,
+        "name": "RAK5",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2198,
+      "team": {
+        "id": 2380,
+        "number": 35530,
+        "name": "History Hackers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2201,
+      "team": {
+        "id": 2370,
+        "number": 35612,
+        "name": "LegoPups2025",
+        "city": "Los Altos",
+        "org_name": "Bullis Charter School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2227,
+      "team": {
+        "id": 2412,
+        "number": 35702,
+        "name": "Gearonauts",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2200,
+      "team": {
+        "id": 2447,
+        "number": 36120,
+        "name": "Lego Gadget gang",
+        "city": "San Jose",
+        "org_name": "Evergreen Elementary, Silver Oak Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2229,
+      "team": {
+        "id": 2484,
+        "number": 36147,
+        "name": "RoboCrushers",
+        "city": "Union City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

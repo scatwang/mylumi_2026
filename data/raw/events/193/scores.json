@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 60033,
+      "name": "Pokémon ",
+      "judging_lane_name": "RED POD 2",
+      "highest": 300,
+      "highest_display": 300,
+      "rounds": [
+        300,
+        260,
+        245
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        300,
+        260,
+        245
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 66764,
+      "name": "Celsius and Beyond ",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 290,
+      "highest_display": 290,
+      "rounds": [
+        290,
+        200,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Great team chant and enthusiasm."
+      ],
+      "rounds_sorted": [
+        290,
+        200,
+        155
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 66785,
+      "name": "Orange,Peach",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 265,
+      "highest_display": 265,
+      "rounds": [
+        215,
+        260,
+        265
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        265,
+        260,
+        215
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 66816,
+      "name": "Six Stars",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 255,
+      "highest_display": 255,
+      "rounds": [
+        225,
+        185,
+        255
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        255,
+        225,
+        185
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 73528,
+      "name": "Zap Squad",
+      "judging_lane_name": "RED POD 2",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        230,
+        220,
+        240
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        230,
+        220
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 73526,
+      "name": "Evergreen Mangoes",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        185,
+        210,
+        230
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Outstanding teamwork and enthusiasm. Unique team cheer and poster to encourage technicians.",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        210,
+        185
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 74260,
+      "name": "Brickaneers",
+      "judging_lane_name": "RED POD 2",
+      "highest": 190,
+      "highest_display": 190,
+      "rounds": [
+        145,
+        165,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        190,
+        165,
+        145
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 61017,
+      "name": "Mecha Lions FLL B",
+      "judging_lane_name": "RED POD 2",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        160,
+        105,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        160,
+        105
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 66078,
+      "name": "Pleasanton Explorers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        115,
+        155,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        155,
+        115
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 73527,
+      "name": "EV Lutions",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 145,
+      "highest_display": 145,
+      "rounds": [
+        85,
+        145,
+        125
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        145,
+        125,
+        85
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 61016,
+      "name": "Mecha Lions FLL A",
+      "judging_lane_name": "RED POD 2",
+      "highest": 135,
+      "highest_display": 135,
+      "rounds": [
+        125,
+        135,
+        120
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        135,
+        125,
+        120
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 73529,
+      "name": "K-Pop LEGO Hunters",
+      "judging_lane_name": "RED POD 2",
+      "highest": 115,
+      "highest_display": 115,
+      "rounds": [
+        80,
+        75,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        115,
+        80,
+        75
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

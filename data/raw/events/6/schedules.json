@@ -1,0 +1,920 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 10586,
+        "name": "Da Vinci",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2023-11-11 09:30:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2023-11-11 12:05:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2023-11-11 14:00:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2023-11-11 15:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2023-11-11 11:05:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 37485,
+        "name": "Morrison-Fisher",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-11 09:45:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2023-11-11 10:50:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2023-11-11 14:15:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2023-11-11 15:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-11 13:10:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 44530,
+        "name": "Platinum Programmers",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2023-11-11 09:30:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2023-11-11 11:35:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2023-11-11 13:45:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2023-11-11 15:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-11 10:25:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 44533,
+        "name": "Piedmont 44533",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-11 09:00:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2023-11-11 11:35:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2023-11-11 13:30:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2023-11-11 14:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-11 09:45:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 51197,
+        "name": "Jumping Jelly Beans",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-11 10:00:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2023-11-11 11:05:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2023-11-11 14:15:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2023-11-11 15:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-11 13:10:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52397,
+        "name": "Invalid Syntax",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2023-11-11 10:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2023-11-11 10:50:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2023-11-11 13:00:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2023-11-11 15:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-11 13:50:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52502,
+        "name": "Unicorn Sparkles",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-11 09:45:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2023-11-11 11:05:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2023-11-11 13:15:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2023-11-11 15:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2023-11-11 14:30:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52508,
+        "name": "Short Circuits",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2023-11-11 10:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2023-11-11 11:20:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2023-11-11 13:15:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2023-11-11 15:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2023-11-11 14:30:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52943,
+        "name": "Digital Dolphins",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-11 09:15:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2023-11-11 12:05:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2023-11-11 13:45:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2023-11-11 14:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-11 10:25:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52944,
+        "name": "Digital Dolphins- White Team",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-11 09:00:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2023-11-11 11:50:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2023-11-11 14:00:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2023-11-11 15:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2023-11-11 11:05:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 57759,
+        "name": "Digital Dolphins- Grey Team",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-11 09:15:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2023-11-11 11:50:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2023-11-11 13:30:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2023-11-11 15:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-11 09:45:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60913,
+        "name": "Basement Bots",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-11 10:00:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2023-11-11 11:20:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2023-11-11 13:00:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2023-11-11 15:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-11 13:50:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "Yellow Pod 1"
+          },
+          {
+            "name": "Red Pod 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2023-11-11 09:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "44533 - Piedmont 44533",
+              "57759 - Digital Dolphins- Grey Team"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2023-11-11 10:25:00-08:00",
+            "length": 30,
+            "rooms": [
+              "44530 - Platinum Programmers",
+              "52943 - Digital Dolphins"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2023-11-11 11:05:00-08:00",
+            "length": 30,
+            "rooms": [
+              "10586 - Da Vinci",
+              "52944 - Digital Dolphins- White Team"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2023-11-11 13:10:00-08:00",
+            "length": 30,
+            "rooms": [
+              "37485 - Morrison-Fisher",
+              "51197 - Jumping Jelly Beans"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2023-11-11 13:50:00-08:00",
+            "length": 30,
+            "rooms": [
+              "52397 - Invalid Syntax",
+              "60913 - Basement Bots"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2023-11-11 14:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "52508 - Short Circuits",
+              "52502 - Unicorn Sparkles"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 235,
+        "name": "Red Table"
+      },
+      {
+        "id": 236,
+        "name": "Blue Table"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2023-11-11 09:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#44533 - Piedmont 44533",
+          "#52944 - Digital Dolphins- White Team"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2023-11-11 09:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#52943 - Digital Dolphins",
+          "#57759 - Digital Dolphins- Grey Team"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2023-11-11 09:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#10586 - Da Vinci",
+          "#44530 - Platinum Programmers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2023-11-11 09:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#37485 - Morrison-Fisher",
+          "#52502 - Unicorn Sparkles"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2023-11-11 10:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60913 - Basement Bots",
+          "#51197 - Jumping Jelly Beans"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2023-11-11 10:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52508 - Short Circuits",
+          "#52397 - Invalid Syntax"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2023-11-11 10:25:00-08:00",
+        "length": 25,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2023-11-11 10:50:00-08:00",
+        "length": 15,
+        "tables": [
+          "#52397 - Invalid Syntax",
+          "#37485 - Morrison-Fisher"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2023-11-11 11:05:00-08:00",
+        "length": 15,
+        "tables": [
+          "#52502 - Unicorn Sparkles",
+          "#51197 - Jumping Jelly Beans"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2023-11-11 11:20:00-08:00",
+        "length": 15,
+        "tables": [
+          "#52508 - Short Circuits",
+          "#60913 - Basement Bots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2023-11-11 11:35:00-08:00",
+        "length": 15,
+        "tables": [
+          "#44530 - Platinum Programmers",
+          "#44533 - Piedmont 44533"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2023-11-11 11:50:00-08:00",
+        "length": 15,
+        "tables": [
+          "#52944 - Digital Dolphins- White Team",
+          "#57759 - Digital Dolphins- Grey Team"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2023-11-11 12:05:00-08:00",
+        "length": 15,
+        "tables": [
+          "#10586 - Da Vinci",
+          "#52943 - Digital Dolphins"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2023-11-11 12:20:00-08:00",
+        "length": 40,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2023-11-11 13:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60913 - Basement Bots",
+          "#52397 - Invalid Syntax"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2023-11-11 13:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#52502 - Unicorn Sparkles",
+          "#52508 - Short Circuits"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2023-11-11 13:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#57759 - Digital Dolphins- Grey Team",
+          "#44533 - Piedmont 44533"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2023-11-11 13:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#52943 - Digital Dolphins",
+          "#44530 - Platinum Programmers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2023-11-11 14:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#52944 - Digital Dolphins- White Team",
+          "#10586 - Da Vinci"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2023-11-11 14:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#51197 - Jumping Jelly Beans",
+          "#37485 - Morrison-Fisher"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2023-11-11 14:30:00-08:00",
+        "length": 20,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2023-11-11 14:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#44533 - Piedmont 44533",
+          "#52943 - Digital Dolphins"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2023-11-11 15:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#57759 - Digital Dolphins- Grey Team",
+          "#10586 - Da Vinci"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2023-11-11 15:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#44530 - Platinum Programmers",
+          "#52944 - Digital Dolphins- White Team"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2023-11-11 15:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#37485 - Morrison-Fisher",
+          "#60913 - Basement Bots"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2023-11-11 15:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#51197 - Jumping Jelly Beans",
+          "#52508 - Short Circuits"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2023-11-11 15:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52397 - Invalid Syntax",
+          "#52502 - Unicorn Sparkles"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2023-10-30 15:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": []
+}

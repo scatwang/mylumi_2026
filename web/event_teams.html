@@ -1,0 +1,2242 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NorCal FLL BIOGLOW 2026 · 每场比赛参赛队伍竞技与合规全景分析</title>
+  
+  <!-- Modern Typography from Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <script src="auth.js"></script>
+
+  <style>
+    :root {
+      --bg-base: #060810;
+      --bg-surface: rgba(18, 24, 42, 0.75);
+      --bg-surface-hover: rgba(26, 34, 60, 0.85);
+      --border-subtle: rgba(0, 242, 254, 0.15);
+      --border-strong: rgba(0, 242, 254, 0.35);
+
+      --cyan-neon: #00f2fe;
+      --cyan-glow: rgba(0, 242, 254, 0.35);
+      --purple-neon: #a855f7;
+      --purple-glow: rgba(168, 85, 247, 0.35);
+      --emerald-neon: #10b981;
+      --emerald-glow: rgba(16, 185, 129, 0.35);
+      --amber-neon: #f59e0b;
+      --amber-glow: rgba(245, 158, 11, 0.35);
+      --rose-neon: #f43f5e;
+      --rose-glow: rgba(244, 63, 94, 0.35);
+      --blue-neon: #3b82f6;
+
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --text-dim: #64748b;
+
+      --font-heading: 'Outfit', sans-serif;
+      --font-body: 'Inter', sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+
+      --transition-fast: 0.15s ease;
+      --transition-normal: 0.25s ease;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-base);
+      color: var(--text-main);
+      font-family: var(--font-body);
+      min-height: 100vh;
+      overflow-x: hidden;
+      line-height: 1.5;
+      background-image: 
+        radial-gradient(circle at 10% 20%, rgba(0, 242, 254, 0.05) 0%, transparent 40%),
+        radial-gradient(circle at 90% 80%, rgba(168, 85, 247, 0.05) 0%, transparent 40%);
+      background-attachment: fixed;
+    }
+
+    /* Ambient Glow Orbs */
+    .glow-orb {
+      position: fixed;
+      border-radius: 50%;
+      filter: blur(140px);
+      pointer-events: none;
+      z-index: 0;
+    }
+    .orb-1 {
+      top: -100px;
+      left: 15%;
+      width: 450px;
+      height: 450px;
+      background: rgba(0, 242, 254, 0.08);
+    }
+    .orb-2 {
+      bottom: -150px;
+      right: 10%;
+      width: 550px;
+      height: 550px;
+      background: rgba(168, 85, 247, 0.08);
+    }
+
+    /* App Header */
+    .app-header {
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      backdrop-filter: blur(16px);
+      background: rgba(6, 8, 16, 0.85);
+      border-bottom: 1px solid var(--border-subtle);
+      padding: 14px 28px;
+    }
+    .header-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+    .logo-badge {
+      background: linear-gradient(135deg, var(--cyan-neon), var(--purple-neon));
+      color: #060810;
+      font-family: var(--font-heading);
+      font-weight: 800;
+      font-size: 1.25rem;
+      padding: 6px 12px;
+      border-radius: 8px;
+      box-shadow: 0 0 20px var(--cyan-glow);
+      letter-spacing: -0.5px;
+    }
+    .title-group h1 {
+      font-family: var(--font-heading);
+      font-size: 1.35rem;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+      background: linear-gradient(to right, #fff, var(--text-muted));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .title-group .subtitle {
+      font-size: 0.82rem;
+      color: var(--text-dim);
+    }
+
+    /* Navigation Tabs */
+    .nav-tabs {
+      display: flex;
+      gap: 8px;
+      background: rgba(18, 24, 42, 0.6);
+      padding: 4px;
+      border-radius: 10px;
+      border: 1px solid var(--border-subtle);
+    }
+    .nav-link {
+      padding: 8px 16px;
+      border-radius: 6px;
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 0.86rem;
+      font-weight: 500;
+      transition: all var(--transition-fast);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .nav-link:hover {
+      color: var(--text-main);
+      background: rgba(255, 255, 255, 0.05);
+    }
+    .nav-link.active {
+      background: rgba(0, 242, 254, 0.15);
+      color: var(--cyan-neon);
+      border: 1px solid rgba(0, 242, 254, 0.35);
+      box-shadow: 0 0 14px var(--cyan-glow);
+    }
+
+    .header-season-tag {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--cyan-neon);
+      background: rgba(0, 242, 254, 0.1);
+      padding: 5px 12px;
+      border-radius: 20px;
+      border: 1px solid rgba(0, 242, 254, 0.3);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .live-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--cyan-neon);
+      box-shadow: 0 0 8px var(--cyan-neon);
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(1.3); }
+    }
+
+    /* Main Container */
+    .app-main {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 24px 28px 80px;
+      position: relative;
+      z-index: 1;
+    }
+
+    /* Event Selector Bar */
+    .event-switcher-panel {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      backdrop-filter: blur(12px);
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+    }
+    .switcher-top-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+    }
+    .switcher-label {
+      font-family: var(--font-heading);
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: var(--cyan-neon);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .event-dropdown-select {
+      background: rgba(18, 24, 42, 0.95);
+      border: 1px solid var(--border-strong);
+      color: var(--text-main);
+      padding: 9px 16px;
+      border-radius: 8px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      outline: none;
+      min-width: 380px;
+      cursor: pointer;
+      box-shadow: 0 0 12px rgba(0, 242, 254, 0.15);
+      transition: all var(--transition-fast);
+    }
+    .event-dropdown-select:hover, .event-dropdown-select:focus {
+      border-color: var(--cyan-neon);
+      box-shadow: 0 0 18px var(--cyan-glow);
+    }
+
+    /* Horizontal Pills Bar */
+    .pills-scroll-container {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+      scrollbar-width: thin;
+      scrollbar-color: rgba(0, 242, 254, 0.3) transparent;
+    }
+    .pills-scroll-container::-webkit-scrollbar {
+      height: 4px;
+    }
+    .pills-scroll-container::-webkit-scrollbar-thumb {
+      background: rgba(0, 242, 254, 0.3);
+      border-radius: 2px;
+    }
+    .event-pill {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      color: var(--text-muted);
+      padding: 6px 12px;
+      border-radius: 8px;
+      font-size: 0.8rem;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: all var(--transition-fast);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .event-pill:hover {
+      background: rgba(0, 242, 254, 0.08);
+      color: var(--text-main);
+      border-color: rgba(0, 242, 254, 0.25);
+    }
+    .event-pill.active {
+      background: rgba(0, 242, 254, 0.18);
+      color: var(--cyan-neon);
+      border-color: var(--cyan-neon);
+      box-shadow: 0 0 12px var(--cyan-glow);
+      font-weight: 600;
+    }
+    .pill-badge {
+      font-size: 0.72rem;
+      padding: 1px 5px;
+      border-radius: 4px;
+      font-family: var(--font-mono);
+      font-weight: 700;
+    }
+    .pill-badge.full {
+      background: rgba(244, 63, 94, 0.2);
+      color: #fb7185;
+      border: 1px solid rgba(244, 63, 94, 0.4);
+    }
+    .pill-badge.high {
+      background: rgba(245, 158, 11, 0.2);
+      color: #fbbf24;
+      border: 1px solid rgba(245, 158, 11, 0.4);
+    }
+    .pill-badge.normal {
+      background: rgba(16, 185, 129, 0.2);
+      color: #6ee7b7;
+      border: 1px solid rgba(16, 185, 129, 0.4);
+    }
+
+    /* Event Banner Hero */
+    .event-hero-banner {
+      background: linear-gradient(135deg, rgba(18, 24, 42, 0.9), rgba(26, 34, 60, 0.75));
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      padding: 24px 28px;
+      margin-bottom: 24px;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+    }
+    .event-hero-banner::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 300px;
+      height: 100%;
+      background: radial-gradient(circle at right center, rgba(0, 242, 254, 0.08) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .hero-meta-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .hero-title-group h2 {
+      font-family: var(--font-heading);
+      font-size: 1.6rem;
+      font-weight: 700;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .event-id-badge {
+      font-family: var(--font-mono);
+      font-size: 0.95rem;
+      background: rgba(0, 242, 254, 0.15);
+      color: var(--cyan-neon);
+      border: 1px solid rgba(0, 242, 254, 0.4);
+      padding: 3px 10px;
+      border-radius: 6px;
+      box-shadow: 0 0 10px var(--cyan-glow);
+    }
+    .hero-sub-details {
+      display: flex;
+      gap: 18px;
+      margin-top: 10px;
+      font-size: 0.88rem;
+      color: var(--text-muted);
+      flex-wrap: wrap;
+    }
+    .hero-sub-details span {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .hero-sub-details strong {
+      color: var(--text-main);
+    }
+
+    /* KPI Row */
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 16px;
+      margin-bottom: 24px;
+    }
+    .kpi-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: 12px;
+      padding: 18px 20px;
+      backdrop-filter: blur(8px);
+      transition: all var(--transition-normal);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .kpi-card:hover {
+      border-color: var(--border-strong);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+    }
+    .kpi-card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.82rem;
+      color: var(--text-dim);
+      margin-bottom: 8px;
+    }
+    .kpi-value-lg {
+      font-family: var(--font-heading);
+      font-size: 1.85rem;
+      font-weight: 700;
+      color: var(--text-main);
+      display: flex;
+      align-items: baseline;
+      gap: 6px;
+    }
+    .kpi-subtext {
+      font-size: 0.76rem;
+      color: var(--text-muted);
+      margin-top: 6px;
+    }
+
+    /* Progress Fill Bar inside KPI */
+    .kpi-progress-bar {
+      height: 6px;
+      background: rgba(255, 255, 255, 0.08);
+      border-radius: 3px;
+      overflow: hidden;
+      margin-top: 10px;
+    }
+    .kpi-progress-fill {
+      height: 100%;
+      border-radius: 3px;
+      transition: width 0.5s ease;
+    }
+
+    /* Visual Panels Grid */
+    .panels-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(360px, 1fr));
+      gap: 20px;
+      margin-bottom: 28px;
+    }
+    .panel-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: 12px;
+      padding: 20px 22px;
+      backdrop-filter: blur(8px);
+    }
+    .panel-title {
+      font-family: var(--font-heading);
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 16px;
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .bar-row {
+      margin-bottom: 12px;
+    }
+    .bar-label-group {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.82rem;
+      margin-bottom: 4px;
+    }
+    .bar-track {
+      height: 8px;
+      background: rgba(255, 255, 255, 0.06);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    .bar-fill {
+      height: 100%;
+      border-radius: 4px;
+      transition: width 0.4s ease;
+    }
+
+    /* Colors */
+    .bg-cyan { background: var(--cyan-neon); box-shadow: 0 0 10px var(--cyan-glow); }
+    .bg-emerald { background: var(--emerald-neon); box-shadow: 0 0 10px var(--emerald-glow); }
+    .bg-amber { background: var(--amber-neon); box-shadow: 0 0 10px var(--amber-glow); }
+    .bg-purple { background: var(--purple-neon); box-shadow: 0 0 10px var(--purple-glow); }
+    .bg-rose { background: var(--rose-neon); box-shadow: 0 0 10px var(--rose-glow); }
+    .bg-blue { background: var(--blue-neon); }
+
+    /* Controls Bar */
+    .table-section {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      overflow: hidden;
+      box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+    }
+    .table-controls-bar {
+      padding: 18px 22px;
+      border-bottom: 1px solid var(--border-subtle);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .search-box {
+      position: relative;
+      flex: 1;
+      min-width: 280px;
+      max-width: 480px;
+    }
+    .search-input {
+      width: 100%;
+      background: rgba(18, 24, 42, 0.8);
+      border: 1px solid var(--border-subtle);
+      border-radius: 8px;
+      padding: 9px 14px 9px 36px;
+      color: var(--text-main);
+      font-size: 0.88rem;
+      outline: none;
+      transition: all var(--transition-fast);
+    }
+    .search-input:focus {
+      border-color: var(--cyan-neon);
+      box-shadow: 0 0 14px var(--cyan-glow);
+    }
+    .search-icon {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-dim);
+      font-size: 0.88rem;
+    }
+    .filter-pills-group {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    .btn-filter-toggle {
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      color: var(--text-muted);
+      padding: 7px 14px;
+      border-radius: 8px;
+      font-size: 0.82rem;
+      cursor: pointer;
+      font-weight: 500;
+      transition: all var(--transition-fast);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .btn-filter-toggle:hover {
+      color: var(--text-main);
+      background: rgba(255, 255, 255, 0.08);
+    }
+    .btn-filter-toggle.active {
+      background: rgba(0, 242, 254, 0.15);
+      border-color: var(--cyan-neon);
+      color: var(--cyan-neon);
+      box-shadow: 0 0 12px var(--cyan-glow);
+    }
+    .filter-select {
+      background: rgba(18, 24, 42, 0.9);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-main);
+      padding: 7px 12px;
+      border-radius: 8px;
+      font-size: 0.82rem;
+      outline: none;
+      cursor: pointer;
+    }
+
+    /* Teams Table */
+    .table-container {
+      overflow-x: auto;
+    }
+    .teams-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.86rem;
+      text-align: left;
+    }
+    .teams-table th {
+      background: rgba(18, 24, 42, 0.95);
+      color: var(--text-muted);
+      font-weight: 600;
+      padding: 13px 16px;
+      border-bottom: 1px solid var(--border-subtle);
+      white-space: nowrap;
+    }
+    .teams-table th.sortable {
+      cursor: pointer;
+      user-select: none;
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .teams-table th.sortable:hover {
+      background: rgba(0, 242, 254, 0.08);
+      color: var(--cyan-neon);
+    }
+    .teams-table th.sortable.active-sort {
+      color: var(--cyan-neon);
+      background: rgba(0, 242, 254, 0.12);
+      border-bottom: 2px solid var(--cyan-neon);
+    }
+    .sort-icon {
+      display: inline-block;
+      margin-left: 4px;
+      font-size: 0.72rem;
+      color: var(--text-dim);
+      transition: all 0.2s ease;
+      vertical-align: middle;
+    }
+    .teams-table th.sortable.active-sort .sort-icon {
+      color: var(--cyan-neon);
+      font-weight: 800;
+    }
+    .teams-table td {
+      padding: 12px 16px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+      color: var(--text-main);
+      vertical-align: middle;
+    }
+    .teams-table tr:hover td {
+      background: rgba(255, 255, 255, 0.025);
+    }
+
+    /* Badges & Cell Components */
+    .team-num-badge {
+      font-family: var(--font-mono);
+      font-weight: 700;
+      color: var(--cyan-neon);
+      background: rgba(0, 242, 254, 0.1);
+      padding: 2px 7px;
+      border-radius: 4px;
+      display: inline-block;
+    }
+    .team-name-cell {
+      font-weight: 600;
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .team-past-name-sub {
+      font-size: 0.72rem;
+      color: #94a3b8;
+      margin-top: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 220px;
+    }
+    .team-org-sub {
+      font-size: 0.76rem;
+      color: var(--text-dim);
+      margin-top: 2px;
+    }
+    .btn-history-detail {
+      background: rgba(0, 242, 254, 0.08);
+      border: 1px solid rgba(0, 242, 254, 0.3);
+      color: var(--cyan-neon);
+      font-size: 0.7rem;
+      padding: 2px 6px;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+    }
+    .btn-history-detail:hover {
+      background: var(--cyan-neon);
+      color: #0a0d17;
+      box-shadow: 0 0 10px var(--cyan-glow);
+    }
+
+    /* Badge Types */
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 2px 7px;
+      border-radius: 4px;
+      font-size: 0.74rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .badge-good { background: rgba(16, 185, 129, 0.15); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.35); }
+    .badge-warn { background: rgba(245, 158, 11, 0.15); color: #fde047; border: 1px solid rgba(245, 158, 11, 0.35); }
+    .badge-danger { background: rgba(244, 63, 94, 0.15); color: #fda4af; border: 1px solid rgba(244, 63, 94, 0.35); }
+    .badge-info { background: rgba(56, 189, 248, 0.15); color: #7dd3fc; border: 1px solid rgba(56, 189, 248, 0.35); }
+
+    .badge-veteran { background: linear-gradient(135deg, rgba(168, 85, 247, 0.25), rgba(236, 72, 153, 0.25)); color: #f472b6; border: 1px solid rgba(236, 72, 153, 0.45); font-weight: 700; box-shadow: 0 0 10px rgba(236, 72, 153, 0.2); }
+    .badge-experienced { background: rgba(0, 242, 254, 0.15); color: var(--cyan-neon); border: 1px solid rgba(0, 242, 254, 0.35); }
+    .badge-rookie { background: rgba(148, 163, 184, 0.1); color: #cbd5e1; border: 1px solid rgba(148, 163, 184, 0.25); }
+
+    .badge-score-elite { background: linear-gradient(135deg, rgba(245, 158, 11, 0.25), rgba(234, 179, 8, 0.3)); color: #fef08a; border: 1px solid rgba(250, 204, 21, 0.55); font-weight: 700; box-shadow: 0 0 10px rgba(234, 179, 8, 0.3); }
+    .badge-score-high { background: rgba(56, 189, 248, 0.15); color: #7dd3fc; border: 1px solid rgba(56, 189, 248, 0.35); font-weight: 600; }
+    .badge-score-mid { background: rgba(16, 185, 129, 0.12); color: #6ee7b7; border: 1px solid rgba(16, 185, 129, 0.3); }
+
+    .badge-adv-cnt { background: rgba(6, 182, 212, 0.15); color: #22d3ee; border: 1px solid rgba(6, 182, 212, 0.35); font-weight: 600; }
+    .badge-award-cnt { background: rgba(245, 158, 11, 0.18); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.45); font-weight: 600; }
+
+    /* Season Columns in Table */
+    .season-cell {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+      min-width: 140px;
+    }
+    .season-row {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 0.74rem;
+      white-space: nowrap;
+    }
+    .event-type-tag {
+      font-size: 0.64rem;
+      font-weight: 700;
+      padding: 1px 4px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+      min-width: 44px;
+      text-align: center;
+      display: inline-block;
+    }
+    .event-type-tag.qt { background: rgba(0, 242, 254, 0.12); color: #38bdf8; border: 1px solid rgba(0, 242, 254, 0.3); }
+    .event-type-tag.champ { background: rgba(168, 85, 247, 0.15); color: #c084fc; border: 1px solid rgba(168, 85, 247, 0.35); }
+    .season-empty-row { color: var(--text-dim); font-size: 0.72rem; }
+
+    /* Past Names Chips & Modal */
+    .past-name-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(18, 24, 42, 0.85);
+      border: 1px solid rgba(0, 242, 254, 0.25);
+      border-radius: 6px;
+      padding: 4px 10px;
+      font-size: 0.82rem;
+    }
+    .past-name-text { color: var(--text-main); font-weight: 600; }
+    .past-name-season { font-size: 0.7rem; color: var(--cyan-neon); background: rgba(0, 242, 254, 0.12); padding: 1px 6px; border-radius: 4px; }
+
+    /* Modal Backdrop */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(6, 8, 16, 0.85);
+      backdrop-filter: blur(14px);
+      z-index: 100;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+    }
+    .modal-backdrop.open { display: flex; }
+    .history-modal-dialog {
+      background: rgba(18, 24, 42, 0.95);
+      border: 1px solid var(--border-strong);
+      border-radius: 16px;
+      max-width: 860px;
+      width: 100%;
+      max-height: 90vh;
+      overflow-y: auto;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.7), 0 0 30px rgba(0, 242, 254, 0.2);
+    }
+    .modal-header {
+      padding: 20px 24px;
+      border-bottom: 1px solid var(--border-subtle);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .modal-title {
+      font-family: var(--font-heading);
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .modal-close-btn {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      color: var(--text-muted);
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 1.1rem;
+    }
+    .modal-close-btn:hover { background: rgba(244, 63, 94, 0.2); color: #fda4af; }
+    .modal-body { padding: 24px; }
+
+    .modal-kpi-row {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+    .modal-kpi-box {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      border-radius: 8px;
+      padding: 10px 12px;
+      text-align: center;
+    }
+    .modal-kpi-box .val {
+      font-family: var(--font-mono);
+      font-size: 1.25rem;
+      font-weight: 700;
+    }
+    .modal-kpi-box .lbl {
+      font-size: 0.7rem;
+      color: var(--text-dim);
+      margin-top: 3px;
+    }
+
+    .timeline-event-item {
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      border-radius: 8px;
+      padding: 12px 16px;
+      margin-bottom: 8px;
+    }
+    .award-item-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-size: 0.78rem;
+      background: rgba(245, 158, 11, 0.12);
+      color: #fbbf24;
+      border: 1px solid rgba(245, 158, 11, 0.35);
+      margin-bottom: 6px;
+      margin-right: 6px;
+    }
+
+    /* Events Matrix Selector Table */
+    .events-matrix-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: 14px;
+      margin-bottom: 24px;
+      overflow: hidden;
+      backdrop-filter: blur(14px);
+      box-shadow: 0 10px 32px rgba(0, 0, 0, 0.4);
+    }
+    .events-matrix-header {
+      padding: 16px 22px;
+      border-bottom: 1px solid var(--border-subtle);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .events-selector-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.85rem;
+      text-align: left;
+    }
+    .events-selector-table th {
+      background: rgba(18, 24, 42, 0.95);
+      color: var(--text-muted);
+      font-weight: 600;
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--border-subtle);
+      white-space: nowrap;
+      cursor: pointer;
+      user-select: none;
+      transition: all 0.2s;
+    }
+    .events-selector-table th:hover {
+      background: rgba(0, 242, 254, 0.08);
+      color: var(--cyan-neon);
+    }
+    .events-selector-table th.active-sort {
+      color: var(--cyan-neon);
+      background: rgba(0, 242, 254, 0.12);
+      border-bottom: 2px solid var(--cyan-neon);
+    }
+    .events-selector-table td {
+      padding: 12px 14px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+      color: var(--text-main);
+      vertical-align: middle;
+      cursor: pointer;
+      transition: all 0.15s ease;
+    }
+    .events-selector-table tr.event-row:hover td {
+      background: rgba(0, 242, 254, 0.06);
+    }
+    .events-selector-table tr.event-row.active-event-row td {
+      background: rgba(0, 242, 254, 0.12);
+      border-bottom: 1px solid rgba(0, 242, 254, 0.35);
+    }
+    .events-selector-table tr.event-row.active-event-row td:first-child {
+      border-left: 4px solid var(--cyan-neon);
+    }
+    .badge-selected-now {
+      background: var(--cyan-neon);
+      color: #060810;
+      font-weight: 800;
+      box-shadow: 0 0 12px var(--cyan-glow);
+      font-size: 0.74rem;
+      padding: 3px 8px;
+      border-radius: 4px;
+      display: inline-block;
+    }
+    .btn-inspect-event {
+      background: rgba(0, 242, 254, 0.12);
+      border: 1px solid rgba(0, 242, 254, 0.35);
+      color: var(--cyan-neon);
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+      display: inline-block;
+    }
+    .btn-inspect-event:hover {
+      background: var(--cyan-neon);
+      color: #060810;
+      box-shadow: 0 0 12px var(--cyan-glow);
+    }
+  </style>
+</head>
+<body>
+  <div class="glow-orb orb-1"></div>
+  <div class="glow-orb orb-2"></div>
+
+  <!-- Header -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="logo-badge">FLL</div>
+        <div class="title-group">
+          <h1>NorCal FLL BIOGLOW 2026 · 每场比赛参赛队伍竞技全景分析</h1>
+          <p class="subtitle">实时抓取各分站赛已报名单 · 阵容强度与合规资质深度诊断</p>
+        </div>
+      </div>
+      
+      <!-- Nav Tabs -->
+      <nav class="nav-tabs">
+        <a href="index.html" class="nav-link">🏟️ 预选赛横向对比</a>
+        <a href="teams.html" class="nav-link">👥 全部队伍全景看板</a>
+        <a href="event_teams.html" class="nav-link active">⚔️ 各场参赛队分析</a>
+      </nav>
+
+      <div class="header-season-tag">
+        <span class="live-dot"></span>
+        <span id="data-updated-label">14 场分站赛 · 119 支已报队伍</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="app-main">
+    <!-- Top Event Selection Matrix Table Panel -->
+    <div class="events-matrix-card">
+      <div class="events-matrix-header">
+        <div>
+          <h2 style="font-family: var(--font-heading); font-size: 1.18rem; font-weight: 700; color: #fff; display: flex; align-items: center; gap: 8px;">
+            <span>🎯 选择目标比赛分站 (Select Tournament Division)</span>
+            <span style="font-size: 0.8rem; font-weight: normal; color: var(--text-dim);">（点击表格任意行即可即时钻取该场比赛专属参赛队与阵容）</span>
+          </h2>
+          <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 3px;" id="matrixSubSummary">
+            当前涵盖全部 14 场分站赛 · 实时对比比赛日期、参赛队数量、队伍构成、历史高分与获奖荣誉
+          </div>
+        </div>
+        <div style="display: flex; gap: 10px; align-items: center;">
+          <input type="text" id="eventMatrixSearch" class="search-input" style="padding: 6px 14px; font-size: 0.82rem; width: 230px;" placeholder="筛选分站城市/场馆..." oninput="handleMatrixSearch(this.value)">
+        </div>
+      </div>
+
+      <div class="table-container">
+        <table class="events-selector-table">
+          <thead>
+            <tr>
+              <th style="width: 75px;" onclick="sortEventsTable('id')" title="点击按编号排序" data-evcol="id">
+                分站 ID <span class="sort-icon" id="evsort-id">▲</span>
+              </th>
+              <th style="min-width: 200px;" onclick="sortEventsTable('venue')" title="点击按场馆排序" data-evcol="venue">
+                比赛分站 / 场馆 <span class="sort-icon" id="evsort-venue">↕</span>
+              </th>
+              <th style="width: 110px;" onclick="sortEventsTable('date')" title="点击按日期排序" data-evcol="date">
+                比赛日期 <span class="sort-icon" id="evsort-date">↕</span>
+              </th>
+              <th style="width: 170px;" onclick="sortEventsTable('teams')" title="点击按参赛队数量与饱和度排序" data-evcol="teams">
+                参赛队数量 / 容量 <span class="sort-icon" id="evsort-teams">↕</span>
+              </th>
+              <th style="min-width: 230px;" onclick="sortEventsTable('composition')" title="点击按老牌强队比例排序" data-evcol="composition">
+                队伍组成 (老牌/经验/新队) <span class="sort-icon" id="evsort-composition">↕</span>
+              </th>
+              <th style="min-width: 170px;" onclick="sortEventsTable('high_score')" title="点击按历史最高分纪录排序" data-evcol="high_score">
+                历史最高分纪录 <span class="sort-icon" id="evsort-high_score">↕</span>
+              </th>
+              <th style="min-width: 160px;" onclick="sortEventsTable('awards')" title="点击按历史大奖总数排序" data-evcol="awards">
+                历史获奖与晋级 <span class="sort-icon" id="evsort-awards">↕</span>
+              </th>
+              <th style="width: 110px; text-align: center;">当前状态</th>
+            </tr>
+          </thead>
+          <tbody id="eventsSelectorTableBody">
+            <!-- 14 Rows injected dynamically -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Container 1: Single Event Detailed Analysis -->
+    <div id="singleEventContainer">
+      <!-- Hero Banner -->
+      <div class="event-hero-banner" id="eventHeroBanner">
+        <!-- Dynamic Hero Content -->
+      </div>
+
+      <!-- 6 Key Performance Metric Cards -->
+      <div class="kpi-grid" id="eventKpiGrid">
+        <!-- Dynamic KPIs -->
+      </div>
+
+      <!-- 4 Visual Analysis Panels -->
+      <div class="panels-grid">
+        <!-- Panel 1: Experience & Power Tier Breakdown -->
+        <div class="panel-card">
+          <div class="panel-title">
+            <span>🛡️ 队伍历史底蕴与段位构成</span>
+            <span style="font-size:0.78rem;color:var(--text-dim);" id="tierSubCount"></span>
+          </div>
+          <div id="tierBarsContainer">
+            <!-- Dynamic Tier Bars -->
+          </div>
+        </div>
+
+        <!-- Panel 2: Regional Origin Distribution -->
+        <div class="panel-card">
+          <div class="panel-title">
+            <span>📍 参赛队伍所属区域来源</span>
+            <span style="font-size:0.78rem;color:var(--text-dim);">地缘分布</span>
+          </div>
+          <div id="regionBarsContainer">
+            <!-- Dynamic Region Bars -->
+          </div>
+        </div>
+
+        <!-- Panel 3: Compliance & Readiness Status -->
+        <div class="panel-card">
+          <div class="panel-title">
+            <span>⚖️ 参赛资质与合规状态细分</span>
+            <span style="font-size:0.78rem;color:var(--text-dim);">筛查合规</span>
+          </div>
+          <div id="complianceBarsContainer">
+            <!-- Dynamic Compliance Bars -->
+          </div>
+        </div>
+
+        <!-- Panel 4: Historical Peak Score Tiers -->
+        <div class="panel-card">
+          <div class="panel-title">
+            <span>⚡ 生涯最高得分段位分布</span>
+            <span style="font-size:0.78rem;color:var(--text-dim);">实力天花板</span>
+          </div>
+          <div id="scoreTierBarsContainer">
+            <!-- Dynamic Score Tier Bars -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Teams Table Section -->
+      <section class="table-section">
+        <div class="table-controls-bar">
+          <div class="search-box">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="searchInput" class="search-input" placeholder="在当前比赛中搜索队号、队名、曾用名、学校/机构、城市..." oninput="handleSearch()">
+          </div>
+
+          <div class="filter-pills-group">
+            <button id="btnFilterVeteranOnly" class="btn-filter-toggle" onclick="toggleFilterVeteran()">
+              <span>🛡️ 仅看老牌强队</span>
+            </button>
+            <button id="btnFilterReadyOnly" class="btn-filter-toggle" onclick="toggleFilterReady()">
+              <span>✅ 仅看合规就绪</span>
+            </button>
+            <select id="filterRegionSelect" class="filter-select" onchange="handleRegionFilter(this.value)">
+              <option value="ALL">全部地区来源 (All Regions)</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="table-container">
+          <table class="teams-table">
+            <thead>
+              <tr>
+                <th class="sortable active-sort" onclick="handleTableSort('number')" style="width: 85px;" data-col="number" title="点击排序">
+                  队伍编号 <span class="sort-icon" id="sort-icon-number">▲</span>
+                </th>
+                <th class="sortable" onclick="handleTableSort('name')" style="min-width: 170px;" data-col="name" title="点击排序">
+                  队伍名称 & 曾用名 <span class="sort-icon" id="sort-icon-name">↕</span>
+                </th>
+                <th class="sortable" onclick="handleTableSort('city')" style="width: 110px;" data-col="city" title="点击排序">
+                  城市 / 地区 <span class="sort-icon" id="sort-icon-city">↕</span>
+                </th>
+                <th class="sortable" onclick="handleTableSort('tier')" style="width: 130px;" data-col="tier" title="点击排序">
+                  底蕴段位 <span class="sort-icon" id="sort-icon-tier">↕</span>
+                </th>
+                <th class="sortable" onclick="handleTableSort('max_score')" style="width: 110px;" data-col="max_score" title="点击排序">
+                  生涯最高分 <span class="sort-icon" id="sort-icon-max_score">↕</span>
+                </th>
+                <th class="sortable" onclick="handleTableSort('s2025')" style="min-width: 140px;" data-col="s2025" title="点击排序">
+                  2025-26 战绩<br><span style="font-size:0.68rem;font-weight:normal;color:var(--text-dim);">UNEARTHED</span> <span class="sort-icon" id="sort-icon-s2025">↕</span>
+                </th>
+                <th class="sortable" onclick="handleTableSort('s2024')" style="min-width: 140px;" data-col="s2024" title="点击排序">
+                  2024-25 战绩<br><span style="font-size:0.68rem;font-weight:normal;color:var(--text-dim);">SUBMERGED</span> <span class="sort-icon" id="sort-icon-s2024">↕</span>
+                </th>
+                <th class="sortable" onclick="handleTableSort('s2023')" style="min-width: 140px;" data-col="s2023" title="点击排序">
+                  2023-24 战绩<br><span style="font-size:0.68rem;font-weight:normal;color:var(--text-dim);">MASTERPIECE</span> <span class="sort-icon" id="sort-icon-s2023">↕</span>
+                </th>
+                <th class="sortable" onclick="handleTableSort('status')" style="width: 125px;" data-col="status" title="点击排序">
+                  合规就绪状态 <span class="sort-icon" id="sort-icon-status">↕</span>
+                </th>
+                <th style="min-width: 120px;">历史荣誉与晋级</th>
+              </tr>
+            </thead>
+            <tbody id="eventTeamsTableBody">
+              <!-- Dynamically populated -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+
+    <!-- Container 2: All Events Cross-Comparison Overview -->
+    <div id="allEventsOverviewContainer" style="display: none;">
+      <section class="table-section">
+        <div style="padding: 20px 24px; border-bottom: 1px solid var(--border-subtle); display: flex; justify-content: space-between; align-items: center;">
+          <div>
+            <h3 style="font-family: var(--font-heading); font-size: 1.25rem; font-weight: 700; color: #fff;">
+              🏟️ 全部分站赛饱和度与竞技强度横向对比
+            </h3>
+            <p style="font-size: 0.82rem; color: var(--text-dim); margin-top: 4px;">
+              点击任意分站赛行或「查看阵容 ↗」即可切换钻取该场比赛专属参赛队详情
+            </p>
+          </div>
+          <div style="font-size: 0.84rem; color: var(--cyan-neon); font-weight: 600;" id="overviewSummaryText">
+            共 14 场分站赛
+          </div>
+        </div>
+
+        <div class="table-container">
+          <table class="teams-table all-events-table">
+            <thead>
+              <tr>
+                <th style="width: 70px;">ID</th>
+                <th style="min-width: 220px;">分站赛名称</th>
+                <th style="width: 110px;">比赛日期</th>
+                <th style="width: 120px;">城市 / 场馆</th>
+                <th style="width: 140px;">报名饱和度</th>
+                <th style="width: 120px;">老牌强队</th>
+                <th style="min-width: 150px;">历史最高分纪录</th>
+                <th style="width: 110px;">合规就绪率</th>
+                <th style="width: 100px;">操作</th>
+              </tr>
+            </thead>
+            <tbody id="allEventsTableBody">
+              <!-- Dynamically injected -->
+            </tbody>
+          </table>
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <!-- Team History Modal Dialog -->
+  <div id="historyModal" class="modal-backdrop" onclick="closeHistoryModal(event)">
+    <div class="history-modal-dialog" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <div class="modal-title">
+          <span id="modalTeamNumBadge" class="team-num-badge">#00000</span>
+          <span id="modalTeamName">队伍历届战绩与荣誉档案</span>
+        </div>
+        <button class="modal-close-btn" onclick="closeHistoryModal()" title="关闭">✕</button>
+      </div>
+      <div class="modal-body" id="modalBodyContent">
+        <!-- Injected dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Data Scripts -->
+  <script src="event_teams_data.js"></script>
+  <script src="teams_data.js?v=20261006_history_v2"></script>
+
+  <script>
+    // State
+    const allEventData = window.EVENT_TEAMS_DATA || { events: [] };
+    const allTeamsList = window.PUBLIC_TEAMS_LIST || [];
+    let currentEventId = "ALL"; // 'ALL' or specific numeric ID like 311
+    let filterVeteranOnly = false;
+    let filterReadyOnly = false;
+    let filterRegion = "ALL";
+    let searchQuery = "";
+
+    // Table Sort State
+    let currentTableSort = "number";
+    let currentTableDir = "asc";
+
+    // Matrix Table Sort & Search State
+    let matrixSortCol = "id";
+    let matrixSortDir = "asc";
+    let matrixSearchQuery = "";
+
+    document.addEventListener("DOMContentLoaded", () => {
+      // 1. Check URL parameters (e.g. ?event=311)
+      const urlParams = new URLSearchParams(window.location.search);
+      const evParam = urlParams.get("event") || urlParams.get("event_id") || urlParams.get("id");
+      if (evParam) {
+        currentEventId = evParam.toUpperCase() === "ALL" ? "ALL" : parseInt(evParam, 10);
+      } else {
+        // Default to first event
+        currentEventId = allEventData.events.length > 0 ? allEventData.events[0].event_id : "ALL";
+      }
+
+      initSwitcher();
+      renderEventsMatrixTable();
+      renderCurrentView();
+    });
+
+    function initSwitcher() {
+      // Legacy pill/dropdown support if present
+      const dropdown = document.getElementById("eventDropdownSelect");
+      if (dropdown) {
+        dropdown.innerHTML = `<option value="ALL">🌐 全部分站赛横向对比 (14 站一览)</option>`;
+        allEventData.events.forEach(ev => {
+          const opt = document.createElement("option");
+          opt.value = ev.event_id;
+          opt.textContent = `#${ev.event_id} · ${ev.venue_city || '未知'} (${ev.total_registered}/${ev.capacity}队 · ${ev.fill_rate}%) - ${ev.name}`;
+          dropdown.appendChild(opt);
+        });
+        dropdown.value = currentEventId;
+      }
+    }
+
+    function handleMatrixSearch(val) {
+      matrixSearchQuery = (val || "").trim().toLowerCase();
+      renderEventsMatrixTable();
+    }
+
+    function sortEventsTable(col) {
+      if (matrixSortCol === col) {
+        matrixSortDir = matrixSortDir === "asc" ? "desc" : "asc";
+      } else {
+        matrixSortCol = col;
+        matrixSortDir = "desc";
+      }
+      renderEventsMatrixTable();
+    }
+
+    function renderEventsMatrixTable() {
+      const tbody = document.getElementById("eventsSelectorTableBody");
+      const counterBadge = document.getElementById("eventsVisibleCount");
+      if (!tbody) return;
+
+      // Update sort arrow headers
+      document.querySelectorAll(".events-selector-table th.sortable-th").forEach(th => {
+        th.classList.remove("th-sorted-asc", "th-sorted-desc");
+        const col = th.getAttribute("data-col");
+        const arrow = th.querySelector(".sort-arrow");
+        if (arrow) arrow.textContent = "↕";
+        if (col === matrixSortCol) {
+          th.classList.add(matrixSortDir === "asc" ? "th-sorted-asc" : "th-sorted-desc");
+          if (arrow) arrow.textContent = matrixSortDir === "asc" ? "↑" : "↓";
+        }
+      });
+
+      let list = [...(allEventData.events || [])];
+
+      // Filter by search
+      if (matrixSearchQuery) {
+        list = list.filter(e => {
+          return (
+            (e.event_id + "").includes(matrixSearchQuery) ||
+            (e.name || "").toLowerCase().includes(matrixSearchQuery) ||
+            (e.venue_city || "").toLowerCase().includes(matrixSearchQuery) ||
+            (e.venue_name || "").toLowerCase().includes(matrixSearchQuery) ||
+            (e.start_time || "").toLowerCase().includes(matrixSearchQuery) ||
+            ((e.strength && e.strength.top_team_name) || "").toLowerCase().includes(matrixSearchQuery)
+          );
+        });
+      }
+
+      if (counterBadge) {
+        counterBadge.textContent = `${list.length} / ${(allEventData.events || []).length} 场`;
+      }
+
+      // Sort
+      list.sort((a, b) => {
+        let valA, valB;
+        if (matrixSortCol === "id") {
+          valA = a.event_id; valB = b.event_id;
+        } else if (matrixSortCol === "name") {
+          valA = (a.venue_city || "") + (a.name || "");
+          valB = (b.venue_city || "") + (b.name || "");
+        } else if (matrixSortCol === "date") {
+          valA = a.start_time || ""; valB = b.start_time || "";
+        } else if (matrixSortCol === "teams") {
+          valA = a.total_registered || 0; valB = b.total_registered || 0;
+        } else if (matrixSortCol === "saturation") {
+          valA = a.fill_rate || 0; valB = b.fill_rate || 0;
+        } else if (matrixSortCol === "veterans") {
+          valA = (a.experience && a.experience.veteran_count) || 0;
+          valB = (b.experience && b.experience.veteran_count) || 0;
+        } else if (matrixSortCol === "top_score") {
+          valA = (a.strength && a.strength.top_career_score) || 0;
+          valB = (b.strength && b.strength.top_career_score) || 0;
+        } else if (matrixSortCol === "awards") {
+          valA = (a.strength && a.strength.total_career_awards) || 0;
+          valB = (b.strength && b.strength.total_career_awards) || 0;
+        } else {
+          valA = a.event_id; valB = b.event_id;
+        }
+
+        if (typeof valA === "string") {
+          return matrixSortDir === "asc" ? valA.localeCompare(valB) : valB.localeCompare(valA);
+        }
+        return matrixSortDir === "asc" ? valA - valB : valB - valA;
+      });
+
+      if (list.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="8" style="text-align: center; padding: 30px; color: var(--text-muted);">未找到匹配的分站赛，请调整搜索关键词</td></tr>`;
+        return;
+      }
+
+      tbody.innerHTML = list.map(ev => {
+        const isCurrent = currentEventId === ev.event_id;
+        const fillCls = ev.fill_rate >= 80 ? 'fill-high' : (ev.fill_rate >= 50 ? 'fill-mid' : 'fill-low');
+        const fillBadgeClass = ev.fill_rate >= 80 ? 'full' : (ev.fill_rate >= 50 ? 'high' : 'normal');
+        const exp = ev.experience || { veteran_count: 0, veteran_pct: 0, experienced_count: 0, rookie_count: 0 };
+        const st = ev.strength || { top_career_score: 0, top_team_number: null, top_team_name: '', total_career_awards: 0, teams_with_advancement: 0 };
+
+        // Format date display
+        let dateDisplay = '待定';
+        if (ev.start_time) {
+          const d = new Date(ev.start_time);
+          if (!isNaN(d.getTime())) {
+            const m = d.getMonth() + 1;
+            const day = d.getDate();
+            const daysOfWeek = ['周日', '周一', '周二', '周三', '周四', '周五', '周六'];
+            dateDisplay = `${m}月${day}日 (${daysOfWeek[d.getDay()]})`;
+          } else {
+            dateDisplay = ev.start_time.split("T")[0];
+          }
+        }
+
+        return `
+          <tr class="event-row ${isCurrent ? 'active-event-row' : ''}" onclick="selectEvent(${ev.event_id})">
+            <td>
+              <span class="event-id-cell">#${ev.event_id}</span>
+            </td>
+            <td>
+              <div class="event-name-primary">${escapeHtml(ev.name)}</div>
+              <div class="event-venue-sub">📍 ${escapeHtml(ev.venue_name || '待定')} (${escapeHtml(ev.venue_city || '未知')})</div>
+            </td>
+            <td>
+              <div class="event-date-cell">📅 ${dateDisplay}</div>
+            </td>
+            <td>
+              <div class="event-teams-counter">${ev.total_registered} / ${ev.capacity} 队</div>
+              <div class="fill-bar-track" title="饱和度 ${ev.fill_rate}% (${ev.spots_remaining} 个剩余席位)">
+                <div class="fill-bar-value ${fillCls}" style="width: ${Math.min(100, ev.fill_rate)}%"></div>
+              </div>
+              <div style="font-size: 0.72rem; color: var(--text-muted); margin-top: 2px;">
+                饱和度 ${ev.fill_rate}% · 余 ${ev.spots_remaining} 席
+              </div>
+            </td>
+            <td>
+              <div class="comp-tag-group">
+                <span class="comp-tag veteran" title="3年以上资深队">👑 强队: ${exp.veteran_count}</span>
+                <span class="comp-tag exp" title="1-2年经验队">⚡ 经验: ${exp.experienced_count}</span>
+                <span class="comp-tag rookie" title="今年新秀队">🌱 新秀: ${exp.rookie_count}</span>
+              </div>
+            </td>
+            <td>
+              ${st.top_career_score > 0 ? `
+                <div class="stat-score-val">🏆 ${st.top_career_score} 分</div>
+                <div class="stat-score-sub">#${st.top_team_number} ${escapeHtml(st.top_team_name || '')}</div>
+              ` : `
+                <span style="color: var(--text-muted); font-size: 0.8rem;">暂无历史分</span>
+              `}
+            </td>
+            <td>
+              <div style="font-size: 0.82rem; font-weight: 600; color: #f59e0b;">
+                🏅 历年总奖杯: ${st.total_career_awards || 0} 座
+              </div>
+              <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 2px;">
+                🚀 曾晋级队伍: ${st.teams_with_advancement || 0} 支
+              </div>
+            </td>
+            <td>
+              <div class="action-cell">
+                ${isCurrent ? `
+                  <span class="badge-selected-now">✓ 当前选中</span>
+                ` : `
+                  <button class="btn-select-event" onclick="event.stopPropagation(); selectEvent(${ev.event_id})">查看战报 →</button>
+                `}
+              </div>
+            </td>
+          </tr>
+        `;
+      }).join("");
+    }
+
+    function selectEvent(eventId) {
+      currentEventId = eventId;
+      const dropdown = document.getElementById("eventDropdownSelect");
+      if (dropdown) dropdown.value = eventId;
+
+      // Reset filters on event change
+      searchQuery = "";
+      const searchInp = document.getElementById("searchInput");
+      if (searchInp) searchInp.value = "";
+      filterVeteranOnly = false;
+      filterReadyOnly = false;
+      filterRegion = "ALL";
+      updateFilterButtonsUI();
+
+      renderEventsMatrixTable();
+      renderCurrentView();
+
+      // Smooth scroll into detail section if clicking a specific event
+      if (eventId !== "ALL") {
+        const detailEl = document.getElementById("singleEventContainer");
+        if (detailEl) {
+          detailEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }
+    }
+
+    function renderCurrentView() {
+      const singleContainer = document.getElementById("singleEventContainer");
+      const allOverviewContainer = document.getElementById("allEventsOverviewContainer");
+
+      if (currentEventId === "ALL") {
+        singleContainer.style.display = "none";
+        allOverviewContainer.style.display = "block";
+        renderAllEventsOverview();
+      } else {
+        allOverviewContainer.style.display = "none";
+        singleContainer.style.display = "block";
+        const ev = allEventData.events.find(e => e.event_id === currentEventId);
+        if (ev) {
+          renderSingleEvent(ev);
+        }
+      }
+    }
+
+    function renderSingleEvent(ev) {
+      // 1. Hero Banner
+      const hero = document.getElementById("eventHeroBanner");
+      const fillPct = ev.fill_rate;
+      const fillBadgeCls = fillPct >= 80 ? 'pill-badge full' : (fillPct >= 50 ? 'pill-badge high' : 'pill-badge normal');
+
+      hero.innerHTML = `
+        <div class="hero-meta-row">
+          <div class="hero-title-group">
+            <h2>
+              <span class="event-id-badge">#${ev.event_id}</span>
+              <span>${escapeHtml(ev.name)}</span>
+            </h2>
+            <div class="hero-sub-details">
+              <span>📅 比赛日期：<strong>${ev.start_time || '待公布'}</strong></span>
+              <span>📍 比赛场馆：<strong>${escapeHtml(ev.venue_name)} (${escapeHtml(ev.venue_city)})</strong></span>
+              <span>🏆 赛季主题：<strong style="color:var(--cyan-neon);">${escapeHtml(ev.season)}</strong></span>
+            </div>
+          </div>
+          <div style="text-align: right;">
+            <div style="font-size: 0.8rem; color: var(--text-dim); margin-bottom: 4px;">报名饱和度</div>
+            <div style="font-family: var(--font-heading); font-size: 1.8rem; font-weight: 700; color: ${fillPct >= 80 ? 'var(--rose-neon)' : (fillPct >= 50 ? 'var(--amber-neon)' : 'var(--emerald-neon)')};">
+              ${ev.total_registered} / ${ev.capacity} 队 (${fillPct}%)
+            </div>
+          </div>
+        </div>
+      `;
+
+      // 2. 6 KPIs
+      const kpis = document.getElementById("eventKpiGrid");
+      const topScoreText = ev.strength.top_career_score != null ? `${ev.strength.top_career_score} 分` : '暂无得分';
+      const topHolder = ev.strength.top_team_number ? `#${ev.strength.top_team_number} ${escapeHtml(ev.strength.top_team_name)}` : '无';
+
+      kpis.innerHTML = `
+        <!-- Card 1: Capacity & Fill -->
+        <div class="kpi-card">
+          <div>
+            <div class="kpi-card-header">
+              <span>报名席位饱和度</span>
+              <span>${ev.spots_remaining > 0 ? `余 ${ev.spots_remaining} 席` : '已报满'}</span>
+            </div>
+            <div class="kpi-value-lg">
+              <span>${ev.total_registered}</span>
+              <span style="font-size: 1rem; color: var(--text-dim);">/ ${ev.capacity} 队</span>
+            </div>
+          </div>
+          <div>
+            <div class="kpi-progress-bar">
+              <div class="kpi-progress-fill ${fillPct >= 80 ? 'bg-rose' : (fillPct >= 50 ? 'bg-amber' : 'bg-emerald')}" style="width: ${Math.min(fillPct, 100)}%;"></div>
+            </div>
+            <div class="kpi-subtext">饱和度 ${fillPct}% · 剩余 ${ev.spots_remaining} 席</div>
+          </div>
+        </div>
+
+        <!-- Card 2: Compliance Readiness -->
+        <div class="kpi-card">
+          <div>
+            <div class="kpi-card-header">
+              <span>合规资质就绪率</span>
+              <span class="badge ${ev.ready_pct >= 90 ? 'badge-good' : 'badge-warn'}">${ev.ready_pct}%</span>
+            </div>
+            <div class="kpi-value-lg" style="color: var(--emerald-neon);">
+              <span>${ev.ready_count}</span>
+              <span style="font-size: 1rem; color: var(--text-dim);">/ ${ev.total_registered} 队</span>
+            </div>
+          </div>
+          <div>
+            <div class="kpi-progress-bar">
+              <div class="kpi-progress-fill bg-emerald" style="width: ${ev.ready_pct}%;"></div>
+            </div>
+            <div class="kpi-subtext">${ev.pending_count > 0 ? `⚠️ 仍有 ${ev.pending_count} 支队伍审查中` : '✅ 全部队伍合规就绪'}</div>
+          </div>
+        </div>
+
+        <!-- Card 3: Veteran Ratio -->
+        <div class="kpi-card">
+          <div>
+            <div class="kpi-card-header">
+              <span>老牌强队竞技比</span>
+              <span class="badge badge-veteran">${ev.experience.veteran_pct}%</span>
+            </div>
+            <div class="kpi-value-lg" style="color: #f472b6;">
+              <span>${ev.experience.veteran_count}</span>
+              <span style="font-size: 1rem; color: var(--text-dim);">支老牌队伍</span>
+            </div>
+          </div>
+          <div>
+            <div class="kpi-progress-bar">
+              <div class="kpi-progress-fill bg-purple" style="width: ${ev.experience.veteran_pct}%;"></div>
+            </div>
+            <div class="kpi-subtext">有经验 ${ev.experience.experienced_count} 队 · 新队伍 ${ev.experience.rookie_count} 队</div>
+          </div>
+        </div>
+
+        <!-- Card 4: Historical Top Record -->
+        <div class="kpi-card">
+          <div>
+            <div class="kpi-card-header">
+              <span>本站历史最高分纪录</span>
+              <span class="badge badge-score-elite">峰值纪录</span>
+            </div>
+            <div class="kpi-value-lg" style="color: #fef08a;">
+              <span>${topScoreText}</span>
+            </div>
+          </div>
+          <div class="kpi-subtext" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;" title="${topHolder}">
+            纪录保持：${topHolder}
+          </div>
+        </div>
+
+        <!-- Card 5: Average Historical Score -->
+        <div class="kpi-card">
+          <div>
+            <div class="kpi-card-header">
+              <span>场均历史得分</span>
+              <span class="badge badge-info">平均战力</span>
+            </div>
+            <div class="kpi-value-lg" style="color: var(--cyan-neon);">
+              <span>${ev.strength.avg_career_score != null ? ev.strength.avg_career_score : '-'}</span>
+              <span style="font-size: 1rem; color: var(--text-dim);">分</span>
+            </div>
+          </div>
+          <div class="kpi-subtext">
+            往届得分记录覆盖 ${ev.strength.teams_with_awards > 0 ? ev.strength.teams_with_awards : ev.total_registered} 队
+          </div>
+        </div>
+
+        <!-- Card 6: Awards & Advancements -->
+        <div class="kpi-card">
+          <div>
+            <div class="kpi-card-header">
+              <span>荣誉大奖与晋级底蕴</span>
+              <span class="badge badge-award-cnt">底蕴深厚</span>
+            </div>
+            <div class="kpi-value-lg" style="color: #fbbf24;">
+              <span>🏆 ${ev.strength.total_career_awards}</span>
+              <span style="font-size: 1rem; color: var(--text-dim);">座奖项</span>
+            </div>
+          </div>
+          <div class="kpi-subtext">
+            ${ev.strength.teams_with_advancement} 支队伍曾晋级总决赛 (Championship)
+          </div>
+        </div>
+      `;
+
+      // 3. Visual Panels
+      renderPanels(ev);
+
+      // 4. Region Dropdown Options in Table Filter
+      const regSelect = document.getElementById("filterRegionSelect");
+      regSelect.innerHTML = `<option value="ALL">全部地区来源 (All Regions)</option>`;
+      ev.regions_dist.forEach(r => {
+        const opt = document.createElement("option");
+        opt.value = r.region;
+        opt.textContent = `${r.region} (${r.count}队)`;
+        regSelect.appendChild(opt);
+      });
+      regSelect.value = filterRegion;
+
+      // 5. Render Table
+      renderEventTeamsTable(ev);
+    }
+
+    function renderPanels(ev) {
+      const tot = ev.total_registered || 1;
+
+      // 1. Tier Bars
+      document.getElementById("tierSubCount").textContent = `共 ${ev.total_registered} 支参赛队`;
+      const tierContainer = document.getElementById("tierBarsContainer");
+      tierContainer.innerHTML = `
+        <div class="bar-row">
+          <div class="bar-label-group">
+            <span style="color:#f472b6;font-weight:600;">🛡️ Veteran (老牌强队)</span>
+            <span>${ev.experience.veteran_count} 队 (${ev.experience.veteran_pct}%)</span>
+          </div>
+          <div class="bar-track">
+            <div class="bar-fill bg-purple" style="width: ${ev.experience.veteran_pct}%;"></div>
+          </div>
+        </div>
+        <div class="bar-row">
+          <div class="bar-label-group">
+            <span style="color:var(--cyan-neon);font-weight:600;">🎖️ Experienced (有经验队伍)</span>
+            <span>${ev.experience.experienced_count} 队 (${ev.experience.experienced_pct}%)</span>
+          </div>
+          <div class="bar-track">
+            <div class="bar-fill bg-cyan" style="width: ${ev.experience.experienced_pct}%;"></div>
+          </div>
+        </div>
+        <div class="bar-row">
+          <div class="bar-label-group">
+            <span style="color:#94a3b8;font-weight:600;">🌱 Rookie (新队伍)</span>
+            <span>${ev.experience.rookie_count} 队 (${ev.experience.rookie_pct}%)</span>
+          </div>
+          <div class="bar-track">
+            <div class="bar-fill" style="background:#64748b;width: ${ev.experience.rookie_pct}%;"></div>
+          </div>
+        </div>
+      `;
+
+      // 2. Region Bars
+      const regContainer = document.getElementById("regionBarsContainer");
+      const colors = ["bg-cyan", "bg-purple", "bg-emerald", "bg-amber", "bg-blue"];
+      regContainer.innerHTML = ev.regions_dist.map((r, idx) => `
+        <div class="bar-row">
+          <div class="bar-label-group">
+            <span style="font-weight:600;">📍 ${r.region}</span>
+            <span>${r.count} 队 (${r.pct}%)</span>
+          </div>
+          <div class="bar-track">
+            <div class="bar-fill ${colors[idx % colors.length]}" style="width: ${r.pct}%;"></div>
+          </div>
+        </div>
+      `).join('');
+
+      // 3. Compliance Bars
+      const compContainer = document.getElementById("complianceBarsContainer");
+      const readyPct = ev.ready_pct;
+      compContainer.innerHTML = `
+        <div class="bar-row">
+          <div class="bar-label-group">
+            <span style="color:var(--emerald-neon);font-weight:600;">✅ 合规就绪队伍 (Ready)</span>
+            <span>${ev.ready_count} 队 (${readyPct}%)</span>
+          </div>
+          <div class="bar-track">
+            <div class="bar-fill bg-emerald" style="width: ${readyPct}%;"></div>
+          </div>
+        </div>
+        <div class="bar-row">
+          <div class="bar-label-group">
+            <span style="color:var(--amber-neon);font-weight:600;">⏳ 审查等待/待办 (Pending)</span>
+            <span>${ev.pending_count} 队 (${Math.round((100 - readyPct) * 10) / 10}%)</span>
+          </div>
+          <div class="bar-track">
+            <div class="bar-fill ${ev.pending_count > 0 ? 'bg-amber' : ''}" style="width: ${100 - readyPct}%;"></div>
+          </div>
+        </div>
+      `;
+
+      // 4. Score Tier Bars
+      const scContainer = document.getElementById("scoreTierBarsContainer");
+      const scTiers = ev.strength.score_tier_counts || {};
+      scContainer.innerHTML = Object.entries(scTiers).map(([tierName, cnt], idx) => {
+        const pct = Math.round(cnt / tot * 1000) / 10;
+        const clr = idx === 0 ? 'bg-amber' : (idx === 1 ? 'bg-cyan' : (idx === 2 ? 'bg-emerald' : 'bg-blue'));
+        return `
+          <div class="bar-row">
+            <div class="bar-label-group">
+              <span>${tierName}</span>
+              <span>${cnt} 队 (${pct}%)</span>
+            </div>
+            <div class="bar-track">
+              <div class="bar-fill ${clr}" style="width: ${pct}%;"></div>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+
+    // Helper: Season Cell Renderer
+    function renderSeasonCell(sData, teamNumber) {
+      if (!sData || !sData.has_participated) {
+        return `
+          <div class="season-cell" style="opacity: 0.35;">
+            <div class="season-row"><span class="event-type-tag qt">QT</span><span class="season-empty-row">-</span></div>
+            <div class="season-row"><span class="event-type-tag champ">Champ</span><span class="season-empty-row">-</span></div>
+          </div>
+        `;
+      }
+
+      const renderRow = (label, ev, isChamp) => {
+        if (!ev) {
+          return `
+            <div class="season-row">
+              <span class="event-type-tag ${isChamp ? 'champ' : 'qt'}">${label}</span>
+              <span class="season-empty-row">-</span>
+            </div>
+          `;
+        }
+
+        const sc = ev.highest_score;
+        let scoreBadge = '';
+        if (sc != null) {
+          const cls = sc >= 500 ? 'badge-score-elite' : (sc >= 400 ? 'badge-score-high' : (sc >= 300 ? 'badge-score-mid' : 'badge-info'));
+          scoreBadge = `<span class="badge ${cls}" style="font-size:0.72rem; padding: 1px 5px;" title="${escapeHtml(ev.event_name)}: ${sc}分">⚡${sc}</span>`;
+        } else {
+          scoreBadge = `<span class="badge badge-rookie" style="font-size:0.68rem;" title="${escapeHtml(ev.event_name)}">未记分</span>`;
+        }
+
+        const rankBadge = ev.ranking != null ? `<span class="badge badge-info" style="font-size:0.68rem; padding: 1px 4px;" title="名次">#${ev.ranking}</span>` : '';
+        const advBadge = ev.advanced ? `<span class="badge badge-adv-cnt" style="font-size:0.66rem; padding: 1px 4px;" title="获得晋级资格">🚀晋</span>` : '';
+        const awardsBadge = ev.awards && ev.awards.length > 0 ? `<span class="badge badge-award-cnt" style="font-size:0.66rem; padding: 1px 4px; cursor: pointer;" onclick="showTeamHistory(${teamNumber})" title="${escapeHtml(ev.awards.join('、'))}">🏆${ev.awards.length}</span>` : '';
+
+        return `
+          <div class="season-row" title="${escapeHtml(ev.event_name)} (${ev.date || ''})">
+            <span class="event-type-tag ${isChamp ? 'champ' : 'qt'}">${label}</span>
+            ${scoreBadge}
+            ${rankBadge}
+            ${advBadge}
+            ${awardsBadge}
+          </div>
+        `;
+      };
+
+      return `
+        <div class="season-cell">
+          ${renderRow('QT', sData.qt, false)}
+          ${renderRow('Champ', sData.champ, true)}
+        </div>
+      `;
+    }
+
+    function renderEventTeamsTable(ev) {
+      const tbody = document.getElementById("eventTeamsTableBody");
+      let teams = [...ev.teams];
+
+      // 1. Search Query
+      if (searchQuery) {
+        const q = searchQuery.toLowerCase();
+        teams = teams.filter(t => {
+          const matchNum = String(t.number || "").includes(q);
+          const matchName = (t.name || "").toLowerCase().includes(q);
+          const matchCity = (t.city || "").toLowerCase().includes(q);
+          const matchOrg = (t.org_name || "").toLowerCase().includes(q);
+          const matchPast = (t.past_names || []).some(pn => pn.toLowerCase().includes(q));
+          return matchNum || matchName || matchCity || matchOrg || matchPast;
+        });
+      }
+
+      // 2. Filter Veteran
+      if (filterVeteranOnly) {
+        teams = teams.filter(t => (t.history?.experience_tier || "").includes("Veteran"));
+      }
+
+      // 3. Filter Ready
+      if (filterReadyOnly) {
+        teams = teams.filter(t => t.status_v2 === "good");
+      }
+
+      // 4. Filter Region
+      if (filterRegion !== "ALL") {
+        teams = teams.filter(t => t.region === filterRegion);
+      }
+
+      // 5. Sort Teams
+      sortEventTeams(teams, currentTableSort, currentTableDir);
+      updateSortHeaderUI();
+
+      if (teams.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="10" style="text-align: center; padding: 36px; color: var(--text-dim);">没有符合条件的参赛队伍</td></tr>`;
+        return;
+      }
+
+      const statusMap = {
+        "good": { cls: "badge-good", text: "✅ 合规就绪" },
+        "waiting_invites": { cls: "badge-warn", text: "⏳ 等待邀请确认" },
+        "pending_fingerprinting": { cls: "badge-danger", text: "⚠️ 指纹审查中" },
+        "waiting_members": { cls: "badge-danger", text: "👥 队员未满2人" },
+        "pending_national_screening": { cls: "badge-warn", text: "🔍 国家筛查中" },
+        "waiting_jotform": { cls: "badge-warn", text: "📝 等待协议表单" },
+        "roster_overload": { cls: "badge-danger", text: "🚫 花名册超员" }
+      };
+
+      tbody.innerHTML = teams.map(t => {
+        const stConf = statusMap[t.status_v2] || { cls: "badge-info", text: t.status_v2 };
+        const sq = t.status_quickview || {};
+        
+        const scGood = sq.screening?.good;
+        const fpGood = sq.fingerprinting?.good;
+        const roGood = sq.roster_status?.good;
+        const agGood = sq.agreements?.good;
+
+        const checkTags = `
+          <div style="display: flex; gap: 4px; flex-wrap: wrap; font-size: 0.72rem; margin-top: 4px;">
+            <span class="badge ${scGood ? 'badge-good' : 'badge-danger'}" title="全美背景调查">${scGood ? '✓' : '✗'} 筛查</span>
+            <span class="badge ${fpGood ? 'badge-good' : 'badge-danger'}" title="加州指纹">${fpGood ? '✓' : '✗'} 指纹</span>
+            <span class="badge ${roGood ? 'badge-good' : 'badge-danger'}" title="花名册">${roGood ? '✓' : '✗'} 花名册</span>
+            <span class="badge ${agGood ? 'badge-good' : 'badge-danger'}" title="免责协议">${agGood ? '✓' : '✗'} 协议</span>
+          </div>
+        `;
+
+        const expTier = t.history?.experience_tier || 'Rookie (新队伍)';
+        const tierCls = expTier.includes('Veteran') ? 'badge-veteran' : (expTier.includes('Experienced') ? 'badge-experienced' : 'badge-rookie');
+
+        const maxSc = t.history?.max_score;
+        let scoreBadge = '';
+        if (maxSc != null) {
+          const scCls = maxSc >= 500 ? 'badge-score-elite' : (maxSc >= 400 ? 'badge-score-high' : 'badge-score-mid');
+          scoreBadge = `<span class="badge ${scCls}" style="font-size:0.8rem;">⚡${maxSc}分</span>`;
+        } else {
+          scoreBadge = `<span class="badge badge-rookie">-</span>`;
+        }
+
+        const pastNames = t.past_names || [];
+        const pastNameHtml = pastNames.length > 0 
+          ? `<div class="team-past-name-sub" title="曾用名: ${escapeHtml(pastNames.join('、'))}">🏷️ 曾用: ${escapeHtml(pastNames.join('、'))}</div>` 
+          : '';
+
+        const bySeason = (t.history || {}).by_season || {};
+        const s2025 = renderSeasonCell(bySeason["2025"], t.number);
+        const s2024 = renderSeasonCell(bySeason["2024"], t.number);
+        const s2023 = renderSeasonCell(bySeason["2023"], t.number);
+
+        const awCount = t.history?.awards_count || 0;
+        const advCount = t.history?.advancements_count || 0;
+        const awardsBadge = awCount > 0 ? `<span class="badge badge-award-cnt" style="cursor:pointer;" onclick="showTeamHistory(${t.number})">🏆 ${awCount}</span>` : '';
+        const advBadge = advCount > 0 ? `<span class="badge badge-adv-cnt">🚀 ${advCount}</span>` : '';
+
+        return `
+          <tr>
+            <td><span class="team-num-badge">#${t.number}</span></td>
+            <td>
+              <div class="team-name-cell">
+                <span style="cursor: pointer;" onclick="showTeamHistory(${t.number})" title="点击查看战绩档案">${escapeHtml(t.name || '未命名')}</span>
+                <span class="btn-history-detail" style="margin-left: 6px;" onclick="showTeamHistory(${t.number})" title="查看历年完整档案">详情 ↗</span>
+              </div>
+              ${pastNameHtml}
+              <div class="team-org-sub">${escapeHtml(t.org_name || 'Family/Community')}</div>
+            </td>
+            <td>
+              <div style="font-weight: 500;">${escapeHtml(t.city || '-')}</div>
+              <div style="font-size: 0.72rem; color: var(--cyan-neon); margin-top: 2px;">${escapeHtml(t.region || '')}</div>
+            </td>
+            <td><span class="badge ${tierCls}">${expTier.split(' ')[0]}</span></td>
+            <td>${scoreBadge}</td>
+            <td>${s2025}</td>
+            <td>${s2024}</td>
+            <td>${s2023}</td>
+            <td>
+              <span class="badge ${stConf.cls}">${stConf.text}</span>
+              ${checkTags}
+            </td>
+            <td>
+              <div style="display:flex;gap:4px;flex-wrap:wrap;">
+                ${awardsBadge}
+                ${advBadge}
+                ${!awardsBadge && !advBadge ? '<span style="color:var(--text-dim);font-size:0.75rem;">-</span>' : ''}
+              </div>
+            </td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    function sortEventTeams(teams, col, dir) {
+      const mult = dir === 'desc' ? -1 : 1;
+      teams.sort((a, b) => {
+        let diff = 0;
+        switch (col) {
+          case 'number':
+            diff = (a.number || 0) - (b.number || 0);
+            break;
+          case 'name':
+            diff = (a.name || '').localeCompare(b.name || '', 'zh-CN', { numeric: true });
+            break;
+          case 'city':
+            diff = (a.city || '').localeCompare(b.city || '', 'zh-CN');
+            break;
+          case 'tier':
+            const tierOrder = { "Veteran (老牌强队)": 3, "Experienced (有参赛经验)": 2, "Rookie (新队伍)": 1 };
+            diff = (tierOrder[a.history?.experience_tier] || 0) - (tierOrder[b.history?.experience_tier] || 0);
+            break;
+          case 'max_score':
+            diff = (a.history?.max_score != null ? a.history.max_score : -1) - (b.history?.max_score != null ? b.history.max_score : -1);
+            break;
+          case 's2025':
+            diff = getSeasonScore(a, '2025') - getSeasonScore(b, '2025');
+            break;
+          case 's2024':
+            diff = getSeasonScore(a, '2024') - getSeasonScore(b, '2024');
+            break;
+          case 's2023':
+            diff = getSeasonScore(a, '2023') - getSeasonScore(b, '2023');
+            break;
+          case 'status':
+            const statusWeight = { "good": 100, "waiting_invites": 60, "pending_national_screening": 50, "waiting_jotform": 40, "pending_fingerprinting": 30, "waiting_members": 20, "roster_overload": 10 };
+            diff = (statusWeight[a.status_v2] || 0) - (statusWeight[b.status_v2] || 0);
+            break;
+          default:
+            diff = (a.number || 0) - (b.number || 0);
+        }
+        if (diff === 0) diff = (a.number || 0) - (b.number || 0);
+        return diff * mult;
+      });
+    }
+
+    function getSeasonScore(t, yr) {
+      const s = (t.history?.by_season || {})[yr];
+      if (!s || !s.has_participated) return -1;
+      const cSc = s.champ?.highest_score != null ? s.champ.highest_score : -1;
+      const qSc = s.qt?.highest_score != null ? s.qt.highest_score : -1;
+      return Math.max(cSc, qSc);
+    }
+
+    function handleTableSort(col) {
+      if (currentTableSort === col) {
+        currentTableDir = currentTableDir === 'asc' ? 'desc' : 'asc';
+      } else {
+        currentTableSort = col;
+        currentTableDir = ['max_score', 's2025', 's2024', 's2023', 'status', 'tier'].includes(col) ? 'desc' : 'asc';
+      }
+      const ev = allEventData.events.find(e => e.event_id === currentEventId);
+      if (ev) renderEventTeamsTable(ev);
+    }
+
+    function updateSortHeaderUI() {
+      const cols = ['number', 'name', 'city', 'tier', 'max_score', 's2025', 's2024', 's2023', 'status'];
+      cols.forEach(c => {
+        const icon = document.getElementById(`sort-icon-${c}`);
+        const th = document.querySelector(`th[data-col="${c}"]`);
+        if (c === currentTableSort) {
+          if (icon) icon.textContent = currentTableDir === 'asc' ? '▲' : '▼';
+          if (th) th.classList.add('active-sort');
+        } else {
+          if (icon) icon.textContent = '↕';
+          if (th) th.classList.remove('active-sort');
+        }
+      });
+    }
+
+    // Filters
+    function handleSearch() {
+      searchQuery = (document.getElementById("searchInput").value || "").trim();
+      const ev = allEventData.events.find(e => e.event_id === currentEventId);
+      if (ev) renderEventTeamsTable(ev);
+    }
+
+    function toggleFilterVeteran() {
+      filterVeteranOnly = !filterVeteranOnly;
+      updateFilterButtonsUI();
+      const ev = allEventData.events.find(e => e.event_id === currentEventId);
+      if (ev) renderEventTeamsTable(ev);
+    }
+
+    function toggleFilterReady() {
+      filterReadyOnly = !filterReadyOnly;
+      updateFilterButtonsUI();
+      const ev = allEventData.events.find(e => e.event_id === currentEventId);
+      if (ev) renderEventTeamsTable(ev);
+    }
+
+    function handleRegionFilter(val) {
+      filterRegion = val;
+      const ev = allEventData.events.find(e => e.event_id === currentEventId);
+      if (ev) renderEventTeamsTable(ev);
+    }
+
+    function updateFilterButtonsUI() {
+      const btnVet = document.getElementById("btnFilterVeteranOnly");
+      const btnRdy = document.getElementById("btnFilterReadyOnly");
+      if (btnVet) btnVet.classList.toggle("active", filterVeteranOnly);
+      if (btnRdy) btnRdy.classList.toggle("active", filterReadyOnly);
+    }
+
+    // All Events Overview Table
+    function renderAllEventsOverview() {
+      const tbody = document.getElementById("allEventsTableBody");
+      const events = allEventData.events || [];
+
+      tbody.innerHTML = events.map(ev => {
+        const fillPct = ev.fill_rate;
+        const fillBarColor = fillPct >= 80 ? 'bg-rose' : (fillPct >= 50 ? 'bg-amber' : 'bg-emerald');
+        const topScTxt = ev.strength.top_career_score != null 
+          ? `<span class="badge badge-score-elite">⚡ ${ev.strength.top_career_score}分</span> <span style="font-size:0.75rem;color:var(--text-dim);margin-left:4px;">#${ev.strength.top_team_number}</span>`
+          : '<span style="color:var(--text-dim);">-</span>';
+
+        return `
+          <tr>
+            <td><span class="event-id-badge">#${ev.event_id}</span></td>
+            <td>
+              <div style="font-weight:600;color:#fff;cursor:pointer;" onclick="selectEvent(${ev.event_id})">${escapeHtml(ev.name)}</div>
+              <div style="font-size:0.75rem;color:var(--text-dim);margin-top:2px;">${escapeHtml(ev.program)}</div>
+            </td>
+            <td><span style="font-family:var(--font-mono);font-size:0.82rem;">${ev.start_time || '-'}</span></td>
+            <td>
+              <div style="font-weight:500;">${escapeHtml(ev.venue_city || 'TBD')}</div>
+              <div style="font-size:0.72rem;color:var(--text-dim);">${escapeHtml(ev.venue_name || '')}</div>
+            </td>
+            <td>
+              <div style="display:flex;justify-content:space-between;font-size:0.8rem;margin-bottom:3px;">
+                <span style="font-weight:700;">${ev.total_registered} / ${ev.capacity} 队</span>
+                <span style="color:${fillPct >= 80 ? 'var(--rose-neon)' : 'var(--emerald-neon)'};">${fillPct}%</span>
+              </div>
+              <div class="kpi-progress-bar" style="margin-top:2px;">
+                <div class="kpi-progress-fill ${fillBarColor}" style="width: ${Math.min(fillPct, 100)}%;"></div>
+              </div>
+            </td>
+            <td>
+              <span class="badge badge-veteran">${ev.experience.veteran_count} 队 (${ev.experience.veteran_pct}%)</span>
+            </td>
+            <td>${topScTxt}</td>
+            <td>
+              <span class="badge ${ev.ready_pct >= 90 ? 'badge-good' : 'badge-warn'}">${ev.ready_pct}% 就绪</span>
+            </td>
+            <td>
+              <button class="btn-inspect-event" onclick="selectEvent(${ev.event_id})">钻取 ↗</button>
+            </td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    // Modal
+    function showTeamHistory(teamNum) {
+      const team = allTeamsList.find(t => t.number === teamNum);
+      if (!team) return;
+
+      const h = team.history || {};
+      const modal = document.getElementById("historyModal");
+      document.getElementById("modalTeamNumBadge").textContent = `#${team.number}`;
+      document.getElementById("modalTeamName").textContent = `${team.name || '未命名'} — 历届战绩与荣誉`;
+
+      const body = document.getElementById("modalBodyContent");
+      const seasonsStr = (h.seasons || []).join('、') || '暂无记录';
+      const eventsList = h.events || [];
+      const awardsList = h.awards || [];
+      const pastNamesDetails = h.past_names_details || [];
+
+      let pastNamesHtml = '';
+      if (pastNamesDetails.length > 0) {
+        pastNamesHtml = `
+          <div style="margin-bottom: 18px; padding: 12px 16px; background: rgba(0, 242, 254, 0.05); border: 1px solid rgba(0, 242, 254, 0.22); border-radius: 8px;">
+            <div style="font-size: 0.85rem; font-weight: 700; color: var(--cyan-neon); margin-bottom: 8px; display: flex; align-items: center; justify-content: space-between;">
+              <div style="display: flex; align-items: center; gap: 6px;">
+                <span>🏷️ 队伍历届曾用名 (${pastNamesDetails.length})</span>
+                <span style="font-weight: normal; font-size: 0.74rem; color: var(--text-dim);">（历年赛事记载的历史更名轨迹）</span>
+              </div>
+            </div>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+              ${pastNamesDetails.map(pn => {
+                const sStr = (pn.seasons || []).map(s => s.replace(' - ', ' · ').replace(' (Challenge)', '').replace(' (Explore)', '')).join('、') || '以往赛季';
+                return `
+                  <div class="past-name-chip" title="曾用于: ${escapeHtml((pn.seasons || []).join(', '))}">
+                    <span class="past-name-text">🏷️ ${escapeHtml(pn.name)}</span>
+                    <span class="past-name-season">${escapeHtml(sStr)}</span>
+                  </div>
+                `;
+              }).join('')}
+            </div>
+          </div>
+        `;
+      } else {
+        pastNamesHtml = `
+          <div style="margin-bottom: 16px; font-size: 0.8rem; color: var(--text-dim); display: flex; align-items: center; gap: 6px;">
+            <span style="color: var(--text-muted); font-weight: 500;">🏷️ 历届曾用名：</span>
+            <span>始终沿用当前队名（未检测到历史曾用名）</span>
+          </div>
+        `;
+      }
+
+      let eventsHtml = '';
+      if (eventsList.length === 0) {
+        eventsHtml = `<div style="color: var(--text-dim); font-size: 0.85rem; padding: 12px 0;">暂无详细赛事对局数据</div>`;
+      } else {
+        eventsHtml = eventsList.map(ev => {
+          const scoreTxt = ev.highest_score != null ? `${ev.highest_score} 分` : '暂无得分';
+          const rankTxt = ev.ranking != null ? `第 ${ev.ranking} 名` : '-';
+          const advBadge = ev.advanced ? `<span class="badge badge-adv-cnt" style="font-size: 0.7rem;">🚀 成功晋级</span>` : '';
+          const awTxt = ev.awards && ev.awards.length > 0 ? ev.awards.map(a => `<span class="award-item-tag" style="margin: 0;">🏆 ${escapeHtml(a)}</span>`).join(' ') : '';
+          return `
+            <div class="timeline-event-item">
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 4px;">
+                <div>
+                  <span style="font-weight: 600; font-size: 0.92rem; color: var(--text-main);">${escapeHtml(ev.event_name)}</span>
+                  <span style="font-size: 0.75rem; color: var(--text-dim); margin-left: 8px;">${ev.season || ''} · ${ev.date || ''}</span>
+                </div>
+                <div style="display: flex; gap: 6px; align-items: center;">
+                  ${advBadge}
+                  <span class="badge badge-score-high" style="font-size: 0.82rem;">${scoreTxt}</span>
+                  ${ev.ranking != null ? `<span class="badge badge-info" style="font-size: 0.78rem;">${rankTxt}</span>` : ''}
+                </div>
+              </div>
+              ${awTxt ? `<div style="margin-top: 6px; display: flex; gap: 6px; flex-wrap: wrap;">${awTxt}</div>` : ''}
+            </div>
+          `;
+        }).join('');
+      }
+
+      let awardsHtml = '';
+      if (awardsList.length === 0) {
+        awardsHtml = `<div style="color: var(--text-dim); font-size: 0.85rem; padding: 8px 0;">该队伍暂未斩获官方大奖</div>`;
+      } else {
+        awardsHtml = `
+          <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px;">
+            ${awardsList.map(a => `
+              <div class="award-item-tag" title="${escapeHtml(a.event_name)} (${a.season})">
+                <span>🏆 ${escapeHtml(a.name)}</span>
+                ${a.place ? `<span style="font-size: 0.72rem; opacity: 0.8;">[${a.place}]</span>` : ''}
+              </div>
+            `).join('')}
+          </div>
+        `;
+      }
+
+      body.innerHTML = `
+        <div style="margin-bottom: 18px; padding-bottom: 14px; border-bottom: 1px solid var(--border-subtle); display: flex; justify-content: space-between; align-items: center;">
+          <div>
+            <div style="font-size: 0.85rem; color: var(--text-dim);">
+              城市：<strong style="color: var(--text-main);">${escapeHtml(team.city || '-')}</strong> · 
+              机构：<strong style="color: var(--text-main);">${escapeHtml(team.org_name || 'Family/Community')}</strong> · 
+              组别：<strong style="color: var(--cyan-neon);">${escapeHtml(team.program_label || '')}</strong>
+            </div>
+          </div>
+          <div>
+            <span class="badge ${h.experience_tier?.includes('Veteran') ? 'badge-veteran' : 'badge-experienced'}" style="font-size: 0.82rem;">
+              ${h.experience_tier || 'Rookie (新队伍)'}
+            </span>
+          </div>
+        </div>
+
+        ${pastNamesHtml}
+
+        <div class="modal-kpi-row">
+          <div class="modal-kpi-box">
+            <div class="val" style="color:#f59e0b;">${h.max_score != null ? h.max_score : '-'}</div>
+            <div class="lbl">生涯最高分</div>
+          </div>
+          <div class="modal-kpi-box">
+            <div class="val" style="color:var(--cyan-neon);">${h.avg_score != null ? h.avg_score : '-'}</div>
+            <div class="lbl">生涯平均分</div>
+          </div>
+          <div class="modal-kpi-box">
+            <div class="val" style="color:var(--emerald-neon);">${h.best_ranking != null ? '#' + h.best_ranking : '-'}</div>
+            <div class="lbl">历史最佳名次</div>
+          </div>
+          <div class="modal-kpi-box">
+            <div class="val" style="color:#fbbf24;">🏆 ${h.awards_count || 0}</div>
+            <div class="lbl">累计官方大奖</div>
+          </div>
+          <div class="modal-kpi-box">
+            <div class="val" style="color:var(--cyan-neon);">🚀 ${h.advancements_count || 0}</div>
+            <div class="lbl">晋级次数</div>
+          </div>
+          <div class="modal-kpi-box">
+            <div class="val" style="color:var(--purple-neon);">${h.events_count || 0} 站</div>
+            <div class="lbl">参赛总站数</div>
+          </div>
+        </div>
+
+        <div style="margin-bottom: 20px;">
+          <h4 style="font-family: var(--font-heading); font-size: 1.05rem; margin-bottom: 8px; color: var(--text-main); display: flex; align-items: center; gap: 6px;">
+            <span>🏆 累计荣誉与斩获大奖 (${awardsList.length})</span>
+          </h4>
+          ${awardsHtml}
+        </div>
+
+        <div>
+          <h4 style="font-family: var(--font-heading); font-size: 1.05rem; margin-bottom: 8px; color: var(--text-main); display: flex; align-items: center; gap: 6px;">
+            <span>📅 历年赛事对决轨迹 (活跃赛季: ${escapeHtml(seasonsStr)})</span>
+          </h4>
+          ${eventsHtml}
+        </div>
+      `;
+
+      modal.classList.add("open");
+    }
+
+    function closeHistoryModal(e) {
+      if (e && e.target && e.target.classList.contains("history-modal-dialog")) return;
+      const modal = document.getElementById("historyModal");
+      if (modal) modal.classList.remove("open");
+    }
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+  </script>
+</body>
+</html>

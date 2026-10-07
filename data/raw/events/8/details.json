@@ -1,0 +1,206 @@
+{
+  "id": 8,
+  "name": "2023 Beyer High School",
+  "season": "2023 - MASTERPIECE (Challenge)",
+  "program": "FIRST LEGO League: Challenge",
+  "program_abbreviation": "fll_challenge",
+  "description": "",
+  "capacity": 18,
+  "total_registered": 18,
+  "level": {
+    "id": 7,
+    "name": "NorCal FLL-C : SF / East Bay / Capital Qualifiers",
+    "next_level": {
+      "id": 4,
+      "name": "NorCal FLL-C : SF / East Bay / Capital District Championship",
+      "next_level": null,
+      "previous_levels": [
+        {
+          "id": 7,
+          "name": "NorCal FLL-C : SF / East Bay / Capital Qualifiers"
+        }
+      ],
+      "registration_opens": "2023-12-31T08:00:00-08:00",
+      "preference_registration_enable": false,
+      "preference_registration_opens": null,
+      "preference_registration_closes": null,
+      "standard_model": true,
+      "season": 1
+    },
+    "previous_levels": [],
+    "registration_opens": "2023-10-01T08:00:00-07:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 1
+  },
+  "event_status": "closed",
+  "event_status_display": "Closed",
+  "status_v2": "complete",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 18,
+  "total_reserved": 0,
+  "start_time": "2023-11-18T08:00:00-08:00",
+  "end_time": "2023-11-18T18:00:00-08:00",
+  "all_details": [
+    {
+      "id": null,
+      "detail_type": "rg_tables",
+      "get_detail_type_display": "Robot Game",
+      "title": "Robot Game Tables",
+      "description": "This event will have <strong>1</strong> pair of Robot Game tables."
+    },
+    {
+      "id": null,
+      "detail_type": "judging_lanes",
+      "get_detail_type_display": "Judging",
+      "title": "Judging Pods",
+      "description": "This event will have <strong>3</strong> Judging Pods "
+    },
+    {
+      "id": null,
+      "detail_type": "advancement",
+      "get_detail_type_display": "Advancement Info",
+      "title": "Advancement",
+      "description": "This event advanced <strong>6</strong> teams to the Championship."
+    }
+  ],
+  "downloads": [],
+  "web_links": [],
+  "agenda_group": 2,
+  "agenda_items": [],
+  "public_agenda_items": [
+    {
+      "id": 708,
+      "title": "Team Check-in & Teams setup Pit table",
+      "description": "",
+      "start_time": "08:00:00",
+      "end_time": "08:45:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 709,
+      "title": "Coaches Meeting",
+      "description": "Meet with the Tournament Director, Judge Advisor and Head Referee.  The Judge Advisor will cover any Judging questions.The Head Referee will explain the queuing and Robot Game process at the event, as well as announce any new official Robot Game Updates.  The Tournament Director go through any last minute announcement or reminders.",
+      "start_time": "08:20:00",
+      "end_time": "08:40:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 710,
+      "title": "Opening Ceremony",
+      "description": "Please do your best to make room in the seating area.",
+      "start_time": "08:45:00",
+      "end_time": "09:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 711,
+      "title": "Team Judging & Robot Game Matches",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "16:15:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 712,
+      "title": "Pit Cleanup / Tear Down",
+      "description": "Teams should pick up belongings and clean up their pit area.",
+      "start_time": "16:15:00",
+      "end_time": "16:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 713,
+      "title": "Host Fun Activity",
+      "description": "",
+      "start_time": "16:30:00",
+      "end_time": "17:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 714,
+      "title": "Closing Ceremonies",
+      "description": "",
+      "start_time": "17:30:00",
+      "end_time": "18:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    }
+  ],
+  "venue": {
+    "name": "Beyer High School",
+    "city": "Modesto",
+    "state": "CA",
+    "zip_code": "95355",
+    "website": "https://beyer.mcs4kids.com/"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/8/",
+  "website_uri": "/en/event/8/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/8/#volunteer",
+  "team_stats": {
+    "teams": 18,
+    "students": 63,
+    "cities": [
+      "santa clara",
+      "san jose",
+      "pacific grove",
+      "salinas",
+      "sunnyvale",
+      "fremont",
+      "pleasanton",
+      "lathrop",
+      "tracy",
+      "rocklin",
+      "castro valley",
+      "cupertino"
+    ],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 1,
+    "info": {
+      "name": "MASTERPIECE (Challenge)",
+      "year": 2023,
+      "release": "2023-08-01T09:00:00-07:00",
+      "program": {
+        "id": 1,
+        "abbreviation": "fll_challenge",
+        "previous_program": 2,
+        "get_abbreviation_display": "FIRST LEGO League: Challenge",
+        "get_logo_path": "images/program_logos/fll_challenge_logo.png",
+        "enable_team_profile": true
+      },
+      "season_begins": "2023-05-01",
+      "get_logo_path": "images/season_logos/2023_fll_challenge.png"
+    },
+    "tableau_import_start": null,
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/232376968448978?fllteam=%team_number%",
+    "has_team_profile": false
+  },
+  "role_template": {
+    "id": 1,
+    "name": "2023 FLL-C 18 Team Qualifier"
+  },
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": true,
+  "is_complete": true
+}

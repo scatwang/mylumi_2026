@@ -1,0 +1,90 @@
+{
+  "id": 282,
+  "name": "2026 2026 NorCal FLL Explore Festival - San Jose (Afternoon) 5/2",
+  "season": "2025 - UNEARTHED (Explore)",
+  "program": "FIRST LEGO League: Explore",
+  "program_abbreviation": "fll_explore",
+  "description": "",
+  "capacity": 9,
+  "total_registered": 9,
+  "level": {
+    "id": 125,
+    "name": "NorCal FLL Explore Festivals UNEARTHED 2025/26",
+    "next_level": null,
+    "previous_levels": [],
+    "registration_opens": "2025-11-04T19:00:00-08:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 41
+  },
+  "event_status": "closed",
+  "event_status_display": "Closed",
+  "status_v2": "complete",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 9,
+  "total_reserved": 0,
+  "start_time": "2026-05-02T12:30:00-07:00",
+  "end_time": "2026-05-02T14:30:00-07:00",
+  "all_details": [],
+  "downloads": [],
+  "web_links": [],
+  "agenda_group": null,
+  "agenda_items": [],
+  "public_agenda_items": [],
+  "venue": {
+    "name": "The Play Space",
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95131",
+    "website": "https://www.theplayspace.org"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/282/",
+  "website_uri": "/en/event/282/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/282/#volunteer",
+  "team_stats": {
+    "teams": 9,
+    "students": 23,
+    "cities": [
+      "sunnyvale",
+      "gold river",
+      "fremont",
+      "santa clara",
+      "cupertino",
+      "los altos",
+      "san jose",
+      "mountain view"
+    ],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 41,
+    "info": {
+      "name": "UNEARTHED (Explore)",
+      "year": 2025,
+      "release": "2025-08-01T09:00:00-07:00",
+      "program": {
+        "id": 2,
+        "abbreviation": "fll_explore",
+        "previous_program": 3,
+        "get_abbreviation_display": "FIRST LEGO League: Explore",
+        "get_logo_path": "images/program_logos/fll_explore_logo.png",
+        "enable_team_profile": false
+      },
+      "season_begins": "2025-05-18",
+      "get_logo_path": "images/season_logos/2025_fll_explore.png"
+    },
+    "tableau_import_start": null,
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/252826332712959?fllteam=%team_number%",
+    "has_team_profile": false
+  },
+  "role_template": null,
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": false,
+  "is_complete": true
+}

@@ -1,0 +1,113 @@
+{
+  "count": 9,
+  "results": [
+    {
+      "id": 2233,
+      "team": {
+        "id": 1990,
+        "number": 4506,
+        "name": "Techno Cavs",
+        "city": "Sacramento",
+        "org_name": "Sacramento Country Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2234,
+      "team": {
+        "id": 2186,
+        "number": 59922,
+        "name": "Baxter's Builders",
+        "city": "Sacramento",
+        "org_name": "Sacramento Country Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2209,
+      "team": {
+        "id": 1911,
+        "number": 71984,
+        "name": "Lego Llamas",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2219,
+      "team": {
+        "id": 2337,
+        "number": 72039,
+        "name": "FLL Folsom Challenge team",
+        "city": "FOLSOM",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2221,
+      "team": {
+        "id": 2078,
+        "number": 72683,
+        "name": "Team Samurai",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2211,
+      "team": {
+        "id": 2106,
+        "number": 73045,
+        "name": "Archeo Tech",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2222,
+      "team": {
+        "id": 2247,
+        "number": 73217,
+        "name": "FLEAS: Fuzzy Little Evil Animals Squadron",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2218,
+      "team": {
+        "id": 2470,
+        "number": 73742,
+        "name": "Sphere Scavengers",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2220,
+      "team": {
+        "id": 2416,
+        "number": 74935,
+        "name": "FLL-A3SI",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

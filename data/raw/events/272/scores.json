@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 70468,
+      "name": "Future Finders",
+      "judging_lane_name": "RED POD 2",
+      "highest": 375,
+      "highest_display": 375,
+      "rounds": [
+        305,
+        285,
+        375
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        375,
+        305,
+        285
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 75128,
+      "name": "Corrupted Robot",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 330,
+      "highest_display": 330,
+      "rounds": [
+        165,
+        195,
+        330
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        330,
+        195,
+        165
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 70153,
+      "name": "rickroll",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 320,
+      "highest_display": 320,
+      "rounds": [
+        165,
+        240,
+        320
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        320,
+        240,
+        165
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 60788,
+      "name": "Sea Tractor",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        235,
+        270,
+        235
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        235,
+        235
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 74706,
+      "name": "Porky Oinks",
+      "judging_lane_name": "RED POD 2",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        240,
+        240,
+        205
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        240,
+        205
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 68590,
+      "name": "Fremont Wizwards",
+      "judging_lane_name": "RED POD 2",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        185,
+        240,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        195,
+        185
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 66522,
+      "name": "The Placeholders",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        170,
+        210,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        170,
+        160
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 71033,
+      "name": "TechnoTigers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        165,
+        205,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        165,
+        155
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 72801,
+      "name": "Super Kraken",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 200,
+      "highest_display": 200,
+      "rounds": [
+        190,
+        200,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Throw attachment, break mission model",
+        ""
+      ],
+      "rounds_sorted": [
+        200,
+        190,
+        160
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 74193,
+      "name": "Gear girls ",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        145,
+        170,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        170,
+        145
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 72654,
+      "name": "lightsaber",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        105,
+        105,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        105,
+        105
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 72024,
+      "name": "THE CREATORS",
+      "judging_lane_name": "RED POD 2",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        45,
+        90,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Teammates kept blaming each other",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        150,
+        90,
+        45
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

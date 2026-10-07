@@ -1,0 +1,209 @@
+{
+  "count": 17,
+  "results": [
+    {
+      "id": 7,
+      "team": {
+        "id": 162,
+        "number": 10585,
+        "name": "BRTC",
+        "city": "Hillsborough",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 246,
+      "team": {
+        "id": 161,
+        "number": 37482,
+        "name": "Team Brick 2.0",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 269,
+      "team": {
+        "id": 184,
+        "number": 44529,
+        "name": "Bernstein-Ghassemi",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 258,
+      "team": {
+        "id": 183,
+        "number": 44532,
+        "name": "Razzle Dazzle Robotics",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 80,
+      "team": {
+        "id": 71,
+        "number": 46302,
+        "name": "The Trampolines",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 262,
+      "team": {
+        "id": 359,
+        "number": 52702,
+        "name": "ArgoRobotics Team #3 - Argo-Haves",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 261,
+      "team": {
+        "id": 124,
+        "number": 56957,
+        "name": "ArgoRobotics Team #4 - Olympians",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 270,
+      "team": {
+        "id": 303,
+        "number": 56994,
+        "name": "BWX",
+        "city": "San Francisco",
+        "org_name": "Brightworks"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 276,
+      "team": {
+        "id": 292,
+        "number": 60152,
+        "name": "Masterpiecers",
+        "city": "Union city",
+        "org_name": "Code Ninjas"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 238,
+      "team": {
+        "id": 298,
+        "number": 60362,
+        "name": "Master  Droids",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 40,
+      "team": {
+        "id": 116,
+        "number": 61102,
+        "name": "Project Mercury CL",
+        "city": "San Francisco",
+        "org_name": "Claire Lilienthal Sch-Scott"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 280,
+      "team": {
+        "id": 343,
+        "number": 61205,
+        "name": "Woodland Robotics",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 281,
+      "team": {
+        "id": 123,
+        "number": 61775,
+        "name": "WeibelTeam",
+        "city": "Fremont",
+        "org_name": "Fred Weibel Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 265,
+      "team": {
+        "id": 289,
+        "number": 61856,
+        "name": "Digital Dawgs",
+        "city": "Los Altos Hills",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 272,
+      "team": {
+        "id": 301,
+        "number": 62429,
+        "name": "The Wild Bannas",
+        "city": "San Jose",
+        "org_name": "Avenues Silicon Valley"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 271,
+      "team": {
+        "id": 312,
+        "number": 62558,
+        "name": "The Wild Corndogs",
+        "city": "San Jose",
+        "org_name": "Avenues Silicon Valley"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 289,
+      "team": {
+        "id": 347,
+        "number": 62701,
+        "name": "Hillbrook Bears",
+        "city": "Los Gatos",
+        "org_name": "Hillbrook School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

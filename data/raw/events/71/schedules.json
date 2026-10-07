@@ -1,0 +1,145 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 31486,
+        "name": "Dolphins",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-12-07 13:15:00-08:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31566,
+        "name": "Little Lego Masters",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-12-07 13:15:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31596,
+        "name": "CV Roblocks",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-12-07 13:45:00-08:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 32093,
+        "name": "RoboDivers",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-12-07 13:45:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 32630,
+        "name": "HF Cubs",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-12-07 14:15:00-08:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33016,
+        "name": "Go Bears! ",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-12-07 14:15:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-12-07 13:15:00-08:00",
+            "length": 10,
+            "rooms": [
+              "31486 - Dolphins",
+              "31566 - Little Lego Masters"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-12-07 13:45:00-08:00",
+            "length": 10,
+            "rooms": [
+              "31596 - CV Roblocks",
+              "32093 - RoboDivers"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-12-07 14:15:00-08:00",
+            "length": 10,
+            "rooms": [
+              "32630 - HF Cubs",
+              "33016 - Go Bears! "
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-12-04 02:12:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

@@ -1,0 +1,43 @@
+{
+  "event_id": 314,
+  "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Pleasant Grove High School, Elk Grove",
+  "count": 3,
+  "teams": [
+    {
+      "id": 2307,
+      "team": {
+        "id": 2965,
+        "number": 4506,
+        "name": "Techno Cavs",
+        "city": "Sacramento",
+        "org_name": "Sacramento Country Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2360,
+      "team": {
+        "id": 2840,
+        "number": 72699,
+        "name": "Fantastic Four",
+        "city": "Fremont",
+        "org_name": "Fred E. Weibel Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2324,
+      "team": {
+        "id": 2624,
+        "number": 75809,
+        "name": "CyberBots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

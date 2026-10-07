@@ -1,0 +1,89 @@
+{
+  "count": 7,
+  "results": [
+    {
+      "id": 521,
+      "team": {
+        "id": 572,
+        "number": 21866,
+        "name": "BlueJay Master Builders",
+        "city": "San Ramon",
+        "org_name": "Quail Run Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 366,
+      "team": {
+        "id": 515,
+        "number": 24443,
+        "name": "Code O Bots",
+        "city": "Rocklin",
+        "org_name": "Code O World"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 389,
+      "team": {
+        "id": 513,
+        "number": 28665,
+        "name": "Lightning Stars",
+        "city": "Fremont",
+        "org_name": "Code Ninjas Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 383,
+      "team": {
+        "id": 526,
+        "number": 28930,
+        "name": "LegoLlamas",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 364,
+      "team": {
+        "id": 529,
+        "number": 29210,
+        "name": "Graystone Ninjas",
+        "city": "San Jose",
+        "org_name": "Graystone Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 363,
+      "team": {
+        "id": 543,
+        "number": 29211,
+        "name": "Graystone Sparks",
+        "city": "San Jose",
+        "org_name": "Graystone Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 367,
+      "team": {
+        "id": 536,
+        "number": 29974,
+        "name": "Robo Boys",
+        "city": "Fremont",
+        "org_name": "Fred Weibel Elementary School, Delaine Eastin Elem School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

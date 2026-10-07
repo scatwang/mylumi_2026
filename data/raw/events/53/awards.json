@@ -1,0 +1,234 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 211,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 53,
+        "team": {
+          "number": 60388,
+          "name": "Cosmic Motor",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Saratoga",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 217,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "Miruthu Bashimi Namaduria",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 53,
+        "team": {
+          "number": 61139,
+          "name": "Lightning Squad",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Folsom",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 215,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 53,
+        "team": {
+          "number": 59703,
+          "name": "brick-o-brainiacs pioneers",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Tracy",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 214,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 53,
+        "team": {
+          "number": 20915,
+          "name": "TroBots",
+          "org_name": "",
+          "org": {
+            "name": ""
+          },
+          "city": "Burlingame",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 213,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 53,
+        "team": {
+          "number": 52508,
+          "name": "Oakland Short Circuits",
+          "org_name": "Piedmont Makers",
+          "org": {
+            "name": "Piedmont Makers"
+          },
+          "city": "Oakland",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 212,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 53,
+        "team": {
+          "number": 60388,
+          "name": "Cosmic Motor",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Saratoga",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": [
+      {
+        "id": 216,
+        "award_type": {
+          "id": 6,
+          "name": "Rising All-Star Award",
+          "display_name": "Rising All-Star Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 53,
+        "team": {
+          "number": 67290,
+          "name": "VXL",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Folsom",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ]
+  }
+}

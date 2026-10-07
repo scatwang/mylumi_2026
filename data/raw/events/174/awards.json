@@ -1,0 +1,41 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [],
+    "other": [
+      {
+        "id": 695,
+        "award_type": {
+          "id": 6,
+          "name": "Rising All-Star Award",
+          "display_name": "Rising All-Star Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 174,
+        "team": {
+          "number": 61803,
+          "name": "Robosaurs",
+          "org_name": "Foothill Elementary School",
+          "org": {
+            "name": "Foothill Elementary School"
+          },
+          "city": "Saratoga",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ]
+  }
+}

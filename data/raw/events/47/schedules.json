@@ -1,0 +1,920 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 5983,
+        "name": "GOATed Griffins (5983)",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-09 11:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-09 15:20:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 7052,
+        "name": "OP Octopi",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-11-09 14:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-11-09 16:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 7453,
+        "name": "Political Penguins",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-09 12:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-09 14:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-09 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61685,
+        "name": "Noddin Dynabots",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2024-11-09 11:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-11-09 14:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-09 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 13:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61708,
+        "name": "Squirtle",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-09 15:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 62140,
+        "name": "Team St.Anne",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2024-11-09 11:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-09 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 13:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66342,
+        "name": "KiloNuggets",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 10:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-09 13:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-09 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66715,
+        "name": "Oceanic Champs",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-09 12:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-09 13:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-09 15:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66764,
+        "name": "Celsius and Beyond ",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-09 11:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-09 13:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-09 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67854,
+        "name": "Superstars",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-09 14:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-09 15:20:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68652,
+        "name": "Cowculators",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-11-09 11:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-09 13:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-09 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68847,
+        "name": "St.Anne Stars",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 10:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-11-09 11:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-11-09 16:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-11-09 10:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66764 - Celsius and Beyond ",
+              "5983 - GOATed Griffins (5983)"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-11-09 10:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66715 - Oceanic Champs",
+              "7453 - Political Penguins"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-11-09 11:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "67854 - Superstars",
+              "61708 - Squirtle"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-11-09 13:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "62140 - Team St.Anne",
+              "61685 - Noddin Dynabots"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2024-11-09 13:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "68847 - St.Anne Stars",
+              "68652 - Cowculators"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2024-11-09 14:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66342 - KiloNuggets",
+              "7052 - OP Octopi"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 581,
+        "name": "TABLE A"
+      },
+      {
+        "id": 582,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2024-11-09 09:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66764 - Celsius and Beyond ",
+          "#61708 - Squirtle"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2024-11-09 09:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#7453 - Political Penguins",
+          "#5983 - GOATed Griffins (5983)"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2024-11-09 09:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#67854 - Superstars",
+          "#66715 - Oceanic Champs"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2024-11-09 10:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#62140 - Team St.Anne",
+          "#7052 - OP Octopi"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2024-11-09 10:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#68652 - Cowculators",
+          "#61685 - Noddin Dynabots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2024-11-09 10:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66342 - KiloNuggets",
+          "#68847 - St.Anne Stars"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2024-11-09 10:40:00-08:00",
+        "length": 5,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2024-11-09 10:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61708 - Squirtle",
+          "#67854 - Superstars"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2024-11-09 11:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61685 - Noddin Dynabots",
+          "#62140 - Team St.Anne"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2024-11-09 11:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#68652 - Cowculators",
+          "#68847 - St.Anne Stars"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2024-11-09 11:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#7052 - OP Octopi",
+          "#66342 - KiloNuggets"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2024-11-09 11:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#5983 - GOATed Griffins (5983)",
+          "#66764 - Celsius and Beyond "
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2024-11-09 12:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#7453 - Political Penguins",
+          "#66715 - Oceanic Champs"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2024-11-09 12:10:00-08:00",
+        "length": 65,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2024-11-09 13:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66342 - KiloNuggets",
+          "#68652 - Cowculators"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2024-11-09 13:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66715 - Oceanic Champs",
+          "#66764 - Celsius and Beyond "
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2024-11-09 13:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61708 - Squirtle",
+          "#5983 - GOATed Griffins (5983)"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2024-11-09 14:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#7052 - OP Octopi",
+          "#61685 - Noddin Dynabots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2024-11-09 14:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#67854 - Superstars",
+          "#7453 - Political Penguins"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2024-11-09 14:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#68847 - St.Anne Stars",
+          "#62140 - Team St.Anne"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2024-11-09 14:40:00-08:00",
+        "length": 30,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2024-11-09 15:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66764 - Celsius and Beyond ",
+          "#7453 - Political Penguins"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2024-11-09 15:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#5983 - GOATed Griffins (5983)",
+          "#67854 - Superstars"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2024-11-09 15:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66715 - Oceanic Champs",
+          "#61708 - Squirtle"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2024-11-09 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#62140 - Team St.Anne",
+          "#68652 - Cowculators"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2024-11-09 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61685 - Noddin Dynabots",
+          "#66342 - KiloNuggets"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2024-11-09 16:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#68847 - St.Anne Stars",
+          "#7052 - OP Octopi"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-11-04 02:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": []
+}

@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 1603,
+      "team": {
+        "id": 2115,
+        "number": 17493,
+        "name": "17493",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1538,
+      "team": {
+        "id": 2119,
+        "number": 25573,
+        "name": "25573",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1539,
+      "team": {
+        "id": 2011,
+        "number": 61949,
+        "name": "Ultraviolet",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1599,
+      "team": {
+        "id": 1758,
+        "number": 66137,
+        "name": "Build Guild - SBR",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1552,
+      "team": {
+        "id": 1766,
+        "number": 66444,
+        "name": "CyberPirates",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1516,
+      "team": {
+        "id": 1594,
+        "number": 71128,
+        "name": "MidKnight Marvels",
+        "city": "Sunnyvale",
+        "org_name": "The King's Academy"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1600,
+      "team": {
+        "id": 1975,
+        "number": 72298,
+        "name": "Muir Robotics Gold",
+        "city": "Sunnyvale",
+        "org_name": "John Muir Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1639,
+      "team": {
+        "id": 1978,
+        "number": 72366,
+        "name": "Muir Robotics Blue",
+        "city": "Sunnyvale",
+        "org_name": "John Muir Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1612,
+      "team": {
+        "id": 1979,
+        "number": 72371,
+        "name": "SBR TEAM RED",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1591,
+      "team": {
+        "id": 1980,
+        "number": 72379,
+        "name": "SBR TEAM ORANGE",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1595,
+      "team": {
+        "id": 1981,
+        "number": 72380,
+        "name": "SBR TEAM GREEN",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1557,
+      "team": {
+        "id": 2191,
+        "number": 72909,
+        "name": "Argo Robotics Team 255",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

@@ -1,0 +1,1183 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 64638,
+      "name": "Brain Bots",
+      "judging_lane_name": "Yellow Pod 1 -  HK201",
+      "highest": 540,
+      "highest_display": 540,
+      "rounds": [
+        525,
+        400,
+        540,
+        485
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        540,
+        525,
+        485,
+        400
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 62314,
+      "name": "Cyber Sharks",
+      "judging_lane_name": "Orange Pod 5 -  HK301",
+      "highest": 500,
+      "highest_display": 500,
+      "rounds": [
+        410,
+        500,
+        500,
+        450
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        500,
+        500,
+        450,
+        410
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 60787,
+      "name": "Shelby",
+      "judging_lane_name": "Green Pod 3 -  HK219",
+      "highest": 460,
+      "highest_display": 460,
+      "rounds": [
+        415,
+        460,
+        355,
+        410
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        460,
+        415,
+        410,
+        355
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 62268,
+      "name": "Delta Cosmic coders",
+      "judging_lane_name": "Green Pod 3 -  HK219",
+      "highest": 455,
+      "highest_display": 455,
+      "rounds": [
+        270,
+        260,
+        455,
+        350
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        455,
+        350,
+        270,
+        260
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 65840,
+      "name": "Graystone Ninjas",
+      "judging_lane_name": "Green Pod 3 -  HK219",
+      "highest": 450,
+      "highest_display": 450,
+      "rounds": [
+        285,
+        450,
+        350,
+        305
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        450,
+        350,
+        305,
+        285
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 57600,
+      "name": "Delta Rovers",
+      "judging_lane_name": "Purple Pod 6 -  HK302",
+      "highest": 440,
+      "highest_display": 440,
+      "rounds": [
+        440,
+        365,
+        425,
+        280
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        440,
+        425,
+        365,
+        280
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 60069,
+      "name": "NINDROIDS",
+      "judging_lane_name": "Red Pod 2 -  HK202",
+      "highest": 415,
+      "highest_display": 415,
+      "rounds": [
+        395,
+        330,
+        415,
+        385
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        415,
+        395,
+        385,
+        330
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 48793,
+      "name": "Team Mountain House",
+      "judging_lane_name": "Yellow Pod 1 -  HK201",
+      "highest": 405,
+      "highest_display": 405,
+      "rounds": [
+        315,
+        405,
+        355,
+        395
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        405,
+        395,
+        355,
+        315
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 62984,
+      "name": "Eagle Bots 2024",
+      "judging_lane_name": "Red Pod 2 -  HK202",
+      "highest": 405,
+      "highest_display": 405,
+      "rounds": [
+        325,
+        385,
+        405,
+        365
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        405,
+        385,
+        365,
+        325
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 65018,
+      "name": "Brickbots",
+      "judging_lane_name": "Yellow Pod 1 -  HK201",
+      "highest": 375,
+      "highest_display": 375,
+      "rounds": [
+        315,
+        375,
+        365,
+        335
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        375,
+        365,
+        335,
+        315
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 66285,
+      "name": "Alpha Zeta",
+      "judging_lane_name": "Purple Pod 6 -  HK302",
+      "highest": 375,
+      "highest_display": 375,
+      "rounds": [
+        305,
+        345,
+        320,
+        375
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        375,
+        345,
+        320,
+        305
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 60868,
+      "name": "iBots",
+      "judging_lane_name": "Red Pod 2 -  HK202",
+      "highest": 355,
+      "highest_display": 355,
+      "rounds": [
+        335,
+        355,
+        270,
+        355
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        "Cheerful and positive in any situation"
+      ],
+      "rounds_sorted": [
+        355,
+        355,
+        335,
+        270
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 56940,
+      "name": "RoboMasters",
+      "judging_lane_name": "Red Pod 2 -  HK202",
+      "highest": 355,
+      "highest_display": 355,
+      "rounds": [
+        335,
+        355,
+        185,
+        255
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        355,
+        335,
+        255,
+        185
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 67473,
+      "name": "Krazy Krillionaires",
+      "judging_lane_name": "Blue Pod 4 -  HK222",
+      "highest": 330,
+      "highest_display": 330,
+      "rounds": [
+        330,
+        270,
+        295,
+        295
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        330,
+        295,
+        295,
+        270
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 62005,
+      "name": "Lego Legends",
+      "judging_lane_name": "Blue Pod 4 -  HK222",
+      "highest": 320,
+      "highest_display": 320,
+      "rounds": [
+        320,
+        245,
+        250,
+        220
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        320,
+        250,
+        245,
+        220
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 65569,
+      "name": "Tassajara Bots",
+      "judging_lane_name": "Red Pod 2 -  HK202",
+      "highest": 290,
+      "highest_display": 290,
+      "rounds": [
+        200,
+        290,
+        180,
+        235
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        290,
+        235,
+        200,
+        180
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 65978,
+      "name": "Notre Dame Robotics - Blue Team",
+      "judging_lane_name": "Blue Pod 4 -  HK222",
+      "highest": 290,
+      "highest_display": 290,
+      "rounds": [
+        230,
+        195,
+        155,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        290,
+        230,
+        195,
+        155
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 56459,
+      "name": "Code Warriors",
+      "judging_lane_name": "Yellow Pod 1 -  HK201",
+      "highest": 285,
+      "highest_display": 285,
+      "rounds": [
+        140,
+        255,
+        285,
+        245
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        285,
+        255,
+        245,
+        140
+      ],
+      "ordinal": "18th"
+    },
+    {
+      "ranking": 19,
+      "number": 58666,
+      "name": "Techno Bricks",
+      "judging_lane_name": "Yellow Pod 1 -  HK201",
+      "highest": 285,
+      "highest_display": 285,
+      "rounds": [
+        285,
+        225,
+        195,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        285,
+        225,
+        195,
+        155
+      ],
+      "ordinal": "19th"
+    },
+    {
+      "ranking": 20,
+      "number": 60338,
+      "name": "Astrocubs",
+      "judging_lane_name": "Green Pod 3 -  HK219",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        280,
+        270,
+        270,
+        270
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        270,
+        270,
+        270
+      ],
+      "ordinal": "20th"
+    },
+    {
+      "ranking": 21,
+      "number": 58380,
+      "name": "Lego Masters1",
+      "judging_lane_name": "Red Pod 2 -  HK202",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        275,
+        150,
+        245,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        250,
+        245,
+        150
+      ],
+      "ordinal": "21st"
+    },
+    {
+      "ranking": 22,
+      "number": 65690,
+      "name": "Shady Sashimi 65690",
+      "judging_lane_name": "Orange Pod 5 -  HK301",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        270,
+        175,
+        245,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        260,
+        245,
+        175
+      ],
+      "ordinal": "22nd"
+    },
+    {
+      "ranking": 23,
+      "number": 53140,
+      "name": "Fin Finders",
+      "judging_lane_name": "Orange Pod 5 -  HK301",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        260,
+        170,
+        205,
+        270
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        260,
+        205,
+        170
+      ],
+      "ordinal": "23rd"
+    },
+    {
+      "ranking": 24,
+      "number": 66894,
+      "name": "Oceanic Explorers",
+      "judging_lane_name": "Purple Pod 6 -  HK302",
+      "highest": 265,
+      "highest_display": 265,
+      "rounds": [
+        265,
+        180,
+        220,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        265,
+        220,
+        190,
+        180
+      ],
+      "ordinal": "24th"
+    },
+    {
+      "ranking": 25,
+      "number": 67150,
+      "name": "Coding Ninjas",
+      "judging_lane_name": "Blue Pod 4 -  HK222",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        190,
+        260,
+        245,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        250,
+        245,
+        190
+      ],
+      "ordinal": "25th"
+    },
+    {
+      "ranking": 26,
+      "number": 56489,
+      "name": "Gear Girls",
+      "judging_lane_name": "Purple Pod 6 -  HK302",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        245,
+        190,
+        250,
+        230
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        245,
+        230,
+        190
+      ],
+      "ordinal": "26th"
+    },
+    {
+      "ranking": 27,
+      "number": 20915,
+      "name": "TroBots",
+      "judging_lane_name": "Purple Pod 6 -  HK302",
+      "highest": 245,
+      "highest_display": 245,
+      "rounds": [
+        155,
+        155,
+        245,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        245,
+        155,
+        155,
+        130
+      ],
+      "ordinal": "27th"
+    },
+    {
+      "ranking": 28,
+      "number": 61611,
+      "name": "Electro-Phoenix",
+      "judging_lane_name": "Blue Pod 4 -  HK222",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        190,
+        185,
+        240,
+        205
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        205,
+        190,
+        185
+      ],
+      "ordinal": "28th"
+    },
+    {
+      "ranking": 29,
+      "number": 55976,
+      "name": "Megamind Mechanics",
+      "judging_lane_name": "Green Pod 3 -  HK219",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        235,
+        185,
+        200,
+        235
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        235,
+        200,
+        185
+      ],
+      "ordinal": "29th"
+    },
+    {
+      "ranking": 30,
+      "number": 60981,
+      "name": "WinsLab",
+      "judging_lane_name": "Orange Pod 5 -  HK301",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        180,
+        75,
+        235,
+        230
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        230,
+        180,
+        75
+      ],
+      "ordinal": "30th"
+    },
+    {
+      "ranking": 31,
+      "number": 66110,
+      "name": "Bot-of-Water",
+      "judging_lane_name": "Orange Pod 5 -  HK301",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        155,
+        160,
+        135,
+        235
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        160,
+        155,
+        135
+      ],
+      "ordinal": "31st"
+    },
+    {
+      "ranking": 32,
+      "number": 61990,
+      "name": "MIGHTY MINDS",
+      "judging_lane_name": "Orange Pod 5 -  HK301",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        100,
+        190,
+        215,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        215,
+        190,
+        100
+      ],
+      "ordinal": "32nd"
+    },
+    {
+      "ranking": 33,
+      "number": 4979,
+      "name": "Aquabots",
+      "judging_lane_name": "Green Pod 3 -  HK219",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        225,
+        145,
+        210,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        210,
+        190,
+        145
+      ],
+      "ordinal": "33rd"
+    },
+    {
+      "ranking": 34,
+      "number": 57125,
+      "name": "Incredibuilders",
+      "judging_lane_name": "Yellow Pod 1 -  HK201",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        190,
+        190,
+        220,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        210,
+        190,
+        190
+      ],
+      "ordinal": "34th"
+    },
+    {
+      "ranking": 35,
+      "number": 8278,
+      "name": "Titanium Turtles",
+      "judging_lane_name": "Yellow Pod 1 -  HK201",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        205,
+        220,
+        115,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        205,
+        165,
+        115
+      ],
+      "ordinal": "35th"
+    },
+    {
+      "ranking": 36,
+      "number": 53592,
+      "name": "Tiger Robotics 1",
+      "judging_lane_name": "Orange Pod 5 -  HK301",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        210,
+        165,
+        140,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        165,
+        140,
+        130
+      ],
+      "ordinal": "36th"
+    },
+    {
+      "ranking": 37,
+      "number": 56339,
+      "name": "Electric Sources",
+      "judging_lane_name": "Green Pod 3 -  HK219",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        180,
+        125,
+        120,
+        120
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        125,
+        120,
+        120
+      ],
+      "ordinal": "37th"
+    },
+    {
+      "ranking": 38,
+      "number": 60958,
+      "name": "FLL-C 60958 -- The Great White Sharks",
+      "judging_lane_name": "Red Pod 2 -  HK202",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        175,
+        75,
+        100,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        165,
+        100,
+        75
+      ],
+      "ordinal": "38th"
+    },
+    {
+      "ranking": 39,
+      "number": 67232,
+      "name": "Terminators",
+      "judging_lane_name": "Purple Pod 6 -  HK302",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        115,
+        140,
+        120,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        165,
+        140,
+        120,
+        115
+      ],
+      "ordinal": "39th"
+    },
+    {
+      "ranking": 40,
+      "number": 67058,
+      "name": "Coral Keepers",
+      "judging_lane_name": "Blue Pod 4 -  HK222",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        150,
+        150,
+        65,
+        120
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        150,
+        150,
+        120,
+        65
+      ],
+      "ordinal": "40th"
+    },
+    {
+      "ranking": 41,
+      "number": 60956,
+      "name": "The Stanlicorns",
+      "judging_lane_name": "Blue Pod 4 -  HK222",
+      "highest": 140,
+      "highest_display": 140,
+      "rounds": [
+        45,
+        95,
+        105,
+        140
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        140,
+        105,
+        95,
+        45
+      ],
+      "ordinal": "41st"
+    },
+    {
+      "ranking": 42,
+      "number": 60642,
+      "name": "Code CrasherZ",
+      "judging_lane_name": "Purple Pod 6 -  HK302",
+      "highest": 125,
+      "highest_display": 125,
+      "rounds": [
+        70,
+        125,
+        100,
+        120
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        125,
+        120,
+        100,
+        70
+      ],
+      "ordinal": "42nd"
+    }
+  ],
+  "number_of_rounds": 4,
+  "show_results": true
+}

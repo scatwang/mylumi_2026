@@ -1,0 +1,457 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 60085,
+      "name": "Lego Artisans",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 465,
+      "highest_display": 465,
+      "rounds": [
+        465,
+        445,
+        285
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        465,
+        445,
+        285
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 70148,
+      "name": "TerraKnights",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 375,
+      "highest_display": 375,
+      "rounds": [
+        325,
+        350,
+        375
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        375,
+        350,
+        325
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 30516,
+      "name": "Cheerios FLL-C 30516",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 350,
+      "highest_display": 350,
+      "rounds": [
+        340,
+        350,
+        300
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        350,
+        340,
+        300
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 61692,
+      "name": "Blue Bots",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        340,
+        245,
+        235
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        340,
+        245,
+        235
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 72044,
+      "name": "Earth Giants",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 310,
+      "highest_display": 310,
+      "rounds": [
+        225,
+        310,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Insisted on the fairness of the game by taking away a token that the ref missed. Good sportsmanship to the other competing team"
+      ],
+      "rounds_sorted": [
+        310,
+        260,
+        225
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 8560,
+      "name": "ProGRAHAMers",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 295,
+      "highest_display": 295,
+      "rounds": [
+        255,
+        295,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        295,
+        255,
+        210
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 12287,
+      "name": "Pantherbots JV",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        180,
+        280,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        180,
+        105
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 72923,
+      "name": "Waffle",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 265,
+      "highest_display": 265,
+      "rounds": [
+        265,
+        230,
+        205
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        265,
+        230,
+        205
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 9726,
+      "name": "Stampede",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        260,
+        225,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        225,
+        130
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 32759,
+      "name": "LEGOstangs",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 200,
+      "highest_display": 200,
+      "rounds": [
+        160,
+        200,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        200,
+        180,
+        160
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 56793,
+      "name": "BCS Blue Team: Paleo-Paws",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        170,
+        195,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        170,
+        145
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 18197,
+      "name": "Flashfang",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 190,
+      "highest_display": 190,
+      "rounds": [
+        135,
+        110,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        190,
+        135,
+        110
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 67149,
+      "name": "Imagination Lab School Team",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        180,
+        145,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        180,
+        145
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 17492,
+      "name": "17492",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        155,
+        105,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        155,
+        105
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 68558,
+      "name": "M-A Cubs 2",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 140,
+      "highest_display": 140,
+      "rounds": [
+        140,
+        120,
+        140
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        140,
+        140,
+        120
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 68559,
+      "name": "M-A Cubs 3",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 105,
+      "highest_display": 105,
+      "rounds": [
+        60,
+        105,
+        65
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        105,
+        65,
+        60
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 68560,
+      "name": "M-A Cubs 4",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 90,
+      "highest_display": 90,
+      "rounds": [
+        50,
+        90,
+        30
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        90,
+        50,
+        30
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 68557,
+      "name": "M-A Cubs 1",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 75,
+      "highest_display": 75,
+      "rounds": [
+        50,
+        75,
+        65
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        75,
+        65,
+        50
+      ],
+      "ordinal": "18th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

@@ -1,0 +1,239 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 23545,
+        "name": "Thunderbolts",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-01-20 14:15:00-08:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 26216,
+        "name": "Sonic Bots",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-01-20 15:15:00-08:00",
+            "room_name": "Blue",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28738,
+        "name": "Throwouts",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-01-20 14:15:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28872,
+        "name": "Astro Bot",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-01-20 14:45:00-08:00",
+            "room_name": "Blue",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28935,
+        "name": "Legosaurus Rex",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-01-20 15:15:00-08:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28976,
+        "name": "Explorers",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-01-20 14:45:00-08:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29192,
+        "name": "LEGO {Coder} Dudes",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-01-20 14:45:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29201,
+        "name": "SparkSteam I",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-01-20 13:45:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29601,
+        "name": "Fairmeadow Explorers",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-01-20 13:45:00-08:00",
+            "room_name": "Blue",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29602,
+        "name": "Fairmeadow Builders",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-01-20 13:45:00-08:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29660,
+        "name": "SparkSteam II",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-01-20 14:15:00-08:00",
+            "room_name": "Blue",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29674,
+        "name": "RI Robo Rockets",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-01-20 15:15:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          },
+          {
+            "name": "Blue"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-01-20 13:45:00-08:00",
+            "length": 10,
+            "rooms": [
+              "29602",
+              "29201",
+              "29601"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-01-20 14:15:00-08:00",
+            "length": 10,
+            "rooms": [
+              "23545",
+              "28738",
+              "29660"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-01-20 14:45:00-08:00",
+            "length": 10,
+            "rooms": [
+              "28976",
+              "29192",
+              "28872"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-01-20 15:15:00-08:00",
+            "length": 10,
+            "rooms": [
+              "28935",
+              "29674",
+              "26216"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-01-07 01:30:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

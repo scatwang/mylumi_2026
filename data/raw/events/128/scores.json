@@ -1,0 +1,457 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 56271,
+      "name": "Mechanical Arts",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        180,
+        235,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Arguing within team",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        195,
+        180
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 69653,
+      "name": "Robo Legends",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        210,
+        220,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        210,
+        195
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 69595,
+      "name": "TechnoBots",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        215,
+        145,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        215,
+        145,
+        130
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 68377,
+      "name": "Gemini",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        180,
+        130,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Good cheer up if missions went wrong",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        130,
+        105
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 67440,
+      "name": "BayBots",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        135,
+        175,
+        175
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        175,
+        135
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 61093,
+      "name": "Golden Dolphins",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        145,
+        165,
+        95
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        165,
+        145,
+        95
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 70153,
+      "name": "rickroll",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        140,
+        140,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        165,
+        140,
+        140
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 66603,
+      "name": "Fletcher Robotigers",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        130,
+        120,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        130,
+        120
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 69065,
+      "name": "Mustang QuadRacers",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        150,
+        85,
+        60
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        150,
+        85,
+        60
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 67407,
+      "name": "Robot Thunder X",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 145,
+      "highest_display": 145,
+      "rounds": [
+        140,
+        100,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        145,
+        140,
+        100
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 68960,
+      "name": "Poseidon Engineers",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 145,
+      "highest_display": 145,
+      "rounds": [
+        135,
+        145,
+        120
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        145,
+        135,
+        120
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 70300,
+      "name": "DCADS Exo Cubs",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 140,
+      "highest_display": 140,
+      "rounds": [
+        125,
+        120,
+        140
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        140,
+        125,
+        120
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 67678,
+      "name": "RoboSquad",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 115,
+      "highest_display": 115,
+      "rounds": [
+        115,
+        90,
+        70
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        115,
+        90,
+        70
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 66920,
+      "name": "SparkleBots1",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 110,
+      "highest_display": 110,
+      "rounds": [
+        105,
+        105,
+        110
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        110,
+        105,
+        105
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 68775,
+      "name": "Little Scholar ACE",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 95,
+      "highest_display": 95,
+      "rounds": [
+        50,
+        95,
+        60
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Shouting at each other",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        95,
+        60,
+        50
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 66739,
+      "name": "Lakshmi Adusumilli",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        0,
+        0,
+        0
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "No Show",
+        "No show",
+        "No show"
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 16,
+      "number": 67142,
+      "name": "Dreamers",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        0,
+        0,
+        0
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "No show",
+        "No show"
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 16,
+      "number": 69253,
+      "name": "The Marines",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        0,
+        0,
+        0
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "No show",
+        "No Show",
+        "No Show"
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": "16th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

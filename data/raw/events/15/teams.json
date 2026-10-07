@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 65,
+      "team": {
+        "id": 233,
+        "number": 2847,
+        "name": "Crescendo Coders",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 106,
+      "team": {
+        "id": 236,
+        "number": 4978,
+        "name": "Maroon Five",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 13,
+      "team": {
+        "id": 315,
+        "number": 8278,
+        "name": "Titanium Turtles",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 6,
+      "team": {
+        "id": 304,
+        "number": 8347,
+        "name": "Brickaroos",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 23,
+      "team": {
+        "id": 307,
+        "number": 8445,
+        "name": "Ultra Mega Technologies",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 21,
+      "team": {
+        "id": 297,
+        "number": 8743,
+        "name": "Challenge - Team 4 Rewired",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 121,
+      "team": {
+        "id": 106,
+        "number": 9726,
+        "name": "Kenneth Glassey",
+        "city": "Santa Clara",
+        "org_name": "Monticello Academy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 67,
+      "team": {
+        "id": 239,
+        "number": 17493,
+        "name": "Krafty Kids",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 50,
+      "team": {
+        "id": 66,
+        "number": 51054,
+        "name": "Techno Masters",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 87,
+      "team": {
+        "id": 129,
+        "number": 53086,
+        "name": "Discovery Eagles",
+        "city": "San Jose",
+        "org_name": "Discovery Charter School 1"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 17,
+      "team": {
+        "id": 210,
+        "number": 53140,
+        "name": "Van Gophers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 126,
+      "team": {
+        "id": 92,
+        "number": 53278,
+        "name": "Magnetronics",
+        "city": "San Ramon",
+        "org_name": "Tri Valley Robotics"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 111,
+      "team": {
+        "id": 5,
+        "number": 59926,
+        "name": "TechnoDragonz",
+        "city": "Fremont",
+        "org_name": "John M. Horner Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 45,
+      "team": {
+        "id": 261,
+        "number": 60683,
+        "name": "TechStrikePrecision",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 56,
+      "team": {
+        "id": 54,
+        "number": 60868,
+        "name": "iBots",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 102,
+      "team": {
+        "id": 155,
+        "number": 61167,
+        "name": "Foothill 2023B",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 98,
+      "team": {
+        "id": 58,
+        "number": 61387,
+        "name": "CCL",
+        "city": "Mountain View",
+        "org_name": "YCIS Silicon Valley"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 70,
+      "team": {
+        "id": 268,
+        "number": 61602,
+        "name": "Hacksaw Siesta",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

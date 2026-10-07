@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 73373,
+      "name": "The Sigmas",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        200,
+        220,
+        240
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        220,
+        200
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 75134,
+      "name": "Muir Spring Team",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        155,
+        165,
+        215
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        215,
+        165,
+        155
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 75162,
+      "name": "TNT Crew (SP)",
+      "judging_lane_name": "RED POD 2",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        210,
+        105,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        185,
+        105
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 75160,
+      "name": "NinjaBots (SP)",
+      "judging_lane_name": "RED POD 2",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        70,
+        145,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        145,
+        70
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 72419,
+      "name": "RoboRangers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        115,
+        170,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        170,
+        135,
+        115
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 57290,
+      "name": "Cyberspace Crusader",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        150,
+        160,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        160,
+        150
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 75159,
+      "name": "Build Guild (SP)",
+      "judging_lane_name": "RED POD 2",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        155,
+        135,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        145,
+        135
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 75136,
+      "name": "Dig It",
+      "judging_lane_name": "RED POD 2",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        145,
+        150,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        150,
+        145,
+        130
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 75163,
+      "name": "Master Builders (SP)",
+      "judging_lane_name": "RED POD 2",
+      "highest": 145,
+      "highest_display": 145,
+      "rounds": [
+        145,
+        130,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Very downplaying the others",
+        ""
+      ],
+      "rounds_sorted": [
+        145,
+        130,
+        115
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 75135,
+      "name": "Robotic Dragons",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 125,
+      "highest_display": 125,
+      "rounds": [
+        125,
+        65,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        125,
+        105,
+        65
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 75161,
+      "name": "Energized Smarty Pants (SP)",
+      "judging_lane_name": "RED POD 2",
+      "highest": 115,
+      "highest_display": 115,
+      "rounds": [
+        80,
+        115,
+        100
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Bickering and shouting a lot",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        115,
+        100,
+        80
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 59995,
+      "name": "Bricks you step on ",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 105,
+      "highest_display": 105,
+      "rounds": [
+        55,
+        80,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        105,
+        80,
+        55
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

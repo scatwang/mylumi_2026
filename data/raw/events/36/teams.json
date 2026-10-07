@@ -1,0 +1,101 @@
+{
+  "count": 8,
+  "results": [
+    {
+      "id": 557,
+      "team": {
+        "id": 504,
+        "number": 26422,
+        "name": "Golden Ninja",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 552,
+      "team": {
+        "id": 522,
+        "number": 29087,
+        "name": "Kinetic Bots",
+        "city": "San Jose",
+        "org_name": "James Franklin Smith Elem Sch"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 558,
+      "team": {
+        "id": 548,
+        "number": 29097,
+        "name": "Lego Champs",
+        "city": "San Jose",
+        "org_name": "Tom Matsumoto Elem School, Carolyn a Clark Elementary Sch"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 555,
+      "team": {
+        "id": 591,
+        "number": 29180,
+        "name": "Brick@Slayers",
+        "city": "Alameda",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 551,
+      "team": {
+        "id": 528,
+        "number": 29246,
+        "name": "Creative Girls",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 554,
+      "team": {
+        "id": 609,
+        "number": 29802,
+        "name": "Marvelous",
+        "city": "Saratoga",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 559,
+      "team": {
+        "id": 574,
+        "number": 29805,
+        "name": "ARTomic Explosions",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 553,
+      "team": {
+        "id": 467,
+        "number": 30186,
+        "name": "4 Terrific Techs",
+        "city": "Palo Alto",
+        "org_name": "Hoover Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

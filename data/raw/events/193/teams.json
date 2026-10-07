@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 1822,
+      "team": {
+        "id": 1690,
+        "number": 60033,
+        "name": "Pokémon ",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1774,
+      "team": {
+        "id": 1713,
+        "number": 61016,
+        "name": "Mecha Lions FLL A",
+        "city": "San Jose",
+        "org_name": "Stratford Preparatory"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1773,
+      "team": {
+        "id": 1714,
+        "number": 61017,
+        "name": "Mecha Lions FLL B",
+        "city": "San Jose",
+        "org_name": "Stratford Preparatory"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1775,
+      "team": {
+        "id": 1757,
+        "number": 66078,
+        "name": "Pleasanton Explorers",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1779,
+      "team": {
+        "id": 1770,
+        "number": 66764,
+        "name": "Celsius and Beyond ",
+        "city": "San Francisco",
+        "org_name": "Celsius and Beyond"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1821,
+      "team": {
+        "id": 1771,
+        "number": 66785,
+        "name": "Orange,Peach",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1823,
+      "team": {
+        "id": 2015,
+        "number": 66816,
+        "name": "Six Stars",
+        "city": "Palo Alto",
+        "org_name": "Herbert Hoover Elementary"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1786,
+      "team": {
+        "id": 2288,
+        "number": 73526,
+        "name": "Evergreen Mangoes",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1783,
+      "team": {
+        "id": 2197,
+        "number": 73527,
+        "name": "EV Lutions",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1782,
+      "team": {
+        "id": 2195,
+        "number": 73528,
+        "name": "Zap Squad",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1785,
+      "team": {
+        "id": 2196,
+        "number": 73529,
+        "name": "K-Pop LEGO Hunters",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1824,
+      "team": {
+        "id": 2257,
+        "number": 74260,
+        "name": "Brickaneers",
+        "city": "Fremount",
+        "org_name": "Mission San Jose Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

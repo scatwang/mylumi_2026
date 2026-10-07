@@ -1,0 +1,101 @@
+{
+  "count": 8,
+  "results": [
+    {
+      "id": 1011,
+      "team": {
+        "id": 792,
+        "number": 26216,
+        "name": "Sonicbots",
+        "city": "Rocklin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1013,
+      "team": {
+        "id": 1029,
+        "number": 26386,
+        "name": "Cool Kids",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1005,
+      "team": {
+        "id": 1056,
+        "number": 29513,
+        "name": "Legolanders",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1017,
+      "team": {
+        "id": 743,
+        "number": 31054,
+        "name": "Deep Blue Voyager",
+        "city": "Livermore",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1018,
+      "team": {
+        "id": 1361,
+        "number": 31130,
+        "name": "Team Dino",
+        "city": "Campbell",
+        "org_name": "Stratford School - San Jose, Stratford School - Santa Clara Pomeroy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1004,
+      "team": {
+        "id": 1046,
+        "number": 31850,
+        "name": "HawkBots",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 624,
+      "team": {
+        "id": 1060,
+        "number": 32055,
+        "name": "Explorers",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 994,
+      "team": {
+        "id": 1075,
+        "number": 32416,
+        "name": "Otterbots",
+        "city": "Menlo Park",
+        "org_name": "Oak Knoll Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

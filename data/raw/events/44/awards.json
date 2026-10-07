@@ -1,0 +1,201 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 272,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 44,
+        "team": {
+          "number": 67473,
+          "name": "Krazy Krillionaires",
+          "org_name": "Williams Elementary",
+          "org": {
+            "name": "Williams Elementary"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 277,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "Katherine Oania",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 44,
+        "team": {
+          "number": 68707,
+          "name": "HF Bears",
+          "org_name": "Holy Family School",
+          "org": {
+            "name": "Holy Family School"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 276,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 44,
+        "team": {
+          "number": 67232,
+          "name": "Terminators",
+          "org_name": "Burlingame Intermediate",
+          "org": {
+            "name": "Burlingame Intermediate"
+          },
+          "city": "Burlingame",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 275,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 44,
+        "team": {
+          "number": 60956,
+          "name": "The Stanlicorns",
+          "org_name": "St martin of Tours",
+          "org": {
+            "name": "St martin of Tours"
+          },
+          "city": "san jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 274,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 44,
+        "team": {
+          "number": 55976,
+          "name": "Megamind Mechanics",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Los Altos",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 273,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 44,
+        "team": {
+          "number": 67473,
+          "name": "Krazy Krillionaires",
+          "org_name": "Williams Elementary",
+          "org": {
+            "name": "Williams Elementary"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": []
+  }
+}

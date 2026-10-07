@@ -1,0 +1,598 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 367,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 56860,
+          "name": "RoboShockers",
+          "org_name": "Harvest Park Middle School",
+          "org": {
+            "name": "Harvest Park Middle School"
+          },
+          "city": "Pleasanton",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 369,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "place": 2,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 64052,
+          "name": "ThunderBots",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Fremont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 371,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 65953,
+          "name": "Infinity E-Bots",
+          "org_name": "Cottonwood Creek",
+          "org": {
+            "name": "Cottonwood Creek"
+          },
+          "city": "Dublin",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 372,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 2,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 60388,
+          "name": "Cosmic Motor",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Saratoga",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 374,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 65287,
+          "name": "RoboWizards7",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Folsom",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 375,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 2,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 60855,
+          "name": "GearShift",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Fremont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 376,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 7052,
+          "name": "OP Octopi",
+          "org_name": "St. Gabriel School",
+          "org": {
+            "name": "St. Gabriel School"
+          },
+          "city": "San Francisco",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 377,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 2,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 51095,
+          "name": "CreaTech",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Fremont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 378,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 52090,
+          "name": "Canary1",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Francisco",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 379,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 2,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 60037,
+          "name": "BuilderBots",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Fremont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 380,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "Mike Mullen",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 445,
+          "name": "Matsuyama RoboPines",
+          "org_name": "Matsuyama Elementary School",
+          "org": {
+            "name": "Matsuyama Elementary School"
+          },
+          "city": "Sacramento",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 381,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "Devin Jackson",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 5983,
+          "name": "GOATed Griffins (5983)",
+          "org_name": "Foothill Middle School",
+          "org": {
+            "name": "Foothill Middle School"
+          },
+          "city": "Walnut Creek",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": [
+      {
+        "id": 382,
+        "award_type": {
+          "id": 10,
+          "name": "CT Kids Choice Award:  Favorite Pit Design",
+          "display_name": "CT Kids Choice Award:  Favorite Pit Design",
+          "category": "other",
+          "has_place": false,
+          "color": "violet-300",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 60388,
+          "name": "Cosmic Motor",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Saratoga",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 383,
+        "award_type": {
+          "id": 12,
+          "name": "CT Kids Choice Award:  Favorite Team Costume",
+          "display_name": "CT Kids Choice Award:  Favorite Team Costume",
+          "category": "other",
+          "has_place": false,
+          "color": "violet-300",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 61610,
+          "name": "Argoclucks",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "ALBANY",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 384,
+        "award_type": {
+          "id": 11,
+          "name": "CT Kids Choice Award:  Favorite Robot and/or attachment",
+          "display_name": "CT Kids Choice Award:  Favorite Robot and/or attachment",
+          "category": "other",
+          "has_place": false,
+          "color": "violet-300",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 60388,
+          "name": "Cosmic Motor",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Saratoga",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 373,
+        "award_type": {
+          "id": 13,
+          "name": "CT Kids Choice Award:  Favorite team chant",
+          "display_name": "CT Kids Choice Award:  Favorite team chant",
+          "category": "other",
+          "has_place": false,
+          "color": "violet-300",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 68202,
+          "name": "Soaring Seastars",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Fremont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 370,
+        "award_type": {
+          "id": 14,
+          "name": "CT Kids Choice Award:  Best team giveaway",
+          "display_name": "CT Kids Choice Award:  Best team giveaway",
+          "category": "other",
+          "has_place": false,
+          "color": "violet-300",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 56860,
+          "name": "RoboShockers",
+          "org_name": "Harvest Park Middle School",
+          "org": {
+            "name": "Harvest Park Middle School"
+          },
+          "city": "Pleasanton",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 368,
+        "award_type": {
+          "id": 9,
+          "name": "CT Kids Choice Award:  Coolest Innovation Project",
+          "display_name": "CT Kids Choice Award:  Coolest Innovation Project",
+          "category": "other",
+          "has_place": false,
+          "color": "violet-300",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 77,
+        "team": {
+          "number": 60388,
+          "name": "Cosmic Motor",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Saratoga",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ]
+  }
+}

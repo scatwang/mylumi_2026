@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 1871,
+      "team": {
+        "id": 1636,
+        "number": 8278,
+        "name": "Titanium Turtles",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1655,
+      "team": {
+        "id": 1917,
+        "number": 60497,
+        "name": "Apollo 6",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1667,
+      "team": {
+        "id": 1736,
+        "number": 65319,
+        "name": "DCADS Robo Cubs",
+        "city": "Santa Clara",
+        "org_name": "Don Callejon"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1721,
+      "team": {
+        "id": 1752,
+        "number": 65885,
+        "name": "Ocean Plate Explorers",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1625,
+      "team": {
+        "id": 1759,
+        "number": 66208,
+        "name": "Bob the Builders",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1632,
+      "team": {
+        "id": 1805,
+        "number": 70221,
+        "name": "BroBots - SBR",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1905,
+      "team": {
+        "id": 2154,
+        "number": 71480,
+        "name": "Westlake Robotics ",
+        "city": "Oakland",
+        "org_name": "Westlake Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1517,
+      "team": {
+        "id": 2102,
+        "number": 72968,
+        "name": "robojets",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1597,
+      "team": {
+        "id": 2205,
+        "number": 73368,
+        "name": "Guardians of the Ground",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1638,
+      "team": {
+        "id": 2202,
+        "number": 73699,
+        "name": "Cambrian Titans",
+        "city": "San Jose",
+        "org_name": "Union Middle, Dartmouth Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1902,
+      "team": {
+        "id": 2237,
+        "number": 74113,
+        "name": "Undecided Team 7-8",
+        "city": "San Jose",
+        "org_name": "Holy Family School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1689,
+      "team": {
+        "id": 2256,
+        "number": 74164,
+        "name": "M-A Cubs 5",
+        "city": "Menlo Park",
+        "org_name": "La Entrada Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

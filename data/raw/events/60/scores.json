@@ -1,0 +1,457 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 60759,
+      "name": "Cat-a-Bots",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 290,
+      "highest_display": 290,
+      "rounds": [
+        265,
+        290,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        290,
+        290,
+        265
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 54977,
+      "name": "Menlo Park Narleaotters",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        260,
+        180,
+        275
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        260,
+        180
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 65685,
+      "name": "Ocean Engineers",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        95,
+        240,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        225,
+        95
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 65278,
+      "name": "Hydrobots",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        205,
+        235,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        205,
+        165
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 67342,
+      "name": "Sharks",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        225,
+        150,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Cheered when other team missed a mission and fought with teammates",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        225,
+        150
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 65595,
+      "name": "Team Sigma",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        210,
+        145,
+        110
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        145,
+        110
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 58043,
+      "name": "Hacking Hornets",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        205,
+        185,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        185,
+        185
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 8560,
+      "name": "ProGRAHAMers",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        150,
+        195,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        150,
+        150
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 17491,
+      "name": "H2Flow",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        165,
+        185,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        165,
+        135
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 67150,
+      "name": "Coding Ninjas",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        155,
+        185,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        155,
+        150
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 69277,
+      "name": "Oceanic Operators",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        150,
+        65,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        150,
+        65
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 61932,
+      "name": "BCS Golden Oceaneers",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        140,
+        130,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        170,
+        140,
+        130
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 65979,
+      "name": "Notre Dame Robotics - Red Team",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        155,
+        130,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        165,
+        155,
+        130
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 65319,
+      "name": "DCADS Robo Cubs",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        150,
+        125,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        165,
+        150,
+        125
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 67289,
+      "name": "Electric Eels",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        160,
+        125,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        125,
+        105
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 17493,
+      "name": "Whale Whisperers",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 130,
+      "highest_display": 130,
+      "rounds": [
+        130,
+        105,
+        120
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        130,
+        120,
+        105
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 67149,
+      "name": "URB Ultimate Robotic Builders",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 130,
+      "highest_display": 130,
+      "rounds": [
+        95,
+        130,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        130,
+        105,
+        95
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 47206,
+      "name": "Owlz",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 110,
+      "highest_display": 110,
+      "rounds": [
+        95,
+        110,
+        110
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        110,
+        110,
+        95
+      ],
+      "ordinal": "18th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

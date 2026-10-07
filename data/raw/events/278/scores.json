@@ -1,0 +1,232 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 72683,
+      "name": "Team Samurai",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 325,
+      "highest_display": 325,
+      "rounds": [
+        115,
+        325,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        325,
+        210,
+        115
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 71984,
+      "name": "Lego Llamas",
+      "judging_lane_name": "RED POD 2",
+      "highest": 320,
+      "highest_display": 320,
+      "rounds": [
+        240,
+        250,
+        320
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        320,
+        250,
+        240
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 73045,
+      "name": "Archeo Tech",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 265,
+      "highest_display": 265,
+      "rounds": [
+        165,
+        265,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        265,
+        195,
+        165
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 72039,
+      "name": "FLL Folsom Challenge team",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        225,
+        230,
+        240
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        230,
+        225
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 74935,
+      "name": "FLL-A3SI",
+      "judging_lane_name": "RED POD 2",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        100,
+        210,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        150,
+        100
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 4506,
+      "name": "Techno Cavs",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        205,
+        205,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        205,
+        190
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 59922,
+      "name": "Baxter's Builders",
+      "judging_lane_name": "RED POD 2",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        145,
+        195,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        145,
+        145
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 73742,
+      "name": "Sphere Scavengers",
+      "judging_lane_name": "RED POD 2",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        140,
+        140,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        140,
+        140
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 73217,
+      "name": "FLEAS: Fuzzy Little Evil Animals Squadron",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 110,
+      "highest_display": 110,
+      "rounds": [
+        85,
+        110,
+        80
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        110,
+        85,
+        80
+      ],
+      "ordinal": "9th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

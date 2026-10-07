@@ -1,0 +1,457 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 66438,
+      "name": "Fearsome 5",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 295,
+      "highest_display": 295,
+      "rounds": [
+        295,
+        255,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        295,
+        255,
+        225
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 67086,
+      "name": "Any Fling",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 295,
+      "highest_display": 295,
+      "rounds": [
+        205,
+        295,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Had a cheer",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        295,
+        205,
+        130
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 66066,
+      "name": "blue_bobcat",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        225,
+        230,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        225,
+        225
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 65572,
+      "name": "Lego Llamas",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        145,
+        225,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        160,
+        145
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 70221,
+      "name": "BroBots - SBR Team Sunnyvale",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        150,
+        210,
+        125
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "2 members seem to not get along too well",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        150,
+        125
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 66986,
+      "name": "CCDS Krillers",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        195,
+        135,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        150,
+        135
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 69207,
+      "name": "Depth",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 190,
+      "highest_display": 190,
+      "rounds": [
+        130,
+        175,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        190,
+        175,
+        130
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 68659,
+      "name": "It's Raining Legos",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        155,
+        155,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        155,
+        155
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 67668,
+      "name": "Robo Warriors",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        145,
+        185,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        145,
+        130
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 66816,
+      "name": "Seven Seas",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        175,
+        135,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        150,
+        135
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 65321,
+      "name": "DCADS - Astro Cubs",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        155,
+        115,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        145,
+        115
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 63333,
+      "name": "Jaguars",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        145,
+        155,
+        60
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        145,
+        60
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 65320,
+      "name": "DCADS - Cyber Cubs",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        70,
+        155,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        105,
+        70
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 61246,
+      "name": "Hedgie Power",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 145,
+      "highest_display": 145,
+      "rounds": [
+        145,
+        145,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        145,
+        145,
+        130
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 70238,
+      "name": "Trapped in Union City",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 120,
+      "highest_display": 120,
+      "rounds": [
+        100,
+        120,
+        120
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        120,
+        120,
+        100
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 69748,
+      "name": "Just Bob",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 120,
+      "highest_display": 120,
+      "rounds": [
+        80,
+        120,
+        120
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        120,
+        120,
+        80
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 66137,
+      "name": "Build Guild - SBR Team Cupertino",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 120,
+      "highest_display": 120,
+      "rounds": [
+        120,
+        105,
+        75
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Had an argument btwn 2 people at the start",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        120,
+        105,
+        75
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 69747,
+      "name": "Boa Conductors",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 105,
+      "highest_display": 105,
+      "rounds": [
+        105,
+        105,
+        85
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        105,
+        105,
+        85
+      ],
+      "ordinal": "18th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

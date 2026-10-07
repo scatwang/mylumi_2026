@@ -1,0 +1,101 @@
+{
+  "count": 8,
+  "results": [
+    {
+      "id": 1477,
+      "team": {
+        "id": 795,
+        "number": 28352,
+        "name": "Lego_Knights",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1482,
+      "team": {
+        "id": 796,
+        "number": 28665,
+        "name": "Master Builder",
+        "city": "Fremont",
+        "org_name": "Code Ninjas Union City"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1478,
+      "team": {
+        "id": 1031,
+        "number": 29038,
+        "name": "Creative Crew",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1473,
+      "team": {
+        "id": 1064,
+        "number": 29192,
+        "name": "LEGO {Coder} Dudes",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1472,
+      "team": {
+        "id": 1020,
+        "number": 31611,
+        "name": "Cornellians",
+        "city": "Albany",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1474,
+      "team": {
+        "id": 1052,
+        "number": 31910,
+        "name": "Bot Busters",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1471,
+      "team": {
+        "id": 1358,
+        "number": 33308,
+        "name": "Shark Masters",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1470,
+      "team": {
+        "id": 1417,
+        "number": 33557,
+        "name": "Serendipitous",
+        "city": "San Carlos",
+        "org_name": "Serendipity School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

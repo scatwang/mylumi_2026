@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 318,
+      "team": {
+        "id": 362,
+        "number": 37811,
+        "name": "OwOls",
+        "city": "Danville",
+        "org_name": "Athenian School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 342,
+      "team": {
+        "id": 379,
+        "number": 39742,
+        "name": "QLS MiniBytes",
+        "city": "Dublin",
+        "org_name": "The Quarry Lane School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 336,
+      "team": {
+        "id": 380,
+        "number": 39789,
+        "name": "QLS MegaBytes",
+        "city": "Pleasanton",
+        "org_name": "The Quarry Lane School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 333,
+      "team": {
+        "id": 381,
+        "number": 47621,
+        "name": "QLS Flashbots",
+        "city": "Dublin",
+        "org_name": "Quarry Lane School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 334,
+      "team": {
+        "id": 382,
+        "number": 47622,
+        "name": "QLS CloudBots",
+        "city": "Dublin",
+        "org_name": "The Quarry Lane School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 314,
+      "team": {
+        "id": 398,
+        "number": 56940,
+        "name": "RoboMasters",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 306,
+      "team": {
+        "id": 345,
+        "number": 59943,
+        "name": "THESHOOTINGSTARS",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 319,
+      "team": {
+        "id": 393,
+        "number": 60113,
+        "name": "Next Gen Robos",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 296,
+      "team": {
+        "id": 199,
+        "number": 61301,
+        "name": "Fantastic Fource",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 300,
+      "team": {
+        "id": 352,
+        "number": 61406,
+        "name": "STEAM Bots",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 316,
+      "team": {
+        "id": 378,
+        "number": 62552,
+        "name": "Fieldbots",
+        "city": "Belmont",
+        "org_name": "Field Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 335,
+      "team": {
+        "id": 395,
+        "number": 63582,
+        "name": "QLS PoppeBots",
+        "city": "Dublin",
+        "org_name": "The Quarry Lane School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

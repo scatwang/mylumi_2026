@@ -1,0 +1,268 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 694,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 189,
+        "team": {
+          "number": 48793,
+          "name": "Mountain House",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Mountain House",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 693,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "place": 2,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 189,
+        "team": {
+          "number": 68202,
+          "name": "Curious Earthlings",
+          "org_name": "",
+          "org": {
+            "name": ""
+          },
+          "city": "Fremont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 692,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 189,
+        "team": {
+          "number": 68040,
+          "name": "MH Quantum",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Mountain House",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 689,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 189,
+        "team": {
+          "number": 60855,
+          "name": "GearShift",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Fremont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 690,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 189,
+        "team": {
+          "number": 61139,
+          "name": "Lightning Squad",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Folsom",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 691,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 189,
+        "team": {
+          "number": 65287,
+          "name": "RoboWizards7",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Folsom",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 687,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "Purushotham G. Lala Balaji",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 189,
+        "team": {
+          "number": 72907,
+          "name": "Argo Robotics Team 253",
+          "org_name": "Argonaut Elementary",
+          "org": {
+            "name": "Argonaut Elementary"
+          },
+          "city": "Saratoga",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": [
+      {
+        "id": 688,
+        "award_type": {
+          "id": 6,
+          "name": "Rising All-Star Award",
+          "display_name": "Rising All-Star Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 189,
+        "team": {
+          "number": 72060,
+          "name": "Robo Wizards",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Rancho Cordova",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 1567,
+      "team": {
+        "id": 2111,
+        "number": 4978,
+        "name": "4978",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1629,
+      "team": {
+        "id": 1641,
+        "number": 10585,
+        "name": "Code Crackers",
+        "city": "Hillsborough",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1725,
+      "team": {
+        "id": 1894,
+        "number": 34265,
+        "name": "EagleBots",
+        "city": "San Jose",
+        "org_name": "Queen of Apostles School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1522,
+      "team": {
+        "id": 1670,
+        "number": 52305,
+        "name": "Master Oogway",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1648,
+      "team": {
+        "id": 2152,
+        "number": 52561,
+        "name": "Brilliant Beavers",
+        "city": "San Carlos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1720,
+      "team": {
+        "id": 1695,
+        "number": 60296,
+        "name": "Stormy Knights",
+        "city": "San Jose",
+        "org_name": "Graystone Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1788,
+      "team": {
+        "id": 2187,
+        "number": 60433,
+        "name": "Sigma Squad",
+        "city": "Santa Clara",
+        "org_name": "St Lawrence Elem & Middle Sch"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1877,
+      "team": {
+        "id": 1707,
+        "number": 60956,
+        "name": "The Stanlicorns",
+        "city": "Campbell",
+        "org_name": "St Martin of Tours School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1875,
+      "team": {
+        "id": 1711,
+        "number": 60987,
+        "name": "The fighting pickles",
+        "city": "San Jose",
+        "org_name": "St Martin of Tours School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1789,
+      "team": {
+        "id": 1918,
+        "number": 61769,
+        "name": "Omegas",
+        "city": "Santa Clara",
+        "org_name": "St Lawrence Elem & Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1722,
+      "team": {
+        "id": 1719,
+        "number": 61803,
+        "name": "Robosaurs",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1699,
+      "team": {
+        "id": 1790,
+        "number": 67727,
+        "name": "Thunderbolts",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1897,
+      "team": {
+        "id": 2027,
+        "number": 68707,
+        "name": "The HF Glitch Mob - Syntax Terror",
+        "city": "San Jose",
+        "org_name": "Holy Family School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1723,
+      "team": {
+        "id": 2029,
+        "number": 68894,
+        "name": "GyroBots",
+        "city": "Fremont",
+        "org_name": "Mission San Jose Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1577,
+      "team": {
+        "id": 1588,
+        "number": 70487,
+        "name": "Circuit Brakers",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1679,
+      "team": {
+        "id": 1899,
+        "number": 70538,
+        "name": "Shovel Buddies",
+        "city": "SAN JOSE",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1542,
+      "team": {
+        "id": 1620,
+        "number": 71538,
+        "name": "Dino Diggers",
+        "city": "Palo Alto",
+        "org_name": "Oak Avenue Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1707,
+      "team": {
+        "id": 1621,
+        "number": 71598,
+        "name": "WIP",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "count": 8,
+  "results": [
+    {
+      "id": 1903,
+      "team": {
+        "id": 2088,
+        "number": 32416,
+        "name": "Otterbots",
+        "city": "Menlo Park",
+        "org_name": "Oak Knoll Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1899,
+      "team": {
+        "id": 1889,
+        "number": 32858,
+        "name": "Duveneck Dragons",
+        "city": "Palo Alto",
+        "org_name": "Duveneck Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1914,
+      "team": {
+        "id": 1808,
+        "number": 33854,
+        "name": "The Sigmas",
+        "city": "San Jose",
+        "org_name": "Steindorf STEAM K-8 Magnet, Bagby Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1915,
+      "team": {
+        "id": 2417,
+        "number": 34023,
+        "name": "100 People",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1900,
+      "team": {
+        "id": 1900,
+        "number": 34047,
+        "name": "Team W.H.A.L.E.",
+        "city": "El Cerrito",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1901,
+      "team": {
+        "id": 1814,
+        "number": 34140,
+        "name": "GeoBots",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1911,
+      "team": {
+        "id": 2336,
+        "number": 34627,
+        "name": "Wall-E-Bots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1910,
+      "team": {
+        "id": 2151,
+        "number": 34806,
+        "name": "Ice Cream",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

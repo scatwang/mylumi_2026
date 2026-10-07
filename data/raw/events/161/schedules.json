@@ -1,0 +1,180 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 28352,
+        "name": "Lego_Knights",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-12 13:30:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28665,
+        "name": "Master Builder",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-12 13:45:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29038,
+        "name": "Creative Crew",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-12 13:30:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29192,
+        "name": "LEGO {Coder} Dudes",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-12 13:45:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31611,
+        "name": "Cornellians",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-12 14:00:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31910,
+        "name": "Bot Busters",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-12 14:15:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33308,
+        "name": "Shark Masters",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-12 14:00:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33557,
+        "name": "Serendipitous",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-12 14:15:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-04-12 13:30:00-07:00",
+            "length": 10,
+            "rooms": [
+              "28352 - Lego_Knights",
+              "29038 - Creative Crew"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-04-12 13:45:00-07:00",
+            "length": 10,
+            "rooms": [
+              "28665 - Master Builder",
+              "29192 - LEGO {Coder} Dudes"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-04-12 14:00:00-07:00",
+            "length": 10,
+            "rooms": [
+              "31611 - Cornellians",
+              "33308 - Shark Masters"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-04-12 14:15:00-07:00",
+            "length": 10,
+            "rooms": [
+              "31910 - Bot Busters",
+              "33557 - Serendipitous"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-04-05 21:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

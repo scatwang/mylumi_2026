@@ -1,0 +1,65 @@
+{
+  "count": 5,
+  "results": [
+    {
+      "id": 1934,
+      "team": {
+        "id": 2125,
+        "number": 31094,
+        "name": "Lego Legends",
+        "city": "Campbell",
+        "org_name": "Stratford School - Santa Clara Pomeroy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1930,
+      "team": {
+        "id": 1931,
+        "number": 33799,
+        "name": "Scribbly Blablablas",
+        "city": "Los Altos",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1929,
+      "team": {
+        "id": 1926,
+        "number": 34204,
+        "name": "Diggin' Bots",
+        "city": "SANTA CLARA",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1931,
+      "team": {
+        "id": 2250,
+        "number": 34263,
+        "name": "ROBOCRAFT",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1932,
+      "team": {
+        "id": 2281,
+        "number": 35536,
+        "name": "Ancient Ruin Seekers",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

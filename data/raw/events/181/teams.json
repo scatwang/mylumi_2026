@@ -1,0 +1,293 @@
+{
+  "count": 24,
+  "results": [
+    {
+      "id": 1578,
+      "team": {
+        "id": 1632,
+        "number": 752,
+        "name": "Almaden Minors",
+        "city": "San Jose",
+        "org_name": "Williams Elementart School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1560,
+      "team": {
+        "id": 1674,
+        "number": 52522,
+        "name": "Heat Hackers",
+        "city": "San Ramon",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1688,
+      "team": {
+        "id": 1697,
+        "number": 60502,
+        "name": "CodeBreakerz",
+        "city": "San Ramon",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1680,
+      "team": {
+        "id": 1699,
+        "number": 60514,
+        "name": "The Time Travellers",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1530,
+      "team": {
+        "id": 1700,
+        "number": 60533,
+        "name": "Crypt Coders",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1562,
+      "team": {
+        "id": 1705,
+        "number": 60869,
+        "name": "Techno Troopers",
+        "city": "Newark",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1566,
+      "team": {
+        "id": 1722,
+        "number": 64638,
+        "name": "Brain Bots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1676,
+      "team": {
+        "id": 1724,
+        "number": 64698,
+        "name": "ROAR",
+        "city": "San Jose",
+        "org_name": "Basis Independent Silicon Vly"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1691,
+      "team": {
+        "id": 1778,
+        "number": 67086,
+        "name": "Any Fling",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1681,
+      "team": {
+        "id": 1784,
+        "number": 67289,
+        "name": "Electric Eels",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1588,
+      "team": {
+        "id": 1789,
+        "number": 67635,
+        "name": "Mission LEGO Legends",
+        "city": "Fremont",
+        "org_name": "Mission San Jose Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1559,
+      "team": {
+        "id": 2199,
+        "number": 67813,
+        "name": "Gears in Motion",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1529,
+      "team": {
+        "id": 1796,
+        "number": 68575,
+        "name": "Titan-Botics",
+        "city": "San Jose",
+        "org_name": "Stratford School - San Jose, Santa Teresa Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1596,
+      "team": {
+        "id": 1801,
+        "number": 69207,
+        "name": "Depth",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1637,
+      "team": {
+        "id": 1802,
+        "number": 69218,
+        "name": "Big Cheezus",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1673,
+      "team": {
+        "id": 2230,
+        "number": 71101,
+        "name": "BotSpark",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1660,
+      "team": {
+        "id": 1613,
+        "number": 71331,
+        "name": "Next Team",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1630,
+      "team": {
+        "id": 1619,
+        "number": 71535,
+        "name": "Logic Linked Fox",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1570,
+      "team": {
+        "id": 1897,
+        "number": 71616,
+        "name": " brick bots",
+        "city": "Saratoga",
+        "org_name": "Saratoga Elementary"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1687,
+      "team": {
+        "id": 2046,
+        "number": 71892,
+        "name": "Tech Titans",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1601,
+      "team": {
+        "id": 2163,
+        "number": 72717,
+        "name": "Robohawks",
+        "city": "Fremont",
+        "org_name": "William Hopkins Junior High"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1581,
+      "team": {
+        "id": 2164,
+        "number": 72775,
+        "name": "Bayarea Lego-nauts",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1563,
+      "team": {
+        "id": 2227,
+        "number": 72910,
+        "name": "Argo Robotics Team 256",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1553,
+      "team": {
+        "id": 2177,
+        "number": 73480,
+        "name": "Tech Titans",
+        "city": "San jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

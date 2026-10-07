@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 264,
+      "team": {
+        "id": 324,
+        "number": 30497,
+        "name": "FBI(Fascinating Bot Intelligence)",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 260,
+      "team": {
+        "id": 223,
+        "number": 52217,
+        "name": "Merryhill Knights",
+        "city": "Milpitas",
+        "org_name": "Merryhill School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 251,
+      "team": {
+        "id": 357,
+        "number": 52700,
+        "name": "ArgoRobotics Team #1- Skyhigh",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 257,
+      "team": {
+        "id": 358,
+        "number": 52701,
+        "name": "ArgoRobotics Team #2 - ArgoStars",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 273,
+      "team": {
+        "id": 367,
+        "number": 55513,
+        "name": "Marvelous Moochis",
+        "city": "Sunnyvale",
+        "org_name": ""
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 188,
+      "team": {
+        "id": 70,
+        "number": 55739,
+        "name": "Tech_Bears",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 170,
+      "team": {
+        "id": 65,
+        "number": 56511,
+        "name": "Super Charged",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 287,
+      "team": {
+        "id": 308,
+        "number": 60642,
+        "name": "Code CrasherZ",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 302,
+      "team": {
+        "id": 113,
+        "number": 61016,
+        "name": "Mecha-lions FLL A",
+        "city": "San Jose",
+        "org_name": "Stratford Preparatory"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 303,
+      "team": {
+        "id": 114,
+        "number": 61017,
+        "name": "Mecha-lions FLL B",
+        "city": "San Jose",
+        "org_name": "Stratford Preparatory"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 304,
+      "team": {
+        "id": 115,
+        "number": 61018,
+        "name": "Mecha-lions FLL C",
+        "city": "San Jose",
+        "org_name": "Stratford Preparatory"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 288,
+      "team": {
+        "id": 293,
+        "number": 61025,
+        "name": "ROBOT REVOLUTIONARIES",
+        "city": "Fremont",
+        "org_name": "Code Ninjas Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 286,
+      "team": {
+        "id": 294,
+        "number": 61093,
+        "name": "LEGO Nerds",
+        "city": "Fremont",
+        "org_name": "Code Ninjas Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 95,
+      "team": {
+        "id": 154,
+        "number": 61166,
+        "name": "Foothill 2023A",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 78,
+      "team": {
+        "id": 265,
+        "number": 61599,
+        "name": "Robusta",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 31,
+      "team": {
+        "id": 41,
+        "number": 61803,
+        "name": "RoboDolphins",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 253,
+      "team": {
+        "id": 360,
+        "number": 62000,
+        "name": "ArgoRobotics Team #5 - Da Crewmates",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 283,
+      "team": {
+        "id": 369,
+        "number": 62354,
+        "name": "Star Catchers",
+        "city": "San Jose",
+        "org_name": "Chaboya Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    }
+  ]
+}

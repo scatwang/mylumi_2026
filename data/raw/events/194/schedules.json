@@ -1,0 +1,900 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 461,
+        "name": "Terminatorz",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-09 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-11-09 11:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-11-09 13:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-11-09 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-09 13:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 24392,
+        "name": "Firedragons",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-09 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-11-09 12:00:00-08:00",
+            "length": 75,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-11-09 14:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-11-09 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-09 10:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 30517,
+        "name": "Ice Cream Sundays FLL-C 30517",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-09 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-09 11:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-09 13:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-11-09 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-09 10:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 58666,
+        "name": "Allstars Techno Bricks",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-09 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-09 11:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-09 13:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-11-09 15:20:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-09 10:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61938,
+        "name": "ZE Gamers",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-09 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2025-11-09 10:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-11-09 14:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-11-09 15:20:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-09 11:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65018,
+        "name": "Brickbotsfll",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-09 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-11-09 12:00:00-08:00",
+            "length": 75,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-09 13:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-11-09 15:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-09 10:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71504,
+        "name": "Little lego miners",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-09 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2025-11-09 11:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-11-09 14:30:00-08:00",
+            "length": 40,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-11-09 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-09 13:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72104,
+        "name": "Techwiz 2.0",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-09 10:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-11-09 11:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-11-09 14:30:00-08:00",
+            "length": 40,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-11-09 16:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-09 13:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72433,
+        "name": "Blach Unearthed Odyssey",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-09 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2025-11-09 10:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-09 13:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-11-09 15:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-09 11:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72841,
+        "name": "Haripriya Vangara",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-09 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-09 11:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-11-09 14:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-11-09 16:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-09 14:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73282,
+        "name": "Epsilon Scorpii",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-09 10:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-09 11:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-11-09 13:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-11-09 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-09 14:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73984,
+        "name": "PSV C0ders",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-09 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2025-11-09 11:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-11-09 14:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-11-09 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-09 13:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-11-09 10:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "30517 - Ice Cream Sundays FLL-C 30517",
+              "58666 - Allstars Techno Bricks"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-11-09 10:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "65018 - Brickbotsfll",
+              "24392 - Firedragons"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-11-09 11:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "61938 - ZE Gamers",
+              "72433 - Blach Unearthed Odyssey"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-11-09 13:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "71504 - Little lego miners",
+              "73984 - PSV C0ders"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2025-11-09 13:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "72104 - Techwiz 2.0",
+              "461 - Terminatorz"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2025-11-09 14:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "73282 - Epsilon Scorpii",
+              "72841 - Haripriya Vangara"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 989,
+        "name": "TABLE A"
+      },
+      {
+        "id": 990,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2025-11-09 09:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#30517 - Ice Cream Sundays FLL-C 30517",
+          "#72433 - Blach Unearthed Odyssey"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2025-11-09 09:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#24392 - Firedragons",
+          "#58666 - Allstars Techno Bricks"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2025-11-09 09:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61938 - ZE Gamers",
+          "#65018 - Brickbotsfll"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2025-11-09 10:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#71504 - Little lego miners",
+          "#72841 - Haripriya Vangara"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2025-11-09 10:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#461 - Terminatorz",
+          "#73984 - PSV C0ders"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2025-11-09 10:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#73282 - Epsilon Scorpii",
+          "#72104 - Techwiz 2.0"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2025-11-09 10:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#72433 - Blach Unearthed Odyssey",
+          "#61938 - ZE Gamers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2025-11-09 11:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#73984 - PSV C0ders",
+          "#71504 - Little lego miners"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2025-11-09 11:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#461 - Terminatorz",
+          "#72104 - Techwiz 2.0"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2025-11-09 11:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#72841 - Haripriya Vangara",
+          "#73282 - Epsilon Scorpii"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2025-11-09 11:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#58666 - Allstars Techno Bricks",
+          "#30517 - Ice Cream Sundays FLL-C 30517"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2025-11-09 12:00:00-08:00",
+        "length": 75,
+        "tables": [
+          "#24392 - Firedragons",
+          "#65018 - Brickbotsfll"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2025-11-09 13:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#73282 - Epsilon Scorpii",
+          "#461 - Terminatorz"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2025-11-09 13:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#65018 - Brickbotsfll",
+          "#30517 - Ice Cream Sundays FLL-C 30517"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2025-11-09 13:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#72433 - Blach Unearthed Odyssey",
+          "#58666 - Allstars Techno Bricks"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2025-11-09 14:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#72841 - Haripriya Vangara",
+          "#73984 - PSV C0ders"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2025-11-09 14:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61938 - ZE Gamers",
+          "#24392 - Firedragons"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2025-11-09 14:30:00-08:00",
+        "length": 40,
+        "tables": [
+          "#72104 - Techwiz 2.0",
+          "#71504 - Little lego miners"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2025-11-09 15:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#30517 - Ice Cream Sundays FLL-C 30517",
+          "#24392 - Firedragons"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2025-11-09 15:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#58666 - Allstars Techno Bricks",
+          "#61938 - ZE Gamers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2025-11-09 15:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#65018 - Brickbotsfll",
+          "#72433 - Blach Unearthed Odyssey"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2025-11-09 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#71504 - Little lego miners",
+          "#461 - Terminatorz"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2025-11-09 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#73984 - PSV C0ders",
+          "#73282 - Epsilon Scorpii"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2025-11-09 16:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72104 - Techwiz 2.0",
+          "#72841 - Haripriya Vangara"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-10-28 04:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    1761,
+    1763,
+    1767,
+    1736,
+    1768,
+    1770,
+    1743,
+    1744,
+    1745,
+    1746,
+    1751,
+    1758
+  ]
+}

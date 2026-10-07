@@ -1,0 +1,77 @@
+{
+  "count": 6,
+  "results": [
+    {
+      "id": 352,
+      "team": {
+        "id": 525,
+        "number": 28584,
+        "name": "Legorators",
+        "city": "San Jose",
+        "org_name": "Almaden Country School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 339,
+      "team": {
+        "id": 508,
+        "number": 28689,
+        "name": "Master Minds",
+        "city": "Sacramento",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 338,
+      "team": {
+        "id": 514,
+        "number": 28998,
+        "name": "Cuckoo Carrots",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 354,
+      "team": {
+        "id": 524,
+        "number": 29198,
+        "name": "SanRamonBuilders",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 337,
+      "team": {
+        "id": 460,
+        "number": 29203,
+        "name": "Little Masters",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 345,
+      "team": {
+        "id": 523,
+        "number": 29489,
+        "name": "TechnoBots",
+        "city": "Fremont",
+        "org_name": "Family/Community, Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

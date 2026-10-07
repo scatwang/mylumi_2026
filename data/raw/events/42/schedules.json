@@ -1,0 +1,741 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 52561,
+        "name": "Brilliant Beavers",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-04-27 10:25:00-07:00",
+            "length": 20,
+            "table_name": "Blue Table B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-04-27 11:45:00-07:00",
+            "length": 15,
+            "table_name": "Red Table A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-04-27 14:00:00-07:00",
+            "length": 15,
+            "table_name": "Red Table A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-04-27 15:05:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-04-27 11:00:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 58828,
+        "name": "ShortCircuit",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-04-27 09:05:00-07:00",
+            "length": 20,
+            "table_name": "Red Table A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-04-27 12:00:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-04-27 13:45:00-07:00",
+            "length": 15,
+            "table_name": "Red Table A",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-04-27 15:15:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-04-27 10:15:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 59559,
+        "name": "The Masterminds",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-04-27 10:05:00-07:00",
+            "length": 20,
+            "table_name": "Blue Table B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2024-04-27 11:15:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table B",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-04-27 14:15:00-07:00",
+            "length": 15,
+            "table_name": "Red Table A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-04-27 15:25:00-07:00",
+            "length": 20,
+            "table_name": "Red Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-04-27 13:00:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60383,
+        "name": "DCS Astro Cubs",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-04-27 09:25:00-07:00",
+            "length": 20,
+            "table_name": "Red Table A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-04-27 12:00:00-07:00",
+            "length": 15,
+            "table_name": "Red Table A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-04-27 14:00:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-04-27 15:25:00-07:00",
+            "length": 20,
+            "table_name": "Blue Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-04-27 11:00:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60787,
+        "name": "Shelby",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-04-27 10:25:00-07:00",
+            "length": 20,
+            "table_name": "Red Table A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2024-04-27 11:30:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table B",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2024-04-27 13:30:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-04-27 14:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-04-27 09:30:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 62720,
+        "name": "The Golden Group",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-04-27 10:05:00-07:00",
+            "length": 20,
+            "table_name": "Red Table A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2024-04-27 11:00:00-07:00",
+            "length": 15,
+            "table_name": "Red Table A",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-04-27 13:15:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-04-27 14:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-04-27 13:45:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 63993,
+        "name": "HSS Robotics 63993",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-04-27 09:05:00-07:00",
+            "length": 20,
+            "table_name": "Blue Table B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-04-27 11:45:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table B",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2024-04-27 13:30:00-07:00",
+            "length": 15,
+            "table_name": "Red Table A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-04-27 14:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-04-27 09:30:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 64724,
+        "name": "Happy Banana",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-04-27 09:25:00-07:00",
+            "length": 20,
+            "table_name": "Blue Table B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2024-04-27 11:30:00-07:00",
+            "length": 15,
+            "table_name": "Red Table A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-04-27 13:45:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table B",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-04-27 15:05:00-07:00",
+            "length": 10,
+            "table_name": "Red Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-04-27 10:15:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 64757,
+        "name": "Greater Than One",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-04-27 09:45:00-07:00",
+            "length": 20,
+            "table_name": "Red Table A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2024-04-27 11:00:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table B",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-04-27 14:15:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-04-27 15:15:00-07:00",
+            "length": 10,
+            "table_name": "Red Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-04-27 13:00:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "Yellow Pod 1"
+          },
+          {
+            "name": "Red Pod 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-04-27 09:30:00-07:00",
+            "length": 30,
+            "rooms": [
+              "60787 - Shelby",
+              "63993 - HSS Robotics 63993"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-04-27 10:15:00-07:00",
+            "length": 30,
+            "rooms": [
+              "64724 - Happy Banana",
+              "58828 - ShortCircuit"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-04-27 11:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "60383 - DCS Astro Cubs",
+              "52561 - Brilliant Beavers"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-04-27 13:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "64757 - Greater Than One",
+              "59559 - The Masterminds"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2024-04-27 13:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "62720 - The Golden Group",
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 432,
+        "name": "Red Table A"
+      },
+      {
+        "id": 433,
+        "name": "Blue Table B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2024-04-27 09:05:00-07:00",
+        "length": 20,
+        "tables": [
+          "#58828 - ShortCircuit",
+          "#63993 - HSS Robotics 63993"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2024-04-27 09:25:00-07:00",
+        "length": 20,
+        "tables": [
+          "#60383 - DCS Astro Cubs",
+          "#64724 - Happy Banana"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2024-04-27 09:45:00-07:00",
+        "length": 20,
+        "tables": [
+          "#64757 - Greater Than One",
+          ""
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2024-04-27 10:05:00-07:00",
+        "length": 20,
+        "tables": [
+          "#62720 - The Golden Group",
+          "#59559 - The Masterminds"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2024-04-27 10:25:00-07:00",
+        "length": 20,
+        "tables": [
+          "#60787 - Shelby",
+          "#52561 - Brilliant Beavers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2024-04-27 10:45:00-07:00",
+        "length": 25,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 7,
+        "start_time": "2024-04-27 11:00:00-07:00",
+        "length": 15,
+        "tables": [
+          "#62720 - The Golden Group",
+          "#64757 - Greater Than One"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2024-04-27 11:15:00-07:00",
+        "length": 15,
+        "tables": [
+          "",
+          "#59559 - The Masterminds"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2024-04-27 11:30:00-07:00",
+        "length": 15,
+        "tables": [
+          "#64724 - Happy Banana",
+          "#60787 - Shelby"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2024-04-27 11:45:00-07:00",
+        "length": 15,
+        "tables": [
+          "#52561 - Brilliant Beavers",
+          "#63993 - HSS Robotics 63993"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2024-04-27 12:00:00-07:00",
+        "length": 15,
+        "tables": [
+          "#60383 - DCS Astro Cubs",
+          "#58828 - ShortCircuit"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2024-04-27 12:15:00-07:00",
+        "length": 60,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2024-04-27 13:15:00-07:00",
+        "length": 15,
+        "tables": [
+          "",
+          "#62720 - The Golden Group"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2024-04-27 13:30:00-07:00",
+        "length": 15,
+        "tables": [
+          "#63993 - HSS Robotics 63993",
+          "#60787 - Shelby"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2024-04-27 13:45:00-07:00",
+        "length": 15,
+        "tables": [
+          "#58828 - ShortCircuit",
+          "#64724 - Happy Banana"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2024-04-27 14:00:00-07:00",
+        "length": 15,
+        "tables": [
+          "#52561 - Brilliant Beavers",
+          "#60383 - DCS Astro Cubs"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2024-04-27 14:15:00-07:00",
+        "length": 15,
+        "tables": [
+          "#59559 - The Masterminds",
+          "#64757 - Greater Than One"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2024-04-27 14:30:00-07:00",
+        "length": 15,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2024-04-27 14:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#60787 - Shelby",
+          "#62720 - The Golden Group"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2024-04-27 14:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#63993 - HSS Robotics 63993",
+          ""
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2024-04-27 15:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#64724 - Happy Banana",
+          "#52561 - Brilliant Beavers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2024-04-27 15:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#64757 - Greater Than One",
+          "#58828 - ShortCircuit"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2024-04-27 15:25:00-07:00",
+        "length": 20,
+        "tables": [
+          "#59559 - The Masterminds",
+          "#60383 - DCS Astro Cubs"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-04-25 17:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": []
+}

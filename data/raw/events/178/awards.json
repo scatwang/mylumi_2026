@@ -1,0 +1,169 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 706,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 178,
+        "team": {
+          "number": 61949,
+          "name": "Ultraviolet",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Cupertino",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 705,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 178,
+        "team": {
+          "number": 66444,
+          "name": "CyberPirates",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 702,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 178,
+        "team": {
+          "number": 17493,
+          "name": "17493",
+          "org_name": "Cabrillo Middle School",
+          "org": {
+            "name": "Cabrillo Middle School"
+          },
+          "city": "Santa Clara",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 703,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 178,
+        "team": {
+          "number": 71128,
+          "name": "MidKnight Marvels",
+          "org_name": "The King's Academy",
+          "org": {
+            "name": "The King's Academy"
+          },
+          "city": "Sunnyvale",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 704,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 178,
+        "team": {
+          "number": 66137,
+          "name": "Build Guild - SBR",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Sunnyvale",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": []
+  }
+}

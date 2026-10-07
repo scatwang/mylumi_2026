@@ -1,0 +1,653 @@
+{
+  "count": 54,
+  "results": [
+    {
+      "id": 2030,
+      "team": {
+        "id": 2109,
+        "number": 2848,
+        "name": "2848",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2043,
+      "team": {
+        "id": 2112,
+        "number": 4979,
+        "name": "4979",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2022,
+      "team": {
+        "id": 1639,
+        "number": 8560,
+        "name": "ProGRAHAMers",
+        "city": "Mountain View",
+        "org_name": "Graham Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2014,
+      "team": {
+        "id": 2114,
+        "number": 17492,
+        "name": "17492",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2097,
+      "team": {
+        "id": 2115,
+        "number": 17493,
+        "name": "17493",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2098,
+      "team": {
+        "id": 1894,
+        "number": 34265,
+        "name": "EagleBots",
+        "city": "San Jose",
+        "org_name": "Queen of Apostles School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2006,
+      "team": {
+        "id": 1658,
+        "number": 38159,
+        "name": "Otterly Awesome",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2111,
+      "team": {
+        "id": 2152,
+        "number": 52561,
+        "name": "Brilliant Beavers",
+        "city": "San Carlos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2094,
+      "team": {
+        "id": 1996,
+        "number": 52943,
+        "name": "Digital Dolphins GREEN TEAM",
+        "city": "San Francisco",
+        "org_name": "San Francisco Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1992,
+      "team": {
+        "id": 1678,
+        "number": 54977,
+        "name": "Menlo Park Narleaotters",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1984,
+      "team": {
+        "id": 1999,
+        "number": 56768,
+        "name": "Blue Brickbots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1994,
+      "team": {
+        "id": 1686,
+        "number": 57382,
+        "name": "RoboRise",
+        "city": "Foster City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2040,
+      "team": {
+        "id": 1688,
+        "number": 58828,
+        "name": "ShortCircuit",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2029,
+      "team": {
+        "id": 1690,
+        "number": 60033,
+        "name": "Pokémon ",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2012,
+      "team": {
+        "id": 1692,
+        "number": 60085,
+        "name": "Lego Artisans",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2018,
+      "team": {
+        "id": 1696,
+        "number": 60354,
+        "name": "Helios Suns",
+        "city": "Los Altos",
+        "org_name": "Helios School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2033,
+      "team": {
+        "id": 1964,
+        "number": 60418,
+        "name": "Hedgedroid",
+        "city": "Palo Alto",
+        "org_name": "Jane Lathrop Stanford Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2023,
+      "team": {
+        "id": 1917,
+        "number": 60497,
+        "name": "Apollo 6",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1999,
+      "team": {
+        "id": 1697,
+        "number": 60502,
+        "name": "CodeBreakerz",
+        "city": "San Ramon",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2007,
+      "team": {
+        "id": 1703,
+        "number": 60855,
+        "name": "GearShift",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1996,
+      "team": {
+        "id": 1704,
+        "number": 60868,
+        "name": "iBots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2013,
+      "team": {
+        "id": 1705,
+        "number": 60869,
+        "name": "Techno Troopers",
+        "city": "Newark",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2021,
+      "team": {
+        "id": 1712,
+        "number": 60996,
+        "name": "VortexMasterminds",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2071,
+      "team": {
+        "id": 2006,
+        "number": 61685,
+        "name": "Union Megatrons",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2079,
+      "team": {
+        "id": 1719,
+        "number": 61803,
+        "name": "Robosaurs",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2002,
+      "team": {
+        "id": 2011,
+        "number": 61949,
+        "name": "Ultraviolet",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2026,
+      "team": {
+        "id": 1724,
+        "number": 64698,
+        "name": "ROAR",
+        "city": "San Jose",
+        "org_name": "Basis Independent Silicon Vly"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1980,
+      "team": {
+        "id": 1732,
+        "number": 65258,
+        "name": "CrypticButterflies",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2038,
+      "team": {
+        "id": 1735,
+        "number": 65287,
+        "name": "RoboWizards7",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2001,
+      "team": {
+        "id": 1736,
+        "number": 65319,
+        "name": "DCADS Robo Cubs",
+        "city": "Santa Clara",
+        "org_name": "Don Callejon"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1979,
+      "team": {
+        "id": 1759,
+        "number": 66208,
+        "name": "Bob the Builders",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2027,
+      "team": {
+        "id": 1767,
+        "number": 66511,
+        "name": "Tech Titans",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2032,
+      "team": {
+        "id": 1772,
+        "number": 66820,
+        "name": "Leadways FBI",
+        "city": "Cupertino",
+        "org_name": "Leadways School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1985,
+      "team": {
+        "id": 1779,
+        "number": 67092,
+        "name": "Flame Bots",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2017,
+      "team": {
+        "id": 2018,
+        "number": 67107,
+        "name": "Tech Titans",
+        "city": "Los Altos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2064,
+      "team": {
+        "id": 2019,
+        "number": 67150,
+        "name": "Coding Ninjas",
+        "city": "Palo Alto",
+        "org_name": "ULEAP"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1995,
+      "team": {
+        "id": 1791,
+        "number": 67840,
+        "name": "The Submarine SharkBots",
+        "city": "Saratoga",
+        "org_name": "Saratoga Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2095,
+      "team": {
+        "id": 1797,
+        "number": 68861,
+        "name": "Technic Pythons",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1991,
+      "team": {
+        "id": 2098,
+        "number": 70148,
+        "name": "TerraKnights",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1981,
+      "team": {
+        "id": 1899,
+        "number": 70538,
+        "name": "Shovel Buddies",
+        "city": "SAN JOSE",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2080,
+      "team": {
+        "id": 1594,
+        "number": 71128,
+        "name": "MidKnight Marvels",
+        "city": "Sunnyvale",
+        "org_name": "The King's Academy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1993,
+      "team": {
+        "id": 2074,
+        "number": 71232,
+        "name": "Aura100%",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2041,
+      "team": {
+        "id": 1613,
+        "number": 71331,
+        "name": "Next Team",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2066,
+      "team": {
+        "id": 1621,
+        "number": 71598,
+        "name": "WIP",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1982,
+      "team": {
+        "id": 1622,
+        "number": 71606,
+        "name": "Lego Legends",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2082,
+      "team": {
+        "id": 1897,
+        "number": 71616,
+        "name": " brick bots",
+        "city": "Saratoga",
+        "org_name": "Saratoga Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2086,
+      "team": {
+        "id": 2232,
+        "number": 71713,
+        "name": "BuildHers",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2065,
+      "team": {
+        "id": 1630,
+        "number": 71920,
+        "name": "RoboWizards",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1986,
+      "team": {
+        "id": 1912,
+        "number": 72044,
+        "name": "Earth Giants",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1983,
+      "team": {
+        "id": 2156,
+        "number": 72068,
+        "name": "DVMS Robotics",
+        "city": "Danville",
+        "org_name": "Diablo Vista Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2072,
+      "team": {
+        "id": 1968,
+        "number": 72104,
+        "name": "Techwiz 2.0",
+        "city": "Cupertino",
+        "org_name": "John F. Kennedy Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2016,
+      "team": {
+        "id": 1984,
+        "number": 72433,
+        "name": "Blach Unearthed Odyssey",
+        "city": "Mountain View",
+        "org_name": "Georgina P. Blach Junior High"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2011,
+      "team": {
+        "id": 1985,
+        "number": 72540,
+        "name": "TBD123",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2074,
+      "team": {
+        "id": 2213,
+        "number": 72905,
+        "name": "Argo Robotics Team 251",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

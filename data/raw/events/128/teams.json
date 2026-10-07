@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 1422,
+      "team": {
+        "id": 1515,
+        "number": 56271,
+        "name": "Mechanical Arts",
+        "city": "Albany",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1463,
+      "team": {
+        "id": 1166,
+        "number": 61093,
+        "name": "Golden Dolphins",
+        "city": "Fremont",
+        "org_name": "Code Ninjas"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1490,
+      "team": {
+        "id": 1419,
+        "number": 66603,
+        "name": "Fletcher Robotigers",
+        "city": "PALO ALTO",
+        "org_name": "Ellen Fletcher Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1499,
+      "team": {
+        "id": 1271,
+        "number": 66739,
+        "name": "Lakshmi Adusumilli",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1243,
+      "team": {
+        "id": 861,
+        "number": 66920,
+        "name": "SparkleBots1",
+        "city": "El Dorado Hills",
+        "org_name": "Theodore Judah Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1485,
+      "team": {
+        "id": 1122,
+        "number": 67142,
+        "name": "Dreamers",
+        "city": "Danville",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1488,
+      "team": {
+        "id": 1553,
+        "number": 67407,
+        "name": "Robot Thunder X",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1413,
+      "team": {
+        "id": 1444,
+        "number": 67440,
+        "name": "BayBots",
+        "city": "Fremont",
+        "org_name": "Thornton Junior High"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1401,
+      "team": {
+        "id": 1242,
+        "number": 67678,
+        "name": "RoboSquad",
+        "city": "Fremont",
+        "org_name": "Harvey Green Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1425,
+      "team": {
+        "id": 1193,
+        "number": 68377,
+        "name": "Gemini",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1462,
+      "team": {
+        "id": 1306,
+        "number": 68775,
+        "name": "Little Scholar ACE",
+        "city": "Newark",
+        "org_name": "Little Scholar ACE"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1424,
+      "team": {
+        "id": 1274,
+        "number": 68960,
+        "name": "Poseidon Engineers",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1465,
+      "team": {
+        "id": 1517,
+        "number": 69065,
+        "name": "Mustang QuadRacers",
+        "city": "Fremont",
+        "org_name": "Mission San Jose Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1426,
+      "team": {
+        "id": 1278,
+        "number": 69253,
+        "name": "The Marines",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1410,
+      "team": {
+        "id": 1412,
+        "number": 69595,
+        "name": "TechnoBots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1464,
+      "team": {
+        "id": 1307,
+        "number": 69653,
+        "name": "Robo Legends",
+        "city": "Newark",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1476,
+      "team": {
+        "id": 1552,
+        "number": 70153,
+        "name": "rickroll",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1460,
+      "team": {
+        "id": 1551,
+        "number": 70300,
+        "name": "DCADS Exo Cubs",
+        "city": "Santa Clara",
+        "org_name": "Don Callejon"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

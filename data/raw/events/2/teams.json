@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 284,
+      "team": {
+        "id": 313,
+        "number": 7460,
+        "name": "Tiger Robotics 8",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 290,
+      "team": {
+        "id": 314,
+        "number": 29151,
+        "name": "Tiger Robotics 7",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1,
+      "team": {
+        "id": 180,
+        "number": 30517,
+        "name": "Ice Cream Sundays",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 12,
+      "team": {
+        "id": 182,
+        "number": 37488,
+        "name": "Jason Short",
+        "city": "Oakland",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 22,
+      "team": {
+        "id": 90,
+        "number": 37489,
+        "name": "Human Joulez",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 291,
+      "team": {
+        "id": 356,
+        "number": 39190,
+        "name": "Owlz",
+        "city": "Danville",
+        "org_name": "Athenian School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 5,
+      "team": {
+        "id": 185,
+        "number": 44531,
+        "name": "Robotic Dogs",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 285,
+      "team": {
+        "id": 287,
+        "number": 53591,
+        "name": "Tiger Robotics 6",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 20,
+      "team": {
+        "id": 149,
+        "number": 55794,
+        "name": "Purple People Eaters",
+        "city": "Oakland",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 242,
+      "team": {
+        "id": 187,
+        "number": 55795,
+        "name": "The Chipmunks",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 9,
+      "team": {
+        "id": 188,
+        "number": 55881,
+        "name": "Electric Bananas",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 248,
+      "team": {
+        "id": 224,
+        "number": 59976,
+        "name": "Montevideo Merlins",
+        "city": "San Ramon",
+        "org_name": "Montevideo Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 274,
+      "team": {
+        "id": 366,
+        "number": 60070,
+        "name": "Robo-Sapiens",
+        "city": "Milpitas",
+        "org_name": "Fremont Robotics Academy"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 133,
+      "team": {
+        "id": 45,
+        "number": 60198,
+        "name": "Chronobot",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 178,
+      "team": {
+        "id": 146,
+        "number": 60447,
+        "name": "Little Einstein",
+        "city": "Lathrop",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 267,
+      "team": {
+        "id": 177,
+        "number": 60702,
+        "name": "Robochickens",
+        "city": "Berkeley",
+        "org_name": "Tinker Coop"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 243,
+      "team": {
+        "id": 178,
+        "number": 60958,
+        "name": "Puma",
+        "city": "Oakland",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 252,
+      "team": {
+        "id": 179,
+        "number": 60959,
+        "name": "60959",
+        "city": "Piedmont",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

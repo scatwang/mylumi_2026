@@ -1,0 +1,180 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 26136,
+        "name": "Treasure Hunterz",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-03-22 13:30:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 26185,
+        "name": "Building Blocks of Friendship",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-03-22 13:45:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 26422,
+        "name": "Golden Ninjas",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-03-22 13:30:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31252,
+        "name": "Brick sharks",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-03-22 13:45:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31466,
+        "name": "Westpark Code Commandos",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-03-22 14:00:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31656,
+        "name": "Rocking Creators",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-03-22 14:15:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31740,
+        "name": "Junior RoboRangers",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-03-22 14:00:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 32550,
+        "name": "Lego Blasters",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-03-22 14:15:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-03-22 13:30:00-07:00",
+            "length": 10,
+            "rooms": [
+              "26136 - Treasure Hunterz",
+              "26422 - Golden Ninjas"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-03-22 13:45:00-07:00",
+            "length": 10,
+            "rooms": [
+              "26185 - Building Blocks of Friendship",
+              "31252 - Brick sharks"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-03-22 14:00:00-07:00",
+            "length": 10,
+            "rooms": [
+              "31466 - Westpark Code Commandos",
+              "31740 - Junior RoboRangers"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-03-22 14:15:00-07:00",
+            "length": 10,
+            "rooms": [
+              "31656 - Rocking Creators",
+              "32550 - Lego Blasters"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-03-21 17:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

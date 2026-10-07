@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 595,
+      "team": {
+        "id": 596,
+        "number": 26179,
+        "name": "Power Ninja Builders",
+        "city": "El Dorado Hills",
+        "org_name": "Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 573,
+      "team": {
+        "id": 579,
+        "number": 26743,
+        "name": "Pro Bowlers",
+        "city": "Folsom",
+        "org_name": "Theodore Judah Elem School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 572,
+      "team": {
+        "id": 573,
+        "number": 26768,
+        "name": "AI Masters",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 571,
+      "team": {
+        "id": 510,
+        "number": 27452,
+        "name": "Red Raptors",
+        "city": "Folsom",
+        "org_name": "Theodore Judah Elem School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 596,
+      "team": {
+        "id": 590,
+        "number": 27662,
+        "name": "Science Bomb",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 569,
+      "team": {
+        "id": 507,
+        "number": 28410,
+        "name": "Creators",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 592,
+      "team": {
+        "id": 607,
+        "number": 29012,
+        "name": "AKASAS",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 594,
+      "team": {
+        "id": 458,
+        "number": 29098,
+        "name": "Boltz",
+        "city": "Rancho Cordova",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 590,
+      "team": {
+        "id": 612,
+        "number": 29121,
+        "name": "The Mighty Builders@TJ",
+        "city": "Folsom",
+        "org_name": "Theodore Judah Elem School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 588,
+      "team": {
+        "id": 459,
+        "number": 29122,
+        "name": "LEGO Mech Masters",
+        "city": "Fremont",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 616,
+      "team": {
+        "id": 636,
+        "number": 29287,
+        "name": "Lego Titans",
+        "city": "Newark",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 574,
+      "team": {
+        "id": 546,
+        "number": 30055,
+        "name": "Lego Llamas",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

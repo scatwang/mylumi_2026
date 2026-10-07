@@ -1,0 +1,201 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 205,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 47,
+        "team": {
+          "number": 7052,
+          "name": "OP Octopi",
+          "org_name": "St. Gabriel School",
+          "org": {
+            "name": "St. Gabriel School"
+          },
+          "city": "San Francisco",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 210,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "Raghavan Ramadoss",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 47,
+        "team": {
+          "number": 67854,
+          "name": "Superstars",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "fremont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 209,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 47,
+        "team": {
+          "number": 61708,
+          "name": "Squirtle",
+          "org_name": "Saratoga Elementary School",
+          "org": {
+            "name": "Saratoga Elementary School"
+          },
+          "city": "Saratoga",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 208,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 47,
+        "team": {
+          "number": 61685,
+          "name": "Noddin Dynabots",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 207,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 47,
+        "team": {
+          "number": 67854,
+          "name": "Superstars",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "fremont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 206,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 47,
+        "team": {
+          "number": 7052,
+          "name": "OP Octopi",
+          "org_name": "St. Gabriel School",
+          "org": {
+            "name": "St. Gabriel School"
+          },
+          "city": "San Francisco",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": []
+  }
+}

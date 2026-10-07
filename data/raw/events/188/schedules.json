@@ -1,0 +1,889 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 5254,
+        "name": "Golden Surfers",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-16 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-11-16 12:00:00-08:00",
+            "length": 75,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-16 13:25:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-11-16 15:20:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-16 11:00:00-08:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 25572,
+        "name": "25572",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-16 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2025-11-16 11:10:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-11-16 13:50:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-11-16 15:35:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-16 13:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 54977,
+        "name": "Menlo Park Narleaotters",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-16 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-16 11:50:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-11-16 13:15:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-11-16 15:20:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-16 10:15:00-08:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 56768,
+        "name": "Blue Brickbots",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-16 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-16 11:35:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-11-16 13:15:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-11-16 15:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-16 10:15:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66820,
+        "name": "Leadways FBI",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-16 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2025-11-16 11:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-11-16 14:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-11-16 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-16 11:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70178,
+        "name": "Crystal Springs Uplands Middle School 1",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-16 10:30:00-08:00",
+            "length": 30,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-11-16 11:25:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-11-16 13:50:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-11-16 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-16 13:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70849,
+        "name": "ML Infinity Bots",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-16 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-11-16 11:25:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-11-16 14:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-11-16 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-16 13:00:00-08:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71306,
+        "name": "Wingin' It",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-16 10:30:00-08:00",
+            "length": 30,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2025-11-16 11:10:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-11-16 14:15:00-08:00",
+            "length": 45,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-11-16 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-16 11:45:00-08:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71481,
+        "name": "Westlake Robotics Soar",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-16 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2025-11-16 11:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-11-16 14:15:00-08:00",
+            "length": 45,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-11-16 15:35:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-16 11:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71981,
+        "name": "Robo-Relics",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-16 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-16 11:50:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-16 13:40:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-11-16 15:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-16 11:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72884,
+        "name": "Starlight Scouts",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-16 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-16 11:35:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-16 13:25:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-11-16 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-16 10:15:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73146,
+        "name": "Master Builders",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-16 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-11-16 12:00:00-08:00",
+            "length": 75,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-16 13:40:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-11-16 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-16 11:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          },
+          {
+            "name": "GREEN POD 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-11-16 10:15:00-08:00",
+            "length": 30,
+            "rooms": [
+              "56768",
+              "72884",
+              "54977"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-11-16 11:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "71981",
+              "73146",
+              "5254"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-11-16 11:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "71481",
+              "66820",
+              "71306"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-11-16 13:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "25572",
+              "70178",
+              "70849"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 1075,
+        "name": "TABLE A"
+      },
+      {
+        "id": 1076,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2025-11-16 09:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#56768 - Blue Brickbots",
+          "#5254 - Golden Surfers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2025-11-16 09:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#71981 - Robo-Relics",
+          "#72884 - Starlight Scouts"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2025-11-16 09:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#73146 - Master Builders",
+          "#54977 - Menlo Park Narleaotters"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2025-11-16 10:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#71481 - Westlake Robotics Soar",
+          "#70849 - ML Infinity Bots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2025-11-16 10:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#25572 - 25572",
+          "#66820 - Leadways FBI"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2025-11-16 10:30:00-08:00",
+        "length": 30,
+        "tables": [
+          "#70178 - Crystal Springs Uplands Middle School 1",
+          "#71306 - Wingin' It"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2025-11-16 11:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66820 - Leadways FBI",
+          "#71481 - Westlake Robotics Soar"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2025-11-16 11:10:00-08:00",
+        "length": 15,
+        "tables": [
+          "#25572 - 25572",
+          "#71306 - Wingin' It"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2025-11-16 11:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#70849 - ML Infinity Bots",
+          "#70178 - Crystal Springs Uplands Middle School 1"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2025-11-16 11:35:00-08:00",
+        "length": 15,
+        "tables": [
+          "#72884 - Starlight Scouts",
+          "#56768 - Blue Brickbots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2025-11-16 11:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#71981 - Robo-Relics",
+          "#54977 - Menlo Park Narleaotters"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2025-11-16 12:00:00-08:00",
+        "length": 75,
+        "tables": [
+          "#5254 - Golden Surfers",
+          "#73146 - Master Builders"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2025-11-16 13:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#54977 - Menlo Park Narleaotters",
+          "#56768 - Blue Brickbots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2025-11-16 13:25:00-08:00",
+        "length": 15,
+        "tables": [
+          "#5254 - Golden Surfers",
+          "#72884 - Starlight Scouts"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2025-11-16 13:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#73146 - Master Builders",
+          "#71981 - Robo-Relics"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2025-11-16 13:50:00-08:00",
+        "length": 15,
+        "tables": [
+          "#70178 - Crystal Springs Uplands Middle School 1",
+          "#25572 - 25572"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2025-11-16 14:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#70849 - ML Infinity Bots",
+          "#66820 - Leadways FBI"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2025-11-16 14:15:00-08:00",
+        "length": 45,
+        "tables": [
+          "#71306 - Wingin' It",
+          "#71481 - Westlake Robotics Soar"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2025-11-16 15:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#56768 - Blue Brickbots",
+          "#71981 - Robo-Relics"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2025-11-16 15:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72884 - Starlight Scouts",
+          "#73146 - Master Builders"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2025-11-16 15:20:00-08:00",
+        "length": 15,
+        "tables": [
+          "#54977 - Menlo Park Narleaotters",
+          "#5254 - Golden Surfers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2025-11-16 15:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#71481 - Westlake Robotics Soar",
+          "#25572 - 25572"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2025-11-16 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66820 - Leadways FBI",
+          "#70178 - Crystal Springs Uplands Middle School 1"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2025-11-16 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#71306 - Wingin' It",
+          "#70849 - ML Infinity Bots"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-11-09 19:00:00+00:00",
+    "revision": 3
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    1664,
+    1611,
+    1644,
+    1583,
+    1872,
+    1682,
+    1554,
+    1684,
+    1906,
+    1654,
+    1685,
+    1555
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 21866,
+        "name": "Blue Jay Master Builders",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-03-22 08:30:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29097,
+        "name": "Lego G.O.A.T.S.",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-03-22 08:45:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 30595,
+        "name": "SparkSteam III",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-03-22 08:30:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31509,
+        "name": "Battle Bears - SBR Team Cupertino",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-03-22 08:45:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 32970,
+        "name": "Ferocious Fish",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-03-22 09:00:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33063,
+        "name": "LegoCubs1390 - MARS",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-03-22 09:15:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33312,
+        "name": "Waves of Friendship",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-03-22 09:00:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-03-22 08:30:00-07:00",
+            "length": 10,
+            "rooms": [
+              "21866 - Blue Jay Master Builders",
+              "30595 - SparkSteam III"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-03-22 08:45:00-07:00",
+            "length": 10,
+            "rooms": [
+              "29097 - Lego G.O.A.T.S.",
+              "31509 - Battle Bears - SBR Team Cupertino"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-03-22 09:00:00-07:00",
+            "length": 10,
+            "rooms": [
+              "32970 - Ferocious Fish",
+              "33312 - Waves of Friendship"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-03-22 09:15:00-07:00",
+            "length": 10,
+            "rooms": [
+              "33063 - LegoCubs1390 - MARS",
+              ""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-03-20 17:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

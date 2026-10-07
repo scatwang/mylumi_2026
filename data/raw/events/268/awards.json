@@ -1,0 +1,895 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 783,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 60868,
+          "name": "iBots",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 784,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "place": 2,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 72905,
+          "name": "Argo Robotics Team 251",
+          "org_name": "Argonaut Elementary",
+          "org": {
+            "name": "Argonaut Elementary"
+          },
+          "city": "Saratoga",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 785,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "place": 3,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 67092,
+          "name": "Flame Bots",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Sunnyvale",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 786,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 60868,
+          "name": "iBots",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 787,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 2,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 60085,
+          "name": "Lego Artisans",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Cupertino",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 788,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 3,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 65258,
+          "name": "CrypticButterflies",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 795,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 65319,
+          "name": "DCADS Robo Cubs",
+          "org_name": "Don Callejon",
+          "org": {
+            "name": "Don Callejon"
+          },
+          "city": "Santa Clara",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 796,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 2,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 58828,
+          "name": "ShortCircuit",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Cupertino",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 797,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 3,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 61685,
+          "name": "Union Megatrons",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 792,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 57382,
+          "name": "RoboRise",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Foster City",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 793,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 2,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 4979,
+          "name": "4979",
+          "org_name": "Cabrillo Middle School",
+          "org": {
+            "name": "Cabrillo Middle School"
+          },
+          "city": "Santa Clara",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 794,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 3,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 71232,
+          "name": "Aura100%",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 789,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 52561,
+          "name": "Brilliant Beavers",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Carlos",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 790,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 2,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 54977,
+          "name": "Menlo Park Narleaotters",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Menlo Park",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 791,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "place": 3,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 60996,
+          "name": "VortexMasterminds",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Folsom",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 808,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "Scott Lee",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 60497,
+          "name": "Apollo 6",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Fremont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 809,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "Pratik Lokesh",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 70148,
+          "name": "TerraKnights",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": [
+      {
+        "id": 802,
+        "award_type": {
+          "id": 10,
+          "name": "CT Kids Choice Award:  Favorite Pit Design",
+          "display_name": "CT Kids Choice Award:  Favorite Pit Design",
+          "category": "other",
+          "has_place": false,
+          "color": "violet-300",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 60868,
+          "name": "iBots",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 804,
+        "award_type": {
+          "id": 12,
+          "name": "CT Kids Choice Award:  Favorite Team Costume",
+          "display_name": "CT Kids Choice Award:  Favorite Team Costume",
+          "category": "other",
+          "has_place": false,
+          "color": "violet-300",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 60868,
+          "name": "iBots",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 805,
+        "award_type": {
+          "id": 11,
+          "name": "CT Kids Choice Award:  Favorite Robot and/or attachment",
+          "display_name": "CT Kids Choice Award:  Favorite Robot and/or attachment",
+          "category": "other",
+          "has_place": false,
+          "color": "violet-300",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 60868,
+          "name": "iBots",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 803,
+        "award_type": {
+          "id": 13,
+          "name": "CT Kids Choice Award:  Favorite team chant",
+          "display_name": "CT Kids Choice Award:  Favorite team chant",
+          "category": "other",
+          "has_place": false,
+          "color": "violet-300",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 2848,
+          "name": "2848",
+          "org_name": "Cabrillo Middle School",
+          "org": {
+            "name": "Cabrillo Middle School"
+          },
+          "city": "Santa Clara",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 806,
+        "award_type": {
+          "id": 14,
+          "name": "CT Kids Choice Award:  Best team giveaway",
+          "display_name": "CT Kids Choice Award:  Best team giveaway",
+          "category": "other",
+          "has_place": false,
+          "color": "violet-300",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 60868,
+          "name": "iBots",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 807,
+        "award_type": {
+          "id": 9,
+          "name": "CT Kids Choice Award:  Coolest Innovation Project",
+          "display_name": "CT Kids Choice Award:  Coolest Innovation Project",
+          "category": "other",
+          "has_place": false,
+          "color": "violet-300",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 60868,
+          "name": "iBots",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 800,
+        "award_type": {
+          "id": 15,
+          "name": "Breakthrough Award",
+          "display_name": "Breakthrough Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 34265,
+          "name": "EagleBots",
+          "org_name": "Queen of Apostles School",
+          "org": {
+            "name": "Queen of Apostles School"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 801,
+        "award_type": {
+          "id": 15,
+          "name": "Breakthrough Award",
+          "display_name": "Breakthrough Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 60502,
+          "name": "CodeBreakerz",
+          "org_name": "Home School",
+          "org": {
+            "name": "Home School"
+          },
+          "city": "San Ramon",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 798,
+        "award_type": {
+          "id": 93,
+          "name": "Motivate Award",
+          "display_name": "Motivate Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 60085,
+          "name": "Lego Artisans",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Cupertino",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 799,
+        "award_type": {
+          "id": 93,
+          "name": "Motivate Award",
+          "display_name": "Motivate Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "place": 1,
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 268,
+        "team": {
+          "number": 66208,
+          "name": "Bob the Builders",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Cupertino",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ]
+  }
+}

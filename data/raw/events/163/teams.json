@@ -1,0 +1,89 @@
+{
+  "count": 7,
+  "results": [
+    {
+      "id": 1498,
+      "team": {
+        "id": 824,
+        "number": 29203,
+        "name": "Little Masters",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1497,
+      "team": {
+        "id": 1034,
+        "number": 31469,
+        "name": "Super Nova",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1496,
+      "team": {
+        "id": 1203,
+        "number": 32598,
+        "name": "DCADS- Gizmo Cubs",
+        "city": "Santa Clara",
+        "org_name": "Don Callejon Arts and Design School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1492,
+      "team": {
+        "id": 1178,
+        "number": 32604,
+        "name": "Curtner Builders",
+        "city": "Milpitas",
+        "org_name": "Curtner Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1500,
+      "team": {
+        "id": 1337,
+        "number": 33178,
+        "name": "Almaden Dolphins",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1495,
+      "team": {
+        "id": 1355,
+        "number": 33325,
+        "name": "Lego Champs",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1494,
+      "team": {
+        "id": 1401,
+        "number": 33417,
+        "name": "Five people group",
+        "city": "Newark",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

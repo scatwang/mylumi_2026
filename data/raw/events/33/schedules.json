@@ -1,0 +1,190 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 25732,
+        "name": "Super Lego Builders",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-02-10 14:00:00-08:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 26136,
+        "name": "Gallery Girls",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-02-10 14:00:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 26421,
+        "name": "Robo Explorers",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-02-10 14:00:00-08:00",
+            "room_name": "Green",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 26706,
+        "name": "Super LegoKids",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-02-10 14:30:00-08:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28793,
+        "name": "Art-Kid-Tex ",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-02-10 14:30:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28799,
+        "name": "Lego Mega MASSters",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-02-10 14:30:00-08:00",
+            "room_name": "Green",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28804,
+        "name": "ArtMasterZ",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-02-10 15:00:00-08:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29787,
+        "name": "Tigerbots",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-02-10 15:00:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 30595,
+        "name": "SparkSteam III",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-02-10 15:00:00-08:00",
+            "room_name": "Green",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          },
+          {
+            "name": "Green"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-02-10 14:00:00-08:00",
+            "length": 10,
+            "rooms": [
+              "25732",
+              "26136",
+              "26421"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-02-10 14:30:00-08:00",
+            "length": 10,
+            "rooms": [
+              "26706",
+              "28793",
+              "28799"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-02-10 15:00:00-08:00",
+            "length": 10,
+            "rooms": [
+              "28804",
+              "29787",
+              "30595"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-02-07 02:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

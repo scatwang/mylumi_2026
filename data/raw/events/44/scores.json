@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 67473,
+      "name": "Krazy Krillionaires",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 335,
+      "highest_display": 335,
+      "rounds": [
+        260,
+        225,
+        335
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        335,
+        260,
+        225
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 55976,
+      "name": "Megamind Mechanics",
+      "judging_lane_name": "RED POD 2",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        240,
+        220,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        220,
+        185
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 60433,
+      "name": "Sigma Squad",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 200,
+      "highest_display": 200,
+      "rounds": [
+        85,
+        200,
+        120
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        200,
+        120,
+        85
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 67148,
+      "name": "Snowboard Seals",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        95,
+        130,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        130,
+        95
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 67232,
+      "name": "Terminators",
+      "judging_lane_name": "RED POD 2",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        160,
+        165,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        165,
+        160,
+        150
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 61769,
+      "name": "Omegas",
+      "judging_lane_name": "RED POD 2",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        110,
+        115,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        115,
+        110
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 60987,
+      "name": "The fighting Pickles",
+      "judging_lane_name": "RED POD 2",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        135,
+        155,
+        100
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        135,
+        100
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 61166,
+      "name": "R2-D2",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        125,
+        150,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        150,
+        150,
+        125
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 68707,
+      "name": "HF Bears",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 135,
+      "highest_display": 135,
+      "rounds": [
+        105,
+        75,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        135,
+        105,
+        75
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 60956,
+      "name": "The Stanlicorns",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 125,
+      "highest_display": 125,
+      "rounds": [
+        120,
+        125,
+        75
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Calm demeanor even during stressful situations. Very respectful and they try to be inclusive."
+      ],
+      "rounds_sorted": [
+        125,
+        120,
+        75
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 7434,
+      "name": "Human Computers",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 115,
+      "highest_display": 115,
+      "rounds": [
+        105,
+        95,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        115,
+        105,
+        95
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 66452,
+      "name": "TeamRuana",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 105,
+      "highest_display": 105,
+      "rounds": [
+        105,
+        100,
+        100
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        105,
+        100,
+        100
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

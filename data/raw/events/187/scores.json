@@ -1,0 +1,457 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 73516,
+      "name": "Dino Nuggets (BBQ)",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 380,
+      "highest_display": 380,
+      "rounds": [
+        380,
+        360,
+        245
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        380,
+        360,
+        245
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 65026,
+      "name": "Brick Brains",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 360,
+      "highest_display": 360,
+      "rounds": [
+        255,
+        215,
+        360
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        360,
+        255,
+        215
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 60996,
+      "name": "VortexMasterminds",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 330,
+      "highest_display": 330,
+      "rounds": [
+        260,
+        310,
+        330
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        330,
+        310,
+        260
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 56511,
+      "name": "Super Charged",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 300,
+      "highest_display": 300,
+      "rounds": [
+        300,
+        270,
+        235
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        300,
+        270,
+        235
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 66923,
+      "name": "H2O Warriors",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 295,
+      "highest_display": 295,
+      "rounds": [
+        235,
+        295,
+        205
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        295,
+        235,
+        205
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 71888,
+      "name": "Prime Builders",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        270,
+        255,
+        280
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        270,
+        255
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 71669,
+      "name": "TheCodeBlooded4",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        210,
+        280,
+        235
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        235,
+        210
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 61718,
+      "name": "MechMavericks",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        240,
+        230,
+        275
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        240,
+        230
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 66342,
+      "name": "KiloNuggets",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        260,
+        135,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        260,
+        135
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 72651,
+      "name": "Coding Buddies ",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        210,
+        260,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        250,
+        210
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 61610,
+      "name": "Argoclucks",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        180,
+        145,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        180,
+        145
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 65902,
+      "name": "Coding Mavs",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        145,
+        240,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        145,
+        145
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 66034,
+      "name": "Westpark Mech Warriors",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        195,
+        225,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        195,
+        195
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 68191,
+      "name": "Lego Lillies",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        210,
+        210,
+        220
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        210,
+        210
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 60354,
+      "name": "Helios Suns",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        165,
+        210,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        190,
+        165
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 67290,
+      "name": "VXL",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 200,
+      "highest_display": 200,
+      "rounds": [
+        190,
+        200,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        200,
+        190,
+        155
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 67058,
+      "name": "Earth Angels",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        165,
+        155,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        165,
+        155
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 66044,
+      "name": "Red Raptors",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        135,
+        135,
+        175
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Arguing with refs, the team was warned not to pick up before coming to home area, two warnings, they picked robot six times outside home area.",
+        "",
+        "Not good attitude at all, they are arguing"
+      ],
+      "rounds_sorted": [
+        175,
+        135,
+        135
+      ],
+      "ordinal": "18th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

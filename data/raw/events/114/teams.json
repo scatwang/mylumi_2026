@@ -1,0 +1,65 @@
+{
+  "count": 5,
+  "results": [
+    {
+      "id": 1155,
+      "team": {
+        "id": 1309,
+        "number": 26725,
+        "name": "SuperLego4ce",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1209,
+      "team": {
+        "id": 814,
+        "number": 28847,
+        "name": "Shark Builders",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1153,
+      "team": {
+        "id": 817,
+        "number": 28850,
+        "name": "Precious Puppies",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1161,
+      "team": {
+        "id": 819,
+        "number": 28852,
+        "name": "The Botniks! ",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1154,
+      "team": {
+        "id": 1262,
+        "number": 32858,
+        "name": "Duveneck Dragons",
+        "city": "Palo Alto",
+        "org_name": "Duveneck Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 67216,
+      "name": "Submersiwolves",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 365,
+      "highest_display": 365,
+      "rounds": [
+        360,
+        365,
+        365
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        365,
+        365,
+        360
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 52090,
+      "name": "Canary1",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 360,
+      "highest_display": 360,
+      "rounds": [
+        295,
+        355,
+        360
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Very respectful and attentive to instructions",
+        "",
+        "Honest in scoring; mistake in scoring that allowed them to score more points, but came back to correct scoring."
+      ],
+      "rounds_sorted": [
+        360,
+        355,
+        295
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 66219,
+      "name": "CougarBots",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 310,
+      "highest_display": 310,
+      "rounds": [
+        300,
+        310,
+        275
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        310,
+        300,
+        275
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 69000,
+      "name": "King Khai Robotics",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        225,
+        275,
+        270
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        270,
+        225
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 52944,
+      "name": "Digital Dolphins BLUE TEAM",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        250,
+        240,
+        270
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        250,
+        240
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 52943,
+      "name": "Digital Dolphins GREEN TEAM",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        225,
+        270,
+        245
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Proactively called out broken pieces for the next team",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        245,
+        225
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 69977,
+      "name": "FireDragons of CAIS",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        165,
+        110,
+        240
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        165,
+        110
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 72904,
+      "name": "Tiger Robotics 6",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        190,
+        230,
+        205
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        205,
+        190
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 68910,
+      "name": "Digital Dolphins - YELLOW TEAM",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        135,
+        190,
+        230
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        190,
+        135
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 57759,
+      "name": "Digital Dolphins GREY TEAM",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        165,
+        225,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        210,
+        165
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 37489,
+      "name": "FLL-C 37489",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        150,
+        210,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Cheered on other team, very supportive.",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        210,
+        150
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 53592,
+      "name": "Tiger Robotics 1",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        190,
+        190,
+        220
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        190,
+        190
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 45629,
+      "name": "Dragon Bots",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        160,
+        220,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        160,
+        160
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 72833,
+      "name": "Mckinely1",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        110,
+        185,
+        85
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        110,
+        85
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 68218,
+      "name": "Tiger Robotics 5",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        115,
+        120,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        120,
+        115
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 29151,
+      "name": "Tiger Robotics 3",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        130,
+        150,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        150,
+        130
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 7460,
+      "name": "Tiger Robotics 4",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 145,
+      "highest_display": 145,
+      "rounds": [
+        135,
+        70,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        145,
+        135,
+        70
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 40997,
+      "name": "Denman Robotics",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 135,
+      "highest_display": 135,
+      "rounds": [
+        130,
+        135,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        135,
+        135,
+        130
+      ],
+      "ordinal": "18th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

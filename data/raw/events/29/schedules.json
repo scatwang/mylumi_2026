@@ -1,0 +1,1271 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 193,
+        "name": "1. Team Logo",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-03-17 09:20:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-03-17 11:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-03-17 13:30:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2024-03-17 14:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-03-17 09:45:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 45629,
+        "name": "Dragon Bots",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-03-17 09:10:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-03-17 11:25:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-03-17 13:40:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2024-03-17 15:05:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-03-17 09:45:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 54960,
+        "name": "RoboCavs",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-03-17 09:30:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-03-17 10:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-03-17 13:20:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 40,
+            "start_time_display": "2024-03-17 16:05:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-03-17 14:30:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 56026,
+        "name": "RoboKids",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-03-17 09:50:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-03-17 11:05:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-03-17 13:10:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 37,
+            "start_time_display": "2024-03-17 15:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-03-17 14:30:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 56308,
+        "name": "Dr. Rofrostnik",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-03-17 09:30:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-03-17 10:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-03-17 13:00:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 37,
+            "start_time_display": "2024-03-17 15:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-03-17 13:50:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 56463,
+        "name": "AArtIntel",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-03-17 09:40:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-03-17 11:05:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-03-17 13:20:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 38,
+            "start_time_display": "2024-03-17 15:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-03-17 14:30:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 57420,
+        "name": "ChickenBachBachs",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2024-03-17 10:00:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-03-17 11:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2024-03-17 14:20:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2024-03-17 15:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-03-17 13:10:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60756,
+        "name": "Folsom Thunderbots",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-03-17 09:40:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-03-17 10:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-03-17 13:10:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 40,
+            "start_time_display": "2024-03-17 16:05:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-03-17 13:50:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61139,
+        "name": "Lightning Squad",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-03-17 09:50:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-03-17 10:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-03-17 13:00:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 38,
+            "start_time_display": "2024-03-17 15:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-03-17 13:50:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61510,
+        "name": "4RoboGurus",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2024-03-17 10:20:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2024-03-17 11:15:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2024-03-17 14:10:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2024-03-17 15:15:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-03-17 13:10:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61950,
+        "name": "FemBots",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2024-03-17 10:20:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-03-17 11:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-03-17 14:00:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2024-03-17 15:25:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-03-17 11:05:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61951,
+        "name": "Lords of the Legos",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2024-03-17 10:00:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-03-17 12:05:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-03-17 14:00:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2024-03-17 15:15:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-03-17 11:05:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 62984,
+        "name": "Eagle Bots",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2024-03-17 10:10:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-03-17 12:05:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2024-03-17 14:10:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2024-03-17 15:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-03-17 11:05:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 63333,
+        "name": "Jaguars",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-03-17 09:20:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-03-17 11:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-03-17 13:40:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2024-03-17 14:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-03-17 10:25:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 63410,
+        "name": "Robots En Fuego",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-03-17 09:00:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-03-17 11:25:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-03-17 13:30:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2024-03-17 14:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-03-17 09:45:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 63865,
+        "name": "EBTCC Youth Group",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-03-17 09:00:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-03-17 11:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-03-17 13:50:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2024-03-17 15:05:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-03-17 10:25:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 64052,
+        "name": "Newbies",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-03-17 09:10:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-03-17 11:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-03-17 13:50:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2024-03-17 14:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-03-17 10:25:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "Yellow Pod 1"
+          },
+          {
+            "name": "Red Pod 2"
+          },
+          {
+            "name": "Green Pod 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-03-17 09:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "63410",
+              "193",
+              "45629"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-03-17 10:25:00-07:00",
+            "length": 30,
+            "rooms": [
+              "63333",
+              "64052",
+              "63865"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-03-17 11:05:00-07:00",
+            "length": 30,
+            "rooms": [
+              "61951",
+              "61950",
+              "62984"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-03-17 13:10:00-07:00",
+            "length": 30,
+            "rooms": [
+              "61510",
+              "",
+              "57420"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2024-03-17 13:50:00-07:00",
+            "length": 30,
+            "rooms": [
+              "56308",
+              "61139",
+              "60756"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2024-03-17 14:30:00-07:00",
+            "length": 30,
+            "rooms": [
+              "56026",
+              "56463",
+              "54960"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 369,
+        "name": "Red Table"
+      },
+      {
+        "id": 370,
+        "name": "Blue Table"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2024-03-17 09:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#63410 - Robots En Fuego",
+          "#63865 - EBTCC Youth Group"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2024-03-17 09:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#64052 - Newbies",
+          "#45629 - Dragon Bots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2024-03-17 09:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#63333 - Jaguars",
+          "#193 - 1. Team Logo"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2024-03-17 09:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#56308 - Dr. Rofrostnik",
+          "#54960 - RoboCavs"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2024-03-17 09:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#56463 - AArtIntel",
+          "#60756 - Folsom Thunderbots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2024-03-17 09:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#56026 - RoboKids",
+          "#61139 - Lightning Squad"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2024-03-17 10:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61951 - Lords of the Legos",
+          "#57420 - ChickenBachBachs"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 8,
+        "start_time": "2024-03-17 10:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "",
+          "#62984 - Eagle Bots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 9,
+        "start_time": "2024-03-17 10:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61510 - 4RoboGurus",
+          "#61950 - FemBots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 10,
+        "start_time": "2024-03-17 10:30:00-07:00",
+        "length": 15,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2024-03-17 10:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#60756 - Folsom Thunderbots",
+          "#56308 - Dr. Rofrostnik"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2024-03-17 10:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#54960 - RoboCavs",
+          "#61139 - Lightning Squad"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2024-03-17 11:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#56463 - AArtIntel",
+          "#56026 - RoboKids"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2024-03-17 11:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "",
+          "#61510 - 4RoboGurus"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2024-03-17 11:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#45629 - Dragon Bots",
+          "#63410 - Robots En Fuego"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2024-03-17 11:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#63865 - EBTCC Youth Group",
+          "#193 - 1. Team Logo"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2024-03-17 11:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#64052 - Newbies",
+          "#63333 - Jaguars"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2024-03-17 11:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#57420 - ChickenBachBachs",
+          "#61950 - FemBots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2024-03-17 12:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#62984 - Eagle Bots",
+          "#61951 - Lords of the Legos"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2024-03-17 12:15:00-07:00",
+        "length": 45,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2024-03-17 13:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61139 - Lightning Squad",
+          "#56308 - Dr. Rofrostnik"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2024-03-17 13:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#56026 - RoboKids",
+          "#60756 - Folsom Thunderbots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2024-03-17 13:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#54960 - RoboCavs",
+          "#56463 - AArtIntel"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2024-03-17 13:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#193 - 1. Team Logo",
+          "#63410 - Robots En Fuego"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2024-03-17 13:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#63333 - Jaguars",
+          "#45629 - Dragon Bots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2024-03-17 13:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#63865 - EBTCC Youth Group",
+          "#64052 - Newbies"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2024-03-17 14:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61950 - FemBots",
+          "#61951 - Lords of the Legos"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 28,
+        "start_time": "2024-03-17 14:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61510 - 4RoboGurus",
+          "#62984 - Eagle Bots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 29,
+        "start_time": "2024-03-17 14:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#57420 - ChickenBachBachs",
+          ""
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 30,
+        "start_time": "2024-03-17 14:30:00-07:00",
+        "length": 15,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 31,
+        "start_time": "2024-03-17 14:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#63410 - Robots En Fuego",
+          "#63333 - Jaguars"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 32,
+        "start_time": "2024-03-17 14:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#193 - 1. Team Logo",
+          "#64052 - Newbies"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 33,
+        "start_time": "2024-03-17 15:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#45629 - Dragon Bots",
+          "#63865 - EBTCC Youth Group"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 34,
+        "start_time": "2024-03-17 15:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61951 - Lords of the Legos",
+          "#61510 - 4RoboGurus"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 35,
+        "start_time": "2024-03-17 15:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61950 - FemBots",
+          ""
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 36,
+        "start_time": "2024-03-17 15:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#62984 - Eagle Bots",
+          "#57420 - ChickenBachBachs"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 37,
+        "start_time": "2024-03-17 15:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#56308 - Dr. Rofrostnik",
+          "#56026 - RoboKids"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 38,
+        "start_time": "2024-03-17 15:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61139 - Lightning Squad",
+          "#56463 - AArtIntel"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 40,
+        "start_time": "2024-03-17 16:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#60756 - Folsom Thunderbots",
+          "#54960 - RoboCavs"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-03-04 01:10:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": []
+}

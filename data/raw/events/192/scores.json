@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 62268,
+      "name": "Delta Cosmic Coders 2025",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 405,
+      "highest_display": 405,
+      "rounds": [
+        320,
+        360,
+        405
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        405,
+        360,
+        320
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 65841,
+      "name": "Falcon X",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 350,
+      "highest_display": 350,
+      "rounds": [
+        310,
+        350,
+        350
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        350,
+        350,
+        310
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 70765,
+      "name": "The Paleo Coders",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        280,
+        320,
+        340
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        340,
+        320,
+        280
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 56482,
+      "name": "Brawl Bros",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 325,
+      "highest_display": 325,
+      "rounds": [
+        310,
+        230,
+        325
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        325,
+        310,
+        230
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 70238,
+      "name": "Trapped in Union City",
+      "judging_lane_name": "RED POD 2",
+      "highest": 290,
+      "highest_display": 290,
+      "rounds": [
+        260,
+        290,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        290,
+        290,
+        260
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 67854,
+      "name": "Superstars",
+      "judging_lane_name": "RED POD 2",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        145,
+        230,
+        270
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        230,
+        145
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 72421,
+      "name": "EarthCreators",
+      "judging_lane_name": "RED POD 2",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        220,
+        230,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        220,
+        195
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 71907,
+      "name": "Quarks",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        180,
+        195,
+        230
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        195,
+        180
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 73341,
+      "name": " Blitz Bots ",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        220,
+        95,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        220,
+        95
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 67186,
+      "name": "Diggnation",
+      "judging_lane_name": "RED POD 2",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        180,
+        220,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        180,
+        155
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 61600,
+      "name": "Allstars Dolphins",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        195,
+        175,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        175,
+        165
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 73948,
+      "name": "Stratford Osgood",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 105,
+      "highest_display": 105,
+      "rounds": [
+        80,
+        65,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        105,
+        80,
+        65
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

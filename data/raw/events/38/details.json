@@ -1,0 +1,157 @@
+{
+  "id": 38,
+  "name": "2024 NorCal FLL-E Festival - Santa Cruz 2",
+  "season": "2023 - MASTERPIECE (Explore)",
+  "program": "FIRST LEGO League: Explore",
+  "program_abbreviation": "fll_explore",
+  "description": "Updated date.\r\n\r\nEvent held at Dream Inn.",
+  "capacity": 9,
+  "total_registered": 9,
+  "level": {
+    "id": 8,
+    "name": "FLL Explore Festivals",
+    "next_level": null,
+    "previous_levels": [],
+    "registration_opens": "2023-11-17T17:00:00-08:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 3
+  },
+  "event_status": "closed",
+  "event_status_display": "Closed",
+  "status_v2": "complete",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 9,
+  "total_reserved": 0,
+  "start_time": "2024-05-12T13:15:00-07:00",
+  "end_time": "2024-05-12T17:30:00-07:00",
+  "all_details": [],
+  "downloads": [],
+  "web_links": [],
+  "agenda_group": 11,
+  "agenda_items": [],
+  "public_agenda_items": [
+    {
+      "id": 1043,
+      "title": "Team Check-in & Pits Open",
+      "description": "",
+      "start_time": "13:30:00",
+      "end_time": "13:45:00",
+      "location": "FALSE",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 1044,
+      "title": "Welcome Ceremony",
+      "description": "",
+      "start_time": "13:45:00",
+      "end_time": "14:00:00",
+      "location": "FALSE",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 1045,
+      "title": "Reviewing Session - Group 1",
+      "description": "",
+      "start_time": "14:15:00",
+      "end_time": "14:25:00",
+      "location": "FALSE",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 1046,
+      "title": "Reviewing Session - Group 2",
+      "description": "",
+      "start_time": "14:45:00",
+      "end_time": "14:55:00",
+      "location": "FALSE",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 1047,
+      "title": "Reviewing Session - Group 3",
+      "description": "",
+      "start_time": "15:15:00",
+      "end_time": "15:25:00",
+      "location": "FALSE",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 1048,
+      "title": "Pit Cleanup / Tear Down",
+      "description": "Teams should pick up belongings and clean up their pit area.",
+      "start_time": "15:45:00",
+      "end_time": "16:00:00",
+      "location": "FALSE",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 1049,
+      "title": "Celebration Ceremony",
+      "description": "",
+      "start_time": "16:00:00",
+      "end_time": "16:30:00",
+      "location": "FALSE",
+      "category": null,
+      "category_display": null
+    }
+  ],
+  "venue": {
+    "name": "Dream Inn",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "zip_code": "95060",
+    "website": "https://www.dreaminnsantacruz.com/?utm_source=google&utm_medium=bizlisting&utm_campaign=google_places"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/38/",
+  "website_uri": "/en/event/38/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/38/#volunteer",
+  "team_stats": {
+    "teams": 9,
+    "students": 24,
+    "cities": [
+      "fremont",
+      "los altos",
+      "sunnyvale",
+      "san jose"
+    ],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 3,
+    "info": {
+      "name": "MASTERPIECE (Explore)",
+      "year": 2023,
+      "release": "2023-08-01T09:00:00-07:00",
+      "program": {
+        "id": 2,
+        "abbreviation": "fll_explore",
+        "previous_program": 3,
+        "get_abbreviation_display": "FIRST LEGO League: Explore",
+        "get_logo_path": "images/program_logos/fll_explore_logo.png",
+        "enable_team_profile": false
+      },
+      "season_begins": "2023-05-01",
+      "get_logo_path": "images/season_logos/2023_fll_explore.png"
+    },
+    "tableau_import_start": "2023-11-14T09:00:00-08:00",
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/233200869819967",
+    "has_team_profile": false
+  },
+  "role_template": null,
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": false,
+  "is_complete": true
+}

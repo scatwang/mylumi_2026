@@ -1,0 +1,3810 @@
+[
+  {
+    "id": 280,
+    "name": "2026 NorCal FLL-C: San Jose Spring League at The Play Space 5/3",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-05-03T08:00:00-07:00",
+    "end_time": "2026-05-03T18:00:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/280/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 282,
+    "name": "2026 2026 NorCal FLL Explore Festival - San Jose (Afternoon) 5/2",
+    "season": "2025 - UNEARTHED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 9,
+    "total_registered": 9,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-05-02T12:30:00-07:00",
+    "end_time": "2026-05-02T14:30:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/282/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Explore)",
+        "get_logo_path": "images/season_logos/2025_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 281,
+    "name": "2026 2026 NorCal FLL Explore Festival - San Jose (Morning) 5/2",
+    "season": "2025 - UNEARTHED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 9,
+    "total_registered": 9,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-05-02T09:15:00-07:00",
+    "end_time": "2026-05-02T11:15:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/281/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Explore)",
+        "get_logo_path": "images/season_logos/2025_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 274,
+    "name": "2026 NorCal FLL-C:  Livermore Spring League at East Avenue Middle School",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-05-02T08:00:00-07:00",
+    "end_time": "2026-05-02T18:00:00-07:00",
+    "venue": {
+      "id": 121,
+      "city": "Livermore"
+    },
+    "website_uri": "/en/event/274/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 278,
+    "name": "2026 NorCal FLL-C:  Spring League at Jessup University  Rocklin",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 10,
+    "total_registered": 9,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-04-26T08:00:00-07:00",
+    "end_time": "2026-04-26T18:00:00-07:00",
+    "venue": {
+      "id": 123,
+      "city": "Rocklin"
+    },
+    "website_uri": "/en/event/278/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 270,
+    "name": "2026 NorCal FLL-C:  San Jose Spring League at The Play Space 4/26",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-04-26T08:00:00-07:00",
+    "end_time": "2026-04-26T18:00:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/270/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 269,
+    "name": "2026 NorCal FLL-C: Union City Spring League at Guy Emanuele Jr.",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-04-25T08:00:00-07:00",
+    "end_time": "2026-04-25T18:00:00-07:00",
+    "venue": {
+      "id": 120,
+      "city": "Union City"
+    },
+    "website_uri": "/en/event/269/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 182,
+    "name": "2026 NorCal FLL-C:  SF Spring League at Jewish Comm HS",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-04-19T08:00:00-07:00",
+    "end_time": "2026-04-19T18:00:00-07:00",
+    "venue": {
+      "id": 24,
+      "city": "San Francisco"
+    },
+    "website_uri": "/en/event/182/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 277,
+    "name": "2026 2026 NorCal FLL Explore Festival - Cow Palace (Morning)",
+    "season": "2025 - UNEARTHED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-04-11T10:15:00-07:00",
+    "end_time": "2026-04-11T13:00:00-07:00",
+    "venue": {
+      "id": 122,
+      "city": "Daly City"
+    },
+    "website_uri": "/en/event/277/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Explore)",
+        "get_logo_path": "images/season_logos/2025_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 273,
+    "name": "2026 NorCal FLL-C: San Jose Spring League at The Play Space 3/29",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-03-29T08:00:00-07:00",
+    "end_time": "2026-03-29T18:00:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/273/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 272,
+    "name": "2026 NorCal FLL-C: Mt View Spring League at San Antonio Center 3/22",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-03-22T08:00:00-07:00",
+    "end_time": "2026-03-22T18:00:00-07:00",
+    "venue": {
+      "id": 84,
+      "city": "Mountain View"
+    },
+    "website_uri": "/en/event/272/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 271,
+    "name": "2026 NorCal FLL-C: Mt View  Spring League at San Antonio Center 3/21",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 10,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-03-21T08:00:00-07:00",
+    "end_time": "2026-03-21T18:00:00-07:00",
+    "venue": {
+      "id": 84,
+      "city": "Mountain View"
+    },
+    "website_uri": "/en/event/271/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 275,
+    "name": "2026 2026 NorCal FLL Explore Festival - Mountain View (Midday)",
+    "season": "2025 - UNEARTHED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 9,
+    "total_registered": 9,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-03-15T10:15:00-07:00",
+    "end_time": "2026-03-15T12:15:00-07:00",
+    "venue": {
+      "id": 84,
+      "city": "Mountain View"
+    },
+    "website_uri": "/en/event/275/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Explore)",
+        "get_logo_path": "images/season_logos/2025_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 276,
+    "name": "2026 2026 NorCal FLL Explore Festival - Mountain View (Afternoon)",
+    "season": "2025 - UNEARTHED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 9,
+    "total_registered": 9,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-03-15T09:15:00-07:00",
+    "end_time": "2026-03-15T15:15:00-07:00",
+    "venue": {
+      "id": 84,
+      "city": "Mountain View"
+    },
+    "website_uri": "/en/event/276/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Explore)",
+        "get_logo_path": "images/season_logos/2025_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 268,
+    "name": "2026 NorCal Bay Area Bedrock Championship - 2025/2026 Season",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 54,
+    "total_registered": 54,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-03-08T07:00:00-07:00",
+    "end_time": "2026-03-08T19:00:00-07:00",
+    "venue": {
+      "id": 27,
+      "city": "Palo Alto"
+    },
+    "website_uri": "/en/event/268/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 267,
+    "name": "2026 NorCal Gold Rush Relics Championship  - 2025/2026 Season",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 30,
+    "total_registered": 30,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-02-22T07:00:00-08:00",
+    "end_time": "2026-02-22T19:00:00-08:00",
+    "venue": {
+      "id": 119,
+      "city": "Tracy"
+    },
+    "website_uri": "/en/event/267/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 266,
+    "name": "2026 NorCal FLL Explore Festival - Folsom - 1/24 - Midday",
+    "season": "2025 - UNEARTHED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 6,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-01-24T10:15:00-08:00",
+    "end_time": "2026-01-24T12:15:00-08:00",
+    "venue": {
+      "id": 41,
+      "city": "Folsom"
+    },
+    "website_uri": "/en/event/266/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Explore)",
+        "get_logo_path": "images/season_logos/2025_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 265,
+    "name": "2026 NorCal FLL Explore Festival - Santa Cruz - 1/11 - Midday",
+    "season": "2025 - UNEARTHED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 5,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2026-01-11T10:15:00-08:00",
+    "end_time": "2026-01-11T12:15:00-08:00",
+    "venue": {
+      "id": 29,
+      "city": "Santa Cruz"
+    },
+    "website_uri": "/en/event/265/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Explore)",
+        "get_logo_path": "images/season_logos/2025_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 227,
+    "name": "2025 NorCal FLL-E Festival - San Jose Midday - 12/7",
+    "season": "2025 - UNEARTHED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 8,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-12-07T10:15:00-08:00",
+    "end_time": "2025-12-07T12:15:00-08:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/227/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Explore)",
+        "get_logo_path": "images/season_logos/2025_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 183,
+    "name": "2025 NorCal FLL-C:  Palo Alto QT at Gunn HS",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-16T08:00:00-08:00",
+    "end_time": "2025-11-16T18:00:00-08:00",
+    "venue": {
+      "id": 12,
+      "city": "Palo Alto"
+    },
+    "website_uri": "/en/event/183/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 188,
+    "name": "2025 NorCal FLL-C:  East Palo Alto QT at EPA Center",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-16T08:00:00-08:00",
+    "end_time": "2025-11-16T18:00:00-08:00",
+    "venue": {
+      "id": 83,
+      "city": "East Palo Alto"
+    },
+    "website_uri": "/en/event/188/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 189,
+    "name": "2025 NorCal FLL-C:  Elk Grove QT at Pleasant Grove HS",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 24,
+    "total_registered": 24,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-16T08:00:00-08:00",
+    "end_time": "2025-11-16T18:00:00-08:00",
+    "venue": {
+      "id": 16,
+      "city": "Elk Grove"
+    },
+    "website_uri": "/en/event/189/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 187,
+    "name": "2025 NorCal FLL-C:  Sacramento QT at SACCDS",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-16T08:00:00-08:00",
+    "end_time": "2025-11-16T18:00:00-08:00",
+    "venue": {
+      "id": 82,
+      "city": "Sacramento"
+    },
+    "website_uri": "/en/event/187/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 181,
+    "name": "2025 NorCal FLL-C:  San Jose QT at Leland  HS",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 24,
+    "total_registered": 24,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-15T08:00:00-08:00",
+    "end_time": "2025-11-15T18:00:00-08:00",
+    "venue": {
+      "id": 9,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/181/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 180,
+    "name": "2025 NorCal FLL-C:  San Francisco QT at SF Day School",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-15T08:00:00-08:00",
+    "end_time": "2025-11-15T18:00:00-08:00",
+    "venue": {
+      "id": 6,
+      "city": "San Francisco"
+    },
+    "website_uri": "/en/event/180/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 190,
+    "name": "2025 NorCal FLL-C:  Mountain View QT at Mt View HS",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-15T08:00:00-08:00",
+    "end_time": "2025-11-15T18:00:00-08:00",
+    "venue": {
+      "id": 10,
+      "city": "Mountain View"
+    },
+    "website_uri": "/en/event/190/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 186,
+    "name": "2025 NorCal FLL-C:  San Jose QT at St Christopher",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-15T08:00:00-08:00",
+    "end_time": "2025-11-15T18:00:00-08:00",
+    "venue": {
+      "id": 43,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/186/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 191,
+    "name": "2025 NorCal FLL-C:  Mt View QT at San Antonio Center",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-15T08:00:00-08:00",
+    "end_time": "2025-11-15T18:00:00-08:00",
+    "venue": {
+      "id": 84,
+      "city": "Mountain View"
+    },
+    "website_uri": "/en/event/191/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 178,
+    "name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-15T08:00:00-08:00",
+    "end_time": "2025-11-15T18:00:00-08:00",
+    "venue": {
+      "id": 80,
+      "city": "Sunnyvale"
+    },
+    "website_uri": "/en/event/178/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 194,
+    "name": "2025 NorCal FLL-C:  San Jose QT at The Play Space 11/9",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-09T08:00:00-08:00",
+    "end_time": "2025-11-09T18:00:00-08:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/194/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 177,
+    "name": "2025 NorCal FLL-C:  San Mateo QT at The Nueva School",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-09T08:00:00-08:00",
+    "end_time": "2025-11-09T18:00:00-08:00",
+    "venue": {
+      "id": 4,
+      "city": "San Mateo"
+    },
+    "website_uri": "/en/event/177/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 179,
+    "name": "2025 NorCal FLL-C:  San Jose QT at Santa Teresa HS",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-09T08:00:00-08:00",
+    "end_time": "2025-11-09T18:00:00-08:00",
+    "venue": {
+      "id": 3,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/179/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 193,
+    "name": "2025 NorCal FLL-C:  San Ramon QT at The Dorris-Eaton School",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-08T08:00:00-08:00",
+    "end_time": "2025-11-08T18:00:00-08:00",
+    "venue": {
+      "id": 86,
+      "city": "San Ramon"
+    },
+    "website_uri": "/en/event/193/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 174,
+    "name": "2025 NorCal FLL-C:  San Jose QT at St Martin of Tours",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-08T08:00:00-08:00",
+    "end_time": "2025-11-08T18:00:00-08:00",
+    "venue": {
+      "id": 33,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/174/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 192,
+    "name": "2025 NorCal FLL-C:  Fremont QT at Gomes",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-08T08:00:00-08:00",
+    "end_time": "2025-11-08T18:00:00-08:00",
+    "venue": {
+      "id": 85,
+      "city": "Fremont"
+    },
+    "website_uri": "/en/event/192/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 175,
+    "name": "2025 NorCal FLL-C:  San Jose QT at The Play Space 11/8",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-08T08:00:00-08:00",
+    "end_time": "2025-11-08T18:00:00-08:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/175/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 176,
+    "name": "2025 NorCal FLL-C:  Modesto QT at Beyer HS",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 17,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-08T08:00:00-08:00",
+    "end_time": "2025-11-08T18:00:00-08:00",
+    "venue": {
+      "id": 8,
+      "city": "Modesto"
+    },
+    "website_uri": "/en/event/176/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 173,
+    "name": "2025 NorCal FLL-C:  San Francisco QT at Lowell HS",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-02T08:00:00-08:00",
+    "end_time": "2025-11-02T19:00:00-08:00",
+    "venue": {
+      "id": 7,
+      "city": "San Francisco"
+    },
+    "website_uri": "/en/event/173/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 185,
+    "name": "2025 NorCal FLL-C:  San Francisco QT at SI Golden Gate",
+    "season": "2025 - UNEARTHED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 8,
+    "total_registered": 8,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-11-01T08:00:00-07:00",
+    "end_time": "2025-11-01T18:00:00-07:00",
+    "venue": {
+      "id": 81,
+      "city": "San Francisco"
+    },
+    "website_uri": "/en/event/185/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2025,
+        "name": "UNEARTHED (Challenge)",
+        "get_logo_path": "images/season_logos/2025_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 122,
+    "name": "2025 NorCal FLL-C:  Dublin Spring League - 4/27",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-04-27T08:00:00-07:00",
+    "end_time": "2025-04-27T18:00:00-07:00",
+    "venue": {
+      "id": 45,
+      "city": "Dublin"
+    },
+    "website_uri": "/en/event/122/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 118,
+    "name": "2025 NorCal FLL-C:  Fremont Spring League - 4/26",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-04-26T08:00:00-07:00",
+    "end_time": "2025-04-26T18:00:00-07:00",
+    "venue": {
+      "id": 11,
+      "city": "Fremont"
+    },
+    "website_uri": "/en/event/118/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 119,
+    "name": "2025 NorCal FLL-C : Sunnyvale Spring League - 4/26",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-04-26T08:00:00-07:00",
+    "end_time": "2025-04-26T18:00:00-07:00",
+    "venue": {
+      "id": 44,
+      "city": "Sunnyvale"
+    },
+    "website_uri": "/en/event/119/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 123,
+    "name": "2025 NorCal FLL-C:  The Play Space Spring League - 4/13",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 15,
+    "total_registered": 15,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-04-13T08:00:00-07:00",
+    "end_time": "2025-04-13T18:00:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/123/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 163,
+    "name": "2025 NorCal FLL-E Festival - San Jose Evening - 4/12",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 7,
+    "total_registered": 7,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-04-12T15:15:00-07:00",
+    "end_time": "2025-04-12T17:15:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/163/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 161,
+    "name": "2025 NorCal FLL-E Festival - San Jose Afternoon - 4/12",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 8,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-04-12T13:00:00-07:00",
+    "end_time": "2025-04-12T15:00:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/161/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 162,
+    "name": "2025 NorCal FLL-E Festival - San Jose Midday - 4/12",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 8,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-04-12T10:15:00-07:00",
+    "end_time": "2025-04-12T12:15:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/162/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 164,
+    "name": "2025 NorCal FLL-E Festival - San Jose Morning - 4/12",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 4,
+    "total_registered": 4,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-04-12T08:00:00-07:00",
+    "end_time": "2025-04-12T10:00:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/164/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 128,
+    "name": "2025 NorCal FLL-C:  Fremont Spring League - 4/5",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-04-05T08:00:00-07:00",
+    "end_time": "2025-04-05T18:00:00-07:00",
+    "venue": {
+      "id": 46,
+      "city": "Fremont"
+    },
+    "website_uri": "/en/event/128/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 121,
+    "name": "2025 NorCal FLL-C:  The Play Space Spring League - 4/5",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 14,
+    "total_registered": 14,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-04-05T08:00:00-07:00",
+    "end_time": "2025-04-05T18:00:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/121/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 120,
+    "name": "2025 NorCal FLL-C:  The Play Space Spring League - 3/23",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 14,
+    "total_registered": 14,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-03-23T08:00:00-07:00",
+    "end_time": "2025-03-23T18:00:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/120/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 127,
+    "name": "2025 NorCal FLL-E Festival - San Jose Evening - 3/22",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 8,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-03-22T15:15:00-07:00",
+    "end_time": "2025-03-22T17:15:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/127/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 124,
+    "name": "2025 NorCal FLL-E Festival - San Jose Afternoon - 3/22",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 8,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-03-22T13:00:00-07:00",
+    "end_time": "2025-03-22T15:00:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/124/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 125,
+    "name": "2025 NorCal FLL-E Festival - San Jose Midday - 3/22",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 8,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-03-22T10:15:00-07:00",
+    "end_time": "2025-03-22T12:15:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/125/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 126,
+    "name": "2025 NorCal FLL-E Festival - San Jose Morning - 3/22",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 7,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-03-22T08:00:00-07:00",
+    "end_time": "2025-03-22T10:00:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/126/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 110,
+    "name": "2025 Peninsula District Championship",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 42,
+    "total_registered": 42,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-03-09T07:00:00-07:00",
+    "end_time": "2025-03-09T19:00:00-07:00",
+    "venue": {
+      "id": 27,
+      "city": "Palo Alto"
+    },
+    "website_uri": "/en/event/110/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 111,
+    "name": "2025 San Jose District Championship",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 42,
+    "total_registered": 42,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-03-02T07:00:00-08:00",
+    "end_time": "2025-03-02T19:00:00-08:00",
+    "venue": {
+      "id": 42,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/111/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 117,
+    "name": "2025 NorCal FLL-E Festival - San Jose Afternoon - 2/1",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 5,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-02-01T13:00:00-08:00",
+    "end_time": "2025-02-01T15:00:00-08:00",
+    "venue": {
+      "id": 43,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/117/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 115,
+    "name": "2025 NorCal FLL-E Festival - San Jose Midday - 2/1",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 5,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-02-01T10:15:00-08:00",
+    "end_time": "2025-02-01T12:15:00-08:00",
+    "venue": {
+      "id": 43,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/115/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 114,
+    "name": "2025 NorCal FLL-E Festival - San Jose Morning - 2/1",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 5,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-02-01T08:00:00-08:00",
+    "end_time": "2025-02-01T10:00:00-08:00",
+    "venue": {
+      "id": 43,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/114/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 112,
+    "name": "2025 NorCal FLL-E Festival - Folsom Afternoon",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 10,
+    "total_registered": 10,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-01-26T13:00:00-08:00",
+    "end_time": "2025-01-26T15:00:00-08:00",
+    "venue": {
+      "id": 41,
+      "city": "Folsom"
+    },
+    "website_uri": "/en/event/112/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 116,
+    "name": "2025 NorCal FLL-E Festival - Folsom Midday",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 0,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-01-26T10:15:00-08:00",
+    "end_time": "2025-01-26T12:15:00-08:00",
+    "venue": {
+      "id": 41,
+      "city": "Folsom"
+    },
+    "website_uri": "/en/event/116/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 77,
+    "name": "2025 SF / East Bay / Capital District Championship",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 30,
+    "total_registered": 30,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-01-19T07:30:00-08:00",
+    "end_time": "2025-01-19T18:30:00-08:00",
+    "venue": {
+      "id": 16,
+      "city": "Elk Grove"
+    },
+    "website_uri": "/en/event/77/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 74,
+    "name": "2025 NorCal FLL-E Festival - Santa Cruz Afternoon",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 9,
+    "total_registered": 8,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2025-01-12T13:00:00-08:00",
+    "end_time": "2025-01-12T15:00:00-08:00",
+    "venue": {
+      "id": 29,
+      "city": "Santa Cruz"
+    },
+    "website_uri": "/en/event/74/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 71,
+    "name": "2024 NorCal FLL-E Festival - Mountain View",
+    "season": "2024 - SUBMERGED (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 6,
+    "total_registered": 6,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-12-07T12:30:00-08:00",
+    "end_time": "2024-12-07T16:30:00-08:00",
+    "venue": {
+      "id": 10,
+      "city": "Mountain View"
+    },
+    "website_uri": "/en/event/71/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Explore)",
+        "get_logo_path": "images/season_logos/2024_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 61,
+    "name": "2024 NorCal FLL-C:  Mt View QT at Mt View HS 11/17",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-17T08:00:00-08:00",
+    "end_time": "2024-11-17T18:00:00-08:00",
+    "venue": {
+      "id": 10,
+      "city": "Mountain View"
+    },
+    "website_uri": "/en/event/61/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 63,
+    "name": "2024 NorCal FLL-C:  Fremont QT at BASIS Independent",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-17T08:00:00-08:00",
+    "end_time": "2024-11-17T18:00:00-08:00",
+    "venue": {
+      "id": 11,
+      "city": "Fremont"
+    },
+    "website_uri": "/en/event/63/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 62,
+    "name": "2024 NorCal FLL-C:  Elk Grove QT at Pleasant Grove HS",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 24,
+    "total_registered": 24,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-17T08:00:00-08:00",
+    "end_time": "2024-11-17T18:00:00-08:00",
+    "venue": {
+      "id": 16,
+      "city": "Elk Grove"
+    },
+    "website_uri": "/en/event/62/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 60,
+    "name": "2024 NorCal FLL-C:  Mt View QT at Mt View HS 11/16",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-16T08:00:00-08:00",
+    "end_time": "2024-11-16T18:00:00-08:00",
+    "venue": {
+      "id": 10,
+      "city": "Mountain View"
+    },
+    "website_uri": "/en/event/60/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 56,
+    "name": "2024 NorCal FLL-C:  San Jose QT at Presentation HS",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-16T08:00:00-08:00",
+    "end_time": "2024-11-16T18:00:00-08:00",
+    "venue": {
+      "id": 15,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/56/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 54,
+    "name": "2024 NorCal FLL-C:  Sunnyvale QT at Fremont HS",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 24,
+    "total_registered": 24,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-16T08:00:00-08:00",
+    "end_time": "2024-11-16T18:00:00-08:00",
+    "venue": {
+      "id": 14,
+      "city": "Sunnyvale"
+    },
+    "website_uri": "/en/event/54/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 55,
+    "name": "2024 NorCal FLL-C:  San Francisco QT at SF Day School",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-16T08:00:00-08:00",
+    "end_time": "2024-11-16T18:00:00-08:00",
+    "venue": {
+      "id": 6,
+      "city": "San Francisco"
+    },
+    "website_uri": "/en/event/55/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 58,
+    "name": "2024 NorCal FLL-C:  Modesto QT at Beyer HS",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-16T08:00:00-08:00",
+    "end_time": "2024-11-16T18:00:00-08:00",
+    "venue": {
+      "id": 8,
+      "city": "Modesto"
+    },
+    "website_uri": "/en/event/58/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 59,
+    "name": "2024 NorCal FLL-C:  San Jose QT at Leland  HS",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 24,
+    "total_registered": 24,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-15T08:00:00-08:00",
+    "end_time": "2024-11-15T18:00:00-08:00",
+    "venue": {
+      "id": 9,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/59/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 51,
+    "name": "2024 NorCal FLL-C:  San Mateo QT at The Nueva School",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-10T08:00:00-08:00",
+    "end_time": "2024-11-10T18:00:00-08:00",
+    "venue": {
+      "id": 4,
+      "city": "San Mateo"
+    },
+    "website_uri": "/en/event/51/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 52,
+    "name": "2024 NorCal FLL-C:  Palo Alto QT at Gunn HS",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 16,
+    "total_registered": 16,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-10T08:00:00-08:00",
+    "end_time": "2024-11-10T18:00:00-08:00",
+    "venue": {
+      "id": 12,
+      "city": "Palo Alto"
+    },
+    "website_uri": "/en/event/52/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 53,
+    "name": "2024 NorCal FLL-C:  San Francisco QT at Jewish Comm HS",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 16,
+    "total_registered": 16,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-10T08:00:00-08:00",
+    "end_time": "2024-11-10T18:00:00-08:00",
+    "venue": {
+      "id": 24,
+      "city": "San Francisco"
+    },
+    "website_uri": "/en/event/53/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 49,
+    "name": "2024 NorCal FLL-C:  Palo Alto QT - Girl Scouts @ LDS",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-09T08:00:00-08:00",
+    "end_time": "2024-11-09T18:00:00-08:00",
+    "venue": {
+      "id": 35,
+      "city": "Palo Alto"
+    },
+    "website_uri": "/en/event/49/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 47,
+    "name": "2024 NorCal FLL-C:  San Francisco QT at Lowell HS",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-09T08:00:00-08:00",
+    "end_time": "2024-11-09T19:00:00-08:00",
+    "venue": {
+      "id": 7,
+      "city": "San Francisco"
+    },
+    "website_uri": "/en/event/47/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 57,
+    "name": "2024 NorCal FLL-C:  Sunnyvale QT at Google",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-09T08:00:00-08:00",
+    "end_time": "2024-11-09T18:00:00-08:00",
+    "venue": {
+      "id": 5,
+      "city": "Sunnyvale"
+    },
+    "website_uri": "/en/event/57/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 50,
+    "name": "2024 NorCal FLL-C:  San Jose QT at Santa Teresa HS",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 16,
+    "total_registered": 16,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-09T08:00:00-08:00",
+    "end_time": "2024-11-09T18:00:00-08:00",
+    "venue": {
+      "id": 3,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/50/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 46,
+    "name": "2024 NorCal FLL-C:  San Jose QT at Stratford Prep",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-09T08:00:00-08:00",
+    "end_time": "2024-11-09T18:00:00-08:00",
+    "venue": {
+      "id": 1,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/46/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 48,
+    "name": "2024 NorCal FLL-C:  San Jose QT at The Play Space 11/9",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-09T08:00:00-08:00",
+    "end_time": "2024-11-09T18:00:00-08:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/48/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 44,
+    "name": "2024 NorCal FLL-C:  San Jose QT at St Martin of Tours",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-02T08:00:00-07:00",
+    "end_time": "2024-11-02T18:00:00-07:00",
+    "venue": {
+      "id": 33,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/44/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 76,
+    "name": "2024 NorCal FLL-C:  Dublin QT at Quarry Lane School",
+    "season": "2024 - SUBMERGED (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-11-02T08:00:00-07:00",
+    "end_time": "2024-11-02T18:00:00-07:00",
+    "venue": {
+      "id": 18,
+      "city": "Dublin"
+    },
+    "website_uri": "/en/event/76/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2024,
+        "name": "SUBMERGED (Challenge)",
+        "get_logo_path": "images/season_logos/2024_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 38,
+    "name": "2024 NorCal FLL-E Festival - Santa Cruz 2",
+    "season": "2023 - MASTERPIECE (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 9,
+    "total_registered": 9,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-05-12T13:15:00-07:00",
+    "end_time": "2024-05-12T17:30:00-07:00",
+    "venue": {
+      "id": 29,
+      "city": "Santa Cruz"
+    },
+    "website_uri": "/en/event/38/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Explore)",
+        "get_logo_path": "images/season_logos/2023_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 41,
+    "name": "2024 NorCal FLL-E Festival - Santa Cruz 1",
+    "season": "2023 - MASTERPIECE (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 8,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-05-12T08:45:00-07:00",
+    "end_time": "2024-05-12T12:15:00-07:00",
+    "venue": {
+      "id": 29,
+      "city": "Santa Cruz"
+    },
+    "website_uri": "/en/event/41/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Explore)",
+        "get_logo_path": "images/season_logos/2023_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 37,
+    "name": "2024 NorCal FLL-E Festival - Fremont",
+    "season": "2023 - MASTERPIECE (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-04-28T12:45:00-07:00",
+    "end_time": "2024-04-28T16:15:00-07:00",
+    "venue": {
+      "id": 11,
+      "city": "Fremont"
+    },
+    "website_uri": "/en/event/37/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Explore)",
+        "get_logo_path": "images/season_logos/2023_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 42,
+    "name": "2024 NorCal FLL-C:  Tournament 1",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 10,
+    "total_registered": 9,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-04-27T08:00:00-07:00",
+    "end_time": "2024-04-27T17:00:00-07:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/42/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 39,
+    "name": "2024 NorCal FLL-E Festival - Roseville",
+    "season": "2023 - MASTERPIECE (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-04-13T12:45:00-07:00",
+    "end_time": "2024-04-13T16:15:00-07:00",
+    "venue": {
+      "id": 32,
+      "city": "Roseville"
+    },
+    "website_uri": "/en/event/39/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Explore)",
+        "get_logo_path": "images/season_logos/2023_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 30,
+    "name": "2024 NorCal FLL-C:  Spring League in Santa Clara",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-04-13T08:00:00-07:00",
+    "end_time": "2024-04-13T18:00:00-07:00",
+    "venue": {
+      "id": 26,
+      "city": "Santa Clara"
+    },
+    "website_uri": "/en/event/30/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 23,
+    "name": "2024 Peninsula District Championship",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 36,
+    "total_registered": 36,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-03-31T07:30:00-07:00",
+    "end_time": "2024-03-31T18:30:00-07:00",
+    "venue": {
+      "id": 27,
+      "city": "Palo Alto"
+    },
+    "website_uri": "/en/event/23/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 35,
+    "name": "2024 NorCal FLL-C:  Spring League in Fremont",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 17,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-03-30T08:00:00-07:00",
+    "end_time": "2024-03-30T18:00:00-07:00",
+    "venue": {
+      "id": 11,
+      "city": "Fremont"
+    },
+    "website_uri": "/en/event/35/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 36,
+    "name": "2024 NorCal FLL-E Festival - Sunnyvale",
+    "season": "2023 - MASTERPIECE (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 8,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-03-23T08:45:00-07:00",
+    "end_time": "2024-03-23T12:15:00-07:00",
+    "venue": {
+      "id": 31,
+      "city": "Sunnyvale"
+    },
+    "website_uri": "/en/event/36/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Explore)",
+        "get_logo_path": "images/season_logos/2023_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 29,
+    "name": "2024 NorCal FLL-C:  Spring League in San Francisco",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 17,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-03-17T08:00:00-07:00",
+    "end_time": "2024-03-17T18:00:00-07:00",
+    "venue": {
+      "id": 24,
+      "city": "San Francisco"
+    },
+    "website_uri": "/en/event/29/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 24,
+    "name": "2024 SJ/Fremont Championship",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 42,
+    "total_registered": 42,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-03-17T07:30:00-07:00",
+    "end_time": "2024-03-17T18:00:00-07:00",
+    "venue": {
+      "id": 30,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/24/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 34,
+    "name": "2024 NorCal FLL-C:  Spring League in San Jose",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 10,
+    "total_registered": 10,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-03-02T08:00:00-08:00",
+    "end_time": "2024-03-02T17:30:00-08:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/34/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 33,
+    "name": "2024 NorCal FLL-E Festival - Oakland",
+    "season": "2023 - MASTERPIECE (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 9,
+    "total_registered": 9,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-02-10T13:30:00-08:00",
+    "end_time": "2024-02-10T17:30:00-08:00",
+    "venue": {
+      "id": 20,
+      "city": "Oakland"
+    },
+    "website_uri": "/en/event/33/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Explore)",
+        "get_logo_path": "images/season_logos/2023_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 22,
+    "name": "2024 SF / East Bay / Capital District Championship",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 36,
+    "total_registered": 36,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-02-04T07:30:00-08:00",
+    "end_time": "2024-02-04T18:00:00-08:00",
+    "venue": {
+      "id": 16,
+      "city": "Elk Grove"
+    },
+    "website_uri": "/en/event/22/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 28,
+    "name": "2024 NorCal FLL-E Festival - Saratoga",
+    "season": "2023 - MASTERPIECE (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 8,
+    "total_registered": 7,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-01-28T12:30:00-08:00",
+    "end_time": "2024-01-28T16:00:00-08:00",
+    "venue": {
+      "id": 25,
+      "city": "Saratoga"
+    },
+    "website_uri": "/en/event/28/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Explore)",
+        "get_logo_path": "images/season_logos/2023_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 27,
+    "name": "2024 NorCal FLL-E Festival - East Palo Alto",
+    "season": "2023 - MASTERPIECE (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2024-01-20T13:00:00-08:00",
+    "end_time": "2024-01-20T18:00:00-08:00",
+    "venue": {
+      "id": 22,
+      "city": "East Palo Alto"
+    },
+    "website_uri": "/en/event/27/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Explore)",
+        "get_logo_path": "images/season_logos/2023_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 25,
+    "name": "2023 NorCal FLL-E Festival - San Jose",
+    "season": "2023 - MASTERPIECE (Explore)",
+    "program": "FIRST LEGO League: Explore",
+    "program_abbreviation": "fll_explore",
+    "capacity": 6,
+    "total_registered": 6,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-12-16T12:30:00-08:00",
+    "end_time": "2023-12-16T17:30:00-08:00",
+    "venue": {
+      "id": 1,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/25/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Explore)",
+        "get_logo_path": "images/season_logos/2023_fll_explore.png",
+        "program": {
+          "abbreviation": "fll_explore",
+          "get_logo_path": "images/program_logos/fll_explore_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 18,
+    "name": "2023 Quarry Lane",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-19T08:00:00-08:00",
+    "end_time": "2023-11-19T18:00:00-08:00",
+    "venue": {
+      "id": 18,
+      "city": "Dublin"
+    },
+    "website_uri": "/en/event/18/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 11,
+    "name": "2023 Basis Independent Fremont School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-19T08:00:00-08:00",
+    "end_time": "2023-11-19T18:00:00-08:00",
+    "venue": {
+      "id": 11,
+      "city": "Fremont"
+    },
+    "website_uri": "/en/event/11/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 21,
+    "name": "2023 The Play Space #2",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-19T08:00:00-08:00",
+    "end_time": "2023-11-19T18:00:00-08:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/21/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 8,
+    "name": "2023 Beyer High School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-18T08:00:00-08:00",
+    "end_time": "2023-11-18T18:00:00-08:00",
+    "venue": {
+      "id": 8,
+      "city": "Modesto"
+    },
+    "website_uri": "/en/event/8/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 10,
+    "name": "2023 Mountain View High School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-18T08:00:00-08:00",
+    "end_time": "2023-11-18T18:00:00-08:00",
+    "venue": {
+      "id": 10,
+      "city": "Mountain View"
+    },
+    "website_uri": "/en/event/10/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 9,
+    "name": "2023 Leland High School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 24,
+    "total_registered": 24,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-18T08:00:00-08:00",
+    "end_time": "2023-11-18T18:00:00-08:00",
+    "venue": {
+      "id": 23,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/9/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 7,
+    "name": "2023 Lowell High School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-18T08:00:00-08:00",
+    "end_time": "2023-11-19T18:00:00-08:00",
+    "venue": {
+      "id": 7,
+      "city": "San Francisco"
+    },
+    "website_uri": "/en/event/7/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 17,
+    "name": "2023 The Play Space #1",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-18T08:00:00-08:00",
+    "end_time": "2023-11-18T18:00:00-08:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/17/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 16,
+    "name": "2023 Pleasant Grove High School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 24,
+    "total_registered": 24,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-12T08:00:00-08:00",
+    "end_time": "2023-11-12T18:00:00-08:00",
+    "venue": {
+      "id": 16,
+      "city": "Elk Grove"
+    },
+    "website_uri": "/en/event/16/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 12,
+    "name": "2023 Gunn High School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 24,
+    "total_registered": 24,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-12T08:00:00-08:00",
+    "end_time": "2023-11-12T18:00:00-08:00",
+    "venue": {
+      "id": 12,
+      "city": "Palo Alto"
+    },
+    "website_uri": "/en/event/12/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 5,
+    "name": "2023 Google Sunnyvale",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-12T08:00:00-08:00",
+    "end_time": "2023-11-12T18:00:00-08:00",
+    "venue": {
+      "id": 5,
+      "city": "Sunnyvale"
+    },
+    "website_uri": "/en/event/5/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 6,
+    "name": "2023 San Francisco Day School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-11T08:00:00-08:00",
+    "end_time": "2023-11-11T18:00:00-08:00",
+    "venue": {
+      "id": 6,
+      "city": "San Francisco"
+    },
+    "website_uri": "/en/event/6/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 15,
+    "name": "2023 Presentation High School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-11T08:00:00-08:00",
+    "end_time": "2023-11-11T18:00:00-08:00",
+    "venue": {
+      "id": 15,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/15/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 3,
+    "name": "2023 Santa Teresa High School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 24,
+    "total_registered": 24,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-05T08:00:00-08:00",
+    "end_time": "2023-11-05T18:00:00-08:00",
+    "venue": {
+      "id": 3,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/3/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 4,
+    "name": "2023 The Nueva School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 17,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-05T08:00:00-08:00",
+    "end_time": "2023-11-05T18:00:00-08:00",
+    "venue": {
+      "id": 4,
+      "city": "San Mateo"
+    },
+    "website_uri": "/en/event/4/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 2,
+    "name": "2023 Piedmont Middle School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-05T08:00:00-08:00",
+    "end_time": "2023-11-05T18:00:00-08:00",
+    "venue": {
+      "id": 2,
+      "city": "Piedmont"
+    },
+    "website_uri": "/en/event/2/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 14,
+    "name": "2023 Fremont High School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 24,
+    "total_registered": 24,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-04T08:00:00-07:00",
+    "end_time": "2023-11-04T18:00:00-07:00",
+    "venue": {
+      "id": 14,
+      "city": "Sunnyvale"
+    },
+    "website_uri": "/en/event/14/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 1,
+    "name": "2023 Stratford Preparatory School",
+    "season": "2023 - MASTERPIECE (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 18,
+    "event_status": "closed",
+    "event_status_display": "Closed",
+    "status_v2": "complete",
+    "start_time": "2023-11-04T08:00:00-07:00",
+    "end_time": "2023-11-04T18:00:00-07:00",
+    "venue": {
+      "id": 1,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/1/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2023,
+        "name": "MASTERPIECE (Challenge)",
+        "get_logo_path": "images/season_logos/2023_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  }
+]

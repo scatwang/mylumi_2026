@@ -1,0 +1,365 @@
+{
+  "count": 30,
+  "results": [
+    {
+      "id": 1084,
+      "team": {
+        "id": 663,
+        "number": 417,
+        "name": "Notre Dame Fighting iBots",
+        "city": "Vacaville",
+        "org_name": "Notre Dame School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1099,
+      "team": {
+        "id": 664,
+        "number": 445,
+        "name": "Matsuyama RoboPines",
+        "city": "Sacramento",
+        "org_name": "Matsuyama Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1129,
+      "team": {
+        "id": 890,
+        "number": 5983,
+        "name": "GOATed Griffins (5983)",
+        "city": "Walnut Creek",
+        "org_name": "Foothill Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1074,
+      "team": {
+        "id": 1102,
+        "number": 7052,
+        "name": "OP Octopi",
+        "city": "San Francisco",
+        "org_name": "St. Gabriel School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1089,
+      "team": {
+        "id": 690,
+        "number": 51095,
+        "name": "CreaTech",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1059,
+      "team": {
+        "id": 917,
+        "number": 52090,
+        "name": "Canary1",
+        "city": "San Francisco",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1083,
+      "team": {
+        "id": 1044,
+        "number": 53595,
+        "name": "Mechaminds",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1098,
+      "team": {
+        "id": 698,
+        "number": 55794,
+        "name": "Purple People Eaters FLL-C 55794",
+        "city": "Oakland",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1079,
+      "team": {
+        "id": 701,
+        "number": 55971,
+        "name": "Electroid Marines",
+        "city": "Santa Clara",
+        "org_name": "Fremont High School, Don Callejon K-8 School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1064,
+      "team": {
+        "id": 704,
+        "number": 56768,
+        "name": "Blue Brickbots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1087,
+      "team": {
+        "id": 1108,
+        "number": 56860,
+        "name": "RoboShockers",
+        "city": "Pleasanton",
+        "org_name": "Harvest Park Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1106,
+      "team": {
+        "id": 708,
+        "number": 59703,
+        "name": "brick-o-brainiacs pioneers",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1068,
+      "team": {
+        "id": 710,
+        "number": 60037,
+        "name": "BuilderBots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1069,
+      "team": {
+        "id": 717,
+        "number": 60198,
+        "name": "Chronobot",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1117,
+      "team": {
+        "id": 959,
+        "number": 60377,
+        "name": "RI Lego Warriors",
+        "city": "Lathrop",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1071,
+      "team": {
+        "id": 960,
+        "number": 60388,
+        "name": "Cosmic Motor",
+        "city": "Saratoga",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1066,
+      "team": {
+        "id": 965,
+        "number": 60507,
+        "name": "Team Prime",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1060,
+      "team": {
+        "id": 970,
+        "number": 60718,
+        "name": "Rockin Robos",
+        "city": "Rocklin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1058,
+      "team": {
+        "id": 725,
+        "number": 60855,
+        "name": "GearShift",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1102,
+      "team": {
+        "id": 979,
+        "number": 60923,
+        "name": "Artesan",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1104,
+      "team": {
+        "id": 985,
+        "number": 61139,
+        "name": "Lightning Squad",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1085,
+      "team": {
+        "id": 734,
+        "number": 61610,
+        "name": "Argoclucks",
+        "city": "ALBANY",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1105,
+      "team": {
+        "id": 998,
+        "number": 61708,
+        "name": "Squirtle",
+        "city": "Saratoga",
+        "org_name": "Saratoga Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1090,
+      "team": {
+        "id": 738,
+        "number": 64052,
+        "name": "ThunderBots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1057,
+      "team": {
+        "id": 648,
+        "number": 65287,
+        "name": "RoboWizards7",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1061,
+      "team": {
+        "id": 839,
+        "number": 65953,
+        "name": "Infinity E-Bots",
+        "city": "Dublin",
+        "org_name": "Cottonwood Creek"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1076,
+      "team": {
+        "id": 850,
+        "number": 66439,
+        "name": "Super Lego Builders",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1095,
+      "team": {
+        "id": 1077,
+        "number": 67216,
+        "name": "Submersiwolves",
+        "city": "San Francisco",
+        "org_name": "Lilienthal (Claire) Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1062,
+      "team": {
+        "id": 1089,
+        "number": 67722,
+        "name": "TechnoSharks*",
+        "city": "Fremont",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1067,
+      "team": {
+        "id": 1179,
+        "number": 68202,
+        "name": "Soaring Seastars",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

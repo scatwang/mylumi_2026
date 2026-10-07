@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 65020,
+      "name": "The Golden Huskies",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 300,
+      "highest_display": 300,
+      "rounds": [
+        205,
+        300,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        300,
+        205,
+        180
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 58711,
+      "name": "Arctic Wolves",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 295,
+      "highest_display": 295,
+      "rounds": [
+        290,
+        275,
+        295
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        295,
+        290,
+        275
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 61282,
+      "name": "The Krusty Crab",
+      "judging_lane_name": "RED POD 2",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        190,
+        270,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        225,
+        190
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 62681,
+      "name": "Golden Eagles",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 255,
+      "highest_display": 255,
+      "rounds": [
+        210,
+        215,
+        255
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Cheeredonother team",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        255,
+        215,
+        210
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 61803,
+      "name": "Techeon",
+      "judging_lane_name": "RED POD 2",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        210,
+        150,
+        215
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        215,
+        210,
+        150
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 67840,
+      "name": "The Submarine SharkBots",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        185,
+        215,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        215,
+        185,
+        165
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 30518,
+      "name": "Marine Manatees (#30518)",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        80,
+        150,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        150,
+        80
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 52363,
+      "name": "Terrabytes",
+      "judging_lane_name": "RED POD 2",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        80,
+        155,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        165,
+        155,
+        80
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 66078,
+      "name": "Pleasanton Piranhas",
+      "judging_lane_name": "RED POD 2",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        155,
+        120,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        155,
+        120
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 52522,
+      "name": "Aqua Avatars",
+      "judging_lane_name": "RED POD 2",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        150,
+        135,
+        125
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        150,
+        135,
+        125
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 67287,
+      "name": "Spark Squad",
+      "judging_lane_name": "RED POD 2",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        150,
+        60,
+        100
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        150,
+        100,
+        60
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 64706,
+      "name": "Techactrons",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 140,
+      "highest_display": 140,
+      "rounds": [
+        85,
+        140,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        140,
+        115,
+        85
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

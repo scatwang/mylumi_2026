@@ -1,0 +1,1753 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 10586,
+        "name": "The Peanut Botters",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-02-22 09:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-02-22 13:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-02-22 14:10:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-02-22 16:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-02-22 11:40:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 30517,
+        "name": "Ice Cream Sundays FLL-C 30517",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-02-22 09:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 6,
+            "start_time_display": "2026-02-22 11:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-02-22 14:30:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-02-22 16:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-02-22 13:10:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 37489,
+        "name": "FLL-C 37489",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-02-22 09:20:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-02-22 13:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-02-22 14:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-02-22 16:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-02-22 10:50:00-08:00",
+            "room_name": "Orange Pod 5",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 48793,
+        "name": "Mountain House",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-02-22 09:00:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-02-22 12:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-02-22 13:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-02-22 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-02-22 10:00:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 51095,
+        "name": "CreaTech",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-02-22 10:00:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-02-22 11:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-02-22 14:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-02-22 16:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2026-02-22 14:00:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52305,
+        "name": "Master Oogway",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-02-22 10:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-02-22 11:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-02-22 13:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-02-22 16:45:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2026-02-22 14:50:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52363,
+        "name": "TerraBytes",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-02-22 10:20:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-02-22 11:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-02-22 13:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-02-22 16:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2026-02-22 14:50:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60507,
+        "name": "Team Prime",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-02-22 09:00:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-02-22 12:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-02-22 13:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-02-22 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-02-22 10:00:00-08:00",
+            "room_name": "Blue Pod 4",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60718,
+        "name": "Rockin Robos",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-02-22 10:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-02-22 11:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-02-22 13:30:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-02-22 16:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2026-02-22 14:50:00-08:00",
+            "room_name": "Blue Pod 4",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61139,
+        "name": "Lightning Squad",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-02-22 10:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-02-22 11:20:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-02-22 14:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-02-22 16:30:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2026-02-22 14:00:00-08:00",
+            "room_name": "Blue Pod 4",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61406,
+        "name": "Quantum Bots",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-02-22 09:40:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 6,
+            "start_time_display": "2026-02-22 11:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-02-22 14:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-02-22 16:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-02-22 11:40:00-08:00",
+            "room_name": "Blue Pod 4",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 62268,
+        "name": "Delta Cosmic Coders 2025",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-02-22 09:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-02-22 12:00:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-02-22 13:50:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-02-22 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-02-22 10:00:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 64638,
+        "name": "Brain Bots",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-02-22 09:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-02-22 13:10:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-02-22 14:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-02-22 16:00:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-02-22 11:40:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 64889,
+        "name": "Sea Monsters Squad",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-02-22 10:20:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-02-22 11:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-02-22 13:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-02-22 16:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2026-02-22 14:50:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 64898,
+        "name": "Circuit Breakers",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-02-22 09:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 6,
+            "start_time_display": "2026-02-22 11:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-02-22 14:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-02-22 16:15:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-02-22 11:40:00-08:00",
+            "room_name": "Orange Pod 5",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65902,
+        "name": "Coding Mavs",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-02-22 10:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-02-22 11:40:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-02-22 13:30:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-02-22 16:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2026-02-22 14:00:00-08:00",
+            "room_name": "Orange Pod 5",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66292,
+        "name": "CookieBots",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-02-22 09:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-02-22 12:00:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-02-22 13:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-02-22 15:45:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-02-22 10:50:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66764,
+        "name": "Celsius and Beyond ",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-02-22 09:40:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 6,
+            "start_time_display": "2026-02-22 11:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-02-22 14:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-02-22 16:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-02-22 13:10:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66816,
+        "name": "Six Stars",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-02-22 09:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-02-22 13:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-02-22 14:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-02-22 16:00:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-02-22 10:50:00-08:00",
+            "room_name": "Blue Pod 4",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67216,
+        "name": "Submersiwolves",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-02-22 09:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 6,
+            "start_time_display": "2026-02-22 11:00:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-02-22 14:30:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-02-22 16:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-02-22 11:40:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68202,
+        "name": "Curious Earthlings",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-02-22 09:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-02-22 13:10:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-02-22 14:10:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-02-22 16:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-02-22 10:50:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68575,
+        "name": "Titan-Botics",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-02-22 10:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-02-22 11:40:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-02-22 13:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-02-22 16:45:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2026-02-22 14:50:00-08:00",
+            "room_name": "Orange Pod 5",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70238,
+        "name": "Trapped in Union City",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-02-22 09:20:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-02-22 13:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-02-22 14:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-02-22 16:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-02-22 10:50:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70765,
+        "name": "The Paleo Coders",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-02-22 10:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-02-22 11:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-02-22 14:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-02-22 16:30:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2026-02-22 14:00:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70849,
+        "name": "ML Infinity Bots",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-02-22 10:00:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-02-22 11:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-02-22 14:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-02-22 16:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-02-22 13:10:00-08:00",
+            "room_name": "Orange Pod 5",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72151,
+        "name": "Miniona Jones",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-02-22 09:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 6,
+            "start_time_display": "2026-02-22 11:00:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-02-22 14:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-02-22 16:15:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-02-22 13:10:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72257,
+        "name": "Lego Benders",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-02-22 09:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-02-22 12:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-02-22 13:50:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-02-22 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-02-22 10:00:00-08:00",
+            "room_name": "Orange Pod 5",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72421,
+        "name": "EarthCreators",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-02-22 10:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-02-22 11:20:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-02-22 14:50:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-02-22 16:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-02-22 13:10:00-08:00",
+            "room_name": "Blue Pod 4",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72651,
+        "name": "Coding Buddies ",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-02-22 09:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-02-22 12:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-02-22 13:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-02-22 15:45:00-08:00",
+            "length": 10,
+            "table_name": "White Table W1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-02-22 10:00:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 74260,
+        "name": "Brickaneers",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-02-22 10:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-02-22 11:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-02-22 14:50:00-08:00",
+            "length": 10,
+            "table_name": "White Table W2",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-02-22 16:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2026-02-22 14:00:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "Yellow Pod 1"
+          },
+          {
+            "name": "Red Pod 2"
+          },
+          {
+            "name": "Green Pod 3"
+          },
+          {
+            "name": "Blue Pod 4"
+          },
+          {
+            "name": "Orange Pod 5"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2026-02-22 10:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "62268",
+              "48793",
+              "72651",
+              "60507",
+              "72257"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2026-02-22 10:50:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66292",
+              "68202",
+              "70238",
+              "66816",
+              "37489"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2026-02-22 11:40:00-08:00",
+            "length": 30,
+            "rooms": [
+              "10586",
+              "64638",
+              "67216",
+              "61406",
+              "64898"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2026-02-22 13:10:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66764",
+              "30517",
+              "72151",
+              "72421",
+              "70849"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2026-02-22 14:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "70765",
+              "51095",
+              "74260",
+              "61139",
+              "65902"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2026-02-22 14:50:00-08:00",
+            "length": 30,
+            "rooms": [
+              "52363",
+              "52305",
+              "64889",
+              "60718",
+              "68575"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 1129,
+        "name": "Red Table R1"
+      },
+      {
+        "id": 1130,
+        "name": "Red Table R2"
+      },
+      {
+        "id": 1131,
+        "name": "White Table W1"
+      },
+      {
+        "id": 1132,
+        "name": "White Table W2"
+      },
+      {
+        "id": 1133,
+        "name": "Blue Table B1"
+      },
+      {
+        "id": 1134,
+        "name": "Blue Table B2"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2026-02-22 09:00:00-08:00",
+        "length": 10,
+        "tables": [
+          66292,
+          72257,
+          60507,
+          48793,
+          72651,
+          62268
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 2,
+        "start_time": "2026-02-22 09:20:00-08:00",
+        "length": 10,
+        "tables": [
+          64638,
+          10586,
+          37489,
+          70238,
+          66816,
+          68202
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 3,
+        "start_time": "2026-02-22 09:40:00-08:00",
+        "length": 10,
+        "tables": [
+          72151,
+          30517,
+          66764,
+          61406,
+          64898,
+          67216
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 4,
+        "start_time": "2026-02-22 10:00:00-08:00",
+        "length": 10,
+        "tables": [
+          61139,
+          74260,
+          51095,
+          70849,
+          70765,
+          72421
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 5,
+        "start_time": "2026-02-22 10:20:00-08:00",
+        "length": 10,
+        "tables": [
+          68575,
+          60718,
+          64889,
+          52363,
+          52305,
+          65902
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 6,
+        "start_time": "2026-02-22 11:00:00-08:00",
+        "length": 10,
+        "tables": [
+          64898,
+          66764,
+          72151,
+          67216,
+          30517,
+          61406
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 7,
+        "start_time": "2026-02-22 11:20:00-08:00",
+        "length": 10,
+        "tables": [
+          70765,
+          51095,
+          61139,
+          72421,
+          74260,
+          70849
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2026-02-22 11:40:00-08:00",
+        "length": 10,
+        "tables": [
+          52305,
+          64889,
+          68575,
+          65902,
+          60718,
+          52363
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2026-02-22 12:00:00-08:00",
+        "length": 10,
+        "tables": [
+          72651,
+          60507,
+          66292,
+          62268,
+          72257,
+          48793
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2026-02-22 13:10:00-08:00",
+        "length": 10,
+        "tables": [
+          66816,
+          37489,
+          64638,
+          68202,
+          10586,
+          70238
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2026-02-22 13:30:00-08:00",
+        "length": 10,
+        "tables": [
+          64889,
+          68575,
+          65902,
+          60718,
+          52363,
+          52305
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2026-02-22 13:50:00-08:00",
+        "length": 10,
+        "tables": [
+          60507,
+          66292,
+          62268,
+          72257,
+          48793,
+          72651
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2026-02-22 14:10:00-08:00",
+        "length": 10,
+        "tables": [
+          37489,
+          64638,
+          68202,
+          10586,
+          70238,
+          66816
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2026-02-22 14:30:00-08:00",
+        "length": 10,
+        "tables": [
+          66764,
+          72151,
+          67216,
+          30517,
+          61406,
+          64898
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2026-02-22 14:50:00-08:00",
+        "length": 10,
+        "tables": [
+          51095,
+          61139,
+          72421,
+          74260,
+          70849,
+          70765
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2026-02-22 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          62268,
+          48793,
+          72651,
+          66292,
+          60507,
+          72257
+        ],
+        "round": "4",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2026-02-22 16:00:00-08:00",
+        "length": 10,
+        "tables": [
+          68202,
+          70238,
+          66816,
+          64638,
+          37489,
+          10586
+        ],
+        "round": "4",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2026-02-22 16:15:00-08:00",
+        "length": 10,
+        "tables": [
+          67216,
+          61406,
+          64898,
+          72151,
+          66764,
+          30517
+        ],
+        "round": "4",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2026-02-22 16:30:00-08:00",
+        "length": 10,
+        "tables": [
+          72421,
+          70849,
+          70765,
+          61139,
+          51095,
+          74260
+        ],
+        "round": "4",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2026-02-22 16:45:00-08:00",
+        "length": 10,
+        "tables": [
+          65902,
+          52363,
+          52305,
+          68575,
+          64889,
+          60718
+        ],
+        "round": "4",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2026-02-20 09:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    1987,
+    1988,
+    1989,
+    1990,
+    1997,
+    1998,
+    2063,
+    2067,
+    2003,
+    2004,
+    2005,
+    2008,
+    2009,
+    2010,
+    2075,
+    2077,
+    2015,
+    2081,
+    2024,
+    2093,
+    2031,
+    2096,
+    2034,
+    2099,
+    2035,
+    2036,
+    2037,
+    2039,
+    2042,
+    2044
+  ]
+}

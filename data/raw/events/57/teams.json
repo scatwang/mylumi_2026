@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 637,
+      "team": {
+        "id": 672,
+        "number": 30518,
+        "name": "Marine Manatees (#30518)",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 793,
+      "team": {
+        "id": 1045,
+        "number": 52363,
+        "name": "Terrabytes",
+        "city": "San Jose",
+        "org_name": "TerraEd"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 721,
+      "team": {
+        "id": 921,
+        "number": 52522,
+        "name": "Aqua Avatars",
+        "city": "San Ramon",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 809,
+      "team": {
+        "id": 706,
+        "number": 58711,
+        "name": "Arctic Wolves",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 861,
+      "team": {
+        "id": 990,
+        "number": 61282,
+        "name": "The Krusty Crab",
+        "city": "San Jose",
+        "org_name": "Guadalupe Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 645,
+      "team": {
+        "id": 1005,
+        "number": 61803,
+        "name": "Techeon",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 854,
+      "team": {
+        "id": 736,
+        "number": 62681,
+        "name": "Golden Eagles",
+        "city": "San Jose",
+        "org_name": "Queen of Apostles School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 786,
+      "team": {
+        "id": 1144,
+        "number": 64706,
+        "name": "Techactrons",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 879,
+      "team": {
+        "id": 640,
+        "number": 65020,
+        "name": "The Golden Huskies",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 736,
+      "team": {
+        "id": 1079,
+        "number": 66078,
+        "name": "Pleasanton Piranhas",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 719,
+      "team": {
+        "id": 874,
+        "number": 67287,
+        "name": "Spark Squad",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 855,
+      "team": {
+        "id": 1126,
+        "number": 67840,
+        "name": "The Submarine SharkBots",
+        "city": "Saratoga",
+        "org_name": "Saratoga Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

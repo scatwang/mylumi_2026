@@ -1,0 +1,933 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 53086,
+        "name": "Discovery Eagles",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2024-11-09 11:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-09 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 13:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 57125,
+        "name": "Incredibuilders",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-11-09 14:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-11-09 16:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 57236,
+        "name": "Electric Bricks",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 10:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-11-09 11:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-11-09 16:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60070,
+        "name": "Robo-Sapiens",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-09 12:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-09 13:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-09 15:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60981,
+        "name": "WinsLab",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-11-09 11:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-09 13:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-09 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61016,
+        "name": "Mecha Lions FLL A",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2024-11-09 11:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-11-09 14:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-09 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 13:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61017,
+        "name": "Mecha Lions FLL B",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-09 12:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-09 14:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-09 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61018,
+        "name": "Mecha Lions FLL C",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-09 11:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-09 15:20:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65065,
+        "name": "INNO BOTS",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-09 14:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-09 15:20:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66285,
+        "name": "Alpha Zeta",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 10:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-09 13:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-09 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67058,
+        "name": "Coral Keepers",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-09 11:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-09 13:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-09 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68216,
+        "name": "Circuit Breakers",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-09 15:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-11-09 10:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "67058 - Coral Keepers",
+              "61018 - Mecha Lions FLL C"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-11-09 10:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "60070 - Robo-Sapiens",
+              "61017 - Mecha Lions FLL B"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-11-09 11:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "65065 - INNO BOTS",
+              "68216 - Circuit Breakers"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-11-09 13:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "53086 - Discovery Eagles",
+              "61016 - Mecha Lions FLL A"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2024-11-09 13:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "57236 - Electric Bricks",
+              "60981 - WinsLab"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2024-11-09 14:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66285 - Alpha Zeta",
+              "57125 - Incredibuilders"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 577,
+        "name": "TABLE A"
+      },
+      {
+        "id": 578,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2024-11-09 09:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#67058 - Coral Keepers",
+          "#68216 - Circuit Breakers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2024-11-09 09:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61017 - Mecha Lions FLL B",
+          "#61018 - Mecha Lions FLL C"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2024-11-09 09:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#65065 - INNO BOTS",
+          "#60070 - Robo-Sapiens"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2024-11-09 10:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#53086 - Discovery Eagles",
+          "#57125 - Incredibuilders"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2024-11-09 10:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60981 - WinsLab",
+          "#61016 - Mecha Lions FLL A"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2024-11-09 10:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66285 - Alpha Zeta",
+          "#57236 - Electric Bricks"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2024-11-09 10:40:00-08:00",
+        "length": 5,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2024-11-09 10:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#68216 - Circuit Breakers",
+          "#65065 - INNO BOTS"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2024-11-09 11:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61016 - Mecha Lions FLL A",
+          "#53086 - Discovery Eagles"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2024-11-09 11:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60981 - WinsLab",
+          "#57236 - Electric Bricks"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2024-11-09 11:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#57125 - Incredibuilders",
+          "#66285 - Alpha Zeta"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2024-11-09 11:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61018 - Mecha Lions FLL C",
+          "#67058 - Coral Keepers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2024-11-09 12:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61017 - Mecha Lions FLL B",
+          "#60070 - Robo-Sapiens"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2024-11-09 12:10:00-08:00",
+        "length": 65,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2024-11-09 13:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66285 - Alpha Zeta",
+          "#60981 - WinsLab"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2024-11-09 13:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60070 - Robo-Sapiens",
+          "#67058 - Coral Keepers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2024-11-09 13:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#68216 - Circuit Breakers",
+          "#61018 - Mecha Lions FLL C"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2024-11-09 14:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#57125 - Incredibuilders",
+          "#61016 - Mecha Lions FLL A"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2024-11-09 14:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#65065 - INNO BOTS",
+          "#61017 - Mecha Lions FLL B"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2024-11-09 14:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#57236 - Electric Bricks",
+          "#53086 - Discovery Eagles"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2024-11-09 14:40:00-08:00",
+        "length": 30,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2024-11-09 15:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67058 - Coral Keepers",
+          "#61017 - Mecha Lions FLL B"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2024-11-09 15:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61018 - Mecha Lions FLL C",
+          "#65065 - INNO BOTS"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2024-11-09 15:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60070 - Robo-Sapiens",
+          "#68216 - Circuit Breakers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2024-11-09 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#53086 - Discovery Eagles",
+          "#60981 - WinsLab"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2024-11-09 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61016 - Mecha Lions FLL A",
+          "#66285 - Alpha Zeta"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2024-11-09 16:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#57236 - Electric Bricks",
+          "#57125 - Incredibuilders"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-11-04 02:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    928,
+    930,
+    867,
+    932,
+    933,
+    712,
+    909,
+    914,
+    926,
+    858,
+    764,
+    862
+  ]
+}

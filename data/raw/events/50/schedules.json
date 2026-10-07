@@ -1,0 +1,1210 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 52142,
+        "name": "Surfing Chickens",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-10 09:45:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-10 11:40:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-10 14:05:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2024-11-10 15:35:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-10 12:50:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 56339,
+        "name": "Electric Sources",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2024-11-10 10:25:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-10 11:20:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-11-10 13:05:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2024-11-10 15:55:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-10 13:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 56940,
+        "name": "RoboMasters",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-10 09:25:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-10 12:00:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-10 13:45:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2024-11-10 15:15:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-10 10:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60215,
+        "name": "Robotmakers",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2024-11-10 10:15:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-10 11:00:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-10 13:25:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2024-11-10 14:55:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-10 09:15:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60337,
+        "name": "Circuit united",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-10 09:25:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-10 11:00:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-11-10 13:15:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2024-11-10 15:25:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-10 11:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60684,
+        "name": "Hyper Technics",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-10 10:05:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-11-10 10:50:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-11-10 13:15:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2024-11-10 15:05:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-10 09:15:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60786,
+        "name": "Vornadoes",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-10 09:55:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2024-11-10 11:30:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-10 14:05:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2024-11-10 15:55:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 8,
+            "start_time_display": "2024-11-10 15:05:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60967,
+        "name": "Lightning Bots",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2024-11-10 10:15:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-10 12:00:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-10 13:35:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2024-11-10 15:05:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-10 10:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61611,
+        "name": "Electro-Phoenix",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2024-11-10 10:25:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-10 11:40:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-10 13:55:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2024-11-10 16:05:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 8,
+            "start_time_display": "2024-11-10 15:05:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61990,
+        "name": "MIGHTY MINDS",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-10 09:55:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-10 11:10:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-10 12:55:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2024-11-10 16:05:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-10 13:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 64898,
+        "name": "The Brick By Brick Builders",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-10 09:35:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2024-11-10 11:30:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-10 13:55:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2024-11-10 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-10 12:50:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65350,
+        "name": "Pioneering Pantheon",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-10 09:35:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-10 11:10:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-11-10 13:05:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2024-11-10 15:35:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 7,
+            "start_time_display": "2024-11-10 14:20:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65800,
+        "name": "The Tech Titans",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-10 09:15:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-11-10 10:50:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-10 13:25:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2024-11-10 15:15:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-10 11:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66110,
+        "name": "Bot-of-Water",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-10 09:45:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-10 11:20:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-10 12:55:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2024-11-10 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 7,
+            "start_time_display": "2024-11-10 14:20:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66280,
+        "name": "DELTABOTS",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-10 10:05:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-10 11:50:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-10 13:45:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2024-11-10 14:55:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-10 10:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67092,
+        "name": "Flame Bots",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-10 09:15:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-10 11:50:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-10 13:35:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2024-11-10 15:25:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-10 10:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-11-10 09:15:00-08:00",
+            "length": 30,
+            "rooms": [
+              "60215 - Robotmakers",
+              "60684 - Hyper Technics"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-11-10 10:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "56940 - RoboMasters",
+              "67092 - Flame Bots"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-11-10 10:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66280 - DELTABOTS",
+              "60967 - Lightning Bots"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-11-10 11:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "65800 - The Tech Titans",
+              "60337 - Circuit united"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2024-11-10 12:50:00-08:00",
+            "length": 30,
+            "rooms": [
+              "52142 - Surfing Chickens",
+              "64898 - The Brick By Brick Builders"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2024-11-10 13:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "56339 - Electric Sources",
+              "61990 - MIGHTY MINDS"
+            ]
+          },
+          {
+            "number": 7,
+            "start_time": "2024-11-10 14:20:00-08:00",
+            "length": 30,
+            "rooms": [
+              "65350 - Pioneering Pantheon",
+              "66110 - Bot-of-Water"
+            ]
+          },
+          {
+            "number": 8,
+            "start_time": "2024-11-10 15:05:00-08:00",
+            "length": 30,
+            "rooms": [
+              "60786 - Vornadoes",
+              "61611 - Electro-Phoenix"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 541,
+        "name": "Table A"
+      },
+      {
+        "id": 542,
+        "name": "Table B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2024-11-10 09:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65800 - The Tech Titans",
+          "#67092 - Flame Bots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2024-11-10 09:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60337 - Circuit united",
+          "#56940 - RoboMasters"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2024-11-10 09:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65350 - Pioneering Pantheon",
+          "#64898 - The Brick By Brick Builders"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2024-11-10 09:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66110 - Bot-of-Water",
+          "#52142 - Surfing Chickens"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2024-11-10 09:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60786 - Vornadoes",
+          "#61990 - MIGHTY MINDS"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2024-11-10 10:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66280 - DELTABOTS",
+          "#60684 - Hyper Technics"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2024-11-10 10:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60967 - Lightning Bots",
+          "#60215 - Robotmakers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 8,
+        "start_time": "2024-11-10 10:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61611 - Electro-Phoenix",
+          "#56339 - Electric Sources"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 9,
+        "start_time": "2024-11-10 10:35:00-08:00",
+        "length": 15,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2024-11-10 10:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60684 - Hyper Technics",
+          "#65800 - The Tech Titans"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2024-11-10 11:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60215 - Robotmakers",
+          "#60337 - Circuit united"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2024-11-10 11:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61990 - MIGHTY MINDS",
+          "#65350 - Pioneering Pantheon"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2024-11-10 11:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#56339 - Electric Sources",
+          "#66110 - Bot-of-Water"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2024-11-10 11:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#64898 - The Brick By Brick Builders",
+          "#60786 - Vornadoes"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2024-11-10 11:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52142 - Surfing Chickens",
+          "#61611 - Electro-Phoenix"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2024-11-10 11:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67092 - Flame Bots",
+          "#66280 - DELTABOTS"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2024-11-10 12:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#56940 - RoboMasters",
+          "#60967 - Lightning Bots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2024-11-10 12:10:00-08:00",
+        "length": 45,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2024-11-10 12:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66110 - Bot-of-Water",
+          "#61990 - MIGHTY MINDS"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2024-11-10 13:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65350 - Pioneering Pantheon",
+          "#56339 - Electric Sources"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2024-11-10 13:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60337 - Circuit united",
+          "#60684 - Hyper Technics"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2024-11-10 13:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65800 - The Tech Titans",
+          "#60215 - Robotmakers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2024-11-10 13:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60967 - Lightning Bots",
+          "#67092 - Flame Bots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2024-11-10 13:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66280 - DELTABOTS",
+          "#56940 - RoboMasters"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2024-11-10 13:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61611 - Electro-Phoenix",
+          "#64898 - The Brick By Brick Builders"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2024-11-10 14:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60786 - Vornadoes",
+          "#52142 - Surfing Chickens"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2024-11-10 14:15:00-08:00",
+        "length": 40,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 28,
+        "start_time": "2024-11-10 14:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60215 - Robotmakers",
+          "#66280 - DELTABOTS"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 29,
+        "start_time": "2024-11-10 15:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60684 - Hyper Technics",
+          "#60967 - Lightning Bots"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 30,
+        "start_time": "2024-11-10 15:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#56940 - RoboMasters",
+          "#65800 - The Tech Titans"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 31,
+        "start_time": "2024-11-10 15:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67092 - Flame Bots",
+          "#60337 - Circuit united"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 32,
+        "start_time": "2024-11-10 15:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52142 - Surfing Chickens",
+          "#65350 - Pioneering Pantheon"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 33,
+        "start_time": "2024-11-10 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#64898 - The Brick By Brick Builders",
+          "#66110 - Bot-of-Water"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 35,
+        "start_time": "2024-11-10 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#56339 - Electric Sources",
+          "#60786 - Vornadoes"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 36,
+        "start_time": "2024-11-10 16:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61990 - MIGHTY MINDS",
+          "#61611 - Electro-Phoenix"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-10-30 04:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    896,
+    673,
+    836,
+    871,
+    776,
+    714,
+    779,
+    715,
+    816,
+    723,
+    787,
+    695,
+    891,
+    734,
+    895
+  ]
+}

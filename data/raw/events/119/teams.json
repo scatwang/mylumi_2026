@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 1418,
+      "team": {
+        "id": 1513,
+        "number": 61246,
+        "name": "Hedgie Power",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1346,
+      "team": {
+        "id": 737,
+        "number": 63333,
+        "name": "Jaguars",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1407,
+      "team": {
+        "id": 1187,
+        "number": 65320,
+        "name": "DCADS - Cyber Cubs",
+        "city": "Santa Clara",
+        "org_name": "Don Callejon Arts and Design School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1408,
+      "team": {
+        "id": 1188,
+        "number": 65321,
+        "name": "DCADS - Astro Cubs",
+        "city": "Santa Clara",
+        "org_name": "Don Callejon Arts and Design School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1350,
+      "team": {
+        "id": 651,
+        "number": 65572,
+        "name": "Lego Llamas",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1398,
+      "team": {
+        "id": 844,
+        "number": 66066,
+        "name": "blue_bobcat",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1344,
+      "team": {
+        "id": 845,
+        "number": 66137,
+        "name": "Build Guild - SBR Team Cupertino",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1414,
+      "team": {
+        "id": 849,
+        "number": 66438,
+        "name": "Fearsome 5",
+        "city": "FOLSOM",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1411,
+      "team": {
+        "id": 857,
+        "number": 66816,
+        "name": "Seven Seas",
+        "city": "Palo Alto",
+        "org_name": "Herbert Hoover Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1461,
+      "team": {
+        "id": 1514,
+        "number": 66986,
+        "name": "CCDS Krillers",
+        "city": "Chico",
+        "org_name": "Chico Country Day"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1347,
+      "team": {
+        "id": 1446,
+        "number": 67086,
+        "name": "Any Fling",
+        "city": "San Jose",
+        "org_name": "Harker"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1415,
+      "team": {
+        "id": 1252,
+        "number": 67668,
+        "name": "Robo Warriors",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1348,
+      "team": {
+        "id": 1145,
+        "number": 68659,
+        "name": "It's Raining Legos",
+        "city": "Walnut Creek",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1349,
+      "team": {
+        "id": 1292,
+        "number": 69207,
+        "name": "Depth",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1417,
+      "team": {
+        "id": 1350,
+        "number": 69747,
+        "name": "Boa Conductors",
+        "city": "Hercules",
+        "org_name": "Hercules Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1402,
+      "team": {
+        "id": 1351,
+        "number": 69748,
+        "name": "Just Bob",
+        "city": "Hercules",
+        "org_name": "Hercules Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1345,
+      "team": {
+        "id": 1427,
+        "number": 70221,
+        "name": "BroBots - SBR Team Sunnyvale",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1351,
+      "team": {
+        "id": 1440,
+        "number": 70238,
+        "name": "Trapped in Union City",
+        "city": "Union City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

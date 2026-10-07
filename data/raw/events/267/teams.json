@@ -1,0 +1,365 @@
+{
+  "count": 30,
+  "results": [
+    {
+      "id": 2009,
+      "team": {
+        "id": 2180,
+        "number": 10586,
+        "name": "The Peanut Botters",
+        "city": "Hillsborough",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2044,
+      "team": {
+        "id": 1648,
+        "number": 30517,
+        "name": "Ice Cream Sundays FLL-C 30517",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2035,
+      "team": {
+        "id": 1657,
+        "number": 37489,
+        "name": "FLL-C 37489",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1988,
+      "team": {
+        "id": 1668,
+        "number": 48793,
+        "name": "Mountain House",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2093,
+      "team": {
+        "id": 1669,
+        "number": 51095,
+        "name": "CreaTech",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2081,
+      "team": {
+        "id": 1670,
+        "number": 52305,
+        "name": "Master Oogway",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2096,
+      "team": {
+        "id": 1671,
+        "number": 52363,
+        "name": "TerraBytes",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1989,
+      "team": {
+        "id": 1698,
+        "number": 60507,
+        "name": "Team Prime",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2099,
+      "team": {
+        "id": 1702,
+        "number": 60718,
+        "name": "Rockin Robos",
+        "city": "Rocklin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1997,
+      "team": {
+        "id": 2003,
+        "number": 61139,
+        "name": "Lightning Squad",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1987,
+      "team": {
+        "id": 1716,
+        "number": 61406,
+        "name": "Quantum Bots",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2010,
+      "team": {
+        "id": 1720,
+        "number": 62268,
+        "name": "Delta Cosmic Coders 2025",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2039,
+      "team": {
+        "id": 1722,
+        "number": 64638,
+        "name": "Brain Bots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2024,
+      "team": {
+        "id": 1725,
+        "number": 64889,
+        "name": "Sea Monsters Squad",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2003,
+      "team": {
+        "id": 1726,
+        "number": 64898,
+        "name": "Circuit Breakers",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2042,
+      "team": {
+        "id": 1753,
+        "number": 65902,
+        "name": "Coding Mavs",
+        "city": "ROCKLIN",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2005,
+      "team": {
+        "id": 1762,
+        "number": 66292,
+        "name": "CookieBots",
+        "city": "Danville",
+        "org_name": "Girl Scouts"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2077,
+      "team": {
+        "id": 1770,
+        "number": 66764,
+        "name": "Celsius and Beyond ",
+        "city": "San Francisco",
+        "org_name": "Celsius and Beyond"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2004,
+      "team": {
+        "id": 2015,
+        "number": 66816,
+        "name": "Six Stars",
+        "city": "Palo Alto",
+        "org_name": "Herbert Hoover Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2031,
+      "team": {
+        "id": 2020,
+        "number": 67216,
+        "name": "Submersiwolves",
+        "city": "San Francisco",
+        "org_name": "Lilienthal (Claire) Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1998,
+      "team": {
+        "id": 1794,
+        "number": 68202,
+        "name": "Curious Earthlings",
+        "city": "Fremont",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2037,
+      "team": {
+        "id": 1796,
+        "number": 68575,
+        "name": "Titan-Botics",
+        "city": "San Jose",
+        "org_name": "Stratford School - San Jose, Santa Teresa Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2008,
+      "team": {
+        "id": 1806,
+        "number": 70238,
+        "name": "Trapped in Union City",
+        "city": "Union City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2034,
+      "team": {
+        "id": 1590,
+        "number": 70765,
+        "name": "The Paleo Coders",
+        "city": "Cupertino",
+        "org_name": "Stevens Creek Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2067,
+      "team": {
+        "id": 1591,
+        "number": 70849,
+        "name": "ML Infinity Bots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2075,
+      "team": {
+        "id": 1970,
+        "number": 72151,
+        "name": "Miniona Jones",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1990,
+      "team": {
+        "id": 1972,
+        "number": 72257,
+        "name": "Lego Benders",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2015,
+      "team": {
+        "id": 1983,
+        "number": 72421,
+        "name": "EarthCreators",
+        "city": "Fremont",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2063,
+      "team": {
+        "id": 2161,
+        "number": 72651,
+        "name": "Coding Buddies ",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2036,
+      "team": {
+        "id": 2257,
+        "number": 74260,
+        "name": "Brickaneers",
+        "city": "Fremount",
+        "org_name": "Mission San Jose Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

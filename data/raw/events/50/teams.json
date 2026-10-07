@@ -1,0 +1,197 @@
+{
+  "count": 16,
+  "results": [
+    {
+      "id": 779,
+      "team": {
+        "id": 918,
+        "number": 52142,
+        "name": "Surfing Chickens",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 776,
+      "team": {
+        "id": 931,
+        "number": 56339,
+        "name": "Electric Sources",
+        "city": "Fremont",
+        "org_name": "William Hopkins Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 673,
+      "team": {
+        "id": 936,
+        "number": 56940,
+        "name": "RoboMasters",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 734,
+      "team": {
+        "id": 1127,
+        "number": 60215,
+        "name": "Robotmakers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 895,
+      "team": {
+        "id": 720,
+        "number": 60337,
+        "name": "Circuit united",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 749,
+      "team": {
+        "id": 968,
+        "number": 60684,
+        "name": "Hyper Technics",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 891,
+      "team": {
+        "id": 974,
+        "number": 60786,
+        "name": "Vornadoes",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 695,
+      "team": {
+        "id": 982,
+        "number": 60967,
+        "name": "Lightning Bots",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 896,
+      "team": {
+        "id": 996,
+        "number": 61611,
+        "name": "Electro-Phoenix",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 715,
+      "team": {
+        "id": 1009,
+        "number": 61990,
+        "name": "MIGHTY MINDS",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 723,
+      "team": {
+        "id": 643,
+        "number": 64898,
+        "name": "The Brick By Brick Builders",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 871,
+      "team": {
+        "id": 827,
+        "number": 65350,
+        "name": "Pioneering Pantheon",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 714,
+      "team": {
+        "id": 1170,
+        "number": 65800,
+        "name": "The Tech Titans",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 787,
+      "team": {
+        "id": 1140,
+        "number": 66110,
+        "name": "Bot-of-Water",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 816,
+      "team": {
+        "id": 1183,
+        "number": 66280,
+        "name": "DELTABOTS",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 836,
+      "team": {
+        "id": 866,
+        "number": 67092,
+        "name": "Flame Bots",
+        "city": "SUNNYVALE",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

@@ -1,0 +1,907 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 60198,
+      "name": "Chronobot",
+      "judging_lane_name": "Blue Pod 4 - HJ6",
+      "highest": 530,
+      "highest_display": 530,
+      "rounds": [
+        530,
+        520,
+        500
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        530,
+        520,
+        500
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 56453,
+      "name": "Donut Powered",
+      "judging_lane_name": "Orange Pod 5 - HJ 8",
+      "highest": 425,
+      "highest_display": 425,
+      "rounds": [
+        425,
+        395,
+        385
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Hand shook with the other team",
+        ""
+      ],
+      "rounds_sorted": [
+        425,
+        395,
+        385
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 54145,
+      "name": "G.O.A.T.S",
+      "judging_lane_name": "Purple Pod 6 - HJ 9",
+      "highest": 425,
+      "highest_display": 425,
+      "rounds": [
+        365,
+        425,
+        345
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        425,
+        365,
+        345
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 51197,
+      "name": "Jumping Jelly Beans",
+      "judging_lane_name": "Purple Pod 6 - HJ 9",
+      "highest": 410,
+      "highest_display": 410,
+      "rounds": [
+        410,
+        255,
+        405
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        410,
+        405,
+        255
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 61168,
+      "name": "Foothill 2023C",
+      "judging_lane_name": "Purple Pod 6 - HJ 9",
+      "highest": 410,
+      "highest_display": 410,
+      "rounds": [
+        390,
+        370,
+        410
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        410,
+        390,
+        370
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 48793,
+      "name": "Mountain House",
+      "judging_lane_name": "Green Pod 3 - HJ5",
+      "highest": 405,
+      "highest_display": 405,
+      "rounds": [
+        275,
+        405,
+        375
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        405,
+        375,
+        275
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 55959,
+      "name": "Shrek's Friends",
+      "judging_lane_name": "Yellow Pod 1 - HJ1",
+      "highest": 395,
+      "highest_display": 395,
+      "rounds": [
+        395,
+        330,
+        395
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        395,
+        395,
+        330
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 52397,
+      "name": "Invalid Syntax",
+      "judging_lane_name": "Yellow Pod 1 - HJ1",
+      "highest": 380,
+      "highest_display": 380,
+      "rounds": [
+        380,
+        370,
+        380
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        380,
+        380,
+        370
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 44530,
+      "name": "Platinum Programmers",
+      "judging_lane_name": "Orange Pod 5 - HJ 8",
+      "highest": 380,
+      "highest_display": 380,
+      "rounds": [
+        345,
+        280,
+        380
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Really nice to the team on the other table and encouraged them (said good job and theyre doing well), talked about shaking hands (but didnt do it this time). Always encouraged each other all the time and listened when needed",
+        ""
+      ],
+      "rounds_sorted": [
+        380,
+        345,
+        280
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 52090,
+      "name": "Canary1",
+      "judging_lane_name": "Blue Pod 4 - HJ6",
+      "highest": 375,
+      "highest_display": 375,
+      "rounds": [
+        350,
+        315,
+        375
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Said good job to the team on the other side of the table and encouraged them when they were scoring. Shook hands and said good luck on their next games to the other team, encouraged the other team when they had the same color match and said good job. Encouraged each other a lot. Were respectful and nice to me and my space",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        375,
+        350,
+        315
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 62274,
+      "name": "The Van Goes",
+      "judging_lane_name": "Blue Pod 4 - HJ6",
+      "highest": 370,
+      "highest_display": 370,
+      "rounds": [
+        370,
+        305,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        370,
+        305,
+        260
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 60718,
+      "name": "Rockin Robos",
+      "judging_lane_name": "Yellow Pod 1 - HJ1",
+      "highest": 365,
+      "highest_display": 365,
+      "rounds": [
+        365,
+        320,
+        335
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Tried to get more points by saying it's their birthday multiple times. Blamed lights for their robot error. Told a teammate that they hate them because he could not sign it."
+      ],
+      "rounds_sorted": [
+        365,
+        335,
+        320
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 52498,
+      "name": "MovingTreeHouse",
+      "judging_lane_name": "Yellow Pod 1 - HJ1",
+      "highest": 365,
+      "highest_display": 365,
+      "rounds": [
+        285,
+        365,
+        285
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        365,
+        285,
+        285
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 51057,
+      "name": "ROCKING ROBOTS",
+      "judging_lane_name": "Red Pod 2 - HJ4",
+      "highest": 350,
+      "highest_display": 350,
+      "rounds": [
+        250,
+        340,
+        350
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        350,
+        340,
+        250
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 57010,
+      "name": "Rocket",
+      "judging_lane_name": "Purple Pod 6 - HJ 9",
+      "highest": 350,
+      "highest_display": 350,
+      "rounds": [
+        350,
+        320,
+        265
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        350,
+        320,
+        265
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 55867,
+      "name": "Harrybot",
+      "judging_lane_name": "Green Pod 3 - HJ5",
+      "highest": 345,
+      "highest_display": 345,
+      "rounds": [
+        345,
+        305,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        345,
+        305,
+        155
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 60428,
+      "name": "LegoLegends",
+      "judging_lane_name": "Orange Pod 5 - HJ 8",
+      "highest": 335,
+      "highest_display": 335,
+      "rounds": [
+        325,
+        335,
+        330
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Changed their code for the team on the other table to match colors, but the other team didn't end up running the code at all, causing this team to loose points for that cooperation.  They did ask the other team about it and understood why",
+        ""
+      ],
+      "rounds_sorted": [
+        335,
+        330,
+        325
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 30517,
+      "name": "Ice Cream Sundays",
+      "judging_lane_name": "Purple Pod 6 - HJ 9",
+      "highest": 325,
+      "highest_display": 325,
+      "rounds": [
+        265,
+        325,
+        310
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        325,
+        310,
+        265
+      ],
+      "ordinal": "18th"
+    },
+    {
+      "ranking": 19,
+      "number": 61301,
+      "name": "Fantastic Fource",
+      "judging_lane_name": "Green Pod 3 - HJ5",
+      "highest": 320,
+      "highest_display": 320,
+      "rounds": [
+        215,
+        320,
+        200
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        320,
+        215,
+        200
+      ],
+      "ordinal": "19th"
+    },
+    {
+      "ranking": 20,
+      "number": 20915,
+      "name": "TroBots",
+      "judging_lane_name": "Blue Pod 4 - HJ6",
+      "highest": 315,
+      "highest_display": 315,
+      "rounds": [
+        315,
+        265,
+        300
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        315,
+        300,
+        265
+      ],
+      "ordinal": "20th"
+    },
+    {
+      "ranking": 21,
+      "number": 59943,
+      "name": "THESHOOTINGSTARS",
+      "judging_lane_name": "Blue Pod 4 - HJ6",
+      "highest": 315,
+      "highest_display": 315,
+      "rounds": [
+        215,
+        315,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        315,
+        250,
+        215
+      ],
+      "ordinal": "21st"
+    },
+    {
+      "ranking": 22,
+      "number": 52597,
+      "name": "Flaming Stars",
+      "judging_lane_name": "Green Pod 3 - HJ5",
+      "highest": 310,
+      "highest_display": 310,
+      "rounds": [
+        230,
+        235,
+        310
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        310,
+        235,
+        230
+      ],
+      "ordinal": "22nd"
+    },
+    {
+      "ranking": 23,
+      "number": 52427,
+      "name": "Circuit Squad",
+      "judging_lane_name": "Red Pod 2 - HJ4",
+      "highest": 305,
+      "highest_display": 305,
+      "rounds": [
+        285,
+        305,
+        285
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Asked questions and I clarified for them if needed, was good at communicating with me and being polite when needed."
+      ],
+      "rounds_sorted": [
+        305,
+        285,
+        285
+      ],
+      "ordinal": "23rd"
+    },
+    {
+      "ranking": 24,
+      "number": 38103,
+      "name": "Astrobots",
+      "judging_lane_name": "Red Pod 2 - HJ4",
+      "highest": 305,
+      "highest_display": 305,
+      "rounds": [
+        305,
+        235,
+        265
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        305,
+        265,
+        235
+      ],
+      "ordinal": "24th"
+    },
+    {
+      "ranking": 25,
+      "number": 25573,
+      "name": "X-Mann Bots",
+      "judging_lane_name": "Orange Pod 5 - HJ 8",
+      "highest": 300,
+      "highest_display": 300,
+      "rounds": [
+        245,
+        280,
+        300
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Cheering each other on and clapping + saying good job, said it was okay when the robot messed up & they could improve later. Asked questions and understood when I made certain calls",
+        ""
+      ],
+      "rounds_sorted": [
+        300,
+        280,
+        245
+      ],
+      "ordinal": "25th"
+    },
+    {
+      "ranking": 26,
+      "number": 55794,
+      "name": "Purple People Eaters",
+      "judging_lane_name": "Red Pod 2 - HJ4",
+      "highest": 290,
+      "highest_display": 290,
+      "rounds": [
+        270,
+        280,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        290,
+        280,
+        270
+      ],
+      "ordinal": "26th"
+    },
+    {
+      "ranking": 27,
+      "number": 60070,
+      "name": "Robo-Sapiens",
+      "judging_lane_name": "Purple Pod 6 - HJ 9",
+      "highest": 285,
+      "highest_display": 285,
+      "rounds": [
+        285,
+        225,
+        230
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        285,
+        230,
+        225
+      ],
+      "ordinal": "27th"
+    },
+    {
+      "ranking": 28,
+      "number": 10586,
+      "name": "Da Vinci",
+      "judging_lane_name": "Red Pod 2 - HJ4",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        270,
+        250,
+        245
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Caught a misscore that was not in their favor",
+        "Nice and friendly to talk and conversate with me, understood the calls I made even when I missed something the first time and asked questions when they needed to. Hand shook with me personally"
+      ],
+      "rounds_sorted": [
+        270,
+        250,
+        245
+      ],
+      "ordinal": "28th"
+    },
+    {
+      "ranking": 29,
+      "number": 58380,
+      "name": "Lego Masters1",
+      "judging_lane_name": "Green Pod 3 - HJ5",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        225,
+        260,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        250,
+        225
+      ],
+      "ordinal": "29th"
+    },
+    {
+      "ranking": 30,
+      "number": 56940,
+      "name": "RoboMasters",
+      "judging_lane_name": "Yellow Pod 1 - HJ1",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        260,
+        245,
+        205
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        245,
+        205
+      ],
+      "ordinal": "30th"
+    },
+    {
+      "ranking": 31,
+      "number": 61406,
+      "name": "STEAM Bots",
+      "judging_lane_name": "Orange Pod 5 - HJ 8",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        250,
+        195,
+        175
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        195,
+        175
+      ],
+      "ordinal": "31st"
+    },
+    {
+      "ranking": 32,
+      "number": 40997,
+      "name": "Denman Robotics",
+      "judging_lane_name": "Blue Pod 4 - HJ6",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        230,
+        220,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Respectful and asked permission to do things before doing it. Were understanding and listening",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        225,
+        220
+      ],
+      "ordinal": "32nd"
+    },
+    {
+      "ranking": 33,
+      "number": 39190,
+      "name": "Owlz",
+      "judging_lane_name": "Orange Pod 5 - HJ 8",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        125,
+        195,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Not sure if they tried to pretend they got a scoring by moving it manually when I wasn't looking,  but I corrected it with them at the end and they were understanding about it & agreed with me",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        145,
+        125
+      ],
+      "ordinal": "33rd"
+    },
+    {
+      "ranking": 34,
+      "number": 37489,
+      "name": "Human Joulez",
+      "judging_lane_name": "Yellow Pod 1 - HJ1",
+      "highest": 190,
+      "highest_display": 190,
+      "rounds": [
+        125,
+        190,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        190,
+        180,
+        125
+      ],
+      "ordinal": "34th"
+    },
+    {
+      "ranking": 35,
+      "number": 60958,
+      "name": "Puma",
+      "judging_lane_name": "Green Pod 3 - HJ5",
+      "highest": 190,
+      "highest_display": 190,
+      "rounds": [
+        160,
+        135,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        190,
+        160,
+        135
+      ],
+      "ordinal": "35th"
+    },
+    {
+      "ranking": 36,
+      "number": 4506,
+      "name": "Techno Cavs",
+      "judging_lane_name": "Red Pod 2 - HJ4",
+      "highest": 190,
+      "highest_display": 190,
+      "rounds": [
+        105,
+        155,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        190,
+        155,
+        105
+      ],
+      "ordinal": "36th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

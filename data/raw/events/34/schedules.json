@@ -1,0 +1,783 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 20710,
+        "name": "Our Savior Lions",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-03-02 09:25:00-08:00",
+            "length": 20,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2024-03-02 11:30:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-03-02 13:45:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-03-02 15:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-03-02 10:15:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 56549,
+        "name": "SPAKE",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-03-02 09:45:00-08:00",
+            "length": 20,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2024-03-02 11:00:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-03-02 14:15:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-03-02 15:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-03-02 13:00:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 57290,
+        "name": "Cyberspace Crusader",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-03-02 09:05:00-08:00",
+            "length": 20,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-03-02 11:45:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2024-03-02 13:30:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-03-02 14:55:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-03-02 09:30:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60037,
+        "name": "BuilderBots",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-03-02 10:05:00-08:00",
+            "length": 20,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2024-03-02 11:00:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-03-02 13:15:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-03-02 14:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-03-02 13:45:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60381,
+        "name": "Robotic Raptors",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-03-02 09:25:00-08:00",
+            "length": 20,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-03-02 12:00:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-03-02 14:00:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-03-02 15:25:00-08:00",
+            "length": 20,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-03-02 11:00:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61353,
+        "name": "BookWorms",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-03-02 09:05:00-08:00",
+            "length": 20,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-03-02 12:00:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-03-02 13:45:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-03-02 15:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-03-02 10:15:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61685,
+        "name": "Noddin Dynabots",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-03-02 10:05:00-08:00",
+            "length": 20,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2024-03-02 11:15:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-03-02 14:15:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-03-02 15:25:00-08:00",
+            "length": 20,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-03-02 13:00:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 62969,
+        "name": "Pineapple Dragons",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-03-02 10:25:00-08:00",
+            "length": 20,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-03-02 11:45:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-03-02 14:00:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-03-02 15:05:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-03-02 11:00:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 63265,
+        "name": "Stratford Osgood Lionfish",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-03-02 09:45:00-08:00",
+            "length": 20,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2024-03-02 11:15:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-03-02 13:15:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-03-02 14:55:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-03-02 13:45:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 63820,
+        "name": "Robo Rangers",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-03-02 10:25:00-08:00",
+            "length": 20,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2024-03-02 11:30:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2024-03-02 13:30:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-03-02 14:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-03-02 09:30:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "Yellow Pod 1"
+          },
+          {
+            "name": "Red Pod 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-03-02 09:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "63820 - Robo Rangers",
+              "57290 - Cyberspace Crusader"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-03-02 10:15:00-08:00",
+            "length": 30,
+            "rooms": [
+              "20710 - Our Savior Lions",
+              "61353 - BookWorms"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-03-02 11:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "60381 - Robotic Raptors",
+              "62969 - Pineapple Dragons"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-03-02 13:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "56549 - SPAKE",
+              "61685 - Noddin Dynabots"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2024-03-02 13:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "60037 - BuilderBots",
+              "63265 - Stratford Osgood Lionfish"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 365,
+        "name": "Red Table"
+      },
+      {
+        "id": 366,
+        "name": "Blue Table"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2024-03-02 09:05:00-08:00",
+        "length": 20,
+        "tables": [
+          "#61353 - BookWorms",
+          "#57290 - Cyberspace Crusader"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2024-03-02 09:25:00-08:00",
+        "length": 20,
+        "tables": [
+          "#60381 - Robotic Raptors",
+          "#20710 - Our Savior Lions"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2024-03-02 09:45:00-08:00",
+        "length": 20,
+        "tables": [
+          "#56549 - SPAKE",
+          "#63265 - Stratford Osgood Lionfish"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2024-03-02 10:05:00-08:00",
+        "length": 20,
+        "tables": [
+          "#60037 - BuilderBots",
+          "#61685 - Noddin Dynabots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2024-03-02 10:25:00-08:00",
+        "length": 20,
+        "tables": [
+          "#63820 - Robo Rangers",
+          "#62969 - Pineapple Dragons"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2024-03-02 10:45:00-08:00",
+        "length": 25,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 7,
+        "start_time": "2024-03-02 11:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60037 - BuilderBots",
+          "#56549 - SPAKE"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2024-03-02 11:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#63265 - Stratford Osgood Lionfish",
+          "#61685 - Noddin Dynabots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2024-03-02 11:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#20710 - Our Savior Lions",
+          "#63820 - Robo Rangers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2024-03-02 11:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#62969 - Pineapple Dragons",
+          "#57290 - Cyberspace Crusader"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2024-03-02 12:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60381 - Robotic Raptors",
+          "#61353 - BookWorms"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2024-03-02 12:15:00-08:00",
+        "length": 60,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2024-03-02 13:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#63265 - Stratford Osgood Lionfish",
+          "#60037 - BuilderBots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2024-03-02 13:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#57290 - Cyberspace Crusader",
+          "#63820 - Robo Rangers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2024-03-02 13:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61353 - BookWorms",
+          "#20710 - Our Savior Lions"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2024-03-02 14:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#62969 - Pineapple Dragons",
+          "#60381 - Robotic Raptors"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2024-03-02 14:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61685 - Noddin Dynabots",
+          "#56549 - SPAKE"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2024-03-02 14:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2024-03-02 14:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#63820 - Robo Rangers",
+          "#60037 - BuilderBots"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2024-03-02 14:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#57290 - Cyberspace Crusader",
+          "#63265 - Stratford Osgood Lionfish"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2024-03-02 15:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#20710 - Our Savior Lions",
+          "#62969 - Pineapple Dragons"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2024-03-02 15:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#56549 - SPAKE",
+          "#61353 - BookWorms"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2024-03-02 15:25:00-08:00",
+        "length": 20,
+        "tables": [
+          "#61685 - Noddin Dynabots",
+          "#60381 - Robotic Raptors"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-03-02 05:03:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": []
+}

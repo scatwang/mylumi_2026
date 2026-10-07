@@ -1,0 +1,89 @@
+{
+  "count": 7,
+  "results": [
+    {
+      "id": 1421,
+      "team": {
+        "id": 1063,
+        "number": 21866,
+        "name": "Blue Jay Master Builders",
+        "city": "San Ramon",
+        "org_name": "Blue Jay STEM Labs"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1427,
+      "team": {
+        "id": 1082,
+        "number": 29097,
+        "name": "Lego G.O.A.T.S.",
+        "city": "San Jose",
+        "org_name": "Tom Matsumoto Elem School, Carolyn a Clark Elementary Sch"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1481,
+      "team": {
+        "id": 1410,
+        "number": 30595,
+        "name": "SparkSteam III",
+        "city": "East Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1409,
+      "team": {
+        "id": 758,
+        "number": 31509,
+        "name": "Battle Bears - SBR Team Cupertino",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1406,
+      "team": {
+        "id": 1479,
+        "number": 32970,
+        "name": "Ferocious Fish",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1412,
+      "team": {
+        "id": 1445,
+        "number": 33063,
+        "name": "LegoCubs1390 - MARS",
+        "city": "San Jose",
+        "org_name": "Carolyn A. Clark Elementary, Norwood Creek Elementary, Tom Matsumoto Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1484,
+      "team": {
+        "id": 1362,
+        "number": 33312,
+        "name": "Waves of Friendship",
+        "city": "Livermore",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

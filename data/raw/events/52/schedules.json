@@ -1,0 +1,1211 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 38159,
+        "name": "Otterly Awesome",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2024-11-10 10:15:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-10 12:00:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-10 13:35:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2024-11-10 15:05:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-10 10:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52489,
+        "name": "Flaming Jalapenos",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-10 10:05:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-10 11:50:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-10 13:45:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2024-11-10 14:55:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-10 10:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 55971,
+        "name": "Electroid Marines",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-10 09:55:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-10 11:10:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-10 12:55:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2024-11-10 16:05:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-10 13:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60100,
+        "name": "Cobras",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2024-11-10 10:25:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-10 11:20:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-11-10 13:05:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2024-11-10 15:55:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-10 13:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61055,
+        "name": "Robotic Athletes",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2024-11-10 10:25:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-10 11:40:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-10 13:55:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2024-11-10 16:05:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 8,
+            "start_time_display": "2024-11-10 15:05:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61185,
+        "name": "Electrolyte Stingers",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-10 09:45:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-10 11:40:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-10 14:05:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2024-11-10 15:35:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-10 12:50:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61778,
+        "name": "Crab Surfers",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-10 09:15:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-10 11:50:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-10 13:35:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2024-11-10 15:25:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-10 10:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61950,
+        "name": "Codettes",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-10 09:35:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-10 11:10:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-11-10 13:05:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2024-11-10 15:35:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 7,
+            "start_time_display": "2024-11-10 14:20:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65258,
+        "name": "CrypticButterflies",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-10 09:25:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-10 12:00:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-10 13:45:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2024-11-10 15:15:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-10 10:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65770,
+        "name": "CoralCrew",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-10 09:25:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-10 11:00:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-11-10 13:15:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2024-11-10 15:25:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-10 11:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65848,
+        "name": "Cougars Techwiz",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-10 09:15:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-11-10 10:50:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-10 13:25:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2024-11-10 15:15:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-10 11:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66795,
+        "name": "Dilworth-Dragons",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-10 10:05:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-11-10 10:50:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-11-10 13:15:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2024-11-10 15:05:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-10 09:15:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67213,
+        "name": "Naji M Abdulla",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-10 09:35:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2024-11-10 11:30:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-10 13:55:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2024-11-10 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-10 12:50:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67395,
+        "name": "Marine Mavericks",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-10 09:45:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-10 11:20:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-10 12:55:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2024-11-10 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 7,
+            "start_time_display": "2024-11-10 14:20:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67736,
+        "name": "Robo Pro Max",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2024-11-10 10:15:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-10 11:00:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-10 13:25:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2024-11-10 14:55:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-10 09:15:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67865,
+        "name": "HydroHackers",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-10 09:55:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2024-11-10 11:30:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-10 14:05:00-08:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2024-11-10 15:55:00-08:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 8,
+            "start_time_display": "2024-11-10 15:05:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-11-10 09:15:00-08:00",
+            "length": 30,
+            "rooms": [
+              "67736 - Robo Pro Max",
+              "66795 - Dilworth-Dragons"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-11-10 10:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "65258 - CrypticButterflies",
+              "61778 - Crab Surfers"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-11-10 10:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "52489 - Flaming Jalapenos",
+              "38159 - Otterly Awesome"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-11-10 11:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "65848 - Cougars Techwiz",
+              "65770 - CoralCrew"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2024-11-10 12:50:00-08:00",
+            "length": 30,
+            "rooms": [
+              "61185 - Electrolyte Stingers",
+              "67213 - Naji M Abdulla"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2024-11-10 13:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "60100 - Cobras",
+              "55971 - Electroid Marines"
+            ]
+          },
+          {
+            "number": 7,
+            "start_time": "2024-11-10 14:20:00-08:00",
+            "length": 30,
+            "rooms": [
+              "61950 - Codettes",
+              "67395 - Marine Mavericks"
+            ]
+          },
+          {
+            "number": 8,
+            "start_time": "2024-11-10 15:05:00-08:00",
+            "length": 30,
+            "rooms": [
+              "67865 - HydroHackers",
+              "61055 - Robotic Athletes"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 545,
+        "name": "Table A"
+      },
+      {
+        "id": 546,
+        "name": "Table B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2024-11-10 09:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65848 - Cougars Techwiz",
+          "#61778 - Crab Surfers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2024-11-10 09:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65770 - CoralCrew",
+          "#65258 - CrypticButterflies"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2024-11-10 09:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61950 - Codettes",
+          "#67213 - Naji M Abdulla"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2024-11-10 09:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67395 - Marine Mavericks",
+          "#61185 - Electrolyte Stingers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2024-11-10 09:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67865 - HydroHackers",
+          "#55971 - Electroid Marines"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2024-11-10 10:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52489 - Flaming Jalapenos",
+          "#66795 - Dilworth-Dragons"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2024-11-10 10:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#38159 - Otterly Awesome",
+          "#67736 - Robo Pro Max"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 8,
+        "start_time": "2024-11-10 10:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61055 - Robotic Athletes",
+          "#60100 - Cobras"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 9,
+        "start_time": "2024-11-10 10:35:00-08:00",
+        "length": 15,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2024-11-10 10:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66795 - Dilworth-Dragons",
+          "#65848 - Cougars Techwiz"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2024-11-10 11:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67736 - Robo Pro Max",
+          "#65770 - CoralCrew"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2024-11-10 11:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#55971 - Electroid Marines",
+          "#61950 - Codettes"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2024-11-10 11:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60100 - Cobras",
+          "#67395 - Marine Mavericks"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2024-11-10 11:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67213 - Naji M Abdulla",
+          "#67865 - HydroHackers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2024-11-10 11:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61185 - Electrolyte Stingers",
+          "#61055 - Robotic Athletes"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2024-11-10 11:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61778 - Crab Surfers",
+          "#52489 - Flaming Jalapenos"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2024-11-10 12:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65258 - CrypticButterflies",
+          "#38159 - Otterly Awesome"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2024-11-10 12:10:00-08:00",
+        "length": 45,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2024-11-10 12:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67395 - Marine Mavericks",
+          "#55971 - Electroid Marines"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2024-11-10 13:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61950 - Codettes",
+          "#60100 - Cobras"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2024-11-10 13:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65770 - CoralCrew",
+          "#66795 - Dilworth-Dragons"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2024-11-10 13:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65848 - Cougars Techwiz",
+          "#67736 - Robo Pro Max"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2024-11-10 13:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#38159 - Otterly Awesome",
+          "#61778 - Crab Surfers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2024-11-10 13:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52489 - Flaming Jalapenos",
+          "#65258 - CrypticButterflies"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2024-11-10 13:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61055 - Robotic Athletes",
+          "#67213 - Naji M Abdulla"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2024-11-10 14:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67865 - HydroHackers",
+          "#61185 - Electrolyte Stingers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2024-11-10 14:15:00-08:00",
+        "length": 40,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 28,
+        "start_time": "2024-11-10 14:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67736 - Robo Pro Max",
+          "#52489 - Flaming Jalapenos"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 29,
+        "start_time": "2024-11-10 15:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66795 - Dilworth-Dragons",
+          "#38159 - Otterly Awesome"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 30,
+        "start_time": "2024-11-10 15:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65258 - CrypticButterflies",
+          "#65848 - Cougars Techwiz"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 31,
+        "start_time": "2024-11-10 15:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61778 - Crab Surfers",
+          "#65770 - CoralCrew"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 32,
+        "start_time": "2024-11-10 15:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61185 - Electrolyte Stingers",
+          "#61950 - Codettes"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 33,
+        "start_time": "2024-11-10 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67213 - Naji M Abdulla",
+          "#67395 - Marine Mavericks"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 35,
+        "start_time": "2024-11-10 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60100 - Cobras",
+          "#67865 - HydroHackers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 36,
+        "start_time": "2024-11-10 16:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#55971 - Electroid Marines",
+          "#61055 - Robotic Athletes"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-10-30 04:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    708,
+    902,
+    903,
+    905,
+    842,
+    910,
+    911,
+    912,
+    655,
+    850,
+    852,
+    927,
+    869,
+    872,
+    826,
+    763
+  ]
+}

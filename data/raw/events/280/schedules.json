@@ -1,0 +1,900 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 57290,
+        "name": "Cyberspace Crusader",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-05-03 09:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-05-03 11:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-05-03 13:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-05-03 15:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-05-03 10:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 59995,
+        "name": "Bricks you step on ",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-05-03 09:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-05-03 10:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-05-03 14:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-05-03 15:20:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-05-03 11:30:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72419,
+        "name": "RoboRangers",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-05-03 10:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-05-03 11:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-05-03 14:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-05-03 16:05:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2026-05-03 13:45:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73373,
+        "name": "The Sigmas",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-05-03 10:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-05-03 11:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-05-03 14:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-05-03 15:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-05-03 13:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75134,
+        "name": "Muir Spring Team",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-05-03 09:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-05-03 12:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-05-03 13:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-05-03 15:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-05-03 10:45:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75135,
+        "name": "Robotic Dragons",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-05-03 10:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-05-03 11:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-05-03 13:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2026-05-03 15:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2026-05-03 14:30:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75136,
+        "name": "Dig It",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-05-03 10:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-05-03 11:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-05-03 13:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-05-03 15:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2026-05-03 13:45:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75159,
+        "name": "Build Guild (SP)",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-05-03 09:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-05-03 12:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-05-03 14:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-05-03 15:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-05-03 10:45:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75160,
+        "name": "NinjaBots (SP)",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-05-03 10:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-05-03 11:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-05-03 14:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2026-05-03 15:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-05-03 13:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75161,
+        "name": "Energized Smarty Pants (SP)",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-05-03 09:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-05-03 11:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-05-03 13:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-05-03 15:20:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-05-03 10:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75162,
+        "name": "TNT Crew (SP)",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-05-03 10:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-05-03 11:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-05-03 14:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-05-03 16:05:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2026-05-03 14:30:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75163,
+        "name": "Master Builders (SP)",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-05-03 09:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-05-03 10:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-05-03 13:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-05-03 15:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-05-03 11:30:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2026-05-03 10:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "57290 - Cyberspace Crusader",
+              "75161 - Energized Smarty Pants (SP)"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2026-05-03 10:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "75134 - Muir Spring Team",
+              "75159 - Build Guild (SP)"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2026-05-03 11:30:00-07:00",
+            "length": 30,
+            "rooms": [
+              "59995 - Bricks you step on ",
+              "75163 - Master Builders (SP)"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2026-05-03 13:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "73373 - The Sigmas",
+              "75160 - NinjaBots (SP)"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2026-05-03 13:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "72419 - RoboRangers",
+              "75136 - Dig It"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2026-05-03 14:30:00-07:00",
+            "length": 30,
+            "rooms": [
+              "75135 - Robotic Dragons",
+              "75162 - TNT Crew (SP)"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 1197,
+        "name": "TABLE A"
+      },
+      {
+        "id": 1198,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2026-05-03 09:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#57290 - Cyberspace Crusader",
+          "#75163 - Master Builders (SP)"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2026-05-03 09:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75159 - Build Guild (SP)",
+          "#75161 - Energized Smarty Pants (SP)"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2026-05-03 09:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#59995 - Bricks you step on ",
+          "#75134 - Muir Spring Team"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2026-05-03 10:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#73373 - The Sigmas",
+          "#75162 - TNT Crew (SP)"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2026-05-03 10:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75136 - Dig It",
+          "#75160 - NinjaBots (SP)"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2026-05-03 10:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75135 - Robotic Dragons",
+          "#72419 - RoboRangers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2026-05-03 10:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75163 - Master Builders (SP)",
+          "#59995 - Bricks you step on "
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2026-05-03 11:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75160 - NinjaBots (SP)",
+          "#73373 - The Sigmas"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2026-05-03 11:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75136 - Dig It",
+          "#72419 - RoboRangers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2026-05-03 11:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75162 - TNT Crew (SP)",
+          "#75135 - Robotic Dragons"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2026-05-03 11:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75161 - Energized Smarty Pants (SP)",
+          "#57290 - Cyberspace Crusader"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2026-05-03 12:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75159 - Build Guild (SP)",
+          "#75134 - Muir Spring Team"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2026-05-03 13:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75135 - Robotic Dragons",
+          "#75136 - Dig It"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2026-05-03 13:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75134 - Muir Spring Team",
+          "#57290 - Cyberspace Crusader"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2026-05-03 13:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75163 - Master Builders (SP)",
+          "#75161 - Energized Smarty Pants (SP)"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2026-05-03 14:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75162 - TNT Crew (SP)",
+          "#75160 - NinjaBots (SP)"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2026-05-03 14:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#59995 - Bricks you step on ",
+          "#75159 - Build Guild (SP)"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2026-05-03 14:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72419 - RoboRangers",
+          "#73373 - The Sigmas"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2026-05-03 15:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#57290 - Cyberspace Crusader",
+          "#75159 - Build Guild (SP)"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2026-05-03 15:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75161 - Energized Smarty Pants (SP)",
+          "#59995 - Bricks you step on "
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2026-05-03 15:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75134 - Muir Spring Team",
+          "#75163 - Master Builders (SP)"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2026-05-03 15:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#73373 - The Sigmas",
+          "#75136 - Dig It"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2026-05-03 15:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75160 - NinjaBots (SP)",
+          "#75135 - Robotic Dragons"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2026-05-03 16:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72419 - RoboRangers",
+          "#75162 - TNT Crew (SP)"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2026-05-01 00:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    2247,
+    2248,
+    2249,
+    2250,
+    2251,
+    2252,
+    2253,
+    2254,
+    2263,
+    2265,
+    2266,
+    2238
+  ]
+}

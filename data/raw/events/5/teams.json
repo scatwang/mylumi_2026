@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 86,
+      "team": {
+        "id": 237,
+        "number": 4979,
+        "name": "Mighty Ducks",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 59,
+      "team": {
+        "id": 231,
+        "number": 17492,
+        "name": "BloK Masters",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 52,
+      "team": {
+        "id": 52,
+        "number": 37487,
+        "name": "Bunny Bots",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 34,
+      "team": {
+        "id": 98,
+        "number": 52142,
+        "name": "Art's Genesis",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 100,
+      "team": {
+        "id": 151,
+        "number": 52516,
+        "name": "The Krazy Kiwis",
+        "city": "Los Gatos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 41,
+      "team": {
+        "id": 20,
+        "number": 53893,
+        "name": "Roaring Lions",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 18,
+      "team": {
+        "id": 200,
+        "number": 55971,
+        "name": "Electroid Mayhem",
+        "city": "Santa Clara",
+        "org_name": "Fremont High School, Don Callejon K-8 School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 43,
+      "team": {
+        "id": 158,
+        "number": 56341,
+        "name": "Master BEAST",
+        "city": "Saratoga",
+        "org_name": "St Andrew's Episcopal School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 226,
+      "team": {
+        "id": 214,
+        "number": 60100,
+        "name": "Cobras",
+        "city": "LOS GATOS",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 127,
+      "team": {
+        "id": 33,
+        "number": 60215,
+        "name": "Robotmakers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 112,
+      "team": {
+        "id": 334,
+        "number": 60338,
+        "name": "Astrocubs",
+        "city": "Sunnyvale",
+        "org_name": "AstroBruins"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 113,
+      "team": {
+        "id": 250,
+        "number": 60388,
+        "name": "Cosmic Motor",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 47,
+      "team": {
+        "id": 15,
+        "number": 60535,
+        "name": "Teal Tech Robotics",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 49,
+      "team": {
+        "id": 74,
+        "number": 60623,
+        "name": "Double Trouble Masterminds",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 116,
+      "team": {
+        "id": 336,
+        "number": 61258,
+        "name": "Beyond Stellar Robotics",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 62,
+      "team": {
+        "id": 299,
+        "number": 61282,
+        "name": "Shoo Flies",
+        "city": "San Jose",
+        "org_name": "Apple Inc"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 131,
+      "team": {
+        "id": 49,
+        "number": 61699,
+        "name": "LegoMasterz",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 97,
+      "team": {
+        "id": 259,
+        "number": 62381,
+        "name": "Fast Leaping Lions",
+        "city": "Los Altos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "count": 16,
+  "results": [
+    {
+      "id": 903,
+      "team": {
+        "id": 912,
+        "number": 38159,
+        "name": "Otterly Awesome",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 850,
+      "team": {
+        "id": 920,
+        "number": 52489,
+        "name": "Flaming Jalapenos",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 927,
+      "team": {
+        "id": 701,
+        "number": 55971,
+        "name": "Electroid Marines",
+        "city": "Santa Clara",
+        "org_name": "Fremont High School, Don Callejon K-8 School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 852,
+      "team": {
+        "id": 714,
+        "number": 60100,
+        "name": "Cobras",
+        "city": "Los Gatos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 842,
+      "team": {
+        "id": 984,
+        "number": 61055,
+        "name": "Robotic Athletes",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 655,
+      "team": {
+        "id": 730,
+        "number": 61185,
+        "name": "Electrolyte Stingers",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 872,
+      "team": {
+        "id": 1004,
+        "number": 61778,
+        "name": "Crab Surfers",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 912,
+      "team": {
+        "id": 1147,
+        "number": 61950,
+        "name": "Codettes",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 826,
+      "team": {
+        "id": 646,
+        "number": 65258,
+        "name": "CrypticButterflies",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 910,
+      "team": {
+        "id": 1050,
+        "number": 65770,
+        "name": "CoralCrew",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 708,
+      "team": {
+        "id": 1157,
+        "number": 65848,
+        "name": "Cougars Techwiz",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 905,
+      "team": {
+        "id": 1083,
+        "number": 66795,
+        "name": "Dilworth-Dragons",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 763,
+      "team": {
+        "id": 1143,
+        "number": 67213,
+        "name": "Naji M Abdulla",
+        "city": "San Ramon",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 911,
+      "team": {
+        "id": 1088,
+        "number": 67395,
+        "name": "Marine Mavericks",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 902,
+      "team": {
+        "id": 1091,
+        "number": 67736,
+        "name": "Robo Pro Max",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 869,
+      "team": {
+        "id": 1094,
+        "number": 67865,
+        "name": "HydroHackers",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    }
+  ]
+}

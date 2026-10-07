@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 240,
+      "team": {
+        "id": 282,
+        "number": 7052,
+        "name": "Leaping Lemurs",
+        "city": "San Francisco",
+        "org_name": "St. Gabriel School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 241,
+      "team": {
+        "id": 283,
+        "number": 7453,
+        "name": "Magnificent Mangos",
+        "city": "San Francisco",
+        "org_name": "St. Gabriel School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 117,
+      "team": {
+        "id": 164,
+        "number": 10589,
+        "name": "Legovolts",
+        "city": "Hillsborough",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 194,
+      "team": {
+        "id": 256,
+        "number": 20915,
+        "name": "TroBots",
+        "city": "Burlingame",
+        "org_name": "Burlingame Intermediate School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 104,
+      "team": {
+        "id": 166,
+        "number": 30516,
+        "name": "Cheerios",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 173,
+      "team": {
+        "id": 181,
+        "number": 30518,
+        "name": "RoboSapiens",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 145,
+      "team": {
+        "id": 51,
+        "number": 37484,
+        "name": "Artvarks",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 129,
+      "team": {
+        "id": 170,
+        "number": 40997,
+        "name": "Denman Robotics",
+        "city": "San Francisco",
+        "org_name": "James Denman Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 202,
+      "team": {
+        "id": 63,
+        "number": 52090,
+        "name": "Canary1",
+        "city": "San Francisco",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 220,
+      "team": {
+        "id": 221,
+        "number": 52405,
+        "name": "CheetoBots 2022",
+        "city": "Fremont",
+        "org_name": "John M Gomes Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 93,
+      "team": {
+        "id": 286,
+        "number": 52498,
+        "name": "MovingTreeHouse",
+        "city": "Palo Alto",
+        "org_name": ""
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 208,
+      "team": {
+        "id": 67,
+        "number": 54145,
+        "name": "G.O.A.T.S",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 210,
+      "team": {
+        "id": 40,
+        "number": 55992,
+        "name": "HawkBots",
+        "city": "San Jose",
+        "org_name": "Hacienda Science Magnet School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 211,
+      "team": {
+        "id": 36,
+        "number": 55998,
+        "name": "FLL Owls",
+        "city": "San Jose",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 217,
+      "team": {
+        "id": 8,
+        "number": 59937,
+        "name": "Robo Mangal",
+        "city": "Fremont",
+        "org_name": "Harvey Green Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 204,
+      "team": {
+        "id": 244,
+        "number": 60942,
+        "name": "Doodle",
+        "city": "Palo Alto",
+        "org_name": "Herbert Hoover Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 213,
+      "team": {
+        "id": 156,
+        "number": 61168,
+        "name": "Foothill 2023C",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 221,
+      "team": {
+        "id": 281,
+        "number": 61397,
+        "name": "GoForBots",
+        "city": "Fremont",
+        "org_name": "John M Gomes Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

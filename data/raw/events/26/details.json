@@ -1,0 +1,81 @@
+{
+  "id": 26,
+  "name": "2024 NorCal FLL-E Festival - Santa Clara",
+  "season": "2023 - MASTERPIECE (Explore)",
+  "program": "FIRST LEGO League: Explore",
+  "program_abbreviation": "fll_explore",
+  "description": "event at  Wilcox High School - held in conjunction with the FTC Qualifier\r\n\r\nTeam check-in and pits will be in Science Wing\r\nLunch will be served at noon  (Before Team Check-in) and must be pre-ordered/ pre-paid",
+  "capacity": 12,
+  "total_registered": 0,
+  "level": {
+    "id": 9,
+    "name": "FLL Explore Festivals (Jan 13 Santa Clara Only)",
+    "next_level": null,
+    "previous_levels": [],
+    "registration_opens": "2023-11-17T17:00:00-08:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 3
+  },
+  "event_status": "canceled",
+  "event_status_display": "Canceled",
+  "status_v2": "canceled",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 0,
+  "total_reserved": 0,
+  "start_time": "2024-01-13T12:30:00-08:00",
+  "end_time": "2024-01-13T17:30:00-08:00",
+  "all_details": [],
+  "downloads": [],
+  "web_links": [],
+  "agenda_group": null,
+  "agenda_items": [],
+  "public_agenda_items": [],
+  "venue": {
+    "name": "Wilcox High School",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip_code": "95051",
+    "website": "https://wilcox.santaclarausd.org/"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/26/",
+  "website_uri": "/en/event/26/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/26/#volunteer",
+  "team_stats": {
+    "teams": 0,
+    "students": 0,
+    "cities": [],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 3,
+    "info": {
+      "name": "MASTERPIECE (Explore)",
+      "year": 2023,
+      "release": "2023-08-01T09:00:00-07:00",
+      "program": {
+        "id": 2,
+        "abbreviation": "fll_explore",
+        "previous_program": 3,
+        "get_abbreviation_display": "FIRST LEGO League: Explore",
+        "get_logo_path": "images/program_logos/fll_explore_logo.png",
+        "enable_team_profile": false
+      },
+      "season_begins": "2023-05-01",
+      "get_logo_path": "images/season_logos/2023_fll_explore.png"
+    },
+    "tableau_import_start": "2023-11-14T09:00:00-08:00",
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/233200869819967",
+    "has_team_profile": false
+  },
+  "role_template": null,
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": false,
+  "is_complete": true
+}

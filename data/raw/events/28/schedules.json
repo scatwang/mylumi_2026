@@ -1,0 +1,167 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 21866,
+        "name": "BlueJay Master Builders",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-01-28 15:15:00-08:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 24443,
+        "name": "Code O Bots",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-01-28 15:15:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28665,
+        "name": "Lightning Stars",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-01-28 14:15:00-08:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28930,
+        "name": "LegoLlamas",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-01-28 13:45:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29210,
+        "name": "Graystone Ninjas",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-01-28 13:45:00-08:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29211,
+        "name": "Graystone Sparks",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-01-28 14:15:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29974,
+        "name": "Robo Boys",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-01-28 14:45:00-08:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-01-28 13:45:00-08:00",
+            "length": 10,
+            "rooms": [
+              "29210 - Graystone Ninjas",
+              "28930 - LegoLlamas"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-01-28 14:15:00-08:00",
+            "length": 10,
+            "rooms": [
+              "28665 - Lightning Stars",
+              "29211 - Graystone Sparks"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-01-28 14:45:00-08:00",
+            "length": 10,
+            "rooms": [
+              "",
+              "29974 - Robo Boys"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-01-28 15:15:00-08:00",
+            "length": 10,
+            "rooms": [
+              "21866 - BlueJay Master Builders",
+              "24443 - Code O Bots"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-01-25 23:25:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

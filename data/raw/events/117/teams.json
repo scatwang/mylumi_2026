@@ -1,0 +1,65 @@
+{
+  "count": 5,
+  "results": [
+    {
+      "id": 1181,
+      "team": {
+        "id": 816,
+        "number": 28849,
+        "name": "The Golden Blocks",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1182,
+      "team": {
+        "id": 820,
+        "number": 28853,
+        "name": "Penguin Builders",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1187,
+      "team": {
+        "id": 756,
+        "number": 31379,
+        "name": "GlitterBots",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1178,
+      "team": {
+        "id": 1071,
+        "number": 31819,
+        "name": "robogue",
+        "city": "FREMONT",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1065,
+      "team": {
+        "id": 1269,
+        "number": 32916,
+        "name": "WildRoz",
+        "city": "Sunnyvale",
+        "org_name": "Helios"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

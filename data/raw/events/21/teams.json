@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 321,
+      "team": {
+        "id": 377,
+        "number": 461,
+        "name": "Terminatorz",
+        "city": "Morgan Hill",
+        "org_name": "Britton Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 327,
+      "team": {
+        "id": 105,
+        "number": 24392,
+        "name": "Firedragons",
+        "city": "San Francisco",
+        "org_name": "Chinese American International School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 328,
+      "team": {
+        "id": 354,
+        "number": 48453,
+        "name": "Firedragons 2",
+        "city": "San Francisco",
+        "org_name": "Chinese American International School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 330,
+      "team": {
+        "id": 413,
+        "number": 51196,
+        "name": "BunnyBots",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 332,
+      "team": {
+        "id": 410,
+        "number": 56487,
+        "name": "CreativeSeven",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 323,
+      "team": {
+        "id": 402,
+        "number": 60384,
+        "name": "Brick Innovators",
+        "city": "Santa Clara",
+        "org_name": "Family / Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 324,
+      "team": {
+        "id": 16,
+        "number": 60914,
+        "name": "TechnoMasters",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 322,
+      "team": {
+        "id": 408,
+        "number": 60929,
+        "name": "Chips 'n' Bots",
+        "city": "San Mateo",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 326,
+      "team": {
+        "id": 406,
+        "number": 60984,
+        "name": "Limitless Stars",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 325,
+      "team": {
+        "id": 407,
+        "number": 61055,
+        "name": "Silent Builders",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 331,
+      "team": {
+        "id": 409,
+        "number": 62005,
+        "name": "Lego Legends",
+        "city": "FREMONT",
+        "org_name": "Ardenwood Elementary School, Forest Park Elementary School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 329,
+      "team": {
+        "id": 416,
+        "number": 62140,
+        "name": "Team St.Anne",
+        "city": "San Francisco",
+        "org_name": "St.Anne"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

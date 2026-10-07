@@ -1,0 +1,178 @@
+{
+  "id": 123,
+  "name": "2025 NorCal FLL-C:  The Play Space Spring League - 4/13",
+  "season": "2024 - SUBMERGED (Challenge)",
+  "program": "FIRST LEGO League: Challenge",
+  "program_abbreviation": "fll_challenge",
+  "description": "",
+  "capacity": 15,
+  "total_registered": 15,
+  "level": {
+    "id": 55,
+    "name": "2024/2025 NorCal Spring League - Submerged",
+    "next_level": null,
+    "previous_levels": [],
+    "registration_opens": "2025-02-06T18:00:00-08:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 5
+  },
+  "event_status": "closed",
+  "event_status_display": "Closed",
+  "status_v2": "complete",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 15,
+  "total_reserved": 0,
+  "start_time": "2025-04-13T08:00:00-07:00",
+  "end_time": "2025-04-13T18:00:00-07:00",
+  "all_details": [
+    {
+      "id": null,
+      "detail_type": "rg_tables",
+      "get_detail_type_display": "Robot Game",
+      "title": "Robot Game Tables",
+      "description": "This event will have <strong>1</strong> pair of Robot Game tables."
+    },
+    {
+      "id": null,
+      "detail_type": "judging_lanes",
+      "get_detail_type_display": "Judging",
+      "title": "Judging Pods",
+      "description": "This event will have <strong>3</strong> Judging Pods "
+    }
+  ],
+  "downloads": [],
+  "web_links": [],
+  "agenda_group": 67,
+  "agenda_items": [],
+  "public_agenda_items": [
+    {
+      "id": 2225,
+      "title": "Team Check-in & Teams setup Pit table",
+      "description": "",
+      "start_time": "08:00:00",
+      "end_time": "08:45:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2226,
+      "title": "Coaches Meeting",
+      "description": "Meet with the Tournament Director, Judge Advisor and Head Referee.  The Judge Advisor will cover any Judging questions.The Head Referee will explain the queuing and Robot Game process at the event, as well as announce any new official Robot Game Updates.  The Tournament Director go through any last minute announcement or reminders.",
+      "start_time": "08:15:00",
+      "end_time": "08:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2227,
+      "title": "Opening Ceremony",
+      "description": "Please do your best to make room in the seating area.",
+      "start_time": "08:35:00",
+      "end_time": "08:55:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2228,
+      "title": "Team Judging & Robot Game Matches",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "16:15:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2229,
+      "title": "Pit Cleanup / Tear Down",
+      "description": "Teams should pick up belongings and clean up their pit area.",
+      "start_time": "16:20:00",
+      "end_time": "16:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2230,
+      "title": "Host Fun Activity",
+      "description": "",
+      "start_time": "16:30:00",
+      "end_time": "16:55:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2231,
+      "title": "Closing Ceremonies",
+      "description": "",
+      "start_time": "17:00:00",
+      "end_time": "17:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    }
+  ],
+  "venue": {
+    "name": "The Play Space",
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95131",
+    "website": "https://www.theplayspace.org"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/123/",
+  "website_uri": "/en/event/123/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/123/#volunteer",
+  "team_stats": {
+    "teams": 15,
+    "students": 50,
+    "cities": [
+      "hayward",
+      "los altos",
+      "lathrop",
+      "fremont",
+      "marina",
+      "mountain view",
+      "san jose",
+      "folsom",
+      "menlo park",
+      "san ramon"
+    ],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 5,
+    "info": {
+      "name": "SUBMERGED (Challenge)",
+      "year": 2024,
+      "release": "2024-08-01T09:00:00-07:00",
+      "program": {
+        "id": 1,
+        "abbreviation": "fll_challenge",
+        "previous_program": 2,
+        "get_abbreviation_display": "FIRST LEGO League: Challenge",
+        "get_logo_path": "images/program_logos/fll_challenge_logo.png",
+        "enable_team_profile": true
+      },
+      "season_begins": "2024-05-18",
+      "get_logo_path": "images/season_logos/2024_fll_challenge.png"
+    },
+    "tableau_import_start": null,
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/242547818475973?fllteam=%team_number%",
+    "has_team_profile": false
+  },
+  "role_template": null,
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": false,
+  "is_complete": true
+}

@@ -1,0 +1,197 @@
+{
+  "id": 118,
+  "name": "2025 NorCal FLL-C:  Fremont Spring League - 4/26",
+  "season": "2024 - SUBMERGED (Challenge)",
+  "program": "FIRST LEGO League: Challenge",
+  "program_abbreviation": "fll_challenge",
+  "description": "",
+  "capacity": 18,
+  "total_registered": 18,
+  "level": {
+    "id": 55,
+    "name": "2024/2025 NorCal Spring League - Submerged",
+    "next_level": null,
+    "previous_levels": [],
+    "registration_opens": "2025-02-06T18:00:00-08:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 5
+  },
+  "event_status": "closed",
+  "event_status_display": "Closed",
+  "status_v2": "complete",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 18,
+  "total_reserved": 0,
+  "start_time": "2025-04-26T08:00:00-07:00",
+  "end_time": "2025-04-26T18:00:00-07:00",
+  "all_details": [
+    {
+      "id": null,
+      "detail_type": "rg_tables",
+      "get_detail_type_display": "Robot Game",
+      "title": "Robot Game Tables",
+      "description": "This event will have <strong>1</strong> pair of Robot Game tables."
+    },
+    {
+      "id": null,
+      "detail_type": "judging_lanes",
+      "get_detail_type_display": "Judging",
+      "title": "Judging Pods",
+      "description": "This event will have <strong>3</strong> Judging Pods "
+    }
+  ],
+  "downloads": [],
+  "web_links": [],
+  "agenda_group": 68,
+  "agenda_items": [],
+  "public_agenda_items": [
+    {
+      "id": 2216,
+      "title": "Team Check-in & Teams setup Pit table",
+      "description": "2nd adult (co-coach) will work with team to get their pit area all setup ",
+      "start_time": "08:00:00",
+      "end_time": "08:15:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2217,
+      "title": "Coaches Meeting",
+      "description": "Primary Coach will meet with the Tournement Director, Judge Advisor and Head Referee.  The Judge Advisor will cover any Judging questions.The Head Referee will explain the queuing and Robot Game process at the event, as well as announce any new official Robot Game Updates.  The Tournament Director go through any last minute announcement or reminders.",
+      "start_time": "08:15:00",
+      "end_time": "08:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2218,
+      "title": "Opening Ceremony",
+      "description": "Please do your best to make room in the seating area.",
+      "start_time": "08:40:00",
+      "end_time": "08:55:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2219,
+      "title": "Pits Open to Public",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "16:45:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2220,
+      "title": "Robot Game Matches & Judging",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "16:40:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2221,
+      "title": "Lunch Break",
+      "description": "",
+      "start_time": "12:15:00",
+      "end_time": "12:55:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2222,
+      "title": "Pit Cleanup / Tear Down",
+      "description": "Teams should pick up belongings and clean up their pit area.",
+      "start_time": "16:40:00",
+      "end_time": "17:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2223,
+      "title": "Host Fun Activity",
+      "description": "",
+      "start_time": "17:00:00",
+      "end_time": "17:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2224,
+      "title": "Closing Ceremonies",
+      "description": "",
+      "start_time": "17:30:00",
+      "end_time": "18:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    }
+  ],
+  "venue": {
+    "name": "BASIS Independent Fremont - Lower School",
+    "city": "Fremont",
+    "state": "CA",
+    "zip_code": "94538",
+    "website": "https://fremont.basisindependent.com/"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/118/",
+  "website_uri": "/en/event/118/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/118/#volunteer",
+  "team_stats": {
+    "teams": 18,
+    "students": 49,
+    "cities": [
+      "menlo park",
+      "dublin",
+      "fremont",
+      "folsom",
+      "cupertino",
+      "san carlos",
+      "san ramon",
+      "san jose",
+      "sunnyvale"
+    ],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 5,
+    "info": {
+      "name": "SUBMERGED (Challenge)",
+      "year": 2024,
+      "release": "2024-08-01T09:00:00-07:00",
+      "program": {
+        "id": 1,
+        "abbreviation": "fll_challenge",
+        "previous_program": 2,
+        "get_abbreviation_display": "FIRST LEGO League: Challenge",
+        "get_logo_path": "images/program_logos/fll_challenge_logo.png",
+        "enable_team_profile": true
+      },
+      "season_begins": "2024-05-18",
+      "get_logo_path": "images/season_logos/2024_fll_challenge.png"
+    },
+    "tableau_import_start": null,
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/242547818475973?fllteam=%team_number%",
+    "has_team_profile": false
+  },
+  "role_template": null,
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": false,
+  "is_complete": true
+}

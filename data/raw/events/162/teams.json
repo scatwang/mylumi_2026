@@ -1,0 +1,101 @@
+{
+  "count": 8,
+  "results": [
+    {
+      "id": 1475,
+      "team": {
+        "id": 1357,
+        "number": 31646,
+        "name": "Epic Robots",
+        "city": "Millbrae",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1483,
+      "team": {
+        "id": 1025,
+        "number": 31947,
+        "name": "LEGO Boulders",
+        "city": "Union City",
+        "org_name": "Code Ninjas"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1493,
+      "team": {
+        "id": 1352,
+        "number": 33079,
+        "name": "Mystical Hotdogs",
+        "city": "Hercules",
+        "org_name": "Ohlone Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1479,
+      "team": {
+        "id": 1353,
+        "number": 33080,
+        "name": "Banana Fishes",
+        "city": "Hercules",
+        "org_name": "Ohlone Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1480,
+      "team": {
+        "id": 1354,
+        "number": 33081,
+        "name": "Lego Bubble Bots",
+        "city": "Hercules",
+        "org_name": "Ohlone Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1489,
+      "team": {
+        "id": 1349,
+        "number": 33298,
+        "name": "Brick Masters",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1491,
+      "team": {
+        "id": 1356,
+        "number": 33306,
+        "name": "Banana Maniacs",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1486,
+      "team": {
+        "id": 1347,
+        "number": 33321,
+        "name": "Lego Empire",
+        "city": "Lathrop",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

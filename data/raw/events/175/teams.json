@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 1702,
+      "team": {
+        "id": 1998,
+        "number": 53140,
+        "name": "Fin Finders",
+        "city": "San Jose",
+        "org_name": "Bret Harte Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1710,
+      "team": {
+        "id": 2006,
+        "number": 61685,
+        "name": "Union Megatrons",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1665,
+      "team": {
+        "id": 2009,
+        "number": 61932,
+        "name": "BCS Gold Miners",
+        "city": "Los Altos",
+        "org_name": "Bullis Charter School N"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1613,
+      "team": {
+        "id": 1920,
+        "number": 66756,
+        "name": "Cryptobots",
+        "city": "Fremont",
+        "org_name": "William Hopkins Junior High"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1709,
+      "team": {
+        "id": 1786,
+        "number": 67430,
+        "name": "BayBots",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1692,
+      "team": {
+        "id": 1922,
+        "number": 67841,
+        "name": "The Striker Bots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1623,
+      "team": {
+        "id": 1923,
+        "number": 68216,
+        "name": "Circuit Breakers",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1620,
+      "team": {
+        "id": 2028,
+        "number": 68726,
+        "name": "Daedalus Bots",
+        "city": "Sunnyvale",
+        "org_name": "Marian A. Peterson Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1708,
+      "team": {
+        "id": 1797,
+        "number": 68861,
+        "name": "Technic Pythons",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1696,
+      "team": {
+        "id": 2245,
+        "number": 71326,
+        "name": "Lightning R7",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1677,
+      "team": {
+        "id": 1972,
+        "number": 72257,
+        "name": "Lego Benders",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1531,
+      "team": {
+        "id": 2047,
+        "number": 72384,
+        "name": "Kinetic Bots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

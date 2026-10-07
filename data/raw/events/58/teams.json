@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 671,
+      "team": {
+        "id": 904,
+        "number": 20710,
+        "name": "Our Savior Lions",
+        "city": "Livermore",
+        "org_name": "Our Savior Lutheran School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 684,
+      "team": {
+        "id": 689,
+        "number": 48793,
+        "name": "Team Mountain House",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 882,
+      "team": {
+        "id": 1108,
+        "number": 56860,
+        "name": "RoboShockers",
+        "city": "Pleasanton",
+        "org_name": "Harvest Park Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 724,
+      "team": {
+        "id": 959,
+        "number": 60377,
+        "name": "RI Lego Warriors",
+        "city": "Lathrop",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 702,
+      "team": {
+        "id": 962,
+        "number": 60447,
+        "name": "Little Einstein",
+        "city": "Lathrop",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 807,
+      "team": {
+        "id": 724,
+        "number": 60753,
+        "name": "DroidSharks",
+        "city": "Lathrop",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 833,
+      "team": {
+        "id": 725,
+        "number": 60855,
+        "name": "GearShift",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 944,
+      "team": {
+        "id": 1000,
+        "number": 61718,
+        "name": "MechMavericks",
+        "city": "Folsom",
+        "org_name": "Folsom - Sutter Middle School, Russell Ranch Elem School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 737,
+      "team": {
+        "id": 1011,
+        "number": 62079,
+        "name": "Glitch Gang",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 824,
+      "team": {
+        "id": 1015,
+        "number": 62984,
+        "name": "Eagle Bots 2024",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 831,
+      "team": {
+        "id": 1076,
+        "number": 65523,
+        "name": "TechnoTitans12",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 642,
+      "team": {
+        "id": 650,
+        "number": 65569,
+        "name": "Tassajara Bots",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 750,
+      "team": {
+        "id": 1258,
+        "number": 65830,
+        "name": "MegaBots",
+        "city": "Union City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 638,
+      "team": {
+        "id": 1180,
+        "number": 65849,
+        "name": "4:12 Robots",
+        "city": "Modesto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 705,
+      "team": {
+        "id": 839,
+        "number": 65953,
+        "name": "Infinity E-Bots",
+        "city": "Dublin",
+        "org_name": "Cottonwood Creek"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 823,
+      "team": {
+        "id": 1254,
+        "number": 66355,
+        "name": "Iron Dolphins",
+        "city": "Modesto",
+        "org_name": "Mary Lou Dieterich Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 731,
+      "team": {
+        "id": 1225,
+        "number": 66490,
+        "name": "In Lak'ech",
+        "city": "San Jose",
+        "org_name": "Voices College-Bound Language Academy at Mt. Pleasant"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 844,
+      "team": {
+        "id": 1216,
+        "number": 67114,
+        "name": "MH Vanguards",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

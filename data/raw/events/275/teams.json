@@ -1,0 +1,113 @@
+{
+  "count": 9,
+  "results": [
+    {
+      "id": 2168,
+      "team": {
+        "id": 1845,
+        "number": 26136,
+        "name": "Excavators",
+        "city": "San Ramon",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2169,
+      "team": {
+        "id": 2420,
+        "number": 28804,
+        "name": "Submerged Submarine",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2171,
+      "team": {
+        "id": 1872,
+        "number": 31145,
+        "name": "NinjaBot",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2187,
+      "team": {
+        "id": 2278,
+        "number": 32187,
+        "name": "Seabotics Squad",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2174,
+      "team": {
+        "id": 2333,
+        "number": 33557,
+        "name": "Serendipitous",
+        "city": "Belmont",
+        "org_name": "Serendipity School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2170,
+      "team": {
+        "id": 1809,
+        "number": 34033,
+        "name": "Robotic Mochis",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2173,
+      "team": {
+        "id": 2252,
+        "number": 35333,
+        "name": "History Builders",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2172,
+      "team": {
+        "id": 2414,
+        "number": 35882,
+        "name": "BrainRot",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2167,
+      "team": {
+        "id": 2419,
+        "number": 35916,
+        "name": "DiggingBot",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

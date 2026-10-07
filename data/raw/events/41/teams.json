@@ -1,0 +1,101 @@
+{
+  "count": 8,
+  "results": [
+    {
+      "id": 613,
+      "team": {
+        "id": 491,
+        "number": 26093,
+        "name": "Falcon X",
+        "city": "Fremont",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 608,
+      "team": {
+        "id": 618,
+        "number": 26467,
+        "name": "Robo Girls",
+        "city": "Fremont",
+        "org_name": "Fred Weibel Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 609,
+      "team": {
+        "id": 594,
+        "number": 26725,
+        "name": "SuperLego4",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 606,
+      "team": {
+        "id": 613,
+        "number": 28936,
+        "name": "WildRoz2023",
+        "city": "San Jose",
+        "org_name": "Helios School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 611,
+      "team": {
+        "id": 611,
+        "number": 29205,
+        "name": "The Gamers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 607,
+      "team": {
+        "id": 603,
+        "number": 29353,
+        "name": "Cosmic Innovators",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 610,
+      "team": {
+        "id": 619,
+        "number": 29354,
+        "name": "Bee Curious",
+        "city": "Los Gatos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 605,
+      "team": {
+        "id": 463,
+        "number": 29565,
+        "name": "Rubik Squad",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

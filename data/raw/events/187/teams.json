@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 1747,
+      "team": {
+        "id": 1683,
+        "number": 56511,
+        "name": "Super Charged",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1742,
+      "team": {
+        "id": 1696,
+        "number": 60354,
+        "name": "Helios Suns",
+        "city": "Los Altos",
+        "org_name": "Helios School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1540,
+      "team": {
+        "id": 1712,
+        "number": 60996,
+        "name": "VortexMasterminds",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1697,
+      "team": {
+        "id": 1718,
+        "number": 61610,
+        "name": "Argoclucks",
+        "city": "Albany",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1618,
+      "team": {
+        "id": 2007,
+        "number": 61718,
+        "name": "MechMavericks",
+        "city": "Folsom",
+        "org_name": "Theodore Judah Elem School, Russell Ranch Elem School, Sutter Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1706,
+      "team": {
+        "id": 1729,
+        "number": 65026,
+        "name": "Brick Brains",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1642,
+      "team": {
+        "id": 1753,
+        "number": 65902,
+        "name": "Coding Mavs",
+        "city": "ROCKLIN",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1714,
+      "team": {
+        "id": 1754,
+        "number": 66034,
+        "name": "Westpark Mech Warriors",
+        "city": "Roseville",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1576,
+      "team": {
+        "id": 1755,
+        "number": 66044,
+        "name": "Red Raptors",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1719,
+      "team": {
+        "id": 1764,
+        "number": 66342,
+        "name": "KiloNuggets",
+        "city": "El Dorado Hills",
+        "org_name": "Lakeview Elementary, Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1695,
+      "team": {
+        "id": 1775,
+        "number": 66923,
+        "name": "H2O Warriors",
+        "city": "Saratoga",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1753,
+      "team": {
+        "id": 1776,
+        "number": 67058,
+        "name": "Earth Angels",
+        "city": "San Jose",
+        "org_name": "Evergreen Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1724,
+      "team": {
+        "id": 2021,
+        "number": 67290,
+        "name": "VXL",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1716,
+      "team": {
+        "id": 1793,
+        "number": 68191,
+        "name": "Lego Lillies",
+        "city": "Fremont",
+        "org_name": "William Hopkins Junior High"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1730,
+      "team": {
+        "id": 1623,
+        "number": 71669,
+        "name": "TheCodeBlooded4",
+        "city": "Fremont",
+        "org_name": "Thornton Junior High"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1628,
+      "team": {
+        "id": 1965,
+        "number": 71888,
+        "name": "Prime Builders",
+        "city": "Mountain House",
+        "org_name": "Mountain House Marathi Shala And Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1668,
+      "team": {
+        "id": 2161,
+        "number": 72651,
+        "name": "Coding Buddies ",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1569,
+      "team": {
+        "id": 2178,
+        "number": 73516,
+        "name": "Dino Nuggets (BBQ)",
+        "city": "Walnut Creek",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

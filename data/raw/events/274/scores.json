@@ -1,0 +1,457 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 74293,
+      "name": "ctrl-alt-build",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 395,
+      "highest_display": 395,
+      "rounds": [
+        395,
+        275,
+        325
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "They congratulated the other team .",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        395,
+        325,
+        275
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 59559,
+      "name": "Hillviewnauts",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 380,
+      "highest_display": 380,
+      "rounds": [
+        295,
+        335,
+        380
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        380,
+        335,
+        295
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 71748,
+      "name": "Golden Gears",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 335,
+      "highest_display": 335,
+      "rounds": [
+        275,
+        335,
+        300
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "They were chanting positivity.",
+        ""
+      ],
+      "rounds_sorted": [
+        335,
+        300,
+        275
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 74190,
+      "name": "Vulcan",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 300,
+      "highest_display": 300,
+      "rounds": [
+        205,
+        300,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        300,
+        290,
+        205
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 72210,
+      "name": "Robotics Masters ",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 255,
+      "highest_display": 255,
+      "rounds": [
+        240,
+        225,
+        255
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "They had chanting."
+      ],
+      "rounds_sorted": [
+        255,
+        240,
+        225
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 71427,
+      "name": "Shark Masters",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        190,
+        240,
+        230
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        230,
+        190
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 72400,
+      "name": "ANA",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        200,
+        170,
+        240
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "They sang encouragement",
+        "Cheering each other on the whole time",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        200,
+        170
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 67678,
+      "name": "RoboSquad",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        220,
+        115,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        210,
+        115
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 68174,
+      "name": "Sundrop Robotics - Albany",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        130,
+        215,
+        175
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Supportive cheering from the team.",
+        ""
+      ],
+      "rounds_sorted": [
+        215,
+        175,
+        130
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 74976,
+      "name": "MSJE Robotics",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        115,
+        205,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        185,
+        115
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 75025,
+      "name": "Pleasanton Panthers",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        205,
+        180,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        180,
+        135
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 74137,
+      "name": "Lego Champions",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        175,
+        150,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        170,
+        150
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 75165,
+      "name": "TVSC Robotics",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        155,
+        50,
+        175
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        155,
+        50
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 72684,
+      "name": "ThunderBots",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        140,
+        175,
+        100
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        140,
+        100
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 75020,
+      "name": "TechTitans#1",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        165,
+        160,
+        125
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        165,
+        160,
+        125
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 73127,
+      "name": "NextGen Diggers",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        75,
+        115,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Team chanting."
+      ],
+      "rounds_sorted": [
+        155,
+        115,
+        75
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 73862,
+      "name": "TIRO-SV-C02",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 145,
+      "highest_display": 145,
+      "rounds": [
+        95,
+        145,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        145,
+        135,
+        95
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 75064,
+      "name": "Dolphin1",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 110,
+      "highest_display": 110,
+      "rounds": [
+        110,
+        95,
+        110
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        110,
+        110,
+        95
+      ],
+      "ordinal": "18th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

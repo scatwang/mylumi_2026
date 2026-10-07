@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 71343,
+      "name": "GoldenBots",
+      "judging_lane_name": "RED POD 2",
+      "highest": 400,
+      "highest_display": 400,
+      "rounds": [
+        390,
+        340,
+        400
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "good job",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        400,
+        390,
+        340
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 67107,
+      "name": "Tech Titans",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 370,
+      "highest_display": 370,
+      "rounds": [
+        270,
+        265,
+        370
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        370,
+        270,
+        265
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 66292,
+      "name": "CookieBots",
+      "judging_lane_name": "RED POD 2",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        320,
+        340,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "good job",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        340,
+        320,
+        290
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 64898,
+      "name": "Circuit Breakers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 330,
+      "highest_display": 330,
+      "rounds": [
+        220,
+        330,
+        330
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        330,
+        330,
+        220
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 66163,
+      "name": "Dino Nuggets (Ketchup)",
+      "judging_lane_name": "RED POD 2",
+      "highest": 325,
+      "highest_display": 325,
+      "rounds": [
+        265,
+        325,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Good job",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        325,
+        290,
+        265
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 65501,
+      "name": "Artifact Masters",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 320,
+      "highest_display": 320,
+      "rounds": [
+        320,
+        260,
+        300
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        320,
+        300,
+        260
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 71909,
+      "name": "League of Lego Legends",
+      "judging_lane_name": "RED POD 2",
+      "highest": 285,
+      "highest_display": 285,
+      "rounds": [
+        285,
+        285,
+        255
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Good job",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        285,
+        285,
+        255
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 7052,
+      "name": "Dynamite Dinosaurs",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        145,
+        280,
+        255
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Cheered for other team, very encouraging under stress",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        255,
+        145
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 68231,
+      "name": "Everest",
+      "judging_lane_name": "RED POD 2",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        210,
+        250,
+        240
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        240,
+        210
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 60152,
+      "name": "The Game Changers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 245,
+      "highest_display": 245,
+      "rounds": [
+        170,
+        245,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Extremely positive, cheered a lot",
+        ""
+      ],
+      "rounds_sorted": [
+        245,
+        225,
+        170
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 10589,
+      "name": "Archybots",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        150,
+        200,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        200,
+        150
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 7453,
+      "name": "ChronoCrafters",
+      "judging_lane_name": "RED POD 2",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        210,
+        195,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        195,
+        165
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

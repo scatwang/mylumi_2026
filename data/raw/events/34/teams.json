@@ -1,0 +1,125 @@
+{
+  "count": 10,
+  "results": [
+    {
+      "id": 449,
+      "team": {
+        "id": 9,
+        "number": 20710,
+        "name": "Our Savior Lions",
+        "city": "Livermore",
+        "org_name": "Our Savior Lutheran School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 443,
+      "team": {
+        "id": 153,
+        "number": 56549,
+        "name": "SPAKE",
+        "city": "Saratoga",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 534,
+      "team": {
+        "id": 562,
+        "number": 57290,
+        "name": "Cyberspace Crusader",
+        "city": "Los Altos",
+        "org_name": "Applied computing foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 439,
+      "team": {
+        "id": 535,
+        "number": 60037,
+        "name": "BuilderBots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 498,
+      "team": {
+        "id": 399,
+        "number": 60381,
+        "name": "Robotic Raptors",
+        "city": "Santa Clara",
+        "org_name": "Don Callejon K-8 School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 441,
+      "team": {
+        "id": 417,
+        "number": 61353,
+        "name": "BookWorms",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 547,
+      "team": {
+        "id": 586,
+        "number": 61685,
+        "name": "Noddin Dynabots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 589,
+      "team": {
+        "id": 598,
+        "number": 62969,
+        "name": "Pineapple Dragons",
+        "city": "Marina",
+        "org_name": "Los Arboles Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 539,
+      "team": {
+        "id": 387,
+        "number": 63265,
+        "name": "Stratford Osgood Lionfish",
+        "city": "Fremont",
+        "org_name": "Stratford Fremont Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 451,
+      "team": {
+        "id": 568,
+        "number": 63820,
+        "name": "Robo Rangers",
+        "city": "Fremont",
+        "org_name": "Warm Springs Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

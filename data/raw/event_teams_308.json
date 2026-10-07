@@ -1,0 +1,139 @@
+{
+  "event_id": 308,
+  "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - NOV 15 The Play Space, San Jose",
+  "count": 11,
+  "teams": [
+    {
+      "id": 2280,
+      "team": {
+        "id": 2660,
+        "number": 2848,
+        "name": "2848",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2295,
+      "team": {
+        "id": 2668,
+        "number": 8560,
+        "name": "ProGRAHAMers1",
+        "city": "Mountain View",
+        "org_name": "Graham Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2279,
+      "team": {
+        "id": 2676,
+        "number": 25571,
+        "name": "25571",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2287,
+      "team": {
+        "id": 2703,
+        "number": 51196,
+        "name": "Robo Rangers ",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2293,
+      "team": {
+        "id": 2732,
+        "number": 60869,
+        "name": "Techno Troopers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2299,
+      "team": {
+        "id": 2734,
+        "number": 60958,
+        "name": "Beach Bananas",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2276,
+      "team": {
+        "id": 2772,
+        "number": 66817,
+        "name": "Reid-Hillview Airport Robotics",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2300,
+      "team": {
+        "id": 2835,
+        "number": 72231,
+        "name": "Thunderbird",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2278,
+      "team": {
+        "id": 2846,
+        "number": 72909,
+        "name": "Argo SIM",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2284,
+      "team": {
+        "id": 2609,
+        "number": 75516,
+        "name": "Eco Champions",
+        "city": "Santa Clara, CA",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2302,
+      "team": {
+        "id": 2886,
+        "number": 76468,
+        "name": "Rainforest Engineers",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

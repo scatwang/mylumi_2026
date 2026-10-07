@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 2102,
+      "team": {
+        "id": 2424,
+        "number": 59559,
+        "name": "Hillviewnauts",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2232,
+      "team": {
+        "id": 2391,
+        "number": 67678,
+        "name": "RoboSquad",
+        "city": "Fremont",
+        "org_name": "Harvey Green Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2120,
+      "team": {
+        "id": 2381,
+        "number": 68174,
+        "name": "Sundrop Robotics - Albany",
+        "city": "ALBANY",
+        "org_name": "Sundrop Tutoring And Robotics"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2206,
+      "team": {
+        "id": 1616,
+        "number": 71427,
+        "name": "Shark Masters",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2110,
+      "team": {
+        "id": 1904,
+        "number": 71748,
+        "name": "Golden Gears",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2208,
+      "team": {
+        "id": 1971,
+        "number": 72210,
+        "name": "Robotics Masters ",
+        "city": "San Jose",
+        "org_name": "Evergreen Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2056,
+      "team": {
+        "id": 1982,
+        "number": 72400,
+        "name": "ANA",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2124,
+      "team": {
+        "id": 2162,
+        "number": 72684,
+        "name": "ThunderBots",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2105,
+      "team": {
+        "id": 2168,
+        "number": 73127,
+        "name": "NextGen Diggers",
+        "city": "Fremont",
+        "org_name": "Warm Springs Elementary, Stratford School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2210,
+      "team": {
+        "id": 2410,
+        "number": 73862,
+        "name": "TIRO-SV-C02",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2224,
+      "team": {
+        "id": 2271,
+        "number": 74137,
+        "name": "Lego Champions",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2123,
+      "team": {
+        "id": 2394,
+        "number": 74190,
+        "name": "Vulcan",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2117,
+      "team": {
+        "id": 2373,
+        "number": 74293,
+        "name": "ctrl-alt-build",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2235,
+      "team": {
+        "id": 2421,
+        "number": 74976,
+        "name": "MSJE Robotics",
+        "city": "Fremont",
+        "org_name": "Mission San Jose Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2213,
+      "team": {
+        "id": 2429,
+        "number": 75020,
+        "name": "TechTitans#1",
+        "city": "Lathrop",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2108,
+      "team": {
+        "id": 2423,
+        "number": 75025,
+        "name": "Pleasanton Panthers",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2236,
+      "team": {
+        "id": 2437,
+        "number": 75064,
+        "name": "Dolphin1",
+        "city": "Livermore",
+        "org_name": "Livermore High, East Avenue Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2223,
+      "team": {
+        "id": 2463,
+        "number": 75165,
+        "name": "TVSC Robotics",
+        "city": "Livermore",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

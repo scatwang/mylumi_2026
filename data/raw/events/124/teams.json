@@ -1,0 +1,101 @@
+{
+  "count": 8,
+  "results": [
+    {
+      "id": 1297,
+      "team": {
+        "id": 1028,
+        "number": 26136,
+        "name": "Treasure Hunterz",
+        "city": "San Ramon",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1291,
+      "team": {
+        "id": 1315,
+        "number": 26185,
+        "name": "Building Blocks of Friendship",
+        "city": "Concord",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1298,
+      "team": {
+        "id": 1131,
+        "number": 26422,
+        "name": "Golden Ninjas",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1295,
+      "team": {
+        "id": 745,
+        "number": 31252,
+        "name": "Brick sharks",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1309,
+      "team": {
+        "id": 1240,
+        "number": 31466,
+        "name": "Westpark Code Commandos",
+        "city": "Roseville",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1294,
+      "team": {
+        "id": 1442,
+        "number": 31656,
+        "name": "Rocking Creators",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1293,
+      "team": {
+        "id": 1211,
+        "number": 31740,
+        "name": "Junior RoboRangers",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1292,
+      "team": {
+        "id": 1168,
+        "number": 32550,
+        "name": "Lego Blasters",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

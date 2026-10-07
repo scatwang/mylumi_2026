@@ -1,0 +1,101 @@
+{
+  "count": 8,
+  "results": [
+    {
+      "id": 1514,
+      "team": {
+        "id": 2180,
+        "number": 10586,
+        "name": "The Peanut Botters",
+        "city": "Hillsborough",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1726,
+      "team": {
+        "id": 2004,
+        "number": 61167,
+        "name": "Mighty 'Mine'ons",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1752,
+      "team": {
+        "id": 2190,
+        "number": 64757,
+        "name": "Brain Bot",
+        "city": "Union City ",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1712,
+      "team": {
+        "id": 2246,
+        "number": 71805,
+        "name": "Robo Crushers",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1582,
+      "team": {
+        "id": 2157,
+        "number": 72207,
+        "name": "St. Cecilia Robotics 8th Grade",
+        "city": "San Francisco",
+        "org_name": "St Cecilia School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1731,
+      "team": {
+        "id": 2160,
+        "number": 72610,
+        "name": "Lightning Raiders",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1693,
+      "team": {
+        "id": 2103,
+        "number": 72979,
+        "name": "St. Cecilia Robotics 2",
+        "city": "San Francisco",
+        "org_name": "St Cecilia School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1870,
+      "team": {
+        "id": 2290,
+        "number": 73342,
+        "name": "SiblingsRobotics01",
+        "city": "Mill Valley",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "count": 24,
+  "results": [
+    {
+      "id": 679,
+      "team": {
+        "id": 884,
+        "number": 2848,
+        "name": "H2LEGO",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 675,
+      "team": {
+        "id": 901,
+        "number": 17492,
+        "name": "Hydrospace",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 674,
+      "team": {
+        "id": 903,
+        "number": 17494,
+        "name": "Coral Crusaders",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 677,
+      "team": {
+        "id": 906,
+        "number": 25571,
+        "name": "The Innovative Inventors",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 726,
+      "team": {
+        "id": 908,
+        "number": 25573,
+        "name": "Otter This World",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 885,
+      "team": {
+        "id": 930,
+        "number": 56026,
+        "name": "RoboKids",
+        "city": "Folsom",
+        "org_name": "Gold Ridge Elementary School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 774,
+      "team": {
+        "id": 702,
+        "number": 56459,
+        "name": "Code Warriors",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 634,
+      "team": {
+        "id": 703,
+        "number": 56489,
+        "name": "Gear Girls",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 880,
+      "team": {
+        "id": 1041,
+        "number": 57600,
+        "name": "Delta Rovers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 860,
+      "team": {
+        "id": 946,
+        "number": 58666,
+        "name": "Techno Bricks",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 762,
+      "team": {
+        "id": 954,
+        "number": 60115,
+        "name": "Racing Robo",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 780,
+      "team": {
+        "id": 718,
+        "number": 60296,
+        "name": "Stormy Knights",
+        "city": "San Jose",
+        "org_name": "Graystone Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 878,
+      "team": {
+        "id": 964,
+        "number": 60497,
+        "name": "Apollo 6",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 759,
+      "team": {
+        "id": 1013,
+        "number": 62268,
+        "name": "Delta Cosmic coders",
+        "city": "SAN JOSE",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 690,
+      "team": {
+        "id": 1014,
+        "number": 62314,
+        "name": "Cyber Sharks",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 752,
+      "team": {
+        "id": 1019,
+        "number": 64638,
+        "name": "Brain Bots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 843,
+      "team": {
+        "id": 638,
+        "number": 64902,
+        "name": "TBT",
+        "city": "Alamo",
+        "org_name": "Tice Creek School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 968,
+      "team": {
+        "id": 1058,
+        "number": 65169,
+        "name": "Terrace TechTitans",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 729,
+      "team": {
+        "id": 662,
+        "number": 65840,
+        "name": "Graystone Ninjas",
+        "city": "San Jose",
+        "org_name": "Graystone Elementary"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 733,
+      "team": {
+        "id": 873,
+        "number": 67205,
+        "name": "Robots of Atlantis",
+        "city": "SARATOGA",
+        "org_name": "Foothill Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 849,
+      "team": {
+        "id": 1078,
+        "number": 67280,
+        "name": "Superstarz 3.0",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 735,
+      "team": {
+        "id": 876,
+        "number": 67447,
+        "name": "Cool Thunderbolts!",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 884,
+      "team": {
+        "id": 1273,
+        "number": 68440,
+        "name": "Oceanic Overlords (Argo Team 241)",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 957,
+      "team": {
+        "id": 1284,
+        "number": 68453,
+        "name": "Argo Team 245",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

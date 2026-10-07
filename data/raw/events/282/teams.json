@@ -1,0 +1,113 @@
+{
+  "count": 9,
+  "results": [
+    {
+      "id": 2255,
+      "team": {
+        "id": 1870,
+        "number": 29038,
+        "name": "Creative Crew",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2256,
+      "team": {
+        "id": 1882,
+        "number": 31468,
+        "name": "The Lego Cougars",
+        "city": "GOLD RIVER",
+        "org_name": "Theodore Judah Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2258,
+      "team": {
+        "id": 1909,
+        "number": 31835,
+        "name": "Lego bees ",
+        "city": "Fremont",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2261,
+      "team": {
+        "id": 2203,
+        "number": 33298,
+        "name": "Brick Masters",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2268,
+      "team": {
+        "id": 2035,
+        "number": 34586,
+        "name": "Ustar Tech Titans",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2262,
+      "team": {
+        "id": 2370,
+        "number": 35612,
+        "name": "LegoPups2025",
+        "city": "Los Altos",
+        "org_name": "Bullis Charter School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2260,
+      "team": {
+        "id": 2456,
+        "number": 35627,
+        "name": "Robotrix",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2259,
+      "team": {
+        "id": 2478,
+        "number": 36196,
+        "name": "Miners",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2257,
+      "team": {
+        "id": 2479,
+        "number": 36198,
+        "name": "Da Cheese",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

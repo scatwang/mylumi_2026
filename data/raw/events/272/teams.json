@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 2166,
+      "team": {
+        "id": 2396,
+        "number": 60788,
+        "name": "Sea Tractor",
+        "city": "Saratoga",
+        "org_name": "Saratoga Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2051,
+      "team": {
+        "id": 1768,
+        "number": 66522,
+        "name": "The Placeholders",
+        "city": "San Carlos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2073,
+      "team": {
+        "id": 2026,
+        "number": 68590,
+        "name": "Fremont Wizwards",
+        "city": "Fremont",
+        "org_name": "Warwick Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2078,
+      "team": {
+        "id": 2032,
+        "number": 70153,
+        "name": "rickroll",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2159,
+      "team": {
+        "id": 2471,
+        "number": 70468,
+        "name": "Future Finders",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2122,
+      "team": {
+        "id": 1593,
+        "number": 71033,
+        "name": "TechnoTigers",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2158,
+      "team": {
+        "id": 2251,
+        "number": 72024,
+        "name": "THE CREATORS",
+        "city": "Sunnyvale",
+        "org_name": "Cupertino Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2104,
+      "team": {
+        "id": 2076,
+        "number": 72654,
+        "name": "lightsaber",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2050,
+      "team": {
+        "id": 2101,
+        "number": 72801,
+        "name": "Super Kraken",
+        "city": "Alamo",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2119,
+      "team": {
+        "id": 2265,
+        "number": 74193,
+        "name": "Gear girls ",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2162,
+      "team": {
+        "id": 2375,
+        "number": 74706,
+        "name": "Porky Oinks",
+        "city": "Newark",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2164,
+      "team": {
+        "id": 2468,
+        "number": 75128,
+        "name": "Corrupted Robot",
+        "city": "Fremont",
+        "org_name": "Fremont First Robotics"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

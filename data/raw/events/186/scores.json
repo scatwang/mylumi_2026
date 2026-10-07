@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 66208,
+      "name": "Bob the Builders",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 335,
+      "highest_display": 335,
+      "rounds": [
+        305,
+        315,
+        335
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        335,
+        315,
+        305
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 8278,
+      "name": "Titanium Turtles",
+      "judging_lane_name": "RED POD 2",
+      "highest": 315,
+      "highest_display": 315,
+      "rounds": [
+        270,
+        315,
+        310
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        315,
+        310,
+        270
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 60497,
+      "name": "Apollo 6",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 315,
+      "highest_display": 315,
+      "rounds": [
+        275,
+        315,
+        300
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        315,
+        300,
+        275
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 65319,
+      "name": "DCADS Robo Cubs",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 300,
+      "highest_display": 300,
+      "rounds": [
+        250,
+        265,
+        300
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        300,
+        265,
+        250
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 73699,
+      "name": "Cambrian Titans",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 290,
+      "highest_display": 290,
+      "rounds": [
+        240,
+        200,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        290,
+        240,
+        200
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 73368,
+      "name": "Guardians of the Ground",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        260,
+        205,
+        245
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        245,
+        205
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 72968,
+      "name": "robojets",
+      "judging_lane_name": "RED POD 2",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        175,
+        250,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        250,
+        175
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 74164,
+      "name": "M-A Cubs 5",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        185,
+        160,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        185,
+        160
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 70221,
+      "name": "BroBots - SBR",
+      "judging_lane_name": "RED POD 2",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        165,
+        195,
+        220
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        195,
+        165
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 65885,
+      "name": "Ocean Plate Explorers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        205,
+        205,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        205,
+        190
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 74113,
+      "name": "Undecided Team 7-8",
+      "judging_lane_name": "RED POD 2",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        205,
+        140,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        180,
+        140
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 71480,
+      "name": "Westlake Robotics ",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 110,
+      "highest_display": 110,
+      "rounds": [
+        110,
+        100,
+        60
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        110,
+        100,
+        60
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

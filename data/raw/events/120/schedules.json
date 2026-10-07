@@ -1,0 +1,1039 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 61692,
+        "name": "Blue Bots",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-03-23 09:40:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-03-23 11:25:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-03-23 14:10:00-07:00",
+            "length": 35,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2025-03-23 15:40:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-03-23 13:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65193,
+        "name": "DECT",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-03-23 09:25:00-07:00",
+            "length": 15,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-03-23 12:00:00-07:00",
+            "length": 60,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-03-23 14:00:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-03-23 15:05:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-03-23 10:05:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65801,
+        "name": "Pink Potato Chips",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-03-23 10:15:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-03-23 11:00:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-03-23 13:35:00-07:00",
+            "length": 15,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-03-23 14:45:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-03-23 09:15:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66045,
+        "name": "BrickSlayers2.0",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-03-23 09:15:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-03-23 11:50:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-03-23 13:50:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2025-03-23 15:15:00-07:00",
+            "length": 15,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-03-23 10:05:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66668,
+        "name": "Springer Legonauts",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-03-23 09:50:00-07:00",
+            "length": 15,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-03-23 11:35:00-07:00",
+            "length": 15,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-03-23 14:10:00-07:00",
+            "length": 35,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2025-03-23 15:30:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-03-23 13:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66875,
+        "name": "Famous Lego Lords",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-03-23 10:15:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-03-23 11:10:00-07:00",
+            "length": 15,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-03-23 13:10:00-07:00",
+            "length": 15,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2025-03-23 15:40:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 7,
+            "start_time_display": "2025-03-23 14:40:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67430,
+        "name": "BayBots",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-03-23 10:05:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-03-23 11:35:00-07:00",
+            "length": 15,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-03-23 13:00:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2025-03-23 15:50:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 7,
+            "start_time_display": "2025-03-23 14:40:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67557,
+        "name": "Sun Valley Challenge",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-03-23 10:05:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2025-03-23 10:50:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-03-23 13:25:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-03-23 14:55:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-03-23 09:15:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67841,
+        "name": "The Striker Bots",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2025-03-23 10:25:00-07:00",
+            "length": 25,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-03-23 11:10:00-07:00",
+            "length": 15,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-03-23 13:00:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2025-03-23 15:30:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-03-23 13:50:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68164,
+        "name": "Springer Lego-logists",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-03-23 09:25:00-07:00",
+            "length": 15,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-03-23 11:00:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-03-23 13:25:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2025-03-23 15:15:00-07:00",
+            "length": 15,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-03-23 11:45:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68221,
+        "name": "20,000 Legos Under the Sea",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-03-23 09:50:00-07:00",
+            "length": 15,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-03-23 11:50:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-03-23 14:00:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-03-23 14:45:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-03-23 10:55:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68412,
+        "name": "QuantumBots",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-03-23 09:15:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2025-03-23 10:50:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-03-23 13:35:00-07:00",
+            "length": 15,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-03-23 15:05:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-03-23 11:45:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69947,
+        "name": "Megalobot",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2025-03-23 10:25:00-07:00",
+            "length": 25,
+            "table_name": "Table B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-03-23 11:25:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-03-23 13:10:00-07:00",
+            "length": 15,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2025-03-23 15:50:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-03-23 13:50:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70178,
+        "name": "Crystal Springs Uplands Middle School 1",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-03-23 09:40:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-03-23 12:00:00-07:00",
+            "length": 60,
+            "table_name": "Table B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-03-23 13:50:00-07:00",
+            "length": 10,
+            "table_name": "Table A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-03-23 14:55:00-07:00",
+            "length": 10,
+            "table_name": "Table B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-03-23 10:55:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-03-23 09:15:00-07:00",
+            "length": 30,
+            "rooms": [
+              "65801 - Pink Potato Chips",
+              "67557 - Sun Valley Challenge"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-03-23 10:05:00-07:00",
+            "length": 30,
+            "rooms": [
+              "65193 - DECT",
+              "66045 - BrickSlayers2.0"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-03-23 10:55:00-07:00",
+            "length": 30,
+            "rooms": [
+              "68221 - 20,000 Legos Under the Sea",
+              "70178 - Crystal Springs Uplands Middle School 1"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-03-23 11:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "68412 - QuantumBots",
+              "68164 - Springer Lego-logists"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2025-03-23 13:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "66668 - Springer Legonauts",
+              "61692 - Blue Bots"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2025-03-23 13:50:00-07:00",
+            "length": 30,
+            "rooms": [
+              "69947 - Megalobot",
+              "67841 - The Striker Bots"
+            ]
+          },
+          {
+            "number": 7,
+            "start_time": "2025-03-23 14:40:00-07:00",
+            "length": 30,
+            "rooms": [
+              "66875 - Famous Lego Lords",
+              "67430 - BayBots"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 825,
+        "name": "Table A"
+      },
+      {
+        "id": 826,
+        "name": "Table B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2025-03-23 09:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#68412 - QuantumBots",
+          "#66045 - BrickSlayers2.0"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2025-03-23 09:25:00-07:00",
+        "length": 15,
+        "tables": [
+          "#68164 - Springer Lego-logists",
+          "#65193 - DECT"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2025-03-23 09:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70178 - Crystal Springs Uplands Middle School 1",
+          "#61692 - Blue Bots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2025-03-23 09:50:00-07:00",
+        "length": 15,
+        "tables": [
+          "#68221 - 20,000 Legos Under the Sea",
+          "#66668 - Springer Legonauts"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2025-03-23 10:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67430 - BayBots",
+          "#67557 - Sun Valley Challenge"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2025-03-23 10:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66875 - Famous Lego Lords",
+          "#65801 - Pink Potato Chips"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2025-03-23 10:25:00-07:00",
+        "length": 25,
+        "tables": [
+          "#67841 - The Striker Bots",
+          "#69947 - Megalobot"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 8,
+        "start_time": "2025-03-23 10:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67557 - Sun Valley Challenge",
+          "#68412 - QuantumBots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2025-03-23 11:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#65801 - Pink Potato Chips",
+          "#68164 - Springer Lego-logists"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2025-03-23 11:10:00-07:00",
+        "length": 15,
+        "tables": [
+          "#67841 - The Striker Bots",
+          "#66875 - Famous Lego Lords"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2025-03-23 11:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69947 - Megalobot",
+          "#61692 - Blue Bots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2025-03-23 11:35:00-07:00",
+        "length": 15,
+        "tables": [
+          "#66668 - Springer Legonauts",
+          "#67430 - BayBots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2025-03-23 11:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66045 - BrickSlayers2.0",
+          "#68221 - 20,000 Legos Under the Sea"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2025-03-23 12:00:00-07:00",
+        "length": 60,
+        "tables": [
+          "#65193 - DECT",
+          "#70178 - Crystal Springs Uplands Middle School 1"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2025-03-23 13:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67430 - BayBots",
+          "#67841 - The Striker Bots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2025-03-23 13:10:00-07:00",
+        "length": 15,
+        "tables": [
+          "#66875 - Famous Lego Lords",
+          "#69947 - Megalobot"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2025-03-23 13:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#68164 - Springer Lego-logists",
+          "#67557 - Sun Valley Challenge"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2025-03-23 13:35:00-07:00",
+        "length": 15,
+        "tables": [
+          "#68412 - QuantumBots",
+          "#65801 - Pink Potato Chips"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2025-03-23 13:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70178 - Crystal Springs Uplands Middle School 1",
+          "#66045 - BrickSlayers2.0"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2025-03-23 14:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#68221 - 20,000 Legos Under the Sea",
+          "#65193 - DECT"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2025-03-23 14:10:00-07:00",
+        "length": 35,
+        "tables": [
+          "#61692 - Blue Bots",
+          "#66668 - Springer Legonauts"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2025-03-23 14:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#65801 - Pink Potato Chips",
+          "#68221 - 20,000 Legos Under the Sea"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2025-03-23 14:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67557 - Sun Valley Challenge",
+          "#70178 - Crystal Springs Uplands Middle School 1"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2025-03-23 15:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#65193 - DECT",
+          "#68412 - QuantumBots"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2025-03-23 15:15:00-07:00",
+        "length": 15,
+        "tables": [
+          "#66045 - BrickSlayers2.0",
+          "#68164 - Springer Lego-logists"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2025-03-23 15:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66668 - Springer Legonauts",
+          "#67841 - The Striker Bots"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2025-03-23 15:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61692 - Blue Bots",
+          "#66875 - Famous Lego Lords"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 28,
+        "start_time": "2025-03-23 15:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69947 - Megalobot",
+          "#67430 - BayBots"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-03-19 17:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    1282,
+    1287,
+    1224,
+    1225,
+    1258,
+    1357,
+    1263,
+    1236,
+    1237,
+    1397,
+    1272,
+    1274,
+    1403,
+    1277
+  ]
+}

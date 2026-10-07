@@ -1,0 +1,437 @@
+{
+  "count": 36,
+  "results": [
+    {
+      "id": 525,
+      "team": {
+        "id": 234,
+        "number": 2848,
+        "name": "S.H.R.E.K.",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 392,
+      "team": {
+        "id": 235,
+        "number": 4416,
+        "name": "Techno Cougars",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 514,
+      "team": {
+        "id": 237,
+        "number": 4979,
+        "name": "Mighty Ducks",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 603,
+      "team": {
+        "id": 239,
+        "number": 17493,
+        "name": "Krafty Kids",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 413,
+      "team": {
+        "id": 165,
+        "number": 18197,
+        "name": "SCEME Team",
+        "city": "San Bruno",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 475,
+      "team": {
+        "id": 241,
+        "number": 25572,
+        "name": "Ctrl+T",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 430,
+      "team": {
+        "id": 13,
+        "number": 30515,
+        "name": "Rockin Robos",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 450,
+      "team": {
+        "id": 183,
+        "number": 44532,
+        "name": "Razzle Dazzle Robotics",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 447,
+      "team": {
+        "id": 71,
+        "number": 46302,
+        "name": "The Trampolines",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 537,
+      "team": {
+        "id": 228,
+        "number": 51168,
+        "name": "The Warriors",
+        "city": "Rancho Cordova",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 612,
+      "team": {
+        "id": 413,
+        "number": 51196,
+        "name": "BunnyBots",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 488,
+      "team": {
+        "id": 245,
+        "number": 52070,
+        "name": "Smilodon",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 369,
+      "team": {
+        "id": 50,
+        "number": 52522,
+        "name": "Coding-Arsenals",
+        "city": "San Ramon",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 395,
+      "team": {
+        "id": 359,
+        "number": 52702,
+        "name": "ArgoRobotics Team #3 - Argo-Haves",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 523,
+      "team": {
+        "id": 325,
+        "number": 52943,
+        "name": "Digital Dolphins",
+        "city": "San Francisco",
+        "org_name": "SF Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 591,
+      "team": {
+        "id": 20,
+        "number": 53893,
+        "name": "Roaring Lions",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 402,
+      "team": {
+        "id": 35,
+        "number": 54977,
+        "name": "Menlo Park Narleaotters",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 482,
+      "team": {
+        "id": 367,
+        "number": 55513,
+        "name": "Marvelous Moochis",
+        "city": "Sunnyvale",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 382,
+      "team": {
+        "id": 6,
+        "number": 56339,
+        "name": "Electric Sources",
+        "city": "FREMONT",
+        "org_name": "William Hopkins Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 565,
+      "team": {
+        "id": 14,
+        "number": 57125,
+        "name": "Incredibuilders",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 378,
+      "team": {
+        "id": 173,
+        "number": 57600,
+        "name": "Delta Rovers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 374,
+      "team": {
+        "id": 77,
+        "number": 57977,
+        "name": "Rockhead Robotics",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 617,
+      "team": {
+        "id": 276,
+        "number": 58665,
+        "name": "Wildcats Allstars",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 526,
+      "team": {
+        "id": 214,
+        "number": 60100,
+        "name": "Cobras",
+        "city": "LOS GATOS",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 563,
+      "team": {
+        "id": 292,
+        "number": 60152,
+        "name": "Masterpiecers",
+        "city": "Union city",
+        "org_name": "Code Ninjas"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 371,
+      "team": {
+        "id": 33,
+        "number": 60215,
+        "name": "Robotmakers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 467,
+      "team": {
+        "id": 97,
+        "number": 60320,
+        "name": "Hepha",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 516,
+      "team": {
+        "id": 298,
+        "number": 60362,
+        "name": "Master  Droids",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 368,
+      "team": {
+        "id": 46,
+        "number": 60502,
+        "name": "Codebreakerz",
+        "city": "San Ramon",
+        "org_name": "Newagecoders"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 518,
+      "team": {
+        "id": 74,
+        "number": 60623,
+        "name": "Double Trouble Masterminds",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 393,
+      "team": {
+        "id": 91,
+        "number": 60762,
+        "name": "Legotronics",
+        "city": "Dublin",
+        "org_name": "Tri Valley Robotics"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 542,
+      "team": {
+        "id": 294,
+        "number": 61093,
+        "name": "LEGO Nerds",
+        "city": "Fremont",
+        "org_name": "Code Ninjas Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 479,
+      "team": {
+        "id": 135,
+        "number": 61119,
+        "name": "Futuristic Felines",
+        "city": "Sunnyvale",
+        "org_name": "Sunnyvale Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 524,
+      "team": {
+        "id": 390,
+        "number": 61138,
+        "name": "Golden Musicians",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 420,
+      "team": {
+        "id": 343,
+        "number": 61205,
+        "name": "Woodland Robotics",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 377,
+      "team": {
+        "id": 289,
+        "number": 61856,
+        "name": "Digital Dawgs",
+        "city": "Los Altos Hills",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

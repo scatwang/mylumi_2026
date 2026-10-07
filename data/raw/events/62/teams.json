@@ -1,0 +1,293 @@
+{
+  "count": 24,
+  "results": [
+    {
+      "id": 709,
+      "team": {
+        "id": 663,
+        "number": 417,
+        "name": "Notre Dame Fighting iBots",
+        "city": "Vacaville",
+        "org_name": "Notre Dame School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 945,
+      "team": {
+        "id": 664,
+        "number": 445,
+        "name": "Matsuyama RoboPines",
+        "city": "Sacramento",
+        "org_name": "Matsuyama Elementary School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 783,
+      "team": {
+        "id": 886,
+        "number": 4506,
+        "name": "Techno Cavs",
+        "city": "Sacramento",
+        "org_name": "Sacramento Country Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 758,
+      "team": {
+        "id": 927,
+        "number": 53150,
+        "name": "DigiTech",
+        "city": "El Dorado Hills",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 756,
+      "team": {
+        "id": 932,
+        "number": 56453,
+        "name": "Donut Powered",
+        "city": "Fremont",
+        "org_name": "Donutpowered"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 788,
+      "team": {
+        "id": 934,
+        "number": 56511,
+        "name": "Super Charged",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 845,
+      "team": {
+        "id": 944,
+        "number": 58380,
+        "name": "Lego Masters1",
+        "city": "Folsom",
+        "org_name": ""
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 651,
+      "team": {
+        "id": 1114,
+        "number": 59922,
+        "name": "Baxter's Builders",
+        "city": "Sacramento",
+        "org_name": "Sacramento Country Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 769,
+      "team": {
+        "id": 950,
+        "number": 59943,
+        "name": "Aqua Avengers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 832,
+      "team": {
+        "id": 965,
+        "number": 60507,
+        "name": "Team Prime",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 841,
+      "team": {
+        "id": 970,
+        "number": 60718,
+        "name": "Rockin Robos",
+        "city": "Rocklin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 717,
+      "team": {
+        "id": 972,
+        "number": 60756,
+        "name": "Folsom Thunderbots",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 768,
+      "team": {
+        "id": 979,
+        "number": 60923,
+        "name": "Artesan",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 802,
+      "team": {
+        "id": 729,
+        "number": 60996,
+        "name": "VortexMasterminds",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 830,
+      "team": {
+        "id": 642,
+        "number": 64889,
+        "name": "Sea Monsters Squad",
+        "city": "EL DORADO HILLS",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 815,
+      "team": {
+        "id": 648,
+        "number": 65287,
+        "name": "RoboWizards7",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 770,
+      "team": {
+        "id": 838,
+        "number": 65902,
+        "name": "Coding Mavs",
+        "city": "ROCKLIN",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 754,
+      "team": {
+        "id": 1264,
+        "number": 65980,
+        "name": "Bugatti Bulldogs #65980",
+        "city": "El Dorado Hills",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 834,
+      "team": {
+        "id": 1138,
+        "number": 66034,
+        "name": "Westpark Mech Warriors",
+        "city": "Roseville",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 667,
+      "team": {
+        "id": 1222,
+        "number": 67074,
+        "name": "Rad_Robos",
+        "city": "Roseville",
+        "org_name": "Rocklin Academy Gateway"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 818,
+      "team": {
+        "id": 877,
+        "number": 67461,
+        "name": "Ocean Explorers",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 953,
+      "team": {
+        "id": 1137,
+        "number": 67585,
+        "name": "Bob the builder",
+        "city": "Sacramento",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 846,
+      "team": {
+        "id": 1229,
+        "number": 68040,
+        "name": "MH Aqua Blue 9",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 839,
+      "team": {
+        "id": 1179,
+        "number": 68202,
+        "name": "Soaring Seastars",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    }
+  ]
+}

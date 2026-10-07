@@ -1,0 +1,220 @@
+{
+  "id": 6,
+  "name": "2023 San Francisco Day School",
+  "season": "2023 - MASTERPIECE (Challenge)",
+  "program": "FIRST LEGO League: Challenge",
+  "program_abbreviation": "fll_challenge",
+  "description": "",
+  "capacity": 12,
+  "total_registered": 12,
+  "level": {
+    "id": 7,
+    "name": "NorCal FLL-C : SF / East Bay / Capital Qualifiers",
+    "next_level": {
+      "id": 4,
+      "name": "NorCal FLL-C : SF / East Bay / Capital District Championship",
+      "next_level": null,
+      "previous_levels": [
+        {
+          "id": 7,
+          "name": "NorCal FLL-C : SF / East Bay / Capital Qualifiers"
+        }
+      ],
+      "registration_opens": "2023-12-31T08:00:00-08:00",
+      "preference_registration_enable": false,
+      "preference_registration_opens": null,
+      "preference_registration_closes": null,
+      "standard_model": true,
+      "season": 1
+    },
+    "previous_levels": [],
+    "registration_opens": "2023-10-01T08:00:00-07:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 1
+  },
+  "event_status": "closed",
+  "event_status_display": "Closed",
+  "status_v2": "complete",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 12,
+  "total_reserved": 0,
+  "start_time": "2023-11-11T08:00:00-08:00",
+  "end_time": "2023-11-11T18:00:00-08:00",
+  "all_details": [
+    {
+      "id": null,
+      "detail_type": "rg_tables",
+      "get_detail_type_display": "Robot Game",
+      "title": "Robot Game Tables",
+      "description": "This event will have <strong>1</strong> pair of Robot Game tables."
+    },
+    {
+      "id": null,
+      "detail_type": "judging_lanes",
+      "get_detail_type_display": "Judging",
+      "title": "Judging Pods",
+      "description": "This event will have <strong>2</strong> Judging Pods "
+    },
+    {
+      "id": null,
+      "detail_type": "advancement",
+      "get_detail_type_display": "Advancement Info",
+      "title": "Advancement",
+      "description": "This event advanced <strong>4</strong> teams to the Championship."
+    }
+  ],
+  "downloads": [],
+  "web_links": [],
+  "agenda_group": 3,
+  "agenda_items": [],
+  "public_agenda_items": [
+    {
+      "id": 120,
+      "title": "Team Check-in & Teams setup Pit table",
+      "description": "",
+      "start_time": "08:00:00",
+      "end_time": "08:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 121,
+      "title": "Coaches Meeting",
+      "description": "One Team Coach from each team will meet with the Tournament Director, Judge Advisor and Head Referee.  The Judge Advisor will cover any Judging questions.The Head Referee will answer Robot Game questions.  The Tournament Director go through any site specific announcement or reminders.",
+      "start_time": "08:15:00",
+      "end_time": "08:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 122,
+      "title": "Opening Ceremony",
+      "description": "Please do your best to make room in the seating area.",
+      "start_time": "08:35:00",
+      "end_time": "08:55:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 125,
+      "title": "Robot Game Matches",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "16:10:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 123,
+      "title": "Pits Open to Public",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "16:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 124,
+      "title": "Lunch Break",
+      "description": "",
+      "start_time": "12:00:00",
+      "end_time": "12:50:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 126,
+      "title": "Pit Cleanup / Tear Down",
+      "description": "Teams should pick up belongings and clean up their pit area.",
+      "start_time": "16:10:00",
+      "end_time": "16:40:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 127,
+      "title": "Host Fun Activity",
+      "description": "",
+      "start_time": "16:40:00",
+      "end_time": "17:25:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 128,
+      "title": "Closing Ceremonies",
+      "description": "Please do your best to make room in the seating area.",
+      "start_time": "17:30:00",
+      "end_time": "18:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    }
+  ],
+  "venue": {
+    "name": "San Francisco Day School",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip_code": "94118",
+    "website": "https://www.sfday.org/"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/6/",
+  "website_uri": "/en/event/6/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/6/#volunteer",
+  "team_stats": {
+    "teams": 12,
+    "students": 40,
+    "cities": [
+      "hillsborough",
+      "piedmont",
+      "oakland",
+      "fremont",
+      "san jose",
+      "san francisco"
+    ],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 1,
+    "info": {
+      "name": "MASTERPIECE (Challenge)",
+      "year": 2023,
+      "release": "2023-08-01T09:00:00-07:00",
+      "program": {
+        "id": 1,
+        "abbreviation": "fll_challenge",
+        "previous_program": 2,
+        "get_abbreviation_display": "FIRST LEGO League: Challenge",
+        "get_logo_path": "images/program_logos/fll_challenge_logo.png",
+        "enable_team_profile": true
+      },
+      "season_begins": "2023-05-01",
+      "get_logo_path": "images/season_logos/2023_fll_challenge.png"
+    },
+    "tableau_import_start": null,
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/232376968448978?fllteam=%team_number%",
+    "has_team_profile": false
+  },
+  "role_template": {
+    "id": 2,
+    "name": "2023 FLL-C 12 Team Qualifier"
+  },
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": true,
+  "is_complete": true
+}

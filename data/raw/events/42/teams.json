@@ -1,0 +1,113 @@
+{
+  "count": 9,
+  "results": [
+    {
+      "id": 620,
+      "team": {
+        "id": 17,
+        "number": 52561,
+        "name": "Brilliant Beavers",
+        "city": "San Carlos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 622,
+      "team": {
+        "id": 62,
+        "number": 58828,
+        "name": "ShortCircuit",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 601,
+      "team": {
+        "id": 550,
+        "number": 59559,
+        "name": "The Masterminds",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 602,
+      "team": {
+        "id": 401,
+        "number": 60383,
+        "name": "DCS Astro Cubs",
+        "city": "Santa Clara",
+        "org_name": "Don Callejon K-8 School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 621,
+      "team": {
+        "id": 118,
+        "number": 60787,
+        "name": "Shelby",
+        "city": "Saratoga",
+        "org_name": "Saratoga Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 615,
+      "team": {
+        "id": 355,
+        "number": 62720,
+        "name": "The Golden Group",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 604,
+      "team": {
+        "id": 634,
+        "number": 63993,
+        "name": "HSS Robotics 63993",
+        "city": "san jose",
+        "org_name": "Holy Spirit School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 619,
+      "team": {
+        "id": 587,
+        "number": 64724,
+        "name": "Happy Banana",
+        "city": "Los Altos",
+        "org_name": "Applied Computing Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 618,
+      "team": {
+        "id": 625,
+        "number": 64757,
+        "name": "Greater Than One",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 1690,
+      "team": {
+        "id": 2117,
+        "number": 25571,
+        "name": "2847",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1672,
+      "team": {
+        "id": 1658,
+        "number": 38159,
+        "name": "Otterly Awesome",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1626,
+      "team": {
+        "id": 1671,
+        "number": 52363,
+        "name": "TerraBytes",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1627,
+      "team": {
+        "id": 1688,
+        "number": 58828,
+        "name": "ShortCircuit",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1614,
+      "team": {
+        "id": 1704,
+        "number": 60868,
+        "name": "iBots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1616,
+      "team": {
+        "id": 2005,
+        "number": 61611,
+        "name": "Electro-Phoenix",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1551,
+      "team": {
+        "id": 1723,
+        "number": 64672,
+        "name": "MechaBotz",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1658,
+      "team": {
+        "id": 1732,
+        "number": 65258,
+        "name": "CrypticButterflies",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1572,
+      "team": {
+        "id": 1734,
+        "number": 65278,
+        "name": "Hydrobots",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1657,
+      "team": {
+        "id": 1749,
+        "number": 65783,
+        "name": "AI 4 Future",
+        "city": "Los Altos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1631,
+      "team": {
+        "id": 1767,
+        "number": 66511,
+        "name": "Tech Titans",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1606,
+      "team": {
+        "id": 1782,
+        "number": 67213,
+        "name": "Quail Run Warriors",
+        "city": "San Ramon",
+        "org_name": "Quail Run Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1647,
+      "team": {
+        "id": 1788,
+        "number": 67473,
+        "name": "Relic Raiders",
+        "city": "San Jose",
+        "org_name": "Bret Harte Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1645,
+      "team": {
+        "id": 2023,
+        "number": 67745,
+        "name": "Dig 4 Future",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1636,
+      "team": {
+        "id": 1892,
+        "number": 71799,
+        "name": "Codemanders",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1635,
+      "team": {
+        "id": 2100,
+        "number": 72627,
+        "name": "Brick Explorers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1662,
+      "team": {
+        "id": 2105,
+        "number": 73005,
+        "name": "Cougar Bots 2025",
+        "city": "San Jose",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1609,
+      "team": {
+        "id": 2193,
+        "number": 73520,
+        "name": "Data Miners",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

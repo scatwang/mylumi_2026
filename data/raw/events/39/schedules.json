@@ -1,0 +1,239 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 26179,
+        "name": "Power Ninja Builders",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-04-13 13:30:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 26743,
+        "name": "Pro Bowlers",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-04-13 13:30:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 26768,
+        "name": "AI Masters",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-04-13 13:30:00-07:00",
+            "room_name": "Green",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 27452,
+        "name": "Red Raptors",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-04-13 14:00:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 27662,
+        "name": "Science Bomb",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-04-13 14:00:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28410,
+        "name": "Creators",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-04-13 14:00:00-07:00",
+            "room_name": "Green",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29012,
+        "name": "AKASAS",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-04-13 14:30:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29098,
+        "name": "Boltz",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-04-13 14:30:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29121,
+        "name": "The Mighty Builders@TJ",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-04-13 14:30:00-07:00",
+            "room_name": "Green",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29122,
+        "name": "LEGO Mech Masters",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-04-13 15:00:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29287,
+        "name": "Lego Titans",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-04-13 15:00:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 30055,
+        "name": "Lego Llamas",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-04-13 15:00:00-07:00",
+            "room_name": "Green",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          },
+          {
+            "name": "Green"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-04-13 13:30:00-07:00",
+            "length": 10,
+            "rooms": [
+              "26179",
+              "26743",
+              "26768"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-04-13 14:00:00-07:00",
+            "length": 10,
+            "rooms": [
+              "27452",
+              "27662",
+              "28410"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-04-13 14:30:00-07:00",
+            "length": 10,
+            "rooms": [
+              "29012",
+              "29098",
+              "29121"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-04-13 15:00:00-07:00",
+            "length": 10,
+            "rooms": [
+              "29122",
+              "29287",
+              "30055"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-04-10 19:40:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

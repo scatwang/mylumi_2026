@@ -1,0 +1,180 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 21406,
+        "name": "Future Builders",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-03-22 15:45:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28049,
+        "name": "Reef Revivers",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-03-22 16:00:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 32010,
+        "name": "Champs",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-03-22 15:45:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 32061,
+        "name": "Lego Warriors",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-03-22 16:00:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 32199,
+        "name": "Dancing Dolphins",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-03-22 16:15:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 32387,
+        "name": "Falcon-Submerged",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-03-22 16:30:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 32496,
+        "name": "Folsom@Autobots",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-03-22 16:15:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 32742,
+        "name": "Block Builders",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-03-22 16:30:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-03-22 15:45:00-07:00",
+            "length": 10,
+            "rooms": [
+              "21406 - Future Builders",
+              "32010 - Champs"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-03-22 16:00:00-07:00",
+            "length": 10,
+            "rooms": [
+              "28049 - Reef Revivers",
+              "32061 - Lego Warriors"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-03-22 16:15:00-07:00",
+            "length": 10,
+            "rooms": [
+              "32199 - Dancing Dolphins",
+              "32496 - Folsom@Autobots"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-03-22 16:30:00-07:00",
+            "length": 10,
+            "rooms": [
+              "32387 - Falcon-Submerged",
+              "32742 - Block Builders"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-03-21 17:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

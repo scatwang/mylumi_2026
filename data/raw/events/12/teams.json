@@ -1,0 +1,293 @@
+{
+  "count": 24,
+  "results": [
+    {
+      "id": 189,
+      "team": {
+        "id": 119,
+        "number": 2713,
+        "name": "Pantherbots",
+        "city": "Mountain View",
+        "org_name": "Crittenden Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 182,
+      "team": {
+        "id": 235,
+        "number": 4416,
+        "name": "Techno Cougars",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 149,
+      "team": {
+        "id": 240,
+        "number": 17494,
+        "name": "From Another Planet",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 122,
+      "team": {
+        "id": 165,
+        "number": 18197,
+        "name": "SCEME Team",
+        "city": "San Bruno",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 198,
+      "team": {
+        "id": 13,
+        "number": 30515,
+        "name": "Rockin Robos",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 153,
+      "team": {
+        "id": 107,
+        "number": 32759,
+        "name": "Kenneth Glassey",
+        "city": "Santa Clara",
+        "org_name": "Monticello Academy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 158,
+      "team": {
+        "id": 93,
+        "number": 37483,
+        "name": "Freckles GPT",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 135,
+      "team": {
+        "id": 202,
+        "number": 50422,
+        "name": "DragonBots",
+        "city": "Palo Alto",
+        "org_name": "Frank S Greene Jr Middle Sch"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 205,
+      "team": {
+        "id": 61,
+        "number": 52286,
+        "name": "Tornado",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 181,
+      "team": {
+        "id": 260,
+        "number": 55976,
+        "name": "Megamind Mechanics",
+        "city": "Los Altos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 166,
+      "team": {
+        "id": 24,
+        "number": 56793,
+        "name": "BCS Blue Team",
+        "city": "Los Altos",
+        "org_name": "Bullis Charter School N"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 215,
+      "team": {
+        "id": 230,
+        "number": 57285,
+        "name": "Mighty Minds",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 101,
+      "team": {
+        "id": 339,
+        "number": 57382,
+        "name": "RoboRise",
+        "city": "Foster City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 200,
+      "team": {
+        "id": 76,
+        "number": 57570,
+        "name": "FremontSupernovas",
+        "city": "Fremont",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 187,
+      "team": {
+        "id": 173,
+        "number": 57600,
+        "name": "Delta Rovers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 136,
+      "team": {
+        "id": 77,
+        "number": 57977,
+        "name": "Rockhead Robotics",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 218,
+      "team": {
+        "id": 208,
+        "number": 59725,
+        "name": "Pokemon",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 140,
+      "team": {
+        "id": 97,
+        "number": 60320,
+        "name": "Hepha",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 183,
+      "team": {
+        "id": 53,
+        "number": 60418,
+        "name": "Hedgedroid",
+        "city": "Palo Alto",
+        "org_name": "Hoover Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 186,
+      "team": {
+        "id": 99,
+        "number": 60537,
+        "name": "Mecha Masters",
+        "city": "FREMONT",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 171,
+      "team": {
+        "id": 135,
+        "number": 61119,
+        "name": "Futuristic Felines",
+        "city": "Sunnyvale",
+        "org_name": "Sunnyvale Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 216,
+      "team": {
+        "id": 143,
+        "number": 61153,
+        "name": "Apollo 13 Wolves",
+        "city": "San Francisco",
+        "org_name": "Claire Lilienthal Sch-Scott"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 58,
+      "team": {
+        "id": 96,
+        "number": 61185,
+        "name": "Piece Masters",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 157,
+      "team": {
+        "id": 59,
+        "number": 61610,
+        "name": "Van Gopher",
+        "city": "Albany",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    }
+  ]
+}

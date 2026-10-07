@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 800,
+      "team": {
+        "id": 1105,
+        "number": 7460,
+        "name": "Tiger Robotics 4",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 785,
+      "team": {
+        "id": 668,
+        "number": 29151,
+        "name": "Tiger Robotics 3",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 801,
+      "team": {
+        "id": 673,
+        "number": 37482,
+        "name": "Team Brick 3.0 - 37482",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 697,
+      "team": {
+        "id": 681,
+        "number": 40997,
+        "name": "Denman Robotics",
+        "city": "San Francisco",
+        "org_name": "James Denman Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 822,
+      "team": {
+        "id": 917,
+        "number": 52090,
+        "name": "Canary1",
+        "city": "San Francisco",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 840,
+      "team": {
+        "id": 923,
+        "number": 52943,
+        "name": "Digital Dolphins GREEN TEAM",
+        "city": "San Francisco",
+        "org_name": "San Francisco Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 632,
+      "team": {
+        "id": 924,
+        "number": 52944,
+        "name": "Digital Dolphins BLUE TEAM",
+        "city": "San Francisco",
+        "org_name": "San Francisco Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 811,
+      "team": {
+        "id": 696,
+        "number": 53591,
+        "name": "Tiger Robotics 2",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 748,
+      "team": {
+        "id": 697,
+        "number": 53592,
+        "name": "Tiger Robotics 1",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 629,
+      "team": {
+        "id": 1109,
+        "number": 57759,
+        "name": "Digital Dolphins GREY TEAM",
+        "city": "San Francisco",
+        "org_name": "San Francisco Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 682,
+      "team": {
+        "id": 988,
+        "number": 61168,
+        "name": "DivingDolphins",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 649,
+      "team": {
+        "id": 734,
+        "number": 61610,
+        "name": "Argoclucks",
+        "city": "ALBANY",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 738,
+      "team": {
+        "id": 659,
+        "number": 65690,
+        "name": "Shady Sashimi 65690",
+        "city": "Alameda",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 797,
+      "team": {
+        "id": 1185,
+        "number": 66219,
+        "name": "CougarBots",
+        "city": "San Francisco",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 665,
+      "team": {
+        "id": 1077,
+        "number": 67216,
+        "name": "Submersiwolves",
+        "city": "San Francisco",
+        "org_name": "Lilienthal (Claire) Elementary"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 661,
+      "team": {
+        "id": 1206,
+        "number": 68218,
+        "name": "Tiger Robotics 5",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 835,
+      "team": {
+        "id": 1165,
+        "number": 68910,
+        "name": "Digital Dolphins - White Team",
+        "city": "San Francisco",
+        "org_name": "San Francisco Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 784,
+      "team": {
+        "id": 1196,
+        "number": 69000,
+        "name": "King Bob Robotics",
+        "city": "Alameda",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

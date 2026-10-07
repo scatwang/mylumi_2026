@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 353,
+      "team": {
+        "id": 521,
+        "number": 23545,
+        "name": "Thunderbolts",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 351,
+      "team": {
+        "id": 502,
+        "number": 26216,
+        "name": "Sonic Bots",
+        "city": "Rocklin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 359,
+      "team": {
+        "id": 554,
+        "number": 28738,
+        "name": "Throwouts",
+        "city": "Los Altos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 349,
+      "team": {
+        "id": 455,
+        "number": 28872,
+        "name": "Astro Bot",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 358,
+      "team": {
+        "id": 553,
+        "number": 28935,
+        "name": "Legosaurus Rex",
+        "city": "Millbrae",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 344,
+      "team": {
+        "id": 517,
+        "number": 28976,
+        "name": "Explorers",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 357,
+      "team": {
+        "id": 520,
+        "number": 29192,
+        "name": "LEGO {Coder} Dudes",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 355,
+      "team": {
+        "id": 541,
+        "number": 29201,
+        "name": "SparkSteam I",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 347,
+      "team": {
+        "id": 532,
+        "number": 29601,
+        "name": "Fairmeadow Explorers",
+        "city": "Palo Alto",
+        "org_name": "Fairmeadow Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 348,
+      "team": {
+        "id": 533,
+        "number": 29602,
+        "name": "Fairmeadow Builders",
+        "city": "Palo Alto",
+        "org_name": "Fairmeadow Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 356,
+      "team": {
+        "id": 542,
+        "number": 29660,
+        "name": "SparkSteam II",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 362,
+      "team": {
+        "id": 465,
+        "number": 29674,
+        "name": "RI Robo Rockets",
+        "city": "Lathrop",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "count": 42,
+  "results": [
+    {
+      "id": 1204,
+      "team": {
+        "id": 888,
+        "number": 4979,
+        "name": "Aquabots",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1073,
+      "team": {
+        "id": 891,
+        "number": 8278,
+        "name": "Titanium Turtles",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1157,
+      "team": {
+        "id": 667,
+        "number": 20915,
+        "name": "TroBots",
+        "city": "Burlingame",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1092,
+      "team": {
+        "id": 689,
+        "number": 48793,
+        "name": "Team Mountain House",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1169,
+      "team": {
+        "id": 926,
+        "number": 53140,
+        "name": "Fin Finders",
+        "city": "San Jose",
+        "org_name": "Bret Harte Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1096,
+      "team": {
+        "id": 697,
+        "number": 53592,
+        "name": "Tiger Robotics 1",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1202,
+      "team": {
+        "id": 929,
+        "number": 55976,
+        "name": "Megamind Mechanics",
+        "city": "Los Altos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1184,
+      "team": {
+        "id": 931,
+        "number": 56339,
+        "name": "Electric Sources",
+        "city": "Fremont",
+        "org_name": "William Hopkins Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1120,
+      "team": {
+        "id": 702,
+        "number": 56459,
+        "name": "Code Warriors",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1216,
+      "team": {
+        "id": 703,
+        "number": 56489,
+        "name": "Gear Girls",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1203,
+      "team": {
+        "id": 936,
+        "number": 56940,
+        "name": "RoboMasters",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1160,
+      "team": {
+        "id": 938,
+        "number": 57125,
+        "name": "Incredibuilders",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1176,
+      "team": {
+        "id": 1041,
+        "number": 57600,
+        "name": "Delta Rovers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1121,
+      "team": {
+        "id": 944,
+        "number": 58380,
+        "name": "Lego Masters1",
+        "city": "Folsom",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1124,
+      "team": {
+        "id": 946,
+        "number": 58666,
+        "name": "Techno Bricks",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1114,
+      "team": {
+        "id": 712,
+        "number": 60069,
+        "name": "NINDROIDS",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1126,
+      "team": {
+        "id": 721,
+        "number": 60338,
+        "name": "Astrocubs",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1123,
+      "team": {
+        "id": 967,
+        "number": 60642,
+        "name": "Code CrasherZ",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1116,
+      "team": {
+        "id": 975,
+        "number": 60787,
+        "name": "Shelby",
+        "city": "Saratoga",
+        "org_name": "Saratoga Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1194,
+      "team": {
+        "id": 977,
+        "number": 60868,
+        "name": "iBots",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1162,
+      "team": {
+        "id": 981,
+        "number": 60956,
+        "name": "The Stanlicorns",
+        "city": "san jose",
+        "org_name": "St martin of Tours"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1200,
+      "team": {
+        "id": 727,
+        "number": 60958,
+        "name": "FLL-C 60958 -- The Great White Sharks",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1158,
+      "team": {
+        "id": 1265,
+        "number": 60981,
+        "name": "WinsLab",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1186,
+      "team": {
+        "id": 996,
+        "number": 61611,
+        "name": "Electro-Phoenix",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1170,
+      "team": {
+        "id": 1009,
+        "number": 61990,
+        "name": "MIGHTY MINDS",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1191,
+      "team": {
+        "id": 1010,
+        "number": 62005,
+        "name": "Lego Legends",
+        "city": "Fremont",
+        "org_name": "Parent Volunteers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1100,
+      "team": {
+        "id": 1013,
+        "number": 62268,
+        "name": "Delta Cosmic coders",
+        "city": "SAN JOSE",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1193,
+      "team": {
+        "id": 1014,
+        "number": 62314,
+        "name": "Cyber Sharks",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1115,
+      "team": {
+        "id": 1015,
+        "number": 62984,
+        "name": "Eagle Bots 2024",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1101,
+      "team": {
+        "id": 1019,
+        "number": 64638,
+        "name": "Brain Bots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1190,
+      "team": {
+        "id": 639,
+        "number": 65018,
+        "name": "Brickbots",
+        "city": "Fremont",
+        "org_name": "John M Horner Jr High School, William Hopkins Jr High School, Thomas Russell Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1188,
+      "team": {
+        "id": 650,
+        "number": 65569,
+        "name": "Tassajara Bots",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1197,
+      "team": {
+        "id": 659,
+        "number": 65690,
+        "name": "Shady Sashimi 65690",
+        "city": "Alameda",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1136,
+      "team": {
+        "id": 662,
+        "number": 65840,
+        "name": "Graystone Ninjas",
+        "city": "San Jose",
+        "org_name": "Graystone Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1217,
+      "team": {
+        "id": 1037,
+        "number": 65978,
+        "name": "Notre Dame Robotics - Blue Team",
+        "city": "Belmont",
+        "org_name": "Notre Dame Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1122,
+      "team": {
+        "id": 1140,
+        "number": 66110,
+        "name": "Bot-of-Water",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1127,
+      "team": {
+        "id": 1224,
+        "number": 66285,
+        "name": "Alpha Zeta",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1206,
+      "team": {
+        "id": 859,
+        "number": 66894,
+        "name": "Oceanic Explorers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1138,
+      "team": {
+        "id": 1250,
+        "number": 67058,
+        "name": "Coral Keepers",
+        "city": "San Jose",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1201,
+      "team": {
+        "id": 871,
+        "number": 67150,
+        "name": "Coding Ninjas",
+        "city": "Palo Alto",
+        "org_name": "ULEAP"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1198,
+      "team": {
+        "id": 1181,
+        "number": 67232,
+        "name": "Terminators",
+        "city": "Burlingame",
+        "org_name": "Burlingame Intermediate"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1172,
+      "team": {
+        "id": 1128,
+        "number": 67473,
+        "name": "Krazy Krillionaires",
+        "city": "San Jose",
+        "org_name": "Williams Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": "",
+      "number": 52561,
+      "name": "Brilliant Beavers",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        "",
+        "",
+        ""
+      ],
+      "has_scores": false,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": ""
+    },
+    {
+      "ranking": "",
+      "number": 58828,
+      "name": "ShortCircuit",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        "",
+        "",
+        ""
+      ],
+      "has_scores": false,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": ""
+    },
+    {
+      "ranking": "",
+      "number": 59559,
+      "name": "The Masterminds",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        "",
+        "",
+        ""
+      ],
+      "has_scores": false,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": ""
+    },
+    {
+      "ranking": "",
+      "number": 60383,
+      "name": "DCS Astro Cubs",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        "",
+        "",
+        ""
+      ],
+      "has_scores": false,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": ""
+    },
+    {
+      "ranking": "",
+      "number": 60787,
+      "name": "Shelby",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        "",
+        "",
+        ""
+      ],
+      "has_scores": false,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": ""
+    },
+    {
+      "ranking": "",
+      "number": 62720,
+      "name": "The Golden Group",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        "",
+        "",
+        ""
+      ],
+      "has_scores": false,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": ""
+    },
+    {
+      "ranking": "",
+      "number": 63993,
+      "name": "HSS Robotics 63993",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        "",
+        "",
+        ""
+      ],
+      "has_scores": false,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": ""
+    },
+    {
+      "ranking": "",
+      "number": 64724,
+      "name": "Happy Banana",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        "",
+        "",
+        ""
+      ],
+      "has_scores": false,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": ""
+    },
+    {
+      "ranking": "",
+      "number": 64757,
+      "name": "Greater Than One",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        "",
+        "",
+        ""
+      ],
+      "has_scores": false,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": ""
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

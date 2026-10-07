@@ -1,0 +1,113 @@
+{
+  "count": 9,
+  "results": [
+    {
+      "id": 582,
+      "team": {
+        "id": 624,
+        "number": 26386,
+        "name": "Gurkha Geeks Jr 5 - Mini Explorers",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 585,
+      "team": {
+        "id": 614,
+        "number": 26427,
+        "name": "Battlebots",
+        "city": "Los Altos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 584,
+      "team": {
+        "id": 605,
+        "number": 29345,
+        "name": "Team Oak 2023",
+        "city": "Los Altos",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 587,
+      "team": {
+        "id": 539,
+        "number": 29814,
+        "name": "CosmicBananas",
+        "city": "Sunnyvale",
+        "org_name": "West Valley Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 583,
+      "team": {
+        "id": 547,
+        "number": 29976,
+        "name": "Lego_Champs",
+        "city": "Fremont",
+        "org_name": "Warm Springs Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 586,
+      "team": {
+        "id": 595,
+        "number": 30105,
+        "name": "Lego Lions",
+        "city": "Fremont",
+        "org_name": "E M Grimmer Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 543,
+      "team": {
+        "id": 538,
+        "number": 30399,
+        "name": "Evergreen@Dreamers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 580,
+      "team": {
+        "id": 576,
+        "number": 30705,
+        "name": "Cosmic Builders",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 581,
+      "team": {
+        "id": 615,
+        "number": 30760,
+        "name": "Cosmic Coders",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

@@ -1,0 +1,1332 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 7460,
+        "name": "Tiger Robotics 4",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2024-11-16 10:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-16 11:25:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-16 13:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 40,
+            "start_time_display": "2024-11-16 16:05:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-16 14:30:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 29151,
+        "name": "Tiger Robotics 3",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2024-11-16 10:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2024-11-16 11:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-11-16 13:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 37,
+            "start_time_display": "2024-11-16 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-16 13:45:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 37482,
+        "name": "Team Brick 3.0 - 37482",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-16 09:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-16 10:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2024-11-16 14:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2024-11-16 15:35:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-16 11:30:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 40997,
+        "name": "Denman Robotics",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-16 10:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-16 11:05:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2024-11-16 14:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2024-11-16 15:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-16 13:00:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52090,
+        "name": "Canary1",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2024-11-16 10:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-16 11:25:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-11-16 13:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 38,
+            "start_time_display": "2024-11-16 15:55:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-16 13:45:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52943,
+        "name": "Digital Dolphins GREEN TEAM",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2024-11-16 10:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2024-11-16 11:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-16 13:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 40,
+            "start_time_display": "2024-11-16 16:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-16 13:45:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52944,
+        "name": "Digital Dolphins BLUE TEAM",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-16 09:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-11-16 11:55:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-16 13:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2024-11-16 14:55:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-16 10:00:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 53591,
+        "name": "Tiger Robotics 2",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2024-11-16 10:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-16 11:35:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-16 13:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 38,
+            "start_time_display": "2024-11-16 15:55:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-16 14:30:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 53592,
+        "name": "Tiger Robotics 1",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-16 09:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-16 10:55:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2024-11-16 14:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2024-11-16 15:35:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-16 13:00:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 57759,
+        "name": "Digital Dolphins GREY TEAM",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-16 09:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-16 11:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-16 13:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2024-11-16 15:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-16 10:00:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61168,
+        "name": "DivingDolphins",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-16 09:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-16 12:05:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-16 13:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2024-11-16 14:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-16 10:45:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61610,
+        "name": "Argoclucks",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-16 09:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-11-16 11:55:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-16 13:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2024-11-16 15:05:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-16 10:45:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65690,
+        "name": "Shady Sashimi 65690",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-16 09:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-16 11:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2024-11-16 14:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2024-11-16 15:25:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-16 13:00:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66219,
+        "name": "CougarBots",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-16 09:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-16 11:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-16 13:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2024-11-16 14:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-16 10:00:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67216,
+        "name": "Submersiwolves",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-16 10:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-16 10:55:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-11-16 14:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2024-11-16 15:25:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-16 11:30:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68218,
+        "name": "Tiger Robotics 5",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-16 09:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-16 10:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-11-16 14:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2024-11-16 15:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-16 11:30:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68910,
+        "name": "Digital Dolphins - White Team",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-16 09:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-16 12:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-16 13:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2024-11-16 14:55:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-16 10:45:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69000,
+        "name": "King Bob Robotics",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2024-11-16 10:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-16 11:35:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-16 13:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 37,
+            "start_time_display": "2024-11-16 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-16 14:30:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "Yellow Pod 1"
+          },
+          {
+            "name": "Red Pod 2"
+          },
+          {
+            "name": "Green Pod 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-11-16 10:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66219",
+              "52944",
+              "57759"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-11-16 10:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "61168",
+              "68910",
+              "61610"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-11-16 11:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "68218",
+              "67216",
+              "37482"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-11-16 13:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "40997",
+              "65690",
+              "53592"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2024-11-16 13:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "29151",
+              "52090",
+              "52943"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2024-11-16 14:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "69000",
+              "53591",
+              "7460"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 511,
+        "name": "Red Table"
+      },
+      {
+        "id": 512,
+        "name": "Blue Table"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2024-11-16 09:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66219 - CougarBots",
+          "#61610 - Argoclucks"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2024-11-16 09:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#68910 - Digital Dolphins - White Team",
+          "#57759 - Digital Dolphins GREY TEAM"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2024-11-16 09:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61168 - DivingDolphins",
+          "#52944 - Digital Dolphins BLUE TEAM"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2024-11-16 09:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#68218 - Tiger Robotics 5",
+          "#53592 - Tiger Robotics 1"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2024-11-16 09:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65690 - Shady Sashimi 65690",
+          "#37482 - Team Brick 3.0 - 37482"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2024-11-16 10:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#40997 - Denman Robotics",
+          "#67216 - Submersiwolves"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2024-11-16 10:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#29151 - Tiger Robotics 3",
+          "#7460 - Tiger Robotics 4"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 8,
+        "start_time": "2024-11-16 10:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#53591 - Tiger Robotics 2",
+          "#52943 - Digital Dolphins GREEN TEAM"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 9,
+        "start_time": "2024-11-16 10:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#69000 - King Bob Robotics",
+          "#52090 - Canary1"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 10,
+        "start_time": "2024-11-16 10:40:00-08:00",
+        "length": 5,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2024-11-16 10:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#37482 - Team Brick 3.0 - 37482",
+          "#68218 - Tiger Robotics 5"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2024-11-16 10:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#53592 - Tiger Robotics 1",
+          "#67216 - Submersiwolves"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2024-11-16 11:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65690 - Shady Sashimi 65690",
+          "#40997 - Denman Robotics"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2024-11-16 11:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52943 - Digital Dolphins GREEN TEAM",
+          "#29151 - Tiger Robotics 3"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2024-11-16 11:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#7460 - Tiger Robotics 4",
+          "#52090 - Canary1"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2024-11-16 11:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#53591 - Tiger Robotics 2",
+          "#69000 - King Bob Robotics"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2024-11-16 11:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#57759 - Digital Dolphins GREY TEAM",
+          "#66219 - CougarBots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2024-11-16 11:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61610 - Argoclucks",
+          "#52944 - Digital Dolphins BLUE TEAM"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2024-11-16 12:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#68910 - Digital Dolphins - White Team",
+          "#61168 - DivingDolphins"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2024-11-16 12:15:00-08:00",
+        "length": 45,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2024-11-16 13:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52090 - Canary1",
+          "#29151 - Tiger Robotics 3"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2024-11-16 13:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#69000 - King Bob Robotics",
+          "#52943 - Digital Dolphins GREEN TEAM"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2024-11-16 13:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#7460 - Tiger Robotics 4",
+          "#53591 - Tiger Robotics 2"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2024-11-16 13:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52944 - Digital Dolphins BLUE TEAM",
+          "#66219 - CougarBots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2024-11-16 13:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61168 - DivingDolphins",
+          "#57759 - Digital Dolphins GREY TEAM"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2024-11-16 13:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61610 - Argoclucks",
+          "#68910 - Digital Dolphins - White Team"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2024-11-16 14:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67216 - Submersiwolves",
+          "#68218 - Tiger Robotics 5"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 28,
+        "start_time": "2024-11-16 14:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#40997 - Denman Robotics",
+          "#37482 - Team Brick 3.0 - 37482"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 29,
+        "start_time": "2024-11-16 14:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#53592 - Tiger Robotics 1",
+          "#65690 - Shady Sashimi 65690"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 30,
+        "start_time": "2024-11-16 14:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 31,
+        "start_time": "2024-11-16 14:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66219 - CougarBots",
+          "#61168 - DivingDolphins"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 32,
+        "start_time": "2024-11-16 14:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52944 - Digital Dolphins BLUE TEAM",
+          "#68910 - Digital Dolphins - White Team"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 33,
+        "start_time": "2024-11-16 15:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#57759 - Digital Dolphins GREY TEAM",
+          "#61610 - Argoclucks"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 34,
+        "start_time": "2024-11-16 15:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#68218 - Tiger Robotics 5",
+          "#40997 - Denman Robotics"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 35,
+        "start_time": "2024-11-16 15:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67216 - Submersiwolves",
+          "#65690 - Shady Sashimi 65690"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 36,
+        "start_time": "2024-11-16 15:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#37482 - Team Brick 3.0 - 37482",
+          "#53592 - Tiger Robotics 1"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 37,
+        "start_time": "2024-11-16 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#29151 - Tiger Robotics 3",
+          "#69000 - King Bob Robotics"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 38,
+        "start_time": "2024-11-16 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52090 - Canary1",
+          "#53591 - Tiger Robotics 2"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 40,
+        "start_time": "2024-11-16 16:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52943 - Digital Dolphins GREEN TEAM",
+          "#7460 - Tiger Robotics 4"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-11-12 22:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    835,
+    840,
+    649,
+    784,
+    785,
+    661,
+    665,
+    797,
+    800,
+    801,
+    738,
+    682,
+    811,
+    748,
+    629,
+    822,
+    632,
+    697
+  ]
+}

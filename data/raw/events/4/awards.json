@@ -1,0 +1,234 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 24,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 4,
+        "team": {
+          "number": 44532,
+          "name": "Razzle Dazzle Robotics",
+          "org_name": "Piedmont Makers",
+          "org": {
+            "name": "Piedmont Makers"
+          },
+          "city": "Piedmont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 25,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 4,
+        "team": {
+          "number": 44532,
+          "name": "Razzle Dazzle Robotics",
+          "org_name": "Piedmont Makers",
+          "org": {
+            "name": "Piedmont Makers"
+          },
+          "city": "Piedmont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 28,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 4,
+        "team": {
+          "number": 52702,
+          "name": "ArgoRobotics Team #3 - Argo-Haves",
+          "org_name": "Argonaut Elementary School",
+          "org": {
+            "name": "Argonaut Elementary School"
+          },
+          "city": "Saratoga",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 27,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 4,
+        "team": {
+          "number": 60152,
+          "name": "Masterpiecers",
+          "org_name": "Code Ninjas",
+          "org": {
+            "name": "Code Ninjas"
+          },
+          "city": "Union city",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 26,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 4,
+        "team": {
+          "number": 46302,
+          "name": "The Trampolines",
+          "org_name": "Piedmont Makers",
+          "org": {
+            "name": "Piedmont Makers"
+          },
+          "city": "Piedmont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 23,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "Ojas Shastri",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 4,
+        "team": {
+          "number": 62701,
+          "name": "Hillbrook Bears",
+          "org_name": "Hillbrook School",
+          "org": {
+            "name": "Hillbrook School"
+          },
+          "city": "Los Gatos",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": [
+      {
+        "id": 29,
+        "award_type": {
+          "id": 6,
+          "name": "Rising All-Star Award",
+          "display_name": "Rising All-Star Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 4,
+        "team": {
+          "number": 61775,
+          "name": "WeibelTeam",
+          "org_name": "Fred Weibel Elementary School",
+          "org": {
+            "name": "Fred Weibel Elementary School"
+          },
+          "city": "Fremont",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ]
+  }
+}

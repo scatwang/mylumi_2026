@@ -1,0 +1,234 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 22,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 2,
+        "team": {
+          "number": 60198,
+          "name": "Chronobot",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Fremont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 21,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 2,
+        "team": {
+          "number": 60198,
+          "name": "Chronobot",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Fremont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 18,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 2,
+        "team": {
+          "number": 60702,
+          "name": "Robochickens",
+          "org_name": "Tinker Coop",
+          "org": {
+            "name": "Tinker Coop"
+          },
+          "city": "Berkeley",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 19,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 2,
+        "team": {
+          "number": 37489,
+          "name": "Human Joulez",
+          "org_name": "Piedmont Makers",
+          "org": {
+            "name": "Piedmont Makers"
+          },
+          "city": "Piedmont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 20,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 2,
+        "team": {
+          "number": 55794,
+          "name": "Purple People Eaters",
+          "org_name": "Piedmont Makers",
+          "org": {
+            "name": "Piedmont Makers"
+          },
+          "city": "Oakland",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 16,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "Andrew Shinkle",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 2,
+        "team": {
+          "number": 39190,
+          "name": "Owlz",
+          "org_name": "Athenian School",
+          "org": {
+            "name": "Athenian School"
+          },
+          "city": "Danville",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": [
+      {
+        "id": 17,
+        "award_type": {
+          "id": 6,
+          "name": "Rising All-Star Award",
+          "display_name": "Rising All-Star Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 2,
+        "team": {
+          "number": 60070,
+          "name": "Robo-Sapiens",
+          "org_name": "Fremont Robotics Academy",
+          "org": {
+            "name": "Fremont Robotics Academy"
+          },
+          "city": "Milpitas",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 28601,
+        "name": "Lego Mancers",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-03-22 10:45:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28804,
+        "name": "Submerged Submarine",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-03-22 11:00:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29201,
+        "name": "SparkSteam I",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-03-22 10:45:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29660,
+        "name": "SparkSteam II",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-03-22 11:00:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31094,
+        "name": "Lego Legends",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-03-22 11:15:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31430,
+        "name": "Coral Warriors",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-03-22 11:30:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31479,
+        "name": "RoboSparks",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-03-22 11:15:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31650,
+        "name": "LegoLegends",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-03-22 11:30:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-03-22 10:45:00-07:00",
+            "length": 10,
+            "rooms": [
+              "28601 - Lego Mancers",
+              "29201 - SparkSteam I"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-03-22 11:00:00-07:00",
+            "length": 10,
+            "rooms": [
+              "28804 - Submerged Submarine",
+              "29660 - SparkSteam II"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-03-22 11:15:00-07:00",
+            "length": 10,
+            "rooms": [
+              "31094 - Lego Legends",
+              "31479 - RoboSparks"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-03-22 11:30:00-07:00",
+            "length": 10,
+            "rooms": [
+              "31430 - Coral Warriors",
+              "31650 - LegoLegends"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-03-20 17:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

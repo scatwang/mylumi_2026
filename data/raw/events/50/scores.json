@@ -1,0 +1,407 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 66110,
+      "name": "Bot-of-Water",
+      "judging_lane_name": "RED POD 2",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        140,
+        190,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        190,
+        140
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 52142,
+      "name": "Surfing Chickens",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        135,
+        165,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Kept trying despite setbacks",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        165,
+        135
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 61611,
+      "name": "Electro-Phoenix",
+      "judging_lane_name": "RED POD 2",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        200,
+        240,
+        200
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        200,
+        200
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 65350,
+      "name": "Pioneering Pantheon",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        170,
+        235,
+        235
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        235,
+        170
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 60786,
+      "name": "Vornadoes",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        235,
+        155,
+        215
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        215,
+        155
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 61990,
+      "name": "MIGHTY MINDS",
+      "judging_lane_name": "RED POD 2",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        235,
+        125,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        195,
+        125
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 56940,
+      "name": "RoboMasters",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        220,
+        230,
+        215
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        220,
+        215
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 66280,
+      "name": "DELTABOTS",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        175,
+        220,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        175,
+        155
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 56339,
+      "name": "Electric Sources",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        150,
+        205,
+        215
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        215,
+        205,
+        150
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 67092,
+      "name": "Flame Bots",
+      "judging_lane_name": "RED POD 2",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        155,
+        215,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        215,
+        155,
+        135
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 60337,
+      "name": "Circuit united",
+      "judging_lane_name": "RED POD 2",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        185,
+        115,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        180,
+        115
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 65800,
+      "name": "The Tech Titans",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        170,
+        125,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        170,
+        150,
+        125
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 60967,
+      "name": "Lightning Bots",
+      "judging_lane_name": "RED POD 2",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        155,
+        110,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        130,
+        110
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 64898,
+      "name": "The Brick By Brick Builders",
+      "judging_lane_name": "RED POD 2",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        150,
+        145,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        150,
+        145,
+        115
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 60215,
+      "name": "Robotmakers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 140,
+      "highest_display": 140,
+      "rounds": [
+        125,
+        80,
+        140
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "One team member was very upset about a broken piece. Another team member was not only supportive and positive but gave her practical advice on how to proceed.",
+        ""
+      ],
+      "rounds_sorted": [
+        140,
+        125,
+        80
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": "",
+      "number": 60684,
+      "name": "Hyper Technics",
+      "judging_lane_name": "RED POD 2",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        "",
+        "",
+        ""
+      ],
+      "has_scores": false,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": ""
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

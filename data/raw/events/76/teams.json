@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 775,
+      "team": {
+        "id": 910,
+        "number": 34265,
+        "name": "Eagle Bots",
+        "city": "Saratoga",
+        "org_name": "Queen of Apostles School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 790,
+      "team": {
+        "id": 913,
+        "number": 39190,
+        "name": "Owls",
+        "city": "Danville",
+        "org_name": "Athenian School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 837,
+      "team": {
+        "id": 698,
+        "number": 55794,
+        "name": "Purple People Eaters FLL-C 55794",
+        "city": "Oakland",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 943,
+      "team": {
+        "id": 704,
+        "number": 56768,
+        "name": "Blue Brickbots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 942,
+      "team": {
+        "id": 1239,
+        "number": 59992,
+        "name": "Team Scylla",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 857,
+      "team": {
+        "id": 717,
+        "number": 60198,
+        "name": "Chronobot",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 727,
+      "team": {
+        "id": 727,
+        "number": 60958,
+        "name": "FLL-C 60958 -- The Great White Sharks",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 791,
+      "team": {
+        "id": 997,
+        "number": 61699,
+        "name": "The League of Lego Legends",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 958,
+      "team": {
+        "id": 1241,
+        "number": 66087,
+        "name": "Cougar TritonBots",
+        "city": "Cupertino",
+        "org_name": "John F. Kennedy Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 761,
+      "team": {
+        "id": 1172,
+        "number": 66163,
+        "name": "Dino Nuggets",
+        "city": "Walnut Creek",
+        "org_name": "Buena Vista Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 743,
+      "team": {
+        "id": 1226,
+        "number": 67458,
+        "name": "MarineX",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 917,
+      "team": {
+        "id": 1236,
+        "number": 69218,
+        "name": "Gale Wind",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

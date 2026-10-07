@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 699,
+      "team": {
+        "id": 881,
+        "number": 461,
+        "name": "Terminatorz",
+        "city": "Morgan Hill",
+        "org_name": "Britton Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 704,
+      "team": {
+        "id": 919,
+        "number": 52305,
+        "name": "Master Oogway",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 683,
+      "team": {
+        "id": 712,
+        "number": 60069,
+        "name": "NINDROIDS",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 890,
+      "team": {
+        "id": 977,
+        "number": 60868,
+        "name": "iBots",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 921,
+      "team": {
+        "id": 1209,
+        "number": 61951,
+        "name": "Lords of the Legos",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 913,
+      "team": {
+        "id": 1010,
+        "number": 62005,
+        "name": "Lego Legends",
+        "city": "Fremont",
+        "org_name": "Parent Volunteers"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 918,
+      "team": {
+        "id": 742,
+        "number": 64757,
+        "name": "Greater Than One",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 915,
+      "team": {
+        "id": 639,
+        "number": 65018,
+        "name": "Brickbots",
+        "city": "Fremont",
+        "org_name": "John M Horner Jr High School, William Hopkins Jr High School, Thomas Russell Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 924,
+      "team": {
+        "id": 856,
+        "number": 66759,
+        "name": "BA Tigers",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 817,
+      "team": {
+        "id": 1039,
+        "number": 66827,
+        "name": "CircuitBreakers",
+        "city": "Lathrop",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 920,
+      "team": {
+        "id": 859,
+        "number": 66894,
+        "name": "Oceanic Explorers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 922,
+      "team": {
+        "id": 1259,
+        "number": 66965,
+        "name": "QuestBots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

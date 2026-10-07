@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 77,
+      "team": {
+        "id": 242,
+        "number": 25573,
+        "name": "X-Mann Bots",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 256,
+      "team": {
+        "id": 94,
+        "number": 34265,
+        "name": "Eagle Bots",
+        "city": "San Jose",
+        "org_name": "Queen of Apostles School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 228,
+      "team": {
+        "id": 284,
+        "number": 40238,
+        "name": "Plus Ultra",
+        "city": "Pacific Grove",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 230,
+      "team": {
+        "id": 332,
+        "number": 47810,
+        "name": "Plus Ultra 2",
+        "city": "Salinas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 222,
+      "team": {
+        "id": 335,
+        "number": 50809,
+        "name": "AstroBruins",
+        "city": "Sunnyvale",
+        "org_name": "AstroBruins"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 214,
+      "team": {
+        "id": 331,
+        "number": 55867,
+        "name": "Harrybot",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 91,
+      "team": {
+        "id": 258,
+        "number": 56453,
+        "name": "Donut Powered",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 231,
+      "team": {
+        "id": 75,
+        "number": 57010,
+        "name": "Rocket",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 259,
+      "team": {
+        "id": 217,
+        "number": 58118,
+        "name": "Protatoes",
+        "city": "Fremont",
+        "org_name": "Thornton Junior High School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 255,
+      "team": {
+        "id": 246,
+        "number": 58181,
+        "name": "GOATs",
+        "city": "Fremont",
+        "org_name": "John M Gomes Elementary School, William Hopkins Jr High School, Basis Independent Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 209,
+      "team": {
+        "id": 31,
+        "number": 60038,
+        "name": "Robo Champs",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 227,
+      "team": {
+        "id": 247,
+        "number": 60377,
+        "name": "RI Lego Warriors",
+        "city": "Lathrop",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 190,
+      "team": {
+        "id": 32,
+        "number": 60428,
+        "name": "LegoLegends",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 203,
+      "team": {
+        "id": 225,
+        "number": 60718,
+        "name": "Rockin Robos",
+        "city": "Rocklin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 27,
+      "team": {
+        "id": 222,
+        "number": 60753,
+        "name": "Ri Robotics- Droid Sharks",
+        "city": "Lathrop",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 244,
+      "team": {
+        "id": 353,
+        "number": 61031,
+        "name": "Tech Masters",
+        "city": "Castro Valley",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 229,
+      "team": {
+        "id": 350,
+        "number": 61351,
+        "name": "RI Robo Raiders",
+        "city": "Lathrop",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 268,
+      "team": {
+        "id": 333,
+        "number": 62314,
+        "name": "Robotics Ninja",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

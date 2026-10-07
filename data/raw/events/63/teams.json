@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 680,
+      "team": {
+        "id": 690,
+        "number": 51095,
+        "name": "CreaTech",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 693,
+      "team": {
+        "id": 695,
+        "number": 52765,
+        "name": "warrior bot",
+        "city": "Fremont",
+        "org_name": "Ardenwood school"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 653,
+      "team": {
+        "id": 1044,
+        "number": 53595,
+        "name": "Mechaminds",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 647,
+      "team": {
+        "id": 940,
+        "number": 57344,
+        "name": "Jiggy Guys",
+        "city": "Fremont",
+        "org_name": "John M Gomes Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 700,
+      "team": {
+        "id": 710,
+        "number": 60037,
+        "name": "BuilderBots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 663,
+      "team": {
+        "id": 994,
+        "number": 61397,
+        "name": "PineappleBots",
+        "city": "Fremont",
+        "org_name": "John M Gomes Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 654,
+      "team": {
+        "id": 738,
+        "number": 64052,
+        "name": "ThunderBots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 687,
+      "team": {
+        "id": 739,
+        "number": 64672,
+        "name": "MechaBotz",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 691,
+      "team": {
+        "id": 660,
+        "number": 65691,
+        "name": "FLL-C 65691 OCTOBOTS",
+        "city": "PIEDMONT",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 670,
+      "team": {
+        "id": 833,
+        "number": 65841,
+        "name": "Falcon X",
+        "city": "Fremont",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 698,
+      "team": {
+        "id": 1215,
+        "number": 66075,
+        "name": "TechTitans",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 658,
+      "team": {
+        "id": 850,
+        "number": 66439,
+        "name": "Super Lego Builders",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 961,
+      "team": {
+        "id": 862,
+        "number": 66956,
+        "name": "RRR Vicious Voyagers",
+        "city": "Lathrop",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 646,
+      "team": {
+        "id": 1141,
+        "number": 67102,
+        "name": "The Goldfishies",
+        "city": "Alameda",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 707,
+      "team": {
+        "id": 1142,
+        "number": 67422,
+        "name": "The Alameda Wild Turkey Gang",
+        "city": "Alameda",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 685,
+      "team": {
+        "id": 1190,
+        "number": 67669,
+        "name": "Narahari Kotla",
+        "city": "Fremont",
+        "org_name": "recursys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 648,
+      "team": {
+        "id": 1089,
+        "number": 67722,
+        "name": "TechnoSharks*",
+        "city": "Fremont",
+        "org_name": ""
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 877,
+      "team": {
+        "id": 1133,
+        "number": 68231,
+        "name": "Everest",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

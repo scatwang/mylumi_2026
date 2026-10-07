@@ -1,0 +1,457 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 60037,
+      "name": "BuilderBots",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 315,
+      "highest_display": 315,
+      "rounds": [
+        295,
+        315,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Excessive arguing over referee call and calling out the other team for \"cheating\"",
+        "",
+        "Very excessive arguing with multiple refs and use of disrespectful language towards others"
+      ],
+      "rounds_sorted": [
+        315,
+        295,
+        290
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 51095,
+      "name": "CreaTech",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        175,
+        225,
+        280
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        225,
+        175
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 64052,
+      "name": "ThunderBots",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        155,
+        240,
+        275
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        240,
+        155
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 61397,
+      "name": "PineappleBots",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        195,
+        225,
+        220
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        220,
+        195
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 57344,
+      "name": "Jiggy Guys",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        215,
+        220,
+        200
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        215,
+        200
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 65841,
+      "name": "Falcon X",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        185,
+        220,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        185,
+        135
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 64672,
+      "name": "MechaBotz",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        135,
+        220,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Pointed out a mission reset mistake which would have given advantage to the team",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        155,
+        135
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 66439,
+      "name": "Super Lego Builders",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        150,
+        210,
+        140
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        150,
+        140
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 67722,
+      "name": "TechnoSharks*",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 200,
+      "highest_display": 200,
+      "rounds": [
+        200,
+        185,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        200,
+        185,
+        145
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 53595,
+      "name": "Mechaminds",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        130,
+        145,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        145,
+        130
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 67102,
+      "name": "The Goldfishies",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 190,
+      "highest_display": 190,
+      "rounds": [
+        190,
+        125,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        190,
+        180,
+        125
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 66075,
+      "name": "TechTitans",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        175,
+        105,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Very polite and honest",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        170,
+        105
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 66956,
+      "name": "RRR Vicious Voyagers",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        170,
+        105,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        170,
+        155,
+        105
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 67422,
+      "name": "The Alameda Wild Turkey Gang",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        170,
+        135,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        170,
+        135,
+        115
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 65691,
+      "name": "FLL-C 65691 OCTOBOTS",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        135,
+        160,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        135,
+        115
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 68231,
+      "name": "Everest",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        135,
+        155,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        135,
+        130
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 67669,
+      "name": "Narahari Kotla",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        55,
+        135,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        135,
+        55
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 52765,
+      "name": "warrior bot",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 125,
+      "highest_display": 125,
+      "rounds": [
+        100,
+        125,
+        125
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        125,
+        125,
+        100
+      ],
+      "ordinal": "18th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

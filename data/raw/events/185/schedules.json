@@ -1,0 +1,493 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 10586,
+        "name": "The Peanut Botters",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-01 11:15:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-11-01 13:15:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-11-01 14:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          null
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-01 10:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 45
+          }
+        ]
+      },
+      {
+        "number": 61167,
+        "name": "Mighty 'Mine'ons",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-01 11:00:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-01 13:30:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-11-01 15:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          null
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-01 11:30:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 64757,
+        "name": "Brain Bot",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2025-11-01 11:30:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-01 13:45:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-01 14:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          null
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-01 13:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71805,
+        "name": "Robo Crushers",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-01 11:00:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-11-01 13:15:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-01 14:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          null
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-01 11:30:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72207,
+        "name": "St. Cecilia Robotics 8th Grade",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2025-11-01 11:45:00-07:00",
+            "length": 90,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-01 13:45:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-11-01 14:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          null
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-01 10:45:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72610,
+        "name": "Lightning Raiders",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2025-11-01 11:45:00-07:00",
+            "length": 90,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-11-01 14:00:00-07:00",
+            "length": 30,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-01 14:40:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          null
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-01 10:45:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72979,
+        "name": "St. Cecilia Robotics 2",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-01 11:15:00-07:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-01 13:30:00-07:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-01 14:40:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          null
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-01 10:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 45
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-11-01 10:00:00-07:00",
+            "length": 45,
+            "rooms": [
+              "10586 - The Peanut Botters",
+              "72979 - St. Cecilia Robotics 2"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-11-01 10:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "72207 - St. Cecilia Robotics 8th Grade",
+              "72610 - Lightning Raiders"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-11-01 11:30:00-07:00",
+            "length": 30,
+            "rooms": [
+              "71805 - Robo Crushers",
+              "61167 - Mighty 'Mine'ons"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-11-01 13:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "64757 - Brain Bot",
+              ""
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 960,
+        "name": "TABLE A"
+      },
+      {
+        "id": 961,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 5,
+        "start_time": "2025-11-01 11:00:00-07:00",
+        "length": 15,
+        "tables": [
+          "#71805 - Robo Crushers",
+          "#61167 - Mighty 'Mine'ons"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 6,
+        "start_time": "2025-11-01 11:15:00-07:00",
+        "length": 15,
+        "tables": [
+          "#72979 - St. Cecilia Robotics 2",
+          "#10586 - The Peanut Botters"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 7,
+        "start_time": "2025-11-01 11:30:00-07:00",
+        "length": 15,
+        "tables": [
+          "#64757 - Brain Bot",
+          ""
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2025-11-01 11:45:00-07:00",
+        "length": 90,
+        "tables": [
+          "#72610 - Lightning Raiders",
+          "#72207 - St. Cecilia Robotics 8th Grade"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2025-11-01 13:15:00-07:00",
+        "length": 15,
+        "tables": [
+          "#10586 - The Peanut Botters",
+          "#71805 - Robo Crushers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2025-11-01 13:30:00-07:00",
+        "length": 15,
+        "tables": [
+          "#61167 - Mighty 'Mine'ons",
+          "#72979 - St. Cecilia Robotics 2"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2025-11-01 13:45:00-07:00",
+        "length": 15,
+        "tables": [
+          "#72207 - St. Cecilia Robotics 8th Grade",
+          "#64757 - Brain Bot"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2025-11-01 14:00:00-07:00",
+        "length": 30,
+        "tables": [
+          "",
+          "#72610 - Lightning Raiders"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2025-11-01 14:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#10586 - The Peanut Botters",
+          "#72207 - St. Cecilia Robotics 8th Grade"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2025-11-01 14:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72979 - St. Cecilia Robotics 2",
+          "#72610 - Lightning Raiders"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2025-11-01 14:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71805 - Robo Crushers",
+          "#64757 - Brain Bot"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2025-11-01 15:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61167 - Mighty 'Mine'ons",
+          ""
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-10-28 04:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    1712,
+    1731,
+    1752,
+    1514,
+    1726,
+    1693,
+    1582
+  ]
+}

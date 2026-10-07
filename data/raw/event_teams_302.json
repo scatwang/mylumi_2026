@@ -1,0 +1,91 @@
+{
+  "event_id": 302,
+  "event_name": "2026 NorCal FLL Challenge BIOGLOW QT – The Dorris-Eaton School, San Ramon",
+  "count": 7,
+  "teams": [
+    {
+      "id": 2359,
+      "team": {
+        "id": 2693,
+        "number": 37811,
+        "name": "Owls",
+        "city": "Danville",
+        "org_name": "Athenian School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2365,
+      "team": {
+        "id": 2894,
+        "number": 47206,
+        "name": "Owlz",
+        "city": "Danville",
+        "org_name": "Athenian School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2333,
+      "team": {
+        "id": 2708,
+        "number": 52522,
+        "name": "Parachuting Penguins",
+        "city": "San Ramon",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2384,
+      "team": {
+        "id": 2767,
+        "number": 66292,
+        "name": "CookieBots",
+        "city": "Danville",
+        "org_name": "Girl Scouts"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2351,
+      "team": {
+        "id": 2828,
+        "number": 71771,
+        "name": "Quantum Big Macs = Big Backs",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2363,
+      "team": {
+        "id": 2866,
+        "number": 75126,
+        "name": "Cyberx Mutants",
+        "city": "Union City",
+        "org_name": "Union City Robotics"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2281,
+      "team": {
+        "id": 2612,
+        "number": 75564,
+        "name": "Geometry Dash",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

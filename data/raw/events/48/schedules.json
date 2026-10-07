@@ -1,0 +1,933 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 461,
+        "name": "Terminatorz",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2024-11-09 11:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-11-09 14:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-09 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 13:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52305,
+        "name": "Master Oogway",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-09 11:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-09 15:20:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60069,
+        "name": "NINDROIDS",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-09 11:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-09 13:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-09 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60868,
+        "name": "iBots",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-09 12:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-09 13:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-09 15:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61951,
+        "name": "Lords of the Legos",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-11-09 14:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-11-09 16:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 62005,
+        "name": "Lego Legends",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-09 14:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-09 15:20:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 64757,
+        "name": "Greater Than One",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2024-11-09 11:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-09 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 13:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65018,
+        "name": "Brickbots",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-09 12:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-09 14:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-09 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66759,
+        "name": "BA Tigers",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-09 15:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66827,
+        "name": "CircuitBreakers",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 10:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-11-09 11:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-11-09 16:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66894,
+        "name": "Oceanic Explorers",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-11-09 11:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-09 13:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-09 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66965,
+        "name": "QuestBots",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 10:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-09 13:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-09 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-11-09 10:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "60069 - NINDROIDS",
+              "52305 - Master Oogway"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-11-09 10:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "60868 - iBots",
+              "65018 - Brickbots"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-11-09 11:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "62005 - Lego Legends",
+              "66759 - BA Tigers"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-11-09 13:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "64757 - Greater Than One",
+              "461 - Terminatorz"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2024-11-09 13:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66827 - CircuitBreakers",
+              "66894 - Oceanic Explorers"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2024-11-09 14:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "66965 - QuestBots",
+              "61951 - Lords of the Legos"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 573,
+        "name": "TABLE A"
+      },
+      {
+        "id": 574,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2024-11-09 09:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60069 - NINDROIDS",
+          "#66759 - BA Tigers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2024-11-09 09:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#65018 - Brickbots",
+          "#52305 - Master Oogway"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2024-11-09 09:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#62005 - Lego Legends",
+          "#60868 - iBots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2024-11-09 10:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#64757 - Greater Than One",
+          "#61951 - Lords of the Legos"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2024-11-09 10:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66894 - Oceanic Explorers",
+          "#461 - Terminatorz"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2024-11-09 10:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66965 - QuestBots",
+          "#66827 - CircuitBreakers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2024-11-09 10:40:00-08:00",
+        "length": 5,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2024-11-09 10:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66759 - BA Tigers",
+          "#62005 - Lego Legends"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2024-11-09 11:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#461 - Terminatorz",
+          "#64757 - Greater Than One"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2024-11-09 11:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66894 - Oceanic Explorers",
+          "#66827 - CircuitBreakers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2024-11-09 11:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61951 - Lords of the Legos",
+          "#66965 - QuestBots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2024-11-09 11:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#52305 - Master Oogway",
+          "#60069 - NINDROIDS"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2024-11-09 12:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65018 - Brickbots",
+          "#60868 - iBots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2024-11-09 12:10:00-08:00",
+        "length": 65,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2024-11-09 13:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66965 - QuestBots",
+          "#66894 - Oceanic Explorers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2024-11-09 13:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60868 - iBots",
+          "#60069 - NINDROIDS"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2024-11-09 13:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66759 - BA Tigers",
+          "#52305 - Master Oogway"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2024-11-09 14:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61951 - Lords of the Legos",
+          "#461 - Terminatorz"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2024-11-09 14:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#62005 - Lego Legends",
+          "#65018 - Brickbots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2024-11-09 14:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66827 - CircuitBreakers",
+          "#64757 - Greater Than One"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2024-11-09 14:40:00-08:00",
+        "length": 30,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2024-11-09 15:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60069 - NINDROIDS",
+          "#65018 - Brickbots"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2024-11-09 15:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52305 - Master Oogway",
+          "#62005 - Lego Legends"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2024-11-09 15:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60868 - iBots",
+          "#66759 - BA Tigers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2024-11-09 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#64757 - Greater Than One",
+          "#66894 - Oceanic Explorers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2024-11-09 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#461 - Terminatorz",
+          "#66965 - QuestBots"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2024-11-09 16:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66827 - CircuitBreakers",
+          "#61951 - Lords of the Legos"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-11-04 02:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    704,
+    683,
+    913,
+    817,
+    915,
+    918,
+    920,
+    921,
+    890,
+    699,
+    924,
+    922
+  ]
+}

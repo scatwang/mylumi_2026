@@ -1,0 +1,113 @@
+{
+  "count": 9,
+  "results": [
+    {
+      "id": 416,
+      "team": {
+        "id": 565,
+        "number": 25732,
+        "name": "Super Lego Builders",
+        "city": "Fremont",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 461,
+      "team": {
+        "id": 493,
+        "number": 26136,
+        "name": "Gallery Girls",
+        "city": "San Ramon",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 527,
+      "team": {
+        "id": 518,
+        "number": 26421,
+        "name": "Robo Explorers",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 381,
+      "team": {
+        "id": 556,
+        "number": 26706,
+        "name": "Super LegoKids",
+        "city": "Albany",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 380,
+      "team": {
+        "id": 531,
+        "number": 28793,
+        "name": "Art-Kid-Tex ",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 515,
+      "team": {
+        "id": 534,
+        "number": 28799,
+        "name": "Lego Mega MASSters",
+        "city": "Fremont",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 418,
+      "team": {
+        "id": 444,
+        "number": 28804,
+        "name": "ArtMasterZ",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 541,
+      "team": {
+        "id": 589,
+        "number": 29787,
+        "name": "Tigerbots",
+        "city": "Fremont",
+        "org_name": "Chadbourne Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 545,
+      "team": {
+        "id": 555,
+        "number": 30595,
+        "name": "SparkSteam III",
+        "city": "East Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

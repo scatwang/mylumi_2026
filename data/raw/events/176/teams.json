@@ -1,0 +1,209 @@
+{
+  "count": 17,
+  "results": [
+    {
+      "id": 1898,
+      "team": {
+        "id": 1631,
+        "number": 445,
+        "name": "Mighty Robo Pines",
+        "city": "Sacramento",
+        "org_name": "Matsuyama Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1694,
+      "team": {
+        "id": 1992,
+        "number": 20710,
+        "name": "Our Savior Lions",
+        "city": "Livermore",
+        "org_name": "Our Savior Lutheran School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1718,
+      "team": {
+        "id": 1916,
+        "number": 30497,
+        "name": "FBI(Fascinating Bot Intelligence)",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1713,
+      "team": {
+        "id": 1682,
+        "number": 56489,
+        "name": "Gear Girls",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1834,
+      "team": {
+        "id": 1698,
+        "number": 60507,
+        "name": "Team Prime",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1729,
+      "team": {
+        "id": 1715,
+        "number": 61055,
+        "name": "Robotic Athletes",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1825,
+      "team": {
+        "id": 1716,
+        "number": 61406,
+        "name": "Quantum Bots",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1748,
+      "team": {
+        "id": 2008,
+        "number": 61776,
+        "name": "Tech Ninja",
+        "city": "Rancho Cordova",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1826,
+      "team": {
+        "id": 1756,
+        "number": 66075,
+        "name": "TechTitans",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1876,
+      "team": {
+        "id": 1798,
+        "number": 68960,
+        "name": "Seismic Cyborgs",
+        "city": "MILPITAS",
+        "org_name": "Family/Community, Thomas Russell Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1764,
+      "team": {
+        "id": 2153,
+        "number": 71252,
+        "name": "Lions",
+        "city": "Modesto",
+        "org_name": "Big Valley Christian"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1781,
+      "team": {
+        "id": 1890,
+        "number": 71435,
+        "name": "Servo Dei",
+        "city": "Modesto",
+        "org_name": "St Joseph’s"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1873,
+      "team": {
+        "id": 2372,
+        "number": 71804,
+        "name": "Astrobot",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1733,
+      "team": {
+        "id": 2212,
+        "number": 72102,
+        "name": "The Radical Robots",
+        "city": "Dublin",
+        "org_name": "Cottonwood Creek"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1732,
+      "team": {
+        "id": 1969,
+        "number": 72123,
+        "name": "Dig Deep Discoverers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1827,
+      "team": {
+        "id": 1970,
+        "number": 72151,
+        "name": "Miniona Jones",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1575,
+      "team": {
+        "id": 2213,
+        "number": 72905,
+        "name": "Argo Robotics Team 251",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    }
+  ]
+}

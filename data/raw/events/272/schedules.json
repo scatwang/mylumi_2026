@@ -1,0 +1,889 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 60788,
+        "name": "Sea Tractor",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-22 10:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-03-22 11:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-03-22 14:05:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-03-22 15:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-22 13:00:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66522,
+        "name": "The Placeholders",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-03-22 10:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-03-22 11:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-03-22 13:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-03-22 15:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-22 13:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68590,
+        "name": "Fremont Wizwards",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-22 09:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-03-22 11:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-03-22 13:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-03-22 15:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-22 10:15:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70153,
+        "name": "rickroll",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-22 10:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-03-22 11:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-03-22 14:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-03-22 15:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-03-22 11:45:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70468,
+        "name": "Future Finders",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-03-22 09:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-03-22 12:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-03-22 13:40:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-03-22 15:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-22 11:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71033,
+        "name": "TechnoTigers",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-22 09:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-03-22 11:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-03-22 13:40:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-03-22 15:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-22 11:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72024,
+        "name": "THE CREATORS",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-03-22 10:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-03-22 11:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-03-22 14:05:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2026-03-22 15:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-03-22 11:45:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72654,
+        "name": "lightsaber",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-22 09:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-03-22 11:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-03-22 13:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-03-22 15:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-22 10:15:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72801,
+        "name": "Super Kraken",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-03-22 10:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-03-22 11:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-03-22 14:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-03-22 15:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-03-22 11:45:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 74193,
+        "name": "Gear girls ",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-03-22 09:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-03-22 11:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-03-22 13:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-03-22 15:20:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-22 10:15:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 74706,
+        "name": "Porky Oinks",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-03-22 10:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-03-22 11:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-03-22 13:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2026-03-22 15:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-22 13:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75128,
+        "name": "Corrupted Robot",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-22 09:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-03-22 12:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-03-22 13:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-03-22 15:20:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-22 11:00:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          },
+          {
+            "name": "GREEN POD 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2026-03-22 10:15:00-07:00",
+            "length": 30,
+            "rooms": [
+              "72654",
+              "68590",
+              "74193"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2026-03-22 11:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "71033",
+              "70468",
+              "75128"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2026-03-22 11:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "70153",
+              "72024",
+              "72801"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2026-03-22 13:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "66522",
+              "74706",
+              "60788"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 1159,
+        "name": "TABLE A"
+      },
+      {
+        "id": 1160,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2026-03-22 09:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72654 - lightsaber",
+          "#75128 - Corrupted Robot"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2026-03-22 09:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71033 - TechnoTigers",
+          "#68590 - Fremont Wizwards"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2026-03-22 09:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70468 - Future Finders",
+          "#74193 - Gear girls "
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2026-03-22 10:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70153 - rickroll",
+          "#60788 - Sea Tractor"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2026-03-22 10:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66522 - The Placeholders",
+          "#72024 - THE CREATORS"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2026-03-22 10:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74706 - Porky Oinks",
+          "#72801 - Super Kraken"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2026-03-22 11:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72024 - THE CREATORS",
+          "#70153 - rickroll"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2026-03-22 11:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66522 - The Placeholders",
+          "#72801 - Super Kraken"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2026-03-22 11:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#60788 - Sea Tractor",
+          "#74706 - Porky Oinks"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2026-03-22 11:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#68590 - Fremont Wizwards",
+          "#72654 - lightsaber"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2026-03-22 11:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71033 - TechnoTigers",
+          "#74193 - Gear girls "
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2026-03-22 12:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75128 - Corrupted Robot",
+          "#70468 - Future Finders"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2026-03-22 13:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74193 - Gear girls ",
+          "#72654 - lightsaber"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2026-03-22 13:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75128 - Corrupted Robot",
+          "#68590 - Fremont Wizwards"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2026-03-22 13:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70468 - Future Finders",
+          "#71033 - TechnoTigers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2026-03-22 13:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74706 - Porky Oinks",
+          "#66522 - The Placeholders"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2026-03-22 14:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#60788 - Sea Tractor",
+          "#72024 - THE CREATORS"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2026-03-22 14:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72801 - Super Kraken",
+          "#70153 - rickroll"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2026-03-22 15:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72654 - lightsaber",
+          "#71033 - TechnoTigers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2026-03-22 15:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#68590 - Fremont Wizwards",
+          "#70468 - Future Finders"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2026-03-22 15:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74193 - Gear girls ",
+          "#75128 - Corrupted Robot"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2026-03-22 15:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70153 - rickroll",
+          "#66522 - The Placeholders"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2026-03-22 15:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72024 - THE CREATORS",
+          "#74706 - Porky Oinks"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2026-03-22 15:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72801 - Super Kraken",
+          "#60788 - Sea Tractor"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2026-03-17 04:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    2050,
+    2051,
+    2119,
+    2122,
+    2158,
+    2159,
+    2162,
+    2164,
+    2166,
+    2104,
+    2073,
+    2078
+  ]
+}

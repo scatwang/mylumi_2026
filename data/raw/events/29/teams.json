@@ -1,0 +1,209 @@
+{
+  "count": 17,
+  "results": [
+    {
+      "id": 434,
+      "team": {
+        "id": 296,
+        "number": 193,
+        "name": "1. Team Logo",
+        "city": "Belmont",
+        "org_name": "Crystal Springs Uplands School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 437,
+      "team": {
+        "id": 190,
+        "number": 45629,
+        "name": "Dragon Bots",
+        "city": "San Francisco",
+        "org_name": "Ecole Notre Dame Des Victoires"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 492,
+      "team": {
+        "id": 384,
+        "number": 54960,
+        "name": "RoboCavs",
+        "city": "Sacramento",
+        "org_name": "Sacramento Country Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 454,
+      "team": {
+        "id": 78,
+        "number": 56026,
+        "name": "RoboKids",
+        "city": "Folsom",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 445,
+      "team": {
+        "id": 567,
+        "number": 56308,
+        "name": "Dr. Rofrostnik",
+        "city": "Fremont",
+        "org_name": "Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 564,
+      "team": {
+        "id": 133,
+        "number": 56463,
+        "name": "AArtIntel",
+        "city": "San Jose",
+        "org_name": "Evergreen Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 438,
+      "team": {
+        "id": 4,
+        "number": 57420,
+        "name": "ChickenBachBachs",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 446,
+      "team": {
+        "id": 575,
+        "number": 60756,
+        "name": "Folsom Thunderbots",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 501,
+      "team": {
+        "id": 227,
+        "number": 61139,
+        "name": "Lightning Squad",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 549,
+      "team": {
+        "id": 623,
+        "number": 61510,
+        "name": "4RoboGurus",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 484,
+      "team": {
+        "id": 569,
+        "number": 61950,
+        "name": "FemBots",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 473,
+      "team": {
+        "id": 570,
+        "number": 61951,
+        "name": "Lords of the Legos",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 538,
+      "team": {
+        "id": 368,
+        "number": 62984,
+        "name": "Eagle Bots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 508,
+      "team": {
+        "id": 392,
+        "number": 63333,
+        "name": "Jaguars",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 533,
+      "team": {
+        "id": 389,
+        "number": 63410,
+        "name": "Robots En Fuego",
+        "city": "San Francisco",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 513,
+      "team": {
+        "id": 420,
+        "number": 63865,
+        "name": "EBTCC Youth Group",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 548,
+      "team": {
+        "id": 527,
+        "number": 64052,
+        "name": "Newbies",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

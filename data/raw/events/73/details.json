@@ -1,0 +1,81 @@
+{
+  "id": 73,
+  "name": "2025 NorCal FLL-E Festival - Santa Cruz Midday",
+  "season": "2024 - SUBMERGED (Explore)",
+  "program": "FIRST LEGO League: Explore",
+  "program_abbreviation": "fll_explore",
+  "description": "",
+  "capacity": 8,
+  "total_registered": 0,
+  "level": {
+    "id": 16,
+    "name": "NorCal FLL Explore Festivals 2024",
+    "next_level": null,
+    "previous_levels": [],
+    "registration_opens": "2024-10-01T10:00:00-07:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 4
+  },
+  "event_status": "canceled",
+  "event_status_display": "Canceled",
+  "status_v2": "canceled",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 0,
+  "total_reserved": 0,
+  "start_time": "2025-01-12T09:45:00-08:00",
+  "end_time": "2025-01-12T11:45:00-08:00",
+  "all_details": [],
+  "downloads": [],
+  "web_links": [],
+  "agenda_group": null,
+  "agenda_items": [],
+  "public_agenda_items": [],
+  "venue": {
+    "name": "Dream Inn",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "zip_code": "95060",
+    "website": "https://www.dreaminnsantacruz.com/?utm_source=google&utm_medium=bizlisting&utm_campaign=google_places"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/73/",
+  "website_uri": "/en/event/73/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/73/#volunteer",
+  "team_stats": {
+    "teams": 0,
+    "students": 0,
+    "cities": [],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 4,
+    "info": {
+      "name": "SUBMERGED (Explore)",
+      "year": 2024,
+      "release": "2024-08-01T09:00:00-07:00",
+      "program": {
+        "id": 2,
+        "abbreviation": "fll_explore",
+        "previous_program": 3,
+        "get_abbreviation_display": "FIRST LEGO League: Explore",
+        "get_logo_path": "images/program_logos/fll_explore_logo.png",
+        "enable_team_profile": false
+      },
+      "season_begins": "2024-05-18",
+      "get_logo_path": "images/season_logos/2024_fll_explore.png"
+    },
+    "tableau_import_start": null,
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/242666600933963",
+    "has_team_profile": false
+  },
+  "role_template": null,
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": false,
+  "is_complete": true
+}

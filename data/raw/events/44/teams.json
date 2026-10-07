@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 631,
+      "team": {
+        "id": 1103,
+        "number": 7434,
+        "name": "Human Computers",
+        "city": "San Bruno",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 899,
+      "team": {
+        "id": 929,
+        "number": 55976,
+        "name": "Megamind Mechanics",
+        "city": "Los Altos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 722,
+      "team": {
+        "id": 961,
+        "number": 60433,
+        "name": "Sigma Squad",
+        "city": "Santa Clara",
+        "org_name": "St Lawrence Elem & Middle Sch"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 894,
+      "team": {
+        "id": 981,
+        "number": 60956,
+        "name": "The Stanlicorns",
+        "city": "san jose",
+        "org_name": "St martin of Tours"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 906,
+      "team": {
+        "id": 983,
+        "number": 60987,
+        "name": "The fighting Pickles",
+        "city": "san jose",
+        "org_name": "St martin of Tours"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 803,
+      "team": {
+        "id": 986,
+        "number": 61166,
+        "name": "R2-D2",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 847,
+      "team": {
+        "id": 1001,
+        "number": 61769,
+        "name": "Omegas",
+        "city": "Santa Clara",
+        "org_name": "St Lawrence Elem & Middle Sch"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 971,
+      "team": {
+        "id": 1283,
+        "number": 66452,
+        "name": "TeamRuana",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 863,
+      "team": {
+        "id": 869,
+        "number": 67148,
+        "name": "Snowboard Seals",
+        "city": "Palo Alto",
+        "org_name": "ULEAP"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 898,
+      "team": {
+        "id": 1181,
+        "number": 67232,
+        "name": "Terminators",
+        "city": "Burlingame",
+        "org_name": "Burlingame Intermediate"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 888,
+      "team": {
+        "id": 1128,
+        "number": 67473,
+        "name": "Krazy Krillionaires",
+        "city": "San Jose",
+        "org_name": "Williams Elementary"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 934,
+      "team": {
+        "id": 1204,
+        "number": 68707,
+        "name": "HF Bears",
+        "city": "San Jose",
+        "org_name": "Holy Family School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

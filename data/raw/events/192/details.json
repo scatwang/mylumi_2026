@@ -1,0 +1,254 @@
+{
+  "id": 192,
+  "name": "2025 NorCal FLL-C:  Fremont QT at Gomes",
+  "season": "2025 - UNEARTHED (Challenge)",
+  "program": "FIRST LEGO League: Challenge",
+  "program_abbreviation": "fll_challenge",
+  "description": "",
+  "capacity": 12,
+  "total_registered": 12,
+  "level": {
+    "id": 159,
+    "name": "2025 NorCal Gold Rush Relics District Qualifiers",
+    "next_level": {
+      "id": 160,
+      "name": "2025 NorCal Gold Rush Relics Championship",
+      "next_level": null,
+      "previous_levels": [
+        {
+          "id": 159,
+          "name": "2025 NorCal Gold Rush Relics District Qualifiers"
+        }
+      ],
+      "registration_opens": "2026-01-31T14:00:00-08:00",
+      "preference_registration_enable": false,
+      "preference_registration_opens": null,
+      "preference_registration_closes": null,
+      "standard_model": true,
+      "season": 8
+    },
+    "previous_levels": [],
+    "registration_opens": "2025-10-01T00:00:00-07:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 8
+  },
+  "event_status": "closed",
+  "event_status_display": "Closed",
+  "status_v2": "complete",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 12,
+  "total_reserved": 0,
+  "start_time": "2025-11-08T08:00:00-08:00",
+  "end_time": "2025-11-08T18:00:00-08:00",
+  "all_details": [
+    {
+      "id": null,
+      "detail_type": "rg_tables",
+      "get_detail_type_display": "Robot Game",
+      "title": "Robot Game Tables",
+      "description": "This event will have <strong>1</strong> pair of Robot Game tables."
+    },
+    {
+      "id": null,
+      "detail_type": "judging_lanes",
+      "get_detail_type_display": "Judging",
+      "title": "Judging Pods",
+      "description": "This event will have <strong>3</strong> Judging Pods "
+    },
+    {
+      "id": null,
+      "detail_type": "advancement",
+      "get_detail_type_display": "Advancement Info",
+      "title": "Advancement",
+      "description": "This event advanced <strong>3</strong> teams to the Championship."
+    },
+    {
+      "id": null,
+      "detail_type": "fee",
+      "get_detail_type_display": "Registration Fee",
+      "title": "Registration Fee",
+      "description": "TBD"
+    }
+  ],
+  "downloads": [
+    {
+      "id": 2451,
+      "name": "Location & Parking Map",
+      "description": "",
+      "category": "event_downloads",
+      "get_category_display": "Event Downloads",
+      "url": "https://mylumi.playingatlearning.org/links/file/2451/",
+      "count": 821
+    }
+  ],
+  "web_links": [
+    {
+      "id": 28,
+      "name": "Google Map",
+      "description": "",
+      "category": "event_downloads",
+      "get_category_display": "Event Downloads",
+      "url": "https://mylumi.playingatlearning.org/links/web/28/",
+      "count": 753
+    }
+  ],
+  "agenda_group": 103,
+  "agenda_items": [],
+  "public_agenda_items": [
+    {
+      "id": 2398,
+      "title": "Doors open for key volunteers",
+      "description": "",
+      "start_time": "07:30:00",
+      "end_time": "07:55:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2399,
+      "title": "Lead Coach - Check-in Team & Team Setup Pit Area",
+      "description": "Must show a copy of the current FIRST Team Roster for check-in; Person checking in the team must be an adult listed on the roster (with a completed online consent and release waiver).   After checking in the team,  this adult will help the team get their pit area all setup",
+      "start_time": "08:00:00",
+      "end_time": "08:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2400,
+      "title": "Coaches Meeting",
+      "description": "One Adult from each team will meet with the Tournament Director, Judge Advisor and Head Referee.  The Judge Advisor will cover any Judging questions.The Head Referee will answer Robot Game questions.  The Tournament Director go through any site specific announcement or reminders.  Typically this is one of the Lead Coaches but is not the same person as checking in the team",
+      "start_time": "08:15:00",
+      "end_time": "08:40:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2401,
+      "title": "Opening Ceremony",
+      "description": "All attend",
+      "start_time": "08:45:00",
+      "end_time": "09:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2402,
+      "title": "Pits Open to Public",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "16:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2403,
+      "title": "Robot Game Matches & Judging",
+      "description": "",
+      "start_time": "09:15:00",
+      "end_time": "16:15:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2404,
+      "title": "Lunch Break",
+      "description": "",
+      "start_time": "12:15:00",
+      "end_time": "12:55:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2405,
+      "title": "Pit Cleanup / Tear Down",
+      "description": "Teams should pick up belongings and clean up their pit area.",
+      "start_time": "16:15:00",
+      "end_time": "16:45:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2406,
+      "title": "Host Fun Activity  (TBA)",
+      "description": "",
+      "start_time": "16:45:00",
+      "end_time": "17:25:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2407,
+      "title": "Closing & Award Ceremonies",
+      "description": "All attend -  note this might be earlier than the posted time if the Judges finish their decisions earlier than plan",
+      "start_time": "17:30:00",
+      "end_time": "18:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    }
+  ],
+  "venue": {
+    "name": "Gomes Elementary School",
+    "city": "Fremont",
+    "state": "CA",
+    "zip_code": "94539",
+    "website": "https://fremontunified.org/gomes/"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/192/",
+  "website_uri": "/en/event/192/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/192/#volunteer",
+  "team_stats": {
+    "teams": 12,
+    "students": 35,
+    "cities": [
+      "sunnyvale",
+      "san jose",
+      "fremont",
+      "saratoga",
+      "union city",
+      "cupertino"
+    ],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 8,
+    "info": {
+      "name": "UNEARTHED (Challenge)",
+      "year": 2025,
+      "release": "2025-08-01T09:00:00-07:00",
+      "program": {
+        "id": 1,
+        "abbreviation": "fll_challenge",
+        "previous_program": 2,
+        "get_abbreviation_display": "FIRST LEGO League: Challenge",
+        "get_logo_path": "images/program_logos/fll_challenge_logo.png",
+        "enable_team_profile": true
+      },
+      "season_begins": "2025-05-18",
+      "get_logo_path": "images/season_logos/2025_fll_challenge.png"
+    },
+    "tableau_import_start": null,
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/252588514598978?fllteam=%team_number%",
+    "has_team_profile": false
+  },
+  "role_template": null,
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": false,
+  "is_complete": true
+}

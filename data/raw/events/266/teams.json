@@ -1,0 +1,77 @@
+{
+  "count": 6,
+  "results": [
+    {
+      "id": 1959,
+      "team": {
+        "id": 1907,
+        "number": 19689,
+        "name": "RoboKids",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1940,
+      "team": {
+        "id": 1901,
+        "number": 34042,
+        "name": "Six Lego Demon Maniacs (FLL#34042)",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1941,
+      "team": {
+        "id": 1818,
+        "number": 34168,
+        "name": "Folsom Groundhogs",
+        "city": "Folsom",
+        "org_name": "Theodore Judah Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1933,
+      "team": {
+        "id": 1903,
+        "number": 34275,
+        "name": "Robot Rockstars",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1939,
+      "team": {
+        "id": 2388,
+        "number": 34938,
+        "name": "Gomes Go Getters",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1928,
+      "team": {
+        "id": 2173,
+        "number": 35041,
+        "name": "Robo Explorers",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

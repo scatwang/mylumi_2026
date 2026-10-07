@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NorCal FLL BIOGLOW 2026 – Qualification Tournaments Comparison Matrix</title>
+  <meta name="description" content="Interactive tournament comparison table for NorCal FLL Challenge BIOGLOW 2026. Benchmark upcoming venues against historical score metrics, cutoffs, and past reports.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="auth.js"></script>
+</head>
+<body>
+  <!-- Ambient background glow elements -->
+  <div class="glow-orb orb-1"></div>
+  <div class="glow-orb orb-2"></div>
+
+  <!-- Header -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="logo-badge">FLL</div>
+        <div class="title-group">
+          <h1>NorCal FLL BIOGLOW 2026</h1>
+          <p class="subtitle">Qualification Tournaments Comparison Matrix & Venue Benchmarks</p>
+        </div>
+      </div>
+      <!-- Nav Tabs -->
+      <nav style="display: flex; gap: 12px; margin-left: 20px;">
+        <a href="index.html" style="color: #0a0d17; background: var(--cyan-neon); font-weight: 600; text-decoration: none; font-size: 0.9rem; padding: 6px 14px; border-radius: 999px; box-shadow: 0 0 16px var(--cyan-glow);">🏟️ 预选赛横向对比</a>
+        <a href="teams.html" style="color: var(--text-muted); text-decoration: none; font-size: 0.9rem; padding: 6px 14px; border-radius: 999px; border: 1px solid var(--border-subtle); background: rgba(255, 255, 255, 0.03);">👥 全部队伍全景看板</a>
+        <a href="event_teams.html" style="color: var(--text-muted); text-decoration: none; font-size: 0.9rem; padding: 6px 14px; border-radius: 999px; border: 1px solid var(--border-subtle); background: rgba(255, 255, 255, 0.03);">⚔️ 各场参赛队分析</a>
+      </nav>
+
+      <div class="header-season-tag">
+        <span class="live-dot"></span>
+        <span>2026 Season Active (November)</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero & KPIs -->
+  <section class="hero-section">
+    <div class="hero-content">
+      <div class="hero-badge">14 Tournaments Across 3 Weekends</div>
+      <h2>2026 BIOGLOW 预选赛横向对比分析表</h2>
+      <p class="hero-desc">
+        以单表多维横向对比今年 14 场 BIOGLOW 预选赛。每行对应一场比赛，直接对照去年（2025 UNEARTHED）及往年同一赛场的最高分、前三均分、中位数、晋级线门槛与历届赛事详情。
+      </p>
+
+      <!-- KPI Summary Cards -->
+      <div class="kpi-grid">
+        <div class="kpi-card" id="kpi-tournaments">
+          <div class="kpi-label">Upcoming Tournaments</div>
+          <div class="kpi-value text-cyan">14 场</div>
+          <div class="kpi-sub">11月三大周末</div>
+        </div>
+        <div class="kpi-card" id="kpi-weekends">
+          <div class="kpi-label">Schedule Span</div>
+          <div class="kpi-value text-emerald">3 个周末</div>
+          <div class="kpi-sub">11/7-8, 14-15, 21-22</div>
+        </div>
+        <div class="kpi-card" id="kpi-cutoff">
+          <div class="kpi-label">Avg 2025 Cutoff</div>
+          <div class="kpi-value text-amber">~270 pts</div>
+          <div class="kpi-sub">Championship 晋级底线</div>
+        </div>
+        <div class="kpi-card" id="kpi-record">
+          <div class="kpi-label">QT Record Score</div>
+          <div class="kpi-value text-purple">510 pts</div>
+          <div class="kpi-sub">Leland HS (2025 W3)</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Controls Bar (Filter, Sort, Search) -->
+  <section class="controls-section">
+    <div class="controls-bar">
+      <!-- Weekend Filter Pills -->
+      <div class="weekend-pills" id="weekend-pills">
+        <button class="pill-btn active" data-filter="all" onclick="filterWeekend('all')">All Weekends (14)</button>
+        <button class="pill-btn" data-filter="1" onclick="filterWeekend('1')">Week 1 (Nov 7-8)</button>
+        <button class="pill-btn" data-filter="2" onclick="filterWeekend('2')">Week 2 (Nov 14-15)</button>
+        <button class="pill-btn" data-filter="3" onclick="filterWeekend('3')">Week 3 (Nov 21-22)</button>
+      </div>
+
+      <!-- Quick Search & Reset -->
+      <div class="filter-controls">
+        <div class="search-box">
+          <input type="text" id="venue-search" placeholder="搜索赛场、城市、学校..." oninput="handleSearch(this.value)">
+          <span class="search-icon">🔍</span>
+        </div>
+        <button class="tab-btn" id="btn-toggle-progression" onclick="toggleProgressionPanel()">
+          <span class="tab-icon">📈</span> 周末膨胀趋势分析
+        </button>
+        <button class="tab-btn" id="btn-toggle-induction" onclick="toggleInductionPanel()">
+          <span class="tab-icon">⚖️</span> 大区 vs 周次归纳对比
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Container -->
+  <main class="main-container">
+    <!-- Collapsible Region vs Weekend Induction Panel -->
+    <div id="induction-panel" class="induction-panel" style="display: none;">
+      <div class="induction-panel-inner">
+        <div class="panel-header">
+          <div>
+            <div class="panel-badge">统计方差分析 (ANOVA) 深度实测</div>
+            <h3>大区 (Region) vs 周次 (Weekend) 对中位数分数影响对比归纳</h3>
+            <p class="panel-desc">定量分析 2025 赛季（UNEARTHED）全部 20 场资格赛实测得分数据：分别按五大地理大区（Region）和按比赛周末（Weekend）进行分组归纳，评估哪个因素对中位数（Median）起决定性影响。</p>
+          </div>
+          <button class="btn-close-panel" onclick="toggleInductionPanel()">✕</button>
+        </div>
+
+        <!-- Dataset Scope Switcher Bar -->
+        <div class="dataset-switcher-bar">
+          <div class="switcher-title">
+            <span class="switcher-icon">📂</span>
+            <span>分析样本范围 (Sample Scope):</span>
+          </div>
+          <div class="dataset-pills-group">
+            <button class="dataset-toggle-btn active" id="dataset-btn-2025" onclick="switchInductionDataset('2025')">
+              <span class="btn-primary-text">2025 赛季 (UNEARTHED)</span>
+              <span class="btn-sub-tag">20 场资格赛 · 基准统一</span>
+            </button>
+            <button class="dataset-toggle-btn" id="dataset-btn-combined" onclick="switchInductionDataset('combined')">
+              <span class="btn-primary-text">2024 + 2025 双赛季聚合</span>
+              <span class="btn-sub-tag">36 场资格赛 · 跨赛季强化印证 🔥</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- Core Verdict Callout Banner -->
+        <div class="induction-verdict-banner">
+          <div class="verdict-icon">💡</div>
+          <div class="verdict-body">
+            <h4 id="verdict-banner-title">核心结论：按大区（Region）分区后，【大区】对中位数分数的影响仍然远大于【周次】！</h4>
+            <p id="verdict-banner-text">
+              在单因素方差分析（ANOVA）中，<strong>大区（Region）解释了 18.1% 的中位数方差</strong>，而<strong>周次（Weekend）仅解释了 1.6%</strong>，大区的影响力是周次的 <strong>11.3 倍</strong>！
+              大区之间平均中位数落差达 <strong>47.5 分</strong>（东湾 230.0 分 vs 萨克拉门托与中央谷地 277.5 分）；而跨周末的平均中位数极差仅为 <strong>14.7 分</strong>（Week 2 与 Week 3 几乎完全持平，仅差 1.3 分）。
+              <strong>周次的核心影响在于拉高单场最高分上限（Max / Top 3），而大区直接决定了参赛群体的技术底盘和中位数基准。</strong>
+            </p>
+          </div>
+        </div>
+
+        <!-- Comparative Metrics Cards Grid -->
+        <div class="induction-stats-grid">
+          <div class="induction-stat-card card-city">
+            <div class="stat-badge" id="card-region-badge">大区效应 (Region Factor)</div>
+            <div class="stat-main-num text-cyan" id="stat-region-eta">18.1%</div>
+            <div class="stat-main-label">方差解释度 (&eta;²)</div>
+            <div class="stat-divider"></div>
+            <div class="stat-row">
+              <span>组间均值跨度:</span>
+              <strong class="text-amber" id="stat-region-span">47.5 pts (230.0 ~ 277.5)</strong>
+            </div>
+            <div class="stat-row">
+              <span>平方和 SS:</span>
+              <strong id="stat-region-ss">SS = 4,126.3</strong>
+            </div>
+            <div class="stat-row">
+              <span>生态定位:</span>
+              <span class="text-emerald">参赛大区技术生态与培训密度决定者</span>
+            </div>
+          </div>
+
+          <div class="induction-stat-card card-weekend">
+            <div class="stat-badge" id="card-weekend-badge">周次效应 (Weekend Factor)</div>
+            <div class="stat-main-num text-purple" id="stat-weekend-eta">1.6%</div>
+            <div class="stat-main-label">方差解释度 (&eta;²)</div>
+            <div class="stat-divider"></div>
+            <div class="stat-row">
+              <span>组间均值跨度:</span>
+              <strong class="text-amber" id="stat-weekend-span">14.7 pts (243.8 ~ 258.5)</strong>
+            </div>
+            <div class="stat-row">
+              <span>W2 vs W3 差异:</span>
+              <strong id="stat-weekend-diff">仅 +1.3 pts (257.2 vs 258.5)</strong>
+            </div>
+            <div class="stat-row">
+              <span>生态定位:</span>
+              <span class="text-cyan">对中位数影响甚微；只拉高极值上限</span>
+            </div>
+          </div>
+
+          <div class="induction-stat-card card-ratio">
+            <div class="stat-badge">相对强度比值 (Ratio)</div>
+            <div class="stat-main-num text-emerald" id="stat-ratio-val">11.3x</div>
+            <div class="stat-main-label">方差解释力比 (大区 / 周次)</div>
+            <div class="stat-divider"></div>
+            <div class="stat-row">
+              <span>均值跨度比率:</span>
+              <strong class="text-amber" id="stat-ratio-span">3.2x (47.5 pts / 14.7 pts)</strong>
+            </div>
+            <div class="stat-row">
+              <span>战术选赛建议:</span>
+              <span class="text-cyan">保底晋级重大区生态</span>
+            </div>
+            <div class="stat-row">
+              <span>冲刺上限建议:</span>
+              <span class="text-purple">争冠 450+ 爆发看第3周</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Induction View Sub-tabs -->
+        <div class="induction-tabs-bar">
+          <button class="ind-tab-btn active" id="tab-btn-region" onclick="switchInductionTab('region')">
+            🗺️ 归纳一：按大区归纳 (By Region)
+          </button>
+          <button class="ind-tab-btn" id="tab-btn-weekend" onclick="switchInductionTab('weekend')">
+            📅 归纳二：按周次归纳 (By Weekend)
+          </button>
+          <button class="ind-tab-btn" id="tab-btn-sensitivity" onclick="switchInductionTab('sensitivity')">
+            📊 各指标敏感度多维对比 (Cross-Metric Breakdown)
+          </button>
+        </div>
+
+        <!-- Tab 1: By Region View -->
+        <div class="induction-tab-content active" id="tab-content-region">
+          <div class="table-clarification-note">
+            ℹ️ <strong>指标口径说明</strong>：
+            <strong>「场次中位数均值 (Mean of Medians)」</strong>为先计算每场比赛队伍得分的中位数，再对大区内所有场次的中位数求平均值（以场次为样本）；
+            <strong>「全体队伍真中位数 (Pooled Median)」</strong>为将该大区全部参赛队伍打散混合后直接求中位数（以队伍为样本）。
+            两种口径下各大区的排位与差距完全一致。
+          </div>
+          <div class="table-responsive">
+            <table class="induction-sub-table" id="table-induction-region">
+              <thead>
+                <tr>
+                  <th>排名</th>
+                  <th>大区 (Region)</th>
+                  <th>涵盖主要城市 (Included Cities)</th>
+                  <th>场次数</th>
+                  <th>总队数</th>
+                  <th>场次中位数均值 (Mean of Medians)</th>
+                  <th>全体队伍真中位数 (Pooled Median)</th>
+                  <th>各场中位数范围</th>
+                  <th>平均前三均分</th>
+                  <th>平均最高分</th>
+                  <th>平均晋级线</th>
+                  <th>竞争梯队 (Tier)</th>
+                </tr>
+              </thead>
+              <tbody id="tbody-induction-region">
+                <!-- Populated dynamically via app.js -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Tab 2: By Weekend View -->
+        <div class="induction-tab-content" id="tab-content-weekend" style="display: none;">
+          <div class="table-clarification-note">
+            ℹ️ <strong>指标口径说明</strong>：
+            各周的<strong>「场次中位数均值」</strong>与<strong>「全体队伍真中位数」</strong>在 Week 2 与 Week 3 均稳定在 257~265 分之间，跨周末波动极小；但单场最高分从 Week 1 的 315 分飙升至 Week 3 的 510 分。
+          </div>
+          <div class="table-responsive">
+            <table class="induction-sub-table" id="table-induction-weekend">
+              <thead>
+                <tr>
+                  <th>周末 (Weekend)</th>
+                  <th>2025 日期跨度</th>
+                  <th>2026 对应日期</th>
+                  <th>场次数</th>
+                  <th>总队数</th>
+                  <th>场次中位数均值 (Mean of Medians)</th>
+                  <th>全体队伍真中位数 (Pooled Median)</th>
+                  <th>各场中位数范围</th>
+                  <th>平均前三均分</th>
+                  <th>平均最高分</th>
+                  <th>平均晋级线</th>
+                  <th>阶段特征与规律 (Characteristics)</th>
+                </tr>
+              </thead>
+              <tbody id="tbody-induction-weekend">
+                <!-- Populated dynamically via app.js -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Tab 3: Sensitivity Breakdown View -->
+        <div class="induction-tab-content" id="tab-content-sensitivity" style="display: none;">
+          <div class="table-responsive">
+            <table class="induction-sub-table" id="table-induction-sensitivity">
+              <thead>
+                <tr>
+                  <th>考察指标 (Metric)</th>
+                  <th>城市方差解释度 (&eta;²)</th>
+                  <th>周次方差解释度 (&eta;²)</th>
+                  <th>主导决定因素 (Dominant Factor)</th>
+                  <th>城市 / 周次 影响比</th>
+                  <th>业务解读与队伍战略启示</th>
+                </tr>
+              </thead>
+              <tbody id="tbody-induction-sensitivity">
+                <!-- Populated dynamically via app.js -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Collapsible Weekend Inflation Panel -->
+    <div id="progression-panel" class="progression-panel" style="display: none;">
+      <div class="progression-panel-inner">
+        <div class="panel-header">
+          <div>
+            <h3>周末分数膨胀规律分析 (Weekend Inflation Analysis)</h3>
+            <p class="panel-desc">分析 2025 赛季各周末表现演化。后期的比赛因队伍算法和策略成熟，机器得分与晋级门槛均有大幅提升：</p>
+          </div>
+          <button class="btn-close-panel" onclick="toggleProgressionPanel()">✕</button>
+        </div>
+
+        <div class="analysis-cards-grid">
+          <div class="analysis-card">
+            <div class="card-pill week-1">Week 1 (初赛首周)</div>
+            <h4>首周起步线</h4>
+            <div class="metric-row">
+              <span class="metric-label">平均最高分</span>
+              <span class="metric-val text-cyan">315.0 pts</span>
+            </div>
+            <div class="metric-row">
+              <span class="metric-label">平均前三均分</span>
+              <span class="metric-val">298.4 pts</span>
+            </div>
+            <div class="metric-row">
+              <span class="metric-label">平均中位数</span>
+              <span class="metric-val">243.8 pts</span>
+            </div>
+            <div class="metric-row highlight">
+              <span class="metric-label">平均晋级底线</span>
+              <span class="metric-val text-amber">245.0 pts</span>
+            </div>
+            <p class="card-insight">头部特大高分较少，发挥稳定的 250+ 队伍出线概率极高。</p>
+          </div>
+
+          <div class="analysis-card">
+            <div class="card-pill week-2">Week 2 (中场爆发周)</div>
+            <h4>实力跃升 (+34%)</h4>
+            <div class="metric-row">
+              <span class="metric-label">平均最高分</span>
+              <span class="metric-val text-cyan">421.3 pts</span>
+            </div>
+            <div class="metric-row">
+              <span class="metric-label">平均前三均分</span>
+              <span class="metric-val">373.4 pts</span>
+            </div>
+            <div class="metric-row">
+              <span class="metric-label">平均中位数</span>
+              <span class="metric-val">258.4 pts</span>
+            </div>
+            <div class="metric-row highlight">
+              <span class="metric-label">平均晋级底线</span>
+              <span class="metric-val text-amber">275.6 pts</span>
+            </div>
+            <p class="card-insight">平均单场最高分跳涨 +106 pts，各队自动程序趋于成熟，竞争骤升。</p>
+          </div>
+
+          <div class="analysis-card">
+            <div class="card-pill week-3">Week 3 (终局巅峰周)</div>
+            <h4>高分天花板</h4>
+            <div class="metric-row">
+              <span class="metric-label">平均最高分</span>
+              <span class="metric-val text-cyan">432.0 pts</span>
+            </div>
+            <div class="metric-row">
+              <span class="metric-label">平均前三均分</span>
+              <span class="metric-val">379.5 pts</span>
+            </div>
+            <div class="metric-row">
+              <span class="metric-label">平均中位数</span>
+              <span class="metric-val">266.3 pts</span>
+            </div>
+            <div class="metric-row highlight">
+              <span class="metric-label">平均晋级底线</span>
+              <span class="metric-val text-amber">271.7 pts</span>
+            </div>
+            <p class="card-insight">出现全赛季最高 510 分记录。若未获核心大奖，机器分需达 275+ 确保晋级。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- The Master Comparison Table Card -->
+    <div class="table-card main-table-card">
+      <div class="table-header-bar">
+        <div class="th-title-group">
+          <h3>2026 BIOGLOW 赛事横向对比总表</h3>
+          <span class="table-sub-note">点击表头可进行升序/降序排序；点击每一行可展开查看该赛场历年详细横向对比</span>
+        </div>
+        <div class="th-meta-stats" id="table-row-count">
+          Showing 14 Tournaments
+        </div>
+      </div>
+
+      <div class="table-responsive">
+        <table class="matrix-table" id="matrix-table">
+          <thead>
+            <tr>
+              <th class="th-sortable" data-sort="weekend" onclick="sortTable('weekend')">
+                周末 <span class="sort-icon" id="sort-weekend">▼</span>
+              </th>
+              <th class="th-sortable" data-sort="date" onclick="sortTable('date')">
+                日期 <span class="sort-icon" id="sort-date"></span>
+              </th>
+              <th class="th-sortable" data-sort="venue_name" onclick="sortTable('venue_name')">
+                赛场 / 学校 (Venue) <span class="sort-icon" id="sort-venue_name"></span>
+              </th>
+              <th class="th-sortable" data-sort="city" onclick="sortTable('city')">
+                城市 (City) <span class="sort-icon" id="sort-city"></span>
+              </th>
+              <th class="th-sortable text-center" data-sort="capacity" onclick="sortTable('capacity')">
+                容量 <span class="sort-icon" id="sort-capacity"></span>
+              </th>
+              <th class="text-center">
+                去年(2025)对应场次
+              </th>
+              <th class="th-sortable text-right" data-sort="ly_max" onclick="sortTable('ly_max')">
+                2025 最高分 <span class="sort-icon" id="sort-ly_max"></span>
+              </th>
+              <th class="th-sortable text-right" data-sort="ly_top3" onclick="sortTable('ly_top3')">
+                2025 前三均分 <span class="sort-icon" id="sort-ly_top3"></span>
+              </th>
+              <th class="th-sortable text-right" data-sort="ly_median" onclick="sortTable('ly_median')">
+                2025 中位数 <span class="sort-icon" id="sort-ly_median"></span>
+              </th>
+              <th class="th-sortable text-right th-highlight" data-sort="ly_cutoff" onclick="sortTable('ly_cutoff')">
+                🏆 晋级底线分 <span class="sort-icon" id="sort-ly_cutoff"></span>
+              </th>
+              <th class="th-sortable text-center" data-sort="hist_count" onclick="sortTable('hist_count')">
+                历年场次 <span class="sort-icon" id="sort-hist_count"></span>
+              </th>
+              <th class="text-center">操作 / 报表</th>
+            </tr>
+          </thead>
+          <tbody id="matrix-tbody">
+            <!-- Dynamically populated rows -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </main>
+
+  <!-- Interactive Event Drill-Down Modal / Drawer -->
+  <div class="modal-overlay" id="event-modal" onclick="closeModalOnBackdrop(event)">
+    <div class="modal-drawer" id="modal-drawer">
+      <div class="modal-header">
+        <div class="modal-title-wrap">
+          <div class="modal-badges" id="modal-badges"></div>
+          <h2 id="modal-event-name">Event Details</h2>
+          <div class="modal-meta" id="modal-event-meta"></div>
+        </div>
+        <button class="modal-close-btn" onclick="closeModal()" title="Close details">✕</button>
+      </div>
+
+      <!-- Quick KPI Stats Bar -->
+      <div class="modal-kpi-bar" id="modal-kpi-bar"></div>
+
+      <!-- Modal Tabs -->
+      <div class="modal-tabs">
+        <button class="modal-tab-btn active" id="modal-tab-scores" onclick="switchModalTab('scores')">
+          机器得分排行榜 (<span id="modal-scores-count">0</span>)
+        </button>
+        <button class="modal-tab-btn" id="modal-tab-awards" onclick="switchModalTab('awards')">
+          获奖名单 (<span id="modal-awards-count">0</span>)
+        </button>
+        <button class="modal-tab-btn" id="modal-tab-rounds" onclick="switchModalTab('rounds')">
+          单轮得分与分布
+        </button>
+      </div>
+
+      <!-- Modal Content Body -->
+      <div class="modal-body">
+        <!-- Scores Tab -->
+        <div class="modal-tab-content active" id="modal-content-scores">
+          <div class="table-responsive">
+            <table class="scores-table">
+              <thead>
+                <tr>
+                  <th>Rank</th>
+                  <th>Team #</th>
+                  <th>Team Name</th>
+                  <th>Highest</th>
+                  <th>Round 1</th>
+                  <th>Round 2</th>
+                  <th>Round 3</th>
+                  <th>Status</th>
+                </tr>
+              </thead>
+              <tbody id="modal-scores-tbody"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Awards Tab -->
+        <div class="modal-tab-content" id="modal-content-awards">
+          <div class="awards-grid" id="modal-awards-grid"></div>
+        </div>
+
+        <!-- Rounds Tab -->
+        <div class="modal-tab-content" id="modal-content-rounds">
+          <div class="round-analysis-box" id="modal-round-analysis"></div>
+        </div>
+      </div>
+
+      <!-- Modal Footer -->
+      <div class="modal-footer">
+        <a href="#" id="modal-official-link" target="_blank" rel="noopener noreferrer" class="btn-external">
+          在 MyLumi 官方网站打开此比赛 ↗
+        </a>
+        <button class="btn-secondary" onclick="closeModal()">关闭</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

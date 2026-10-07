@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 313,
+      "team": {
+        "id": 207,
+        "number": 54970,
+        "name": "Blaze",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 298,
+      "team": {
+        "id": 203,
+        "number": 60280,
+        "name": "The Hackers",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 308,
+      "team": {
+        "id": 363,
+        "number": 60956,
+        "name": "The henny pennys",
+        "city": "san jose",
+        "org_name": "St martin of Tours"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 311,
+      "team": {
+        "id": 364,
+        "number": 60987,
+        "name": "RoboFish",
+        "city": "san jose",
+        "org_name": "St martin of Tours"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 307,
+      "team": {
+        "id": 125,
+        "number": 61116,
+        "name": "Spike Builders",
+        "city": "Mountain House",
+        "org_name": "Golden Coast Innovations"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 317,
+      "team": {
+        "id": 390,
+        "number": 61138,
+        "name": "Golden Musicians",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 305,
+      "team": {
+        "id": 310,
+        "number": 61333,
+        "name": "DaVinci Coders",
+        "city": "Santa Clara",
+        "org_name": "Peterson Middle School, Don Callejon K-8 School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 301,
+      "team": {
+        "id": 64,
+        "number": 61334,
+        "name": "Manu Srinivasan",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 309,
+      "team": {
+        "id": 194,
+        "number": 61808,
+        "name": "Untitled Documents",
+        "city": "Santa Clara",
+        "org_name": "Millikin Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 310,
+      "team": {
+        "id": 295,
+        "number": 61938,
+        "name": "LEGO Champions",
+        "city": "Fremont",
+        "org_name": "Code Ninjas Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 299,
+      "team": {
+        "id": 219,
+        "number": 62229,
+        "name": "LegoLegends",
+        "city": "San Jose",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 297,
+      "team": {
+        "id": 376,
+        "number": 62296,
+        "name": "In-Vinci-Bots",
+        "city": "Cupertino",
+        "org_name": "Self"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    }
+  ]
+}

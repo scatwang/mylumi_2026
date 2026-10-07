@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 55,
+      "team": {
+        "id": 253,
+        "number": 21887,
+        "name": "Electric Eagles",
+        "city": "San Lorenzo",
+        "org_name": "Redwood Christian Middle HS"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 118,
+      "team": {
+        "id": 241,
+        "number": 25572,
+        "name": "Ctrl+T",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 68,
+      "team": {
+        "id": 245,
+        "number": 52070,
+        "name": "Smilodon",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 115,
+      "team": {
+        "id": 100,
+        "number": 52305,
+        "name": "Master Oogway",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 72,
+      "team": {
+        "id": 35,
+        "number": 54977,
+        "name": "Menlo Park Narleaotters",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 66,
+      "team": {
+        "id": 252,
+        "number": 55669,
+        "name": "Robot Dolphin",
+        "city": "Foster City",
+        "org_name": ""
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 26,
+      "team": {
+        "id": 272,
+        "number": 55793,
+        "name": "SkyHigh",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 83,
+      "team": {
+        "id": 189,
+        "number": 55823,
+        "name": "Enginerds",
+        "city": "Fremont",
+        "org_name": "William Hopkins Jr High School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 124,
+      "team": {
+        "id": 128,
+        "number": 57236,
+        "name": "Electric Bricks",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 25,
+      "team": {
+        "id": 275,
+        "number": 58664,
+        "name": "ArtHackerZ",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 61,
+      "team": {
+        "id": 80,
+        "number": 58711,
+        "name": "Arctic Wolves",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 24,
+      "team": {
+        "id": 134,
+        "number": 60085,
+        "name": "Lego Artisans",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 79,
+      "team": {
+        "id": 147,
+        "number": 60169,
+        "name": "BUUUFF!!3",
+        "city": "Sunnyvale",
+        "org_name": "Cupertino Middle School, Louis E Stocklmeir School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 96,
+      "team": {
+        "id": 47,
+        "number": 60514,
+        "name": "Artistic",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 32,
+      "team": {
+        "id": 91,
+        "number": 60762,
+        "name": "Legotronics",
+        "city": "Dublin",
+        "org_name": "Tri Valley Robotics"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 84,
+      "team": {
+        "id": 270,
+        "number": 61604,
+        "name": "Mechanical Thump",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 89,
+      "team": {
+        "id": 344,
+        "number": 61778,
+        "name": "RoboRangers",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 85,
+      "team": {
+        "id": 226,
+        "number": 62280,
+        "name": "THE B.E.A.Rs.",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

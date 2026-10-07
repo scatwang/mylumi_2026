@@ -1,0 +1,202 @@
+{
+  "id": 280,
+  "name": "2026 NorCal FLL-C: San Jose Spring League at The Play Space 5/3",
+  "season": "2025 - UNEARTHED (Challenge)",
+  "program": "FIRST LEGO League: Challenge",
+  "program_abbreviation": "fll_challenge",
+  "description": "",
+  "capacity": 12,
+  "total_registered": 12,
+  "level": {
+    "id": 92,
+    "name": "NorCal 2025/2026 Spring League - UNEARTHED",
+    "next_level": null,
+    "previous_levels": [],
+    "registration_opens": "2026-02-10T19:00:00-08:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 8
+  },
+  "event_status": "closed",
+  "event_status_display": "Closed",
+  "status_v2": "complete",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 12,
+  "total_reserved": 0,
+  "start_time": "2026-05-03T08:00:00-07:00",
+  "end_time": "2026-05-03T18:00:00-07:00",
+  "all_details": [
+    {
+      "id": null,
+      "detail_type": "rg_tables",
+      "get_detail_type_display": "Robot Game",
+      "title": "Robot Game Tables",
+      "description": "This event will have <strong>1</strong> pair of Robot Game tables."
+    },
+    {
+      "id": null,
+      "detail_type": "judging_lanes",
+      "get_detail_type_display": "Judging",
+      "title": "Judging Pods",
+      "description": "This event will have <strong>2</strong> Judging Pods "
+    }
+  ],
+  "downloads": [],
+  "web_links": [],
+  "agenda_group": 102,
+  "agenda_items": [],
+  "public_agenda_items": [
+    {
+      "id": 2408,
+      "title": "Doors open for key volunteers",
+      "description": "",
+      "start_time": "07:30:00",
+      "end_time": "07:55:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2409,
+      "title": "Lead Coach - Check-in Team & Team Setup Pit Area",
+      "description": "Must show a copy of the current FIRST Team Roster for check-in; Person checking in the team must be an adult listed on the roster (with a completed online consent and release waiver).   After checking in the team,  this adult will help the team get their pit area all setup",
+      "start_time": "08:00:00",
+      "end_time": "08:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2410,
+      "title": "Coaches Meeting",
+      "description": "One Adult from each team will meet with the Tournament Director, Judge Advisor and Head Referee.  The Judge Advisor will cover any Judging questions.The Head Referee will answer Robot Game questions.  The Tournament Director go through any site specific announcement or reminders.  Typically this is one of the Lead Coaches but is not the same person as checking in the team and does not need to be an adult listed on the team roster",
+      "start_time": "08:15:00",
+      "end_time": "08:40:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2411,
+      "title": "Opening Ceremony",
+      "description": "All attend",
+      "start_time": "08:45:00",
+      "end_time": "09:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2413,
+      "title": "Robot Game Matches & Judging",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "16:15:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2412,
+      "title": "Pits Open to Public",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "16:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2414,
+      "title": "Lunch Break",
+      "description": "",
+      "start_time": "12:15:00",
+      "end_time": "12:55:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2415,
+      "title": "Pit Cleanup / Tear Down",
+      "description": "Teams should pick up belongings and clean up their pit area.",
+      "start_time": "16:15:00",
+      "end_time": "16:45:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2416,
+      "title": "Host Fun Activity  (TBA)",
+      "description": "",
+      "start_time": "16:45:00",
+      "end_time": "17:25:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2417,
+      "title": "Closing & Award Ceremonies",
+      "description": "All attend -  note this might be earlier than the posted time if the Judges finish their decisions earlier than plan",
+      "start_time": "17:30:00",
+      "end_time": "18:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    }
+  ],
+  "venue": {
+    "name": "The Play Space",
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95131",
+    "website": "https://www.theplayspace.org"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/280/",
+  "website_uri": "/en/event/280/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/280/#volunteer",
+  "team_stats": {
+    "teams": 12,
+    "students": 26,
+    "cities": [
+      "los altos",
+      "dublin",
+      "fremont",
+      "sunnyvale"
+    ],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 8,
+    "info": {
+      "name": "UNEARTHED (Challenge)",
+      "year": 2025,
+      "release": "2025-08-01T09:00:00-07:00",
+      "program": {
+        "id": 1,
+        "abbreviation": "fll_challenge",
+        "previous_program": 2,
+        "get_abbreviation_display": "FIRST LEGO League: Challenge",
+        "get_logo_path": "images/program_logos/fll_challenge_logo.png",
+        "enable_team_profile": true
+      },
+      "season_begins": "2025-05-18",
+      "get_logo_path": "images/season_logos/2025_fll_challenge.png"
+    },
+    "tableau_import_start": null,
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/252588514598978?fllteam=%team_number%",
+    "has_team_profile": false
+  },
+  "role_template": null,
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": false,
+  "is_complete": true
+}

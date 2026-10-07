@@ -1,0 +1,802 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 56271,
+        "name": "Gyraf",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-21 10:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-03-21 11:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-03-21 14:05:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-03-21 15:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-21 13:00:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 59278,
+        "name": "Quantum Bricks",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-21 09:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-03-21 11:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-03-21 13:40:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-03-21 15:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-21 11:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 64714,
+        "name": "Archtech",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-21 09:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-03-21 12:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-03-21 13:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-03-21 15:20:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-21 11:00:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66438,
+        "name": "Fearsome 5",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-21 10:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-03-21 11:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-03-21 14:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-03-21 15:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-03-21 11:45:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67524,
+        "name": "Turbo Robos",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-03-21 09:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-03-21 11:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-03-21 13:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-03-21 15:20:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-21 10:15:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69947,
+        "name": "Fossilbot",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-03-21 10:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-03-21 11:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-03-21 13:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-03-21 15:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-21 13:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70694,
+        "name": "Stocklmeir BrickBots 10",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-03-21 10:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-03-21 11:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-03-21 14:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-03-21 15:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-03-21 11:45:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70727,
+        "name": "Lego Legends",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-03-21 10:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-03-21 11:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-03-21 13:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2026-03-21 15:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-21 13:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71826,
+        "name": "Robostein",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-21 09:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-03-21 11:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-03-21 13:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-03-21 15:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-21 10:15:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72365,
+        "name": "Block Builders",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-21 09:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-03-21 11:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-03-21 13:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-03-21 15:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-21 10:15:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          },
+          {
+            "name": "GREEN POD 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2026-03-21 10:15:00-07:00",
+            "length": 30,
+            "rooms": [
+              "72365",
+              "71826",
+              "67524"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2026-03-21 11:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "59278",
+              "",
+              "64714"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2026-03-21 11:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "66438",
+              "",
+              "70694"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2026-03-21 13:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "69947",
+              "70727",
+              "56271"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 1154,
+        "name": "TABLE A"
+      },
+      {
+        "id": 1155,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2026-03-21 09:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72365 - Block Builders",
+          "#64714 - Archtech"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2026-03-21 09:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#59278 - Quantum Bricks",
+          "#71826 - Robostein"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2026-03-21 09:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "",
+          "#67524 - Turbo Robos"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2026-03-21 10:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66438 - Fearsome 5",
+          "#56271 - Gyraf"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2026-03-21 10:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69947 - Fossilbot",
+          ""
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2026-03-21 10:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70727 - Lego Legends",
+          "#70694 - Stocklmeir BrickBots 10"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2026-03-21 11:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "",
+          "#66438 - Fearsome 5"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2026-03-21 11:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69947 - Fossilbot",
+          "#70694 - Stocklmeir BrickBots 10"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2026-03-21 11:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#56271 - Gyraf",
+          "#70727 - Lego Legends"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2026-03-21 11:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71826 - Robostein",
+          "#72365 - Block Builders"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2026-03-21 11:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#59278 - Quantum Bricks",
+          "#67524 - Turbo Robos"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2026-03-21 12:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#64714 - Archtech",
+          ""
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2026-03-21 13:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67524 - Turbo Robos",
+          "#72365 - Block Builders"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2026-03-21 13:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#64714 - Archtech",
+          "#71826 - Robostein"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2026-03-21 13:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "",
+          "#59278 - Quantum Bricks"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2026-03-21 13:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70727 - Lego Legends",
+          "#69947 - Fossilbot"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2026-03-21 14:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#56271 - Gyraf",
+          ""
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2026-03-21 14:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70694 - Stocklmeir BrickBots 10",
+          "#66438 - Fearsome 5"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2026-03-21 15:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72365 - Block Builders",
+          "#59278 - Quantum Bricks"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2026-03-21 15:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71826 - Robostein",
+          ""
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2026-03-21 15:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67524 - Turbo Robos",
+          "#64714 - Archtech"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2026-03-21 15:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66438 - Fearsome 5",
+          "#69947 - Fossilbot"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2026-03-21 15:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "",
+          "#70727 - Lego Legends"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2026-03-21 15:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70694 - Stocklmeir BrickBots 10",
+          "#56271 - Gyraf"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2026-03-17 01:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    2176,
+    2049,
+    2178,
+    2179,
+    2180,
+    2181,
+    2182,
+    2183,
+    2186
+  ]
+}

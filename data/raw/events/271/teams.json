@@ -1,0 +1,125 @@
+{
+  "count": 10,
+  "results": [
+    {
+      "id": 2183,
+      "team": {
+        "id": 2483,
+        "number": 56271,
+        "name": "Gyraf",
+        "city": "Albany",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2179,
+      "team": {
+        "id": 2002,
+        "number": 59278,
+        "name": "Quantum Bricks",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2177,
+      "team": {
+        "id": 2481,
+        "number": 64714,
+        "name": "Archtech",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foun"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2181,
+      "team": {
+        "id": 1765,
+        "number": 66438,
+        "name": "Fearsome 5",
+        "city": "FOLSOM",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2180,
+      "team": {
+        "id": 2392,
+        "number": 67524,
+        "name": "Turbo Robos",
+        "city": "Fremont",
+        "org_name": "Harvey Green Elementary, Warm Springs Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2186,
+      "team": {
+        "id": 2264,
+        "number": 69947,
+        "name": "Fossilbot",
+        "city": "Danville",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2176,
+      "team": {
+        "id": 1896,
+        "number": 70694,
+        "name": "Stocklmeir BrickBots 10",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2178,
+      "team": {
+        "id": 1589,
+        "number": 70727,
+        "name": "Lego Legends",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2049,
+      "team": {
+        "id": 1628,
+        "number": 71826,
+        "name": "Robostein",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2182,
+      "team": {
+        "id": 1977,
+        "number": 72365,
+        "name": "Block Builders",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

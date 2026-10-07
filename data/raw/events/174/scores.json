@@ -1,0 +1,457 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 52561,
+      "name": "Brilliant Beavers",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 420,
+      "highest_display": 420,
+      "rounds": [
+        420,
+        410,
+        335
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        420,
+        410,
+        335
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 4978,
+      "name": "4978",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 390,
+      "highest_display": 390,
+      "rounds": [
+        340,
+        235,
+        390
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        390,
+        340,
+        235
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 71598,
+      "name": "WIP",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 390,
+      "highest_display": 390,
+      "rounds": [
+        300,
+        390,
+        310
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        390,
+        310,
+        300
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 70538,
+      "name": "Shovel Buddies",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 375,
+      "highest_display": 375,
+      "rounds": [
+        245,
+        370,
+        375
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        375,
+        370,
+        245
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 67727,
+      "name": "Thunderbolts",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 375,
+      "highest_display": 375,
+      "rounds": [
+        300,
+        320,
+        375
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        375,
+        320,
+        300
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 70487,
+      "name": "Circuit Brakers",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        110,
+        305,
+        340
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        340,
+        305,
+        110
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 61803,
+      "name": "Robosaurs",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 330,
+      "highest_display": 330,
+      "rounds": [
+        330,
+        225,
+        175
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "One student in particular was being rude to his teammates, after the match ended a teammate had to ask him to stop being rude",
+        ""
+      ],
+      "rounds_sorted": [
+        330,
+        225,
+        175
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 52305,
+      "name": "Master Oogway",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 300,
+      "highest_display": 300,
+      "rounds": [
+        130,
+        205,
+        300
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        300,
+        205,
+        130
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 34265,
+      "name": "EagleBots",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 255,
+      "highest_display": 255,
+      "rounds": [
+        200,
+        255,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "One student in particular was being rude to his teammates, after the match ended a teammate had to ask him to stop being rude"
+      ],
+      "rounds_sorted": [
+        255,
+        200,
+        160
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 68894,
+      "name": "GyroBots",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        250,
+        190,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        250,
+        190
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 71538,
+      "name": "Dino Diggers",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        195,
+        210,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        210,
+        195
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 60296,
+      "name": "Stormy Knights",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        195,
+        185,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        195,
+        185
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 10585,
+      "name": "Code Crackers",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        145,
+        170,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        170,
+        145
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 60433,
+      "name": "Sigma Squad",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 190,
+      "highest_display": 190,
+      "rounds": [
+        170,
+        190,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        190,
+        170,
+        155
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 61769,
+      "name": "Omegas",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        155,
+        165,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        165,
+        165,
+        155
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 60987,
+      "name": "The fighting pickles",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        120,
+        160,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        160,
+        120
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 68707,
+      "name": "The HF Glitch Mob - Syntax Terror",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        80,
+        130,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        130,
+        80
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 60956,
+      "name": "The Stanlicorns",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 140,
+      "highest_display": 140,
+      "rounds": [
+        90,
+        80,
+        140
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        140,
+        90,
+        80
+      ],
+      "ordinal": "18th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

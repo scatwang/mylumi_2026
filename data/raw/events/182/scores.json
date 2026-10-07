@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 72592,
+      "name": "Fantastic Five",
+      "judging_lane_name": "RED POD 2",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        265,
+        280,
+        265
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        265,
+        265
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 71922,
+      "name": "Pixelated Panthers",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        175,
+        225,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        225,
+        175
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 75058,
+      "name": "MegaBots",
+      "judging_lane_name": "RED POD 2",
+      "highest": 245,
+      "highest_display": 245,
+      "rounds": [
+        175,
+        245,
+        175
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        245,
+        175,
+        175
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 72081,
+      "name": "INNO BOTS 1",
+      "judging_lane_name": "RED POD 2",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        205,
+        195,
+        220
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        205,
+        195
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 65158,
+      "name": "Tierra Linda",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        205,
+        155,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        190,
+        155
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 74365,
+      "name": "Master4Minds",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        140,
+        180,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        180,
+        140
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 66736,
+      "name": "SAN RAMON ROBOS",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        165,
+        185,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        165,
+        115
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 74990,
+      "name": "St. Anselm School Rookies",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        120,
+        65,
+        175
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        120,
+        65
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 60141,
+      "name": "St. Anselm School Panthers",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 130,
+      "highest_display": 130,
+      "rounds": [
+        35,
+        120,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        130,
+        120,
+        35
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 72482,
+      "name": "MWA Robotics Club",
+      "judging_lane_name": "RED POD 2",
+      "highest": 125,
+      "highest_display": 125,
+      "rounds": [
+        75,
+        55,
+        125
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        125,
+        75,
+        55
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 71110,
+      "name": "RobotiCi",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 85,
+      "highest_display": 85,
+      "rounds": [
+        40,
+        20,
+        85
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        85,
+        40,
+        20
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": "",
+      "number": 73489,
+      "name": "RoboBlachsters",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        "",
+        "",
+        ""
+      ],
+      "has_scores": false,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": ""
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

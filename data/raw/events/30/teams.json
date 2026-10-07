@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 468,
+      "team": {
+        "id": 311,
+        "number": 5983,
+        "name": "Foothill Rec Team",
+        "city": "Walnut Creek",
+        "org_name": "Foothill Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 469,
+      "team": {
+        "id": 330,
+        "number": 20975,
+        "name": "Foothill Recreational Team",
+        "city": "Walnut Creek",
+        "org_name": "Foothill Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 476,
+      "team": {
+        "id": 561,
+        "number": 58043,
+        "name": "Bulldog Bots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 442,
+      "team": {
+        "id": 424,
+        "number": 59696,
+        "name": "Energizers",
+        "city": "Sacramento",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 535,
+      "team": {
+        "id": 195,
+        "number": 59923,
+        "name": "Botatoes",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 540,
+      "team": {
+        "id": 610,
+        "number": 60069,
+        "name": "NINDROIDS",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 462,
+      "team": {
+        "id": 405,
+        "number": 60141,
+        "name": "Ginger Seals",
+        "city": "San Anselmo",
+        "org_name": "St Anselm School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 536,
+      "team": {
+        "id": 38,
+        "number": 60451,
+        "name": "Galactic Marshmallows",
+        "city": "San Mateo",
+        "org_name": "Highlands Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 455,
+      "team": {
+        "id": 519,
+        "number": 60497,
+        "name": "Apollo 6",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 460,
+      "team": {
+        "id": 370,
+        "number": 60786,
+        "name": "Vornadoes",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 478,
+      "team": {
+        "id": 509,
+        "number": 61489,
+        "name": "Guinius",
+        "city": "Walnut Creek",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 436,
+      "team": {
+        "id": 18,
+        "number": 61719,
+        "name": "Emeralds",
+        "city": "Ripon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 459,
+      "team": {
+        "id": 415,
+        "number": 61997,
+        "name": "Clueless Mechanics",
+        "city": "San Ramon",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 598,
+      "team": {
+        "id": 383,
+        "number": 63308,
+        "name": "QLS 5G",
+        "city": "Pleasanton",
+        "org_name": "The Quarry Lane School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 597,
+      "team": {
+        "id": 396,
+        "number": 63583,
+        "name": "QLS HopperBots",
+        "city": "Dublin",
+        "org_name": "The Quarry Lane School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 477,
+      "team": {
+        "id": 578,
+        "number": 63874,
+        "name": "MasterBuilder3",
+        "city": "HILLSBOROUGH",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 532,
+      "team": {
+        "id": 585,
+        "number": 64480,
+        "name": "@Anakin Piewalkers",
+        "city": "Fremont",
+        "org_name": "John M Horner Jr High School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 546,
+      "team": {
+        "id": 551,
+        "number": 64490,
+        "name": "Legonauts",
+        "city": "Fremont",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

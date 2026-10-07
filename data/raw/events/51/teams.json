@@ -1,0 +1,209 @@
+{
+  "count": 17,
+  "results": [
+    {
+      "id": 713,
+      "team": {
+        "id": 897,
+        "number": 10585,
+        "name": "Code Crackers",
+        "city": "Hillsborough",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 806,
+      "team": {
+        "id": 691,
+        "number": 51168,
+        "name": "The Warriors",
+        "city": "Rancho Cordova",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 838,
+      "team": {
+        "id": 941,
+        "number": 57382,
+        "name": "RoboRise",
+        "city": "Foster City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 970,
+      "team": {
+        "id": 1111,
+        "number": 58015,
+        "name": "Spirit Robotics",
+        "city": "Hollister",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 730,
+      "team": {
+        "id": 952,
+        "number": 60033,
+        "name": "Pokémon",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 666,
+      "team": {
+        "id": 716,
+        "number": 60152,
+        "name": "The Game Changers",
+        "city": "Union City",
+        "org_name": "Code Ninjas"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 820,
+      "team": {
+        "id": 1115,
+        "number": 60514,
+        "name": "Staz",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 633,
+      "team": {
+        "id": 1116,
+        "number": 60537,
+        "name": "Mecha Masters",
+        "city": "Fremont",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 868,
+      "team": {
+        "id": 735,
+        "number": 61998,
+        "name": "TechTitans",
+        "city": "Fremont",
+        "org_name": "John M Horner Jr High School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 692,
+      "team": {
+        "id": 644,
+        "number": 65125,
+        "name": "Baybots",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 881,
+      "team": {
+        "id": 846,
+        "number": 66233,
+        "name": "Galaxy Guardians",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 720,
+      "team": {
+        "id": 847,
+        "number": 66286,
+        "name": "MasterDroids",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 969,
+      "team": {
+        "id": 853,
+        "number": 66699,
+        "name": "Techno Turtles",
+        "city": "Fremont",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 870,
+      "team": {
+        "id": 1093,
+        "number": 67837,
+        "name": "Submarine Surferz",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 972,
+      "team": {
+        "id": 1197,
+        "number": 68557,
+        "name": "M-A Cubs 1",
+        "city": "Menlo Park",
+        "org_name": "La Entrada Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 973,
+      "team": {
+        "id": 1198,
+        "number": 68558,
+        "name": "M-A Cubs 2",
+        "city": "Menlo Park",
+        "org_name": "La Entrada Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 974,
+      "team": {
+        "id": 1199,
+        "number": 68559,
+        "name": "M-A Cubs 3",
+        "city": "Menlo Park",
+        "org_name": "La Entrada Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

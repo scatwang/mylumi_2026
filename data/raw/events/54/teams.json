@@ -1,0 +1,293 @@
+{
+  "count": 24,
+  "results": [
+    {
+      "id": 672,
+      "team": {
+        "id": 885,
+        "number": 4416,
+        "name": "O.R.C.A",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 725,
+      "team": {
+        "id": 887,
+        "number": 4978,
+        "name": "Otter Bots",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 798,
+      "team": {
+        "id": 898,
+        "number": 10586,
+        "name": "Master Builders",
+        "city": "Hillsborough",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 628,
+      "team": {
+        "id": 899,
+        "number": 10589,
+        "name": "Turtle Tech",
+        "city": "Hillsborough",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 652,
+      "team": {
+        "id": 907,
+        "number": 25572,
+        "name": "Octonauts",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 851,
+      "team": {
+        "id": 685,
+        "number": 44532,
+        "name": "Razzle Dazzle Robotics FLL-C 44532",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 819,
+      "team": {
+        "id": 692,
+        "number": 52306,
+        "name": "Infinite AI",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 744,
+      "team": {
+        "id": 933,
+        "number": 56487,
+        "name": "The Sea Syrens",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 696,
+      "team": {
+        "id": 705,
+        "number": 57285,
+        "name": "Mighty Minds",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 865,
+      "team": {
+        "id": 711,
+        "number": 60050,
+        "name": "Ustar Tech Lightning",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 873,
+      "team": {
+        "id": 713,
+        "number": 60085,
+        "name": "Lego Artisans",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 864,
+      "team": {
+        "id": 956,
+        "number": 60291,
+        "name": "Fusion Vortex",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 710,
+      "team": {
+        "id": 723,
+        "number": 60502,
+        "name": "CodeBreakerz",
+        "city": "San Ramon",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 718,
+      "team": {
+        "id": 966,
+        "number": 60533,
+        "name": "Human Microphones",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 805,
+      "team": {
+        "id": 987,
+        "number": 61167,
+        "name": "Hydrostorm",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 795,
+      "team": {
+        "id": 992,
+        "number": 61334,
+        "name": "Sparks Fly",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 766,
+      "team": {
+        "id": 999,
+        "number": 61717,
+        "name": "Pixel Pirates",
+        "city": "Fremont",
+        "org_name": "William Hopkins Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 792,
+      "team": {
+        "id": 1008,
+        "number": 61949,
+        "name": "Ultraviolet",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 814,
+      "team": {
+        "id": 740,
+        "number": 64698,
+        "name": "ROAR",
+        "city": "San Jose",
+        "org_name": "Basis Independent Silicon Vly"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 747,
+      "team": {
+        "id": 1051,
+        "number": 66444,
+        "name": "CyberPirates",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 796,
+      "team": {
+        "id": 1253,
+        "number": 66817,
+        "name": "Reid-Hillview Airport Robotics",
+        "city": "Sunnyvale",
+        "org_name": "TechVision"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 804,
+      "team": {
+        "id": 865,
+        "number": 67056,
+        "name": "Wavebots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 821,
+      "team": {
+        "id": 1151,
+        "number": 67459,
+        "name": "MissionBots",
+        "city": "Fremont",
+        "org_name": "William Hopkins Junior High"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 967,
+      "team": {
+        "id": 1299,
+        "number": 68499,
+        "name": "Waqar B Hashim",
+        "city": "Cupertino",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

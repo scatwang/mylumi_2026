@@ -1,0 +1,438 @@
+[
+  {
+    "id": 311,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-22T08:00:00-08:00",
+    "end_time": "2026-11-22T18:00:00-08:00",
+    "venue": {
+      "id": 83,
+      "city": "East Palo Alto"
+    },
+    "website_uri": "/en/event/311/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 312,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-21T08:00:00-08:00",
+    "end_time": "2026-11-21T18:00:00-08:00",
+    "venue": {
+      "id": 7,
+      "city": "San Francisco"
+    },
+    "website_uri": "/en/event/312/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 310,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT - Gunn High School, Palo Alto",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-21T08:00:00-08:00",
+    "end_time": "2026-11-21T18:00:00-08:00",
+    "venue": {
+      "id": 12,
+      "city": "Palo Alto"
+    },
+    "website_uri": "/en/event/310/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 314,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT - Pleasant Grove High School, Elk Grove",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-15T08:00:00-08:00",
+    "end_time": "2026-11-15T18:00:00-08:00",
+    "venue": {
+      "id": 16,
+      "city": "Elk Grove"
+    },
+    "website_uri": "/en/event/314/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 308,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT - NOV 15 The Play Space, San Jose",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-15T08:00:00-08:00",
+    "end_time": "2026-11-15T18:00:00-08:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/308/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 307,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT- SF Town School for Boys",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-15T08:00:00-08:00",
+    "end_time": "2026-11-15T18:00:00-08:00",
+    "venue": null,
+    "website_uri": "/en/event/307/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 309,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT - Nueva School, San Mateo",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-15T08:00:00-08:00",
+    "end_time": "2026-11-15T18:00:00-08:00",
+    "venue": null,
+    "website_uri": "/en/event/309/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 313,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT - BASIS Independent School, Dublin",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-14T08:00:00-08:00",
+    "end_time": "2026-11-14T18:00:00-08:00",
+    "venue": null,
+    "website_uri": "/en/event/313/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 303,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT -  Beyer High School, Modesto",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-14T08:00:00-08:00",
+    "end_time": "2026-11-14T18:00:00-08:00",
+    "venue": {
+      "id": 8,
+      "city": "Modesto"
+    },
+    "website_uri": "/en/event/303/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 305,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT - The King's Academy, Sunnyvale",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-14T08:00:00-08:00",
+    "end_time": "2026-11-14T18:00:00-08:00",
+    "venue": {
+      "id": 80,
+      "city": "Sunnyvale"
+    },
+    "website_uri": "/en/event/305/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 306,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT - San Francisco Bay University, Fremont",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-14T08:00:00-08:00",
+    "end_time": "2026-11-14T18:00:00-08:00",
+    "venue": null,
+    "website_uri": "/en/event/306/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 304,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT- SF Day School",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-14T08:00:00-08:00",
+    "end_time": "2026-11-14T18:00:00-08:00",
+    "venue": {
+      "id": 6,
+      "city": "San Francisco"
+    },
+    "website_uri": "/en/event/304/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 301,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT – St. Martin of Tours, San Jose",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 18,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-07T08:00:00-08:00",
+    "end_time": "2026-11-07T18:00:00-08:00",
+    "venue": {
+      "id": 33,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/301/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 302,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT – The Dorris-Eaton School, San Ramon",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 0,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "preference-open",
+    "start_time": "2026-11-07T08:00:00-08:00",
+    "end_time": "2026-11-07T18:00:00-08:00",
+    "venue": {
+      "id": 86,
+      "city": "San Ramon"
+    },
+    "website_uri": "/en/event/302/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  }
+]

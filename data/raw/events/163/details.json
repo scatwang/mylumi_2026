@@ -1,0 +1,147 @@
+{
+  "id": 163,
+  "name": "2025 NorCal FLL-E Festival - San Jose Evening - 4/12",
+  "season": "2024 - SUBMERGED (Explore)",
+  "program": "FIRST LEGO League: Explore",
+  "program_abbreviation": "fll_explore",
+  "description": "",
+  "capacity": 7,
+  "total_registered": 7,
+  "level": {
+    "id": 16,
+    "name": "NorCal FLL Explore Festivals 2024",
+    "next_level": null,
+    "previous_levels": [],
+    "registration_opens": "2024-10-01T10:00:00-07:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 4
+  },
+  "event_status": "closed",
+  "event_status_display": "Closed",
+  "status_v2": "complete",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 7,
+  "total_reserved": 0,
+  "start_time": "2025-04-12T15:15:00-07:00",
+  "end_time": "2025-04-12T17:15:00-07:00",
+  "all_details": [],
+  "downloads": [],
+  "web_links": [],
+  "agenda_group": 15,
+  "agenda_items": [],
+  "public_agenda_items": [
+    {
+      "id": 2201,
+      "title": "Team Check-in & Pits Open",
+      "description": "",
+      "start_time": "15:15:00",
+      "end_time": "15:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2202,
+      "title": "Welcome Ceremony",
+      "description": "",
+      "start_time": "15:30:00",
+      "end_time": "15:40:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2203,
+      "title": "Team Activities",
+      "description": "When teams are not in their reviewing session, they have time for fun activities",
+      "start_time": "15:45:00",
+      "end_time": "16:45:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2204,
+      "title": "Reviewing Sessions",
+      "description": "Total of 10 minute session with Reviewers. Team may have a presentation if desired at the beginning of their review session - keep to 3 to 4 minutes",
+      "start_time": "15:45:00",
+      "end_time": "16:45:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2205,
+      "title": "Pit Cleanup / Tear Down",
+      "description": "Teams should pick up belongings and clean up their pit area.",
+      "start_time": "16:45:00",
+      "end_time": "17:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 2206,
+      "title": "Celebration Ceremony",
+      "description": "",
+      "start_time": "17:00:00",
+      "end_time": "17:15:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    }
+  ],
+  "venue": {
+    "name": "The Play Space",
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95131",
+    "website": "https://www.theplayspace.org"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/163/",
+  "website_uri": "/en/event/163/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/163/#volunteer",
+  "team_stats": {
+    "teams": 7,
+    "students": 17,
+    "cities": [
+      "santa clara",
+      "san jose",
+      "milpitas",
+      "newark"
+    ],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 4,
+    "info": {
+      "name": "SUBMERGED (Explore)",
+      "year": 2024,
+      "release": "2024-08-01T09:00:00-07:00",
+      "program": {
+        "id": 2,
+        "abbreviation": "fll_explore",
+        "previous_program": 3,
+        "get_abbreviation_display": "FIRST LEGO League: Explore",
+        "get_logo_path": "images/program_logos/fll_explore_logo.png",
+        "enable_team_profile": false
+      },
+      "season_begins": "2024-05-18",
+      "get_logo_path": "images/season_logos/2024_fll_explore.png"
+    },
+    "tableau_import_start": null,
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/242666600933963",
+    "has_team_profile": false
+  },
+  "role_template": null,
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": false,
+  "is_complete": true
+}

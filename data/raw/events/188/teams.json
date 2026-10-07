@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 1872,
+      "team": {
+        "id": 1915,
+        "number": 5254,
+        "name": "Golden Surfers",
+        "city": "East Palo Alto",
+        "org_name": "Aspire East Palo Alto Charter School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1685,
+      "team": {
+        "id": 2118,
+        "number": 25572,
+        "name": "25572",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1554,
+      "team": {
+        "id": 1678,
+        "number": 54977,
+        "name": "Menlo Park Narleaotters",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1682,
+      "team": {
+        "id": 1999,
+        "number": 56768,
+        "name": "Blue Brickbots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1611,
+      "team": {
+        "id": 1772,
+        "number": 66820,
+        "name": "Leadways FBI",
+        "city": "Cupertino",
+        "org_name": "Leadways School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1583,
+      "team": {
+        "id": 1804,
+        "number": 70178,
+        "name": "Crystal Springs Uplands Middle School 1",
+        "city": "Belmont",
+        "org_name": "Crystal Springs Uplands School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1654,
+      "team": {
+        "id": 1591,
+        "number": 70849,
+        "name": "ML Infinity Bots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1555,
+      "team": {
+        "id": 1605,
+        "number": 71306,
+        "name": "Wingin' It",
+        "city": "Oakland",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1906,
+      "team": {
+        "id": 2155,
+        "number": 71481,
+        "name": "Westlake Robotics Soar",
+        "city": "Oakland",
+        "org_name": "Westlake Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1644,
+      "team": {
+        "id": 1910,
+        "number": 71981,
+        "name": "Robo-Relics",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1664,
+      "team": {
+        "id": 2225,
+        "number": 72884,
+        "name": "Starlight Scouts",
+        "city": "Pleasant Hill",
+        "org_name": "Girl Scouts"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1684,
+      "team": {
+        "id": 2127,
+        "number": 73146,
+        "name": "Master Builders",
+        "city": "Saratoga",
+        "org_name": "Foothill Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

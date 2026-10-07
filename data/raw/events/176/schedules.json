@@ -1,0 +1,1256 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 445,
+        "name": "Mighty Robo Pines",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2025-11-08 10:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-11-08 13:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-11-08 14:25:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2025-11-08 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 11:30:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 20710,
+        "name": "Our Savior Lions",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 09:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-11-08 13:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-11-08 14:10:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2025-11-08 15:35:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 10:45:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 30497,
+        "name": "FBI(Fascinating Bot Intelligence)",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 09:30:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-08 11:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-11-08 13:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2025-11-08 15:25:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 10:00:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 56489,
+        "name": "Gear Girls",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-08 10:05:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-11-08 11:20:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-11-08 13:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2025-11-08 16:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-08 14:45:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60507,
+        "name": "Team Prime",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 09:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-11-08 12:05:00-08:00",
+            "length": 55,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-11-08 14:10:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2025-11-08 15:25:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 10:45:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61055,
+        "name": "Robotic Athletes",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 09:30:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-11-08 12:05:00-08:00",
+            "length": 55,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-11-08 14:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2025-11-08 15:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 10:45:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61406,
+        "name": "Quantum Bots",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-08 09:55:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-08 11:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-11-08 13:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2025-11-08 16:35:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-08 14:00:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61776,
+        "name": "Tech Ninja",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-08 09:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-08 11:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-11-08 13:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2025-11-08 16:35:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-08 14:45:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66075,
+        "name": "TechTitans",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2025-11-08 10:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-08 11:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2025-11-08 14:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2025-11-08 15:55:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-08 13:15:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68960,
+        "name": "Seismic Cyborgs",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 09:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-08 11:55:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-11-08 14:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2025-11-08 15:35:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 10:00:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71252,
+        "name": "Lions",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2025-11-08 10:40:00-08:00",
+            "length": 20,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-11-08 11:35:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2025-11-08 14:35:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2025-11-08 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-08 13:15:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71435,
+        "name": "Servo Dei",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 09:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-08 11:55:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-11-08 13:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2025-11-08 15:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 10:00:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71804,
+        "name": "Astrobot",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-08 10:05:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-08 11:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2025-11-08 14:55:00-08:00",
+            "length": 20,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2025-11-08 16:25:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-08 14:00:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72102,
+        "name": "The Radical Robots",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2025-11-08 10:40:00-08:00",
+            "length": 20,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-11-08 13:10:00-08:00",
+            "length": 20,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-11-08 14:25:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2025-11-08 15:55:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 11:30:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72123,
+        "name": "Dig Deep Discoverers",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-08 09:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-08 11:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2025-11-08 14:55:00-08:00",
+            "length": 20,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2025-11-08 16:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-08 14:00:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72151,
+        "name": "Miniona Jones",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2025-11-08 10:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-11-08 13:10:00-08:00",
+            "length": 20,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2025-11-08 14:35:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2025-11-08 16:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 11:30:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72905,
+        "name": "Argo Robotics Team 251",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-08 09:55:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-11-08 11:20:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-11-08 13:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2025-11-08 16:25:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-08 14:45:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "Yellow Pod 1"
+          },
+          {
+            "name": "Red Pod 2"
+          },
+          {
+            "name": "Green Pod 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-11-08 10:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "71435",
+              "30497",
+              "68960"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-11-08 10:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "61055",
+              "60507",
+              "20710"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-11-08 11:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "445",
+              "72102",
+              "72151"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-11-08 13:15:00-08:00",
+            "length": 30,
+            "rooms": [
+              "71252",
+              "66075",
+              ""
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2025-11-08 14:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "72123",
+              "71804",
+              "61406"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2025-11-08 14:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "56489",
+              "72905",
+              "61776"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 1056,
+        "name": "Red Table"
+      },
+      {
+        "id": 1057,
+        "name": "Blue Table"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2025-11-08 09:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#71435 - Servo Dei",
+          "#20710 - Our Savior Lions"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2025-11-08 09:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60507 - Team Prime",
+          "#68960 - Seismic Cyborgs"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2025-11-08 09:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61055 - Robotic Athletes",
+          "#30497 - FBI(Fascinating Bot Intelligence)"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2025-11-08 09:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72123 - Dig Deep Discoverers",
+          "#61776 - Tech Ninja"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2025-11-08 09:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72905 - Argo Robotics Team 251",
+          "#61406 - Quantum Bots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2025-11-08 10:05:00-08:00",
+        "length": 15,
+        "tables": [
+          "#56489 - Gear Girls",
+          "#71804 - Astrobot"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2025-11-08 10:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#445 - Mighty Robo Pines",
+          ""
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 8,
+        "start_time": "2025-11-08 10:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66075 - TechTitans",
+          "#72151 - Miniona Jones"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 9,
+        "start_time": "2025-11-08 10:40:00-08:00",
+        "length": 20,
+        "tables": [
+          "#71252 - Lions",
+          "#72102 - The Radical Robots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 10,
+        "start_time": "2025-11-08 11:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61406 - Quantum Bots",
+          "#72123 - Dig Deep Discoverers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2025-11-08 11:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61776 - Tech Ninja",
+          "#71804 - Astrobot"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2025-11-08 11:20:00-08:00",
+        "length": 15,
+        "tables": [
+          "#72905 - Argo Robotics Team 251",
+          "#56489 - Gear Girls"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2025-11-08 11:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "",
+          "#71252 - Lions"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2025-11-08 11:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66075 - TechTitans",
+          "#30497 - FBI(Fascinating Bot Intelligence)"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2025-11-08 11:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#68960 - Seismic Cyborgs",
+          "#71435 - Servo Dei"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2025-11-08 12:05:00-08:00",
+        "length": 55,
+        "tables": [
+          "#60507 - Team Prime",
+          "#61055 - Robotic Athletes"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2025-11-08 13:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#20710 - Our Savior Lions",
+          "#445 - Mighty Robo Pines"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2025-11-08 13:10:00-08:00",
+        "length": 20,
+        "tables": [
+          "#72151 - Miniona Jones",
+          "#72102 - The Radical Robots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2025-11-08 13:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#56489 - Gear Girls",
+          "#61406 - Quantum Bots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2025-11-08 13:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61776 - Tech Ninja",
+          "#72905 - Argo Robotics Team 251"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2025-11-08 13:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#30497 - FBI(Fascinating Bot Intelligence)",
+          "#71435 - Servo Dei"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2025-11-08 14:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61055 - Robotic Athletes",
+          "#68960 - Seismic Cyborgs"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2025-11-08 14:10:00-08:00",
+        "length": 15,
+        "tables": [
+          "#20710 - Our Savior Lions",
+          "#60507 - Team Prime"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2025-11-08 14:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72102 - The Radical Robots",
+          "#445 - Mighty Robo Pines"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2025-11-08 14:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#71252 - Lions",
+          "#72151 - Miniona Jones"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2025-11-08 14:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "",
+          "#66075 - TechTitans"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2025-11-08 14:55:00-08:00",
+        "length": 20,
+        "tables": [
+          "#71804 - Astrobot",
+          "#72123 - Dig Deep Discoverers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 28,
+        "start_time": "2025-11-08 15:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#71435 - Servo Dei",
+          "#61055 - Robotic Athletes"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 29,
+        "start_time": "2025-11-08 15:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#30497 - FBI(Fascinating Bot Intelligence)",
+          "#60507 - Team Prime"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 30,
+        "start_time": "2025-11-08 15:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#68960 - Seismic Cyborgs",
+          "#20710 - Our Savior Lions"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 31,
+        "start_time": "2025-11-08 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#445 - Mighty Robo Pines",
+          "#71252 - Lions"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 32,
+        "start_time": "2025-11-08 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72102 - The Radical Robots",
+          "#66075 - TechTitans"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 33,
+        "start_time": "2025-11-08 16:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72151 - Miniona Jones",
+          ""
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 34,
+        "start_time": "2025-11-08 16:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72123 - Dig Deep Discoverers",
+          "#56489 - Gear Girls"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 35,
+        "start_time": "2025-11-08 16:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#71804 - Astrobot",
+          "#72905 - Argo Robotics Team 251"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 36,
+        "start_time": "2025-11-08 16:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61406 - Quantum Bots",
+          "#61776 - Tech Ninja"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-11-06 04:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    1729,
+    1732,
+    1733,
+    1873,
+    1876,
+    1748,
+    1694,
+    1825,
+    1826,
+    1827,
+    1764,
+    1575,
+    1834,
+    1898,
+    1713,
+    1781,
+    1718
+  ]
+}

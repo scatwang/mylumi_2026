@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 577,
+      "team": {
+        "id": 475,
+        "number": 21406,
+        "name": "Future Builders",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 561,
+      "team": {
+        "id": 600,
+        "number": 24384,
+        "name": "Emerging Einstein1",
+        "city": "El Dorado Hills",
+        "org_name": "Theodore Judah Elem School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 562,
+      "team": {
+        "id": 505,
+        "number": 26476,
+        "name": "crystalcookies",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 578,
+      "team": {
+        "id": 558,
+        "number": 26753,
+        "name": "Master Crafty Lego Builders",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 570,
+      "team": {
+        "id": 583,
+        "number": 28352,
+        "name": "Lego_Knights",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 575,
+      "team": {
+        "id": 566,
+        "number": 28740,
+        "name": "DragonWarriors",
+        "city": "Fremont",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 568,
+      "team": {
+        "id": 512,
+        "number": 28758,
+        "name": "Adventure",
+        "city": "Albany",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 560,
+      "team": {
+        "id": 581,
+        "number": 28767,
+        "name": "Sunshine Daisies Butter Mellow",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 579,
+      "team": {
+        "id": 593,
+        "number": 28771,
+        "name": "WizardWarriors",
+        "city": "Fremont",
+        "org_name": "John G Mattos Elem School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 556,
+      "team": {
+        "id": 599,
+        "number": 28931,
+        "name": "Wonderbots",
+        "city": "Fremont",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 576,
+      "team": {
+        "id": 557,
+        "number": 29038,
+        "name": "Team MARS",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 567,
+      "team": {
+        "id": 537,
+        "number": 29513,
+        "name": "Legolanders",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

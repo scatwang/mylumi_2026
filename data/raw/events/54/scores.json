@@ -1,0 +1,607 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 64698,
+      "name": "ROAR",
+      "judging_lane_name": "RED POD 2",
+      "highest": 415,
+      "highest_display": 415,
+      "rounds": [
+        415,
+        340,
+        385
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        415,
+        385,
+        340
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 56487,
+      "name": "The Sea Syrens",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 330,
+      "highest_display": 330,
+      "rounds": [
+        210,
+        330,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        330,
+        210,
+        170
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 57285,
+      "name": "Mighty Minds",
+      "judging_lane_name": "RED POD 2",
+      "highest": 300,
+      "highest_display": 300,
+      "rounds": [
+        295,
+        205,
+        300
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        300,
+        295,
+        205
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 60050,
+      "name": "Ustar Tech Lightning",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 295,
+      "highest_display": 295,
+      "rounds": [
+        295,
+        225,
+        265
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        295,
+        265,
+        225
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 60291,
+      "name": "Fusion Vortex",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        215,
+        280,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Note on paper",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        215,
+        195
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 52306,
+      "name": "Infinite AI",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        210,
+        275,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Swore mid match",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        210,
+        210
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 67056,
+      "name": "Wavebots",
+      "judging_lane_name": "BLUE POD 4",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        270,
+        235,
+        270
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        270,
+        235
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 60085,
+      "name": "Lego Artisans",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        270,
+        235,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        235,
+        135
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 4416,
+      "name": "O.R.C.A",
+      "judging_lane_name": "BLUE POD 4",
+      "highest": 255,
+      "highest_display": 255,
+      "rounds": [
+        245,
+        255,
+        220
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Very friendly to everyone, cheered for other teams, great team spirit",
+        "Cheering and were very gracious when ref mistake was made",
+        ""
+      ],
+      "rounds_sorted": [
+        255,
+        245,
+        220
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 61949,
+      "name": "Ultraviolet",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        65,
+        235,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "One side of the table was struggling to complete the missions. The team members on the other side were not encouraging, but rather negative",
+        "",
+        "Very good reaction to a false start, remained supportive of the team and didn't react negatively"
+      ],
+      "rounds_sorted": [
+        235,
+        165,
+        65
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 25572,
+      "name": "Octonauts",
+      "judging_lane_name": "RED POD 2",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        230,
+        210,
+        140
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        210,
+        140
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 4978,
+      "name": "Otter Bots",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        225,
+        215,
+        175
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        215,
+        175
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 61167,
+      "name": "Hydrostorm",
+      "judging_lane_name": "RED POD 2",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        205,
+        145,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Member offered to help me reset the field",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        205,
+        145
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 60502,
+      "name": "CodeBreakerz",
+      "judging_lane_name": "BLUE POD 4",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        135,
+        195,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Very supportive of teammates and other teams",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        135,
+        115
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 61334,
+      "name": "Sparks Fly",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        110,
+        135,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        135,
+        110
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 44532,
+      "name": "Razzle Dazzle Robotics FLL-C 44532",
+      "judging_lane_name": "RED POD 2",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        180,
+        145,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        145,
+        145
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 61717,
+      "name": "Pixel Pirates",
+      "judging_lane_name": "RED POD 2",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        150,
+        170,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Starter arguing at the field"
+      ],
+      "rounds_sorted": [
+        170,
+        150,
+        115
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 10589,
+      "name": "Turtle Tech",
+      "judging_lane_name": "BLUE POD 4",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        75,
+        115,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        ".",
+        ""
+      ],
+      "rounds_sorted": [
+        170,
+        115,
+        75
+      ],
+      "ordinal": "18th"
+    },
+    {
+      "ranking": 19,
+      "number": 60533,
+      "name": "Human Microphones",
+      "judging_lane_name": "BLUE POD 4",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        130,
+        145,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        165,
+        145,
+        130
+      ],
+      "ordinal": "19th"
+    },
+    {
+      "ranking": 20,
+      "number": 68499,
+      "name": "Waqar B Hashim",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        140,
+        105,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Let us borrow a game piece",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        140,
+        105
+      ],
+      "ordinal": "20th"
+    },
+    {
+      "ranking": 21,
+      "number": 67459,
+      "name": "MissionBots",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        70,
+        155,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Shouted at and blamed each other for things going wrong",
+        "Was rude to teammate"
+      ],
+      "rounds_sorted": [
+        155,
+        105,
+        70
+      ],
+      "ordinal": "21st"
+    },
+    {
+      "ranking": 22,
+      "number": 10586,
+      "name": "Master Builders",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 130,
+      "highest_display": 130,
+      "rounds": [
+        110,
+        110,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Yelling at each other and arguing during match",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        130,
+        110,
+        110
+      ],
+      "ordinal": "22nd"
+    },
+    {
+      "ranking": 23,
+      "number": 66817,
+      "name": "Reid-Hillview Airport Robotics",
+      "judging_lane_name": "BLUE POD 4",
+      "highest": 115,
+      "highest_display": 115,
+      "rounds": [
+        105,
+        115,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        115,
+        105,
+        105
+      ],
+      "ordinal": "23rd"
+    },
+    {
+      "ranking": 24,
+      "number": 66444,
+      "name": "CyberPirates",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 115,
+      "highest_display": 115,
+      "rounds": [
+        115,
+        100,
+        75
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        115,
+        100,
+        75
+      ],
+      "ordinal": "24th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

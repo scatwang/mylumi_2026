@@ -1,0 +1,209 @@
+{
+  "count": 17,
+  "results": [
+    {
+      "id": 458,
+      "team": {
+        "id": 397,
+        "number": 8560,
+        "name": "ProGRAHAMers",
+        "city": "Mountain View",
+        "org_name": "Graham Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 481,
+      "team": {
+        "id": 103,
+        "number": 50914,
+        "name": "STEALTHY PYTHON",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 440,
+      "team": {
+        "id": 127,
+        "number": 56313,
+        "name": "The Demonics",
+        "city": "San Jose",
+        "org_name": "Rita Ledesma Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 457,
+      "team": {
+        "id": 351,
+        "number": 58230,
+        "name": "Celestial Phoenix",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 470,
+      "team": {
+        "id": 273,
+        "number": 58632,
+        "name": "Foxes Allstars",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 471,
+      "team": {
+        "id": 274,
+        "number": 58663,
+        "name": "Arctech Foxes Allstars",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 472,
+      "team": {
+        "id": 279,
+        "number": 59907,
+        "name": "Cheetahs Allstars ",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 531,
+      "team": {
+        "id": 563,
+        "number": 59995,
+        "name": "Lego Lion Legends",
+        "city": "Los Altos",
+        "org_name": "Applied computing foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 474,
+      "team": {
+        "id": 422,
+        "number": 60028,
+        "name": "Dublin Robotics Club Genesis",
+        "city": "Dublin",
+        "org_name": "Dublin Robotics Club"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 599,
+      "team": {
+        "id": 400,
+        "number": 60382,
+        "name": "DCS Robo Cubs",
+        "city": "Santa Clara",
+        "org_name": "Don Callejon K-8 School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 448,
+      "team": {
+        "id": 394,
+        "number": 60658,
+        "name": "Alphabots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 466,
+      "team": {
+        "id": 540,
+        "number": 60845,
+        "name": "Blue Kitties",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 519,
+      "team": {
+        "id": 584,
+        "number": 61718,
+        "name": "MechMavericks",
+        "city": "Folsom",
+        "org_name": "Theodore Judah Elem School, Russell Ranch Elem School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 600,
+      "team": {
+        "id": 365,
+        "number": 62819,
+        "name": "Bobcat Bots",
+        "city": "San Jose",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 435,
+      "team": {
+        "id": 559,
+        "number": 64638,
+        "name": "Brain Bots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 614,
+      "team": {
+        "id": 560,
+        "number": 64644,
+        "name": "The Axolotls",
+        "city": "San Jose",
+        "org_name": "Hacienda Environmental Science Magnet"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 452,
+      "team": {
+        "id": 577,
+        "number": 64698,
+        "name": "ROAR",
+        "city": "San Jose",
+        "org_name": "Basis Independent Silicon Vly"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

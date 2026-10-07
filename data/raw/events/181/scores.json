@@ -1,0 +1,607 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 64638,
+      "name": "Brain Bots",
+      "judging_lane_name": "BLUE POD 4",
+      "highest": 510,
+      "highest_display": 510,
+      "rounds": [
+        510,
+        290,
+        445
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        510,
+        445,
+        290
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 64698,
+      "name": "ROAR",
+      "judging_lane_name": "RED POD 2",
+      "highest": 415,
+      "highest_display": 415,
+      "rounds": [
+        330,
+        370,
+        415
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        415,
+        370,
+        330
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 69207,
+      "name": "Depth",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 400,
+      "highest_display": 400,
+      "rounds": [
+        295,
+        400,
+        370
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        400,
+        370,
+        295
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 67086,
+      "name": "Any Fling",
+      "judging_lane_name": "RED POD 2",
+      "highest": 380,
+      "highest_display": 380,
+      "rounds": [
+        330,
+        380,
+        300
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        380,
+        330,
+        300
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 71331,
+      "name": "Next Team",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 370,
+      "highest_display": 370,
+      "rounds": [
+        265,
+        285,
+        370
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        370,
+        285,
+        265
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 71101,
+      "name": "BotSpark",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 350,
+      "highest_display": 350,
+      "rounds": [
+        250,
+        255,
+        350
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Need to be reminded of rules again and again"
+      ],
+      "rounds_sorted": [
+        350,
+        255,
+        250
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 60869,
+      "name": "Techno Troopers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        340,
+        330,
+        340
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        340,
+        340,
+        330
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 71616,
+      "name": " brick bots",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 330,
+      "highest_display": 330,
+      "rounds": [
+        230,
+        295,
+        330
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        330,
+        295,
+        230
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 67635,
+      "name": "Mission LEGO Legends",
+      "judging_lane_name": "BLUE POD 4",
+      "highest": 330,
+      "highest_display": 330,
+      "rounds": [
+        205,
+        330,
+        295
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        330,
+        295,
+        205
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 68575,
+      "name": "Titan-Botics",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 315,
+      "highest_display": 315,
+      "rounds": [
+        280,
+        275,
+        315
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        315,
+        280,
+        275
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 67813,
+      "name": "Gears in Motion",
+      "judging_lane_name": "BLUE POD 4",
+      "highest": 310,
+      "highest_display": 310,
+      "rounds": [
+        275,
+        310,
+        300
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        310,
+        300,
+        275
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 752,
+      "name": "Almaden Minors",
+      "judging_lane_name": "RED POD 2",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        270,
+        240,
+        280
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        270,
+        240
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 72717,
+      "name": "Robohawks",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        250,
+        225,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        225,
+        210
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 52522,
+      "name": "Heat Hackers",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 245,
+      "highest_display": 245,
+      "rounds": [
+        145,
+        210,
+        245
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        245,
+        210,
+        145
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 72775,
+      "name": "Bayarea Lego-nauts",
+      "judging_lane_name": "RED POD 2",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        200,
+        160,
+        240
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        200,
+        160
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 72910,
+      "name": "Argo Robotics Team 256",
+      "judging_lane_name": "BLUE POD 4",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        135,
+        155,
+        240
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        155,
+        135
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 69218,
+      "name": "Big Cheezus",
+      "judging_lane_name": "BLUE POD 4",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        215,
+        145,
+        230
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        215,
+        145
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 60514,
+      "name": "The Time Travellers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        160,
+        190,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        190,
+        160
+      ],
+      "ordinal": "18th"
+    },
+    {
+      "ranking": 19,
+      "number": 67289,
+      "name": "Electric Eels",
+      "judging_lane_name": "RED POD 2",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        140,
+        180,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        180,
+        140
+      ],
+      "ordinal": "19th"
+    },
+    {
+      "ranking": 20,
+      "number": 60502,
+      "name": "CodeBreakerz",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        195,
+        215,
+        215
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        215,
+        215,
+        195
+      ],
+      "ordinal": "20th"
+    },
+    {
+      "ranking": 21,
+      "number": 71892,
+      "name": "Tech Titans",
+      "judging_lane_name": "RED POD 2",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        100,
+        210,
+        200
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Parents interfered. Kids were not participating, arguing with each other"
+      ],
+      "rounds_sorted": [
+        210,
+        200,
+        100
+      ],
+      "ordinal": "21st"
+    },
+    {
+      "ranking": 22,
+      "number": 60533,
+      "name": "Crypt Coders",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        175,
+        210,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        175,
+        165
+      ],
+      "ordinal": "22nd"
+    },
+    {
+      "ranking": 23,
+      "number": 73480,
+      "name": "Tech Titans",
+      "judging_lane_name": "BLUE POD 4",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        105,
+        135,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Parent interfered, team members blamed each other",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        135,
+        105
+      ],
+      "ordinal": "23rd"
+    },
+    {
+      "ranking": 24,
+      "number": 71535,
+      "name": "Logic Linked Fox",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        155,
+        135,
+        140
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        140,
+        135
+      ],
+      "ordinal": "24th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

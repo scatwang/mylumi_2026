@@ -1,0 +1,180 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 26422,
+        "name": "Golden Ninja",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-03-23 09:30:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29087,
+        "name": "Kinetic Bots",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-03-23 09:30:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29097,
+        "name": "Lego Champs",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-03-23 10:00:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29180,
+        "name": "Brick@Slayers",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-03-23 10:00:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29246,
+        "name": "Creative Girls",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-03-23 10:30:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29802,
+        "name": "Marvelous",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-03-23 10:30:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29805,
+        "name": "ARTomic Explosions",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-03-23 11:00:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 30186,
+        "name": "4 Terrific Techs",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-03-23 11:00:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-03-23 09:30:00-07:00",
+            "length": 10,
+            "rooms": [
+              "26422 - Golden Ninja",
+              "29087 - Kinetic Bots"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-03-23 10:00:00-07:00",
+            "length": 10,
+            "rooms": [
+              "29097 - Lego Champs",
+              "29180 - Brick@Slayers"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-03-23 10:30:00-07:00",
+            "length": 10,
+            "rooms": [
+              "29246 - Creative Girls",
+              "29802 - Marvelous"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-03-23 11:00:00-07:00",
+            "length": 10,
+            "rooms": [
+              "29805 - ARTomic Explosions",
+              "30186 - 4 Terrific Techs"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-03-21 22:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

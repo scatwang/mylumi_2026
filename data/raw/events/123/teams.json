@@ -1,0 +1,185 @@
+{
+  "count": 15,
+  "results": [
+    {
+      "id": 1400,
+      "team": {
+        "id": 1360,
+        "number": 44835,
+        "name": "Ninja NERDles",
+        "city": "Hayward",
+        "org_name": "California Crosspoint Academy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1267,
+      "team": {
+        "id": 709,
+        "number": 59995,
+        "name": "Bricks you step on",
+        "city": "Los Altos",
+        "org_name": "Applied computing foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1284,
+      "team": {
+        "id": 993,
+        "number": 61351,
+        "name": "RRR Rockets",
+        "city": "Lathrop",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1399,
+      "team": {
+        "id": 1007,
+        "number": 61938,
+        "name": "ZE Gamers",
+        "city": "Fremont",
+        "org_name": "Code Ninjas"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1289,
+      "team": {
+        "id": 1119,
+        "number": 62969,
+        "name": "Straw Hat Dragons",
+        "city": "Marina",
+        "org_name": "Los Arboles Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1240,
+      "team": {
+        "id": 1426,
+        "number": 65868,
+        "name": "Robotic Sigmas",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1247,
+      "team": {
+        "id": 1289,
+        "number": 66337,
+        "name": "IJAVVE",
+        "city": "San Jose",
+        "org_name": "Ida Jew Academy Valle Vista Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1286,
+      "team": {
+        "id": 1439,
+        "number": 66756,
+        "name": "Cryptobots",
+        "city": "Fremont",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1280,
+      "team": {
+        "id": 1153,
+        "number": 67946,
+        "name": "Sea Sigmas",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1270,
+      "team": {
+        "id": 1424,
+        "number": 68226,
+        "name": "NinjaRobo$",
+        "city": "Fremont",
+        "org_name": "William Hopkins Junior High, Joshua Chadbourne Elementary, Diablo Vista Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1273,
+      "team": {
+        "id": 1425,
+        "number": 68861,
+        "name": "Technic Pythons",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1279,
+      "team": {
+        "id": 1217,
+        "number": 68894,
+        "name": "Mustang Four'ce",
+        "city": "Fremont",
+        "org_name": "Mission San Jose Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1275,
+      "team": {
+        "id": 1432,
+        "number": 69250,
+        "name": "Surfer_Sharks!",
+        "city": "Fremont",
+        "org_name": "John M. Horner Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1269,
+      "team": {
+        "id": 1438,
+        "number": 69572,
+        "name": "Hydro Hackers",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1281,
+      "team": {
+        "id": 1430,
+        "number": 70000,
+        "name": "Bulldog Bots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

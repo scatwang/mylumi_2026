@@ -1,0 +1,79 @@
+{
+  "event_id": 312,
+  "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+  "count": 6,
+  "teams": [
+    {
+      "id": 2275,
+      "team": {
+        "id": 2665,
+        "number": 7052,
+        "name": "Dynamite Dinosaurs",
+        "city": "San Francisco",
+        "org_name": "St. Gabriel School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2272,
+      "team": {
+        "id": 2667,
+        "number": 7453,
+        "name": "ChronoCrafters",
+        "city": "San Francisco",
+        "org_name": "St. Gabriel School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2322,
+      "team": {
+        "id": 2694,
+        "number": 40997,
+        "name": "Denman Robotics",
+        "city": "San Francisco",
+        "org_name": "James Denman Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2325,
+      "team": {
+        "id": 2728,
+        "number": 60507,
+        "name": "Team Prime",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2315,
+      "team": {
+        "id": 2741,
+        "number": 64638,
+        "name": "Brain Bots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2357,
+      "team": {
+        "id": 3023,
+        "number": 71598,
+        "name": "Bobstormers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

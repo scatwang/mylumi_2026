@@ -1,0 +1,113 @@
+{
+  "count": 9,
+  "results": [
+    {
+      "id": 2191,
+      "team": {
+        "id": 2332,
+        "number": 33325,
+        "name": "The Lego Champs",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2192,
+      "team": {
+        "id": 2136,
+        "number": 33766,
+        "name": "Master Builders",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2195,
+      "team": {
+        "id": 1895,
+        "number": 34363,
+        "name": "The diggers",
+        "city": "San Carlos",
+        "org_name": "Heather Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2188,
+      "team": {
+        "id": 2408,
+        "number": 34418,
+        "name": "Incredibots",
+        "city": "El Dorado Hills",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2194,
+      "team": {
+        "id": 2034,
+        "number": 34437,
+        "name": "Excavation coders ",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2196,
+      "team": {
+        "id": 2221,
+        "number": 34772,
+        "name": "West Valley First Team",
+        "city": "Sunnyvale",
+        "org_name": "West Valley Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2190,
+      "team": {
+        "id": 2434,
+        "number": 35626,
+        "name": "Mighty Explorer",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2189,
+      "team": {
+        "id": 2393,
+        "number": 35731,
+        "name": "Circuit Explorers",
+        "city": "Sunnyvale",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2193,
+      "team": {
+        "id": 2448,
+        "number": 35806,
+        "name": "Smart Digital Dinos",
+        "city": "El Dorado Hills",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

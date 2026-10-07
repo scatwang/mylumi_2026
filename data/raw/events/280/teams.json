@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 2265,
+      "team": {
+        "id": 1685,
+        "number": 57290,
+        "name": "Cyberspace Crusader",
+        "city": "Los Altos",
+        "org_name": "Applied computing foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2266,
+      "team": {
+        "id": 2261,
+        "number": 59995,
+        "name": "Bricks you step on ",
+        "city": "Los Altos",
+        "org_name": "Applied computing foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2238,
+      "team": {
+        "id": 2159,
+        "number": 72419,
+        "name": "RoboRangers",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2263,
+      "team": {
+        "id": 2482,
+        "number": 73373,
+        "name": "The Sigmas",
+        "city": "Fremont",
+        "org_name": "Warwick Elementary, Forest Park Elementary, Ardenwood Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2247,
+      "team": {
+        "id": 2451,
+        "number": 75134,
+        "name": "Muir Spring Team",
+        "city": "Sunnyvale",
+        "org_name": "John Muir Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2248,
+      "team": {
+        "id": 2452,
+        "number": 75135,
+        "name": "Robotic Dragons",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2249,
+      "team": {
+        "id": 2453,
+        "number": 75136,
+        "name": "Dig It",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2250,
+      "team": {
+        "id": 2457,
+        "number": 75159,
+        "name": "Build Guild (SP)",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2251,
+      "team": {
+        "id": 2458,
+        "number": 75160,
+        "name": "NinjaBots (SP)",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2252,
+      "team": {
+        "id": 2459,
+        "number": 75161,
+        "name": "Energized Smarty Pants (SP)",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2253,
+      "team": {
+        "id": 2460,
+        "number": 75162,
+        "name": "TNT Crew (SP)",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2254,
+      "team": {
+        "id": 2461,
+        "number": 75163,
+        "name": "Master Builders (SP)",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

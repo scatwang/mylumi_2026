@@ -1,0 +1,180 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 31646,
+        "name": "Epic Robots",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-12 10:45:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31947,
+        "name": "LEGO Boulders",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-12 11:00:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33079,
+        "name": "Mystical Hotdogs",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-12 10:45:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33080,
+        "name": "Banana Fishes",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-12 11:00:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33081,
+        "name": "Lego Bubble Bots",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-12 11:15:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33298,
+        "name": "Brick Masters",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-12 11:30:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33306,
+        "name": "Banana Maniacs",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-12 11:15:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33321,
+        "name": "Lego Empire",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-12 11:30:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-04-12 10:45:00-07:00",
+            "length": 10,
+            "rooms": [
+              "31646 - Epic Robots",
+              "33079 - Mystical Hotdogs"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-04-12 11:00:00-07:00",
+            "length": 10,
+            "rooms": [
+              "31947 - LEGO Boulders",
+              "33080 - Banana Fishes"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-04-12 11:15:00-07:00",
+            "length": 10,
+            "rooms": [
+              "33081 - Lego Bubble Bots",
+              "33306 - Banana Maniacs"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-04-12 11:30:00-07:00",
+            "length": 10,
+            "rooms": [
+              "33298 - Brick Masters",
+              "33321 - Lego Empire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-04-05 21:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

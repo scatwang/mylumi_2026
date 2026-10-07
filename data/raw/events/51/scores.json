@@ -1,0 +1,432 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 66233,
+      "name": "Galaxy Guardians",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 320,
+      "highest_display": 320,
+      "rounds": [
+        245,
+        275,
+        320
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        320,
+        275,
+        245
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 65125,
+      "name": "Baybots",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 310,
+      "highest_display": 310,
+      "rounds": [
+        210,
+        310,
+        125
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        310,
+        210,
+        125
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 60033,
+      "name": "Pokémon",
+      "judging_lane_name": "RED POD 2",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        240,
+        280,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        250,
+        240
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 51168,
+      "name": "The Warriors",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 265,
+      "highest_display": 265,
+      "rounds": [
+        120,
+        130,
+        265
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "\"Why is X crying, he never did anything. Y touched it like 17 times",
+        ""
+      ],
+      "rounds_sorted": [
+        265,
+        130,
+        120
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 57382,
+      "name": "RoboRise",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        235,
+        260,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        235,
+        180
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 60152,
+      "name": "The Game Changers",
+      "judging_lane_name": "RED POD 2",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        155,
+        235,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        165,
+        155
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 68558,
+      "name": "M-A Cubs 2",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        175,
+        175,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        175,
+        175
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 61998,
+      "name": "TechTitans",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        220,
+        210,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        210,
+        165
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 60537,
+      "name": "Mecha Masters",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 190,
+      "highest_display": 190,
+      "rounds": [
+        155,
+        150,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        190,
+        155,
+        150
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 66699,
+      "name": "Techno Turtles",
+      "judging_lane_name": "RED POD 2",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        170,
+        60,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Caught a field reset that would have gotten them more points",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        170,
+        60
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 66286,
+      "name": "MasterDroids",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        160,
+        170,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        170,
+        170,
+        160
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 10585,
+      "name": "Code Crackers",
+      "judging_lane_name": "RED POD 2",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        150,
+        150,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        150,
+        150
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 67837,
+      "name": "Submarine Surferz",
+      "judging_lane_name": "RED POD 2",
+      "highest": 145,
+      "highest_display": 145,
+      "rounds": [
+        145,
+        135,
+        100
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        145,
+        135,
+        100
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 60514,
+      "name": "Staz",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 130,
+      "highest_display": 130,
+      "rounds": [
+        90,
+        95,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        130,
+        95,
+        90
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 58015,
+      "name": "Spirit Robotics",
+      "judging_lane_name": "RED POD 2",
+      "highest": 120,
+      "highest_display": 120,
+      "rounds": [
+        80,
+        120,
+        60
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Pushed each other, but very young and frustrated so understandable",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        120,
+        80,
+        60
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 68559,
+      "name": "M-A Cubs 3",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 100,
+      "highest_display": 100,
+      "rounds": [
+        65,
+        55,
+        100
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        100,
+        65,
+        55
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 68557,
+      "name": "M-A Cubs 1",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 90,
+      "highest_display": 90,
+      "rounds": [
+        85,
+        85,
+        90
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Extra frustrated blaming each other",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        90,
+        85,
+        85
+      ],
+      "ordinal": "17th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

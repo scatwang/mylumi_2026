@@ -1,0 +1,889 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 60981,
+        "name": "TechPython",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-26 09:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-04-26 12:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-04-26 13:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-04-26 15:20:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-26 11:00:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66668,
+        "name": "Springer Legonauts",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-26 09:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-04-26 11:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-04-26 13:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-04-26 15:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-26 10:15:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67736,
+        "name": "The Anonymous Raptors",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-26 10:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-04-26 11:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-04-26 14:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-04-26 15:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-26 11:45:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70885,
+        "name": "IJAVVE #2",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-26 09:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-04-26 11:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-04-26 13:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-04-26 15:20:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-26 10:15:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71269,
+        "name": "Coding Crusaders",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-26 09:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-04-26 12:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-04-26 13:40:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-04-26 15:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-26 11:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72259,
+        "name": "Earthquakers",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-26 09:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-04-26 11:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-04-26 13:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-04-26 15:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-26 10:15:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72342,
+        "name": "The 4 Sigmas",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-04-26 10:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-04-26 11:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-04-26 13:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-04-26 15:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-26 13:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73863,
+        "name": "TIRO-SV-C03",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-04-26 10:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-04-26 11:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-04-26 14:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-04-26 15:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-26 11:45:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73864,
+        "name": "TIRO-SV-C04",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-04-26 10:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-04-26 11:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-04-26 14:05:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2026-04-26 15:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-26 11:45:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73865,
+        "name": "TIRO-SV-C05",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-26 09:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-04-26 11:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-04-26 13:40:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-04-26 15:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-26 11:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 74210,
+        "name": "Skywalker",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-04-26 10:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-04-26 11:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-04-26 13:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2026-04-26 15:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-26 13:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75065,
+        "name": "Cyber Cats",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-26 10:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-04-26 11:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-04-26 14:05:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-04-26 15:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-26 13:00:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          },
+          {
+            "name": "GREEN POD 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2026-04-26 10:15:00-07:00",
+            "length": 30,
+            "rooms": [
+              "66668",
+              "72259",
+              "70885"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2026-04-26 11:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "73865",
+              "71269",
+              "60981"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2026-04-26 11:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "67736",
+              "73864",
+              "73863"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2026-04-26 13:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "72342",
+              "74210",
+              "75065"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 1182,
+        "name": "TABLE A"
+      },
+      {
+        "id": 1183,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2026-04-26 09:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66668 - Springer Legonauts",
+          "#60981 - TechPython"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2026-04-26 09:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#73865 - TIRO-SV-C05",
+          "#72259 - Earthquakers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2026-04-26 09:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71269 - Coding Crusaders",
+          "#70885 - IJAVVE #2"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2026-04-26 10:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67736 - The Anonymous Raptors",
+          "#75065 - Cyber Cats"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2026-04-26 10:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72342 - The 4 Sigmas",
+          "#73864 - TIRO-SV-C04"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2026-04-26 10:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74210 - Skywalker",
+          "#73863 - TIRO-SV-C03"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2026-04-26 11:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#73864 - TIRO-SV-C04",
+          "#67736 - The Anonymous Raptors"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2026-04-26 11:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72342 - The 4 Sigmas",
+          "#73863 - TIRO-SV-C03"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2026-04-26 11:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75065 - Cyber Cats",
+          "#74210 - Skywalker"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2026-04-26 11:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72259 - Earthquakers",
+          "#66668 - Springer Legonauts"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2026-04-26 11:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#73865 - TIRO-SV-C05",
+          "#70885 - IJAVVE #2"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2026-04-26 12:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#60981 - TechPython",
+          "#71269 - Coding Crusaders"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2026-04-26 13:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70885 - IJAVVE #2",
+          "#66668 - Springer Legonauts"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2026-04-26 13:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#60981 - TechPython",
+          "#72259 - Earthquakers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2026-04-26 13:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71269 - Coding Crusaders",
+          "#73865 - TIRO-SV-C05"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2026-04-26 13:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74210 - Skywalker",
+          "#72342 - The 4 Sigmas"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2026-04-26 14:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75065 - Cyber Cats",
+          "#73864 - TIRO-SV-C04"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2026-04-26 14:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#73863 - TIRO-SV-C03",
+          "#67736 - The Anonymous Raptors"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2026-04-26 15:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66668 - Springer Legonauts",
+          "#73865 - TIRO-SV-C05"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2026-04-26 15:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72259 - Earthquakers",
+          "#71269 - Coding Crusaders"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2026-04-26 15:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70885 - IJAVVE #2",
+          "#60981 - TechPython"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2026-04-26 15:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67736 - The Anonymous Raptors",
+          "#72342 - The 4 Sigmas"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2026-04-26 15:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#73864 - TIRO-SV-C04",
+          "#74210 - Skywalker"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2026-04-26 15:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#73863 - TIRO-SV-C03",
+          "#75065 - Cyber Cats"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2026-04-23 19:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    2083,
+    2085,
+    2054,
+    2055,
+    2057,
+    2058,
+    2059,
+    2060,
+    2225,
+    2231,
+    2045,
+    2047
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 69947,
+      "name": "Fossilbot",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        265,
+        340,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Extremely motivational to all of their own team members, noticeably more collective in their efforts and very encouraging, even if things don't go their way"
+      ],
+      "rounds_sorted": [
+        340,
+        290,
+        265
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 59278,
+      "name": "Quantum Bricks",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        340,
+        265,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        340,
+        265,
+        185
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 66438,
+      "name": "Fearsome 5",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 300,
+      "highest_display": 300,
+      "rounds": [
+        250,
+        275,
+        300
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        300,
+        275,
+        250
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 56271,
+      "name": "Gyraf",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        275,
+        235,
+        245
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        245,
+        235
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 70727,
+      "name": "Lego Legends",
+      "judging_lane_name": "RED POD 2",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        275,
+        220,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        220,
+        210
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 72365,
+      "name": "Block Builders",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        175,
+        220,
+        240
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        220,
+        175
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 67524,
+      "name": "Turbo Robos",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        220,
+        235,
+        175
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        220,
+        175
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 70694,
+      "name": "Stocklmeir BrickBots 10",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        195,
+        215,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        215,
+        195,
+        185
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 71826,
+      "name": "Robostein",
+      "judging_lane_name": "RED POD 2",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        125,
+        205,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        195,
+        125
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": "",
+      "number": 64714,
+      "name": "Archtech",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 0,
+      "highest_display": 0,
+      "rounds": [
+        "",
+        "",
+        ""
+      ],
+      "has_scores": false,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        0,
+        0,
+        0
+      ],
+      "ordinal": ""
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

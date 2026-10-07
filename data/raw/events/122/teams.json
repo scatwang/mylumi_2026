@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 1242,
+      "team": {
+        "id": 905,
+        "number": 20975,
+        "name": "FMS Recreational Spring League Team (20975)",
+        "city": "Walnut Creek",
+        "org_name": "Foothill Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1466,
+      "team": {
+        "id": 914,
+        "number": 39742,
+        "name": "The Legos",
+        "city": "Dublin",
+        "org_name": "Quarry Lane School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1467,
+      "team": {
+        "id": 915,
+        "number": 47621,
+        "name": "Oreo Pandas",
+        "city": "Dublin",
+        "org_name": "Quarry Lane School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1468,
+      "team": {
+        "id": 1047,
+        "number": 47622,
+        "name": "The Intellects",
+        "city": "Dublin",
+        "org_name": "Quarry Lane School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1264,
+      "team": {
+        "id": 945,
+        "number": 58665,
+        "name": "Lunatics 2 (Wildcats)",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1265,
+      "team": {
+        "id": 947,
+        "number": 58668,
+        "name": "Hyper Technics 2 (Techno Sharks)",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1246,
+      "team": {
+        "id": 733,
+        "number": 61406,
+        "name": "Quantum Robotics",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1469,
+      "team": {
+        "id": 1048,
+        "number": 63308,
+        "name": "I Want Food",
+        "city": "Dublin",
+        "org_name": "Quarry Lane School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1420,
+      "team": {
+        "id": 1017,
+        "number": 63874,
+        "name": "MasterBuilder3",
+        "city": "HILLSBOROUGH",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1260,
+      "team": {
+        "id": 841,
+        "number": 66044,
+        "name": "Red Raptors",
+        "city": "Folsom",
+        "org_name": "Theodore Judah Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1222,
+      "team": {
+        "id": 1066,
+        "number": 66820,
+        "name": "Leadways FBI",
+        "city": "Cupertino",
+        "org_name": "Leadways School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1226,
+      "team": {
+        "id": 860,
+        "number": 66906,
+        "name": "SuperAqua",
+        "city": "El Dorado Hills",
+        "org_name": "Theodore Judah Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1244,
+      "team": {
+        "id": 879,
+        "number": 67645,
+        "name": "Foothill Spring League Team (67645)",
+        "city": "Walnut Creek",
+        "org_name": "Foothill Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1249,
+      "team": {
+        "id": 1189,
+        "number": 69015,
+        "name": "Quantum Robotics T2",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1266,
+      "team": {
+        "id": 1433,
+        "number": 69238,
+        "name": "The Commas",
+        "city": "Stanford",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1245,
+      "team": {
+        "id": 1257,
+        "number": 69357,
+        "name": "Foothill Spring League Team (69357)",
+        "city": "Walnut Creek",
+        "org_name": "Foothill Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1354,
+      "team": {
+        "id": 1436,
+        "number": 69751,
+        "name": "Bubby Rules the World",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1353,
+      "team": {
+        "id": 1437,
+        "number": 69767,
+        "name": "Banned in 49 states",
+        "city": "Walnut Creek",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

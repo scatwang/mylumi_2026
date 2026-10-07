@@ -1,0 +1,1582 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 445,
+        "name": "Matsuyama RoboPines",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-12 09:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2023-11-12 11:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2023-11-12 13:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2023-11-12 14:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-12 09:50:00-08:00",
+            "room_name": "Blue Pod 4",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 877,
+        "name": "Code Crashers",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-12 09:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2023-11-12 10:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2023-11-12 14:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2023-11-12 15:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2023-11-12 11:20:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 4506,
+        "name": "Techno Cavs",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2023-11-12 10:05:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2023-11-12 11:05:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2023-11-12 13:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2023-11-12 15:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-12 13:45:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 19169,
+        "name": "The Notre Dame Fighting iBots - GOLD",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-12 09:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2023-11-12 10:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2023-11-12 14:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2023-11-12 15:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-12 13:00:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 30509,
+        "name": "The Notre Dame Fighting iBots - GREEN",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-12 09:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2023-11-12 11:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2023-11-12 13:35:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2023-11-12 14:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-12 09:50:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 38103,
+        "name": "Astrobots",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-12 09:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2023-11-12 10:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2023-11-12 14:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2023-11-12 15:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2023-11-12 11:20:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 48793,
+        "name": "Mountain House",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2023-11-12 10:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2023-11-12 11:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2023-11-12 13:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2023-11-12 15:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2023-11-12 14:30:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 51057,
+        "name": "ROCKING ROBOTS",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-12 09:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2023-11-12 10:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2023-11-12 14:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2023-11-12 15:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-12 13:00:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52427,
+        "name": "Circuit Squad",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-12 09:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2023-11-12 11:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2023-11-12 13:35:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2023-11-12 14:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-12 09:50:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52597,
+        "name": "Flaming Stars",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2023-11-12 10:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2023-11-12 11:05:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2023-11-12 13:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2023-11-12 15:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2023-11-12 14:30:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 53150,
+        "name": "DigiTech",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2023-11-12 10:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2023-11-12 11:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2023-11-12 13:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2023-11-12 15:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-12 13:45:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 53291,
+        "name": "Mad Olive",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2023-11-12 10:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2023-11-12 11:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2023-11-12 13:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2023-11-12 15:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-12 13:45:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 55917,
+        "name": "Dragon Dudes",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-12 09:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2023-11-12 10:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2023-11-12 14:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2023-11-12 15:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2023-11-12 11:20:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 55959,
+        "name": "Shrek's Friends",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2023-11-12 10:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2023-11-12 11:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2023-11-12 13:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2023-11-12 15:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2023-11-12 14:30:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 58380,
+        "name": "Lego Masters1",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-12 09:25:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2023-11-12 11:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2023-11-12 13:35:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2023-11-12 14:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-12 10:35:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 59922,
+        "name": "Baxter's Builders",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-12 09:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2023-11-12 10:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2023-11-12 14:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2023-11-12 15:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2023-11-12 11:20:00-08:00",
+            "room_name": "Blue Pod 4",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60340,
+        "name": "RoBobcats",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-12 09:25:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2023-11-12 11:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2023-11-12 13:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2023-11-12 14:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-12 10:35:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60507,
+        "name": "Prime",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-12 09:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2023-11-12 10:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2023-11-12 14:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2023-11-12 15:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-12 13:00:00-08:00",
+            "room_name": "Blue Pod 4",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60759,
+        "name": "Sushi Rolls Roll Out",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2023-11-12 10:05:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2023-11-12 11:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2023-11-12 13:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2023-11-12 15:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-12 13:45:00-08:00",
+            "room_name": "Blue Pod 4",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60923,
+        "name": "Artesan",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-12 09:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2023-11-12 10:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2023-11-12 14:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2023-11-12 15:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-12 13:00:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60996,
+        "name": "VortexMasterminds",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-12 09:25:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2023-11-12 11:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2023-11-12 13:35:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2023-11-12 14:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-12 10:35:00-08:00",
+            "room_name": "Blue Pod 4",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61776,
+        "name": "Tech Ninja",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-12 09:25:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2023-11-12 11:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2023-11-12 13:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2023-11-12 14:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-12 10:35:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 62274,
+        "name": "The Van Goes",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2023-11-12 10:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2023-11-12 11:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2023-11-12 13:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2023-11-12 15:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2023-11-12 14:30:00-08:00",
+            "room_name": "Blue Pod 4",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 62380,
+        "name": "Astro",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-12 09:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R1",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2023-11-12 11:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table R2",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2023-11-12 13:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B1",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2023-11-12 14:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table B2",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-12 09:50:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "Yellow Pod 1"
+          },
+          {
+            "name": "Red Pod 2"
+          },
+          {
+            "name": "Green Pod 3"
+          },
+          {
+            "name": "Blue Pod 4"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2023-11-12 09:50:00-08:00",
+            "length": 30,
+            "rooms": [
+              "62380",
+              "52427",
+              "30509",
+              "445"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2023-11-12 10:35:00-08:00",
+            "length": 30,
+            "rooms": [
+              "58380",
+              "61776",
+              "60340",
+              "60996"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2023-11-12 11:20:00-08:00",
+            "length": 30,
+            "rooms": [
+              "55917",
+              "38103",
+              "877",
+              "59922"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2023-11-12 13:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "51057",
+              "19169",
+              "60923",
+              "60507"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2023-11-12 13:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "53291",
+              "53150",
+              "4506",
+              "60759"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2023-11-12 14:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "48793",
+              "52597",
+              "55959",
+              "62274"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 37,
+        "name": "Red Table R1"
+      },
+      {
+        "id": 38,
+        "name": "Red Table R2"
+      },
+      {
+        "id": 39,
+        "name": "Blue Table B1"
+      },
+      {
+        "id": 40,
+        "name": "Blue Table B2"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2023-11-12 09:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#62380 - Astro",
+          "#52427 - Circuit Squad",
+          "#30509 - The Notre Dame Fighting iBots - GREEN",
+          "#445 - Matsuyama RoboPines"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2023-11-12 09:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#58380 - Lego Masters1",
+          "#61776 - Tech Ninja",
+          "#60340 - RoBobcats",
+          "#60996 - VortexMasterminds"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2023-11-12 09:35:00-08:00",
+        "length": 5,
+        "tables": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2023-11-12 09:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#55917 - Dragon Dudes",
+          "#38103 - Astrobots",
+          "#877 - Code Crashers",
+          "#59922 - Baxter's Builders"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2023-11-12 09:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#51057 - ROCKING ROBOTS",
+          "#19169 - The Notre Dame Fighting iBots - GOLD",
+          "#60923 - Artesan",
+          "#60507 - Prime"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2023-11-12 10:00:00-08:00",
+        "length": 5,
+        "tables": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2023-11-12 10:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#53291 - Mad Olive",
+          "#53150 - DigiTech",
+          "#4506 - Techno Cavs",
+          "#60759 - Sushi Rolls Roll Out"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 8,
+        "start_time": "2023-11-12 10:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#48793 - Mountain House",
+          "#52597 - Flaming Stars",
+          "#55959 - Shrek's Friends",
+          "#62274 - The Van Goes"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 9,
+        "start_time": "2023-11-12 10:25:00-08:00",
+        "length": 15,
+        "tables": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2023-11-12 10:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#59922 - Baxter's Builders",
+          "#55917 - Dragon Dudes",
+          "#19169 - The Notre Dame Fighting iBots - GOLD",
+          "#877 - Code Crashers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2023-11-12 10:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60507 - Prime",
+          "#51057 - ROCKING ROBOTS",
+          "#38103 - Astrobots",
+          "#60923 - Artesan"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2023-11-12 11:00:00-08:00",
+        "length": 5,
+        "tables": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2023-11-12 11:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60759 - Sushi Rolls Roll Out",
+          "#53291 - Mad Olive",
+          "#52597 - Flaming Stars",
+          "#4506 - Techno Cavs"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2023-11-12 11:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#62274 - The Van Goes",
+          "#48793 - Mountain House",
+          "#53150 - DigiTech",
+          "#55959 - Shrek's Friends"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2023-11-12 11:25:00-08:00",
+        "length": 5,
+        "tables": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2023-11-12 11:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#445 - Matsuyama RoboPines",
+          "#62380 - Astro",
+          "#61776 - Tech Ninja",
+          "#30509 - The Notre Dame Fighting iBots - GREEN"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2023-11-12 11:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60996 - VortexMasterminds",
+          "#58380 - Lego Masters1",
+          "#52427 - Circuit Squad",
+          "#60340 - RoBobcats"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2023-11-12 11:50:00-08:00",
+        "length": 80,
+        "tables": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2023-11-12 13:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#4506 - Techno Cavs",
+          "#62274 - The Van Goes",
+          "#48793 - Mountain House",
+          "#53150 - DigiTech"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2023-11-12 13:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#55959 - Shrek's Friends",
+          "#60759 - Sushi Rolls Roll Out",
+          "#53291 - Mad Olive",
+          "#52597 - Flaming Stars"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2023-11-12 13:30:00-08:00",
+        "length": 5,
+        "tables": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2023-11-12 13:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#30509 - The Notre Dame Fighting iBots - GREEN",
+          "#60996 - VortexMasterminds",
+          "#58380 - Lego Masters1",
+          "#52427 - Circuit Squad"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2023-11-12 13:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60340 - RoBobcats",
+          "#445 - Matsuyama RoboPines",
+          "#62380 - Astro",
+          "#61776 - Tech Ninja"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2023-11-12 13:55:00-08:00",
+        "length": 5,
+        "tables": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2023-11-12 14:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#877 - Code Crashers",
+          "#60507 - Prime",
+          "#51057 - ROCKING ROBOTS",
+          "#38103 - Astrobots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2023-11-12 14:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60923 - Artesan",
+          "#59922 - Baxter's Builders",
+          "#55917 - Dragon Dudes",
+          "#19169 - The Notre Dame Fighting iBots - GOLD"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2023-11-12 14:20:00-08:00",
+        "length": 20,
+        "tables": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 28,
+        "start_time": "2023-11-12 14:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52427 - Circuit Squad",
+          "#30509 - The Notre Dame Fighting iBots - GREEN",
+          "#445 - Matsuyama RoboPines",
+          "#58380 - Lego Masters1"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 29,
+        "start_time": "2023-11-12 14:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61776 - Tech Ninja",
+          "#60340 - RoBobcats",
+          "#60996 - VortexMasterminds",
+          "#62380 - Astro"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 30,
+        "start_time": "2023-11-12 15:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#38103 - Astrobots",
+          "#877 - Code Crashers",
+          "#59922 - Baxter's Builders",
+          "#51057 - ROCKING ROBOTS"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 31,
+        "start_time": "2023-11-12 15:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#19169 - The Notre Dame Fighting iBots - GOLD",
+          "#60923 - Artesan",
+          "#60507 - Prime",
+          "#55917 - Dragon Dudes"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 32,
+        "start_time": "2023-11-12 15:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#53150 - DigiTech",
+          "#4506 - Techno Cavs",
+          "#60759 - Sushi Rolls Roll Out",
+          "#48793 - Mountain House"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 33,
+        "start_time": "2023-11-12 15:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52597 - Flaming Stars",
+          "#55959 - Shrek's Friends",
+          "#62274 - The Van Goes",
+          "#53291 - Mad Olive"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2023-10-30 15:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": []
+}

@@ -1,0 +1,293 @@
+{
+  "count": 24,
+  "results": [
+    {
+      "id": 293,
+      "team": {
+        "id": 371,
+        "number": 445,
+        "name": "Matsuyama RoboPines",
+        "city": "Sacramento",
+        "org_name": "Matsuyama Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 90,
+      "team": {
+        "id": 139,
+        "number": 877,
+        "name": "Code Crashers",
+        "city": "Sacramento",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 123,
+      "team": {
+        "id": 291,
+        "number": 4506,
+        "name": "Techno Cavs",
+        "city": "Sacramento",
+        "org_name": "Sacramento Country Day School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 239,
+      "team": {
+        "id": 248,
+        "number": 19169,
+        "name": "The Notre Dame Fighting iBots - GOLD",
+        "city": "Vacaville",
+        "org_name": "Notre Dame School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 235,
+      "team": {
+        "id": 249,
+        "number": 30509,
+        "name": "The Notre Dame Fighting iBots - GREEN",
+        "city": "Vacaville",
+        "org_name": "Notre Dame School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 168,
+      "team": {
+        "id": 212,
+        "number": 38103,
+        "name": "Astrobots",
+        "city": "Sacramento",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 139,
+      "team": {
+        "id": 211,
+        "number": 48793,
+        "name": "Mountain House",
+        "city": "Mountain House",
+        "org_name": "Mountain House Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 275,
+      "team": {
+        "id": 42,
+        "number": 51057,
+        "name": "ROCKING ROBOTS",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 120,
+      "team": {
+        "id": 68,
+        "number": 52427,
+        "name": "Circuit Squad",
+        "city": "Rocklin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 148,
+      "team": {
+        "id": 193,
+        "number": 52597,
+        "name": "Flaming Stars",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 138,
+      "team": {
+        "id": 121,
+        "number": 53150,
+        "name": "DigiTech",
+        "city": "Folsom",
+        "org_name": "Folsom Middle School, Theodore Judah Elem School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 69,
+      "team": {
+        "id": 329,
+        "number": 53291,
+        "name": "Mad Olive",
+        "city": "El Dorado Hills",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 234,
+      "team": {
+        "id": 43,
+        "number": 55917,
+        "name": "Dragon Dudes",
+        "city": "Danville",
+        "org_name": "Diablo Vista Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 295,
+      "team": {
+        "id": 218,
+        "number": 55959,
+        "name": "Shrek's Friends",
+        "city": "Foster City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 44,
+      "team": {
+        "id": 95,
+        "number": 58380,
+        "name": "Lego Masters1",
+        "city": "Folsom",
+        "org_name": "Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 150,
+      "team": {
+        "id": 300,
+        "number": 59922,
+        "name": "Baxter's Builders",
+        "city": "Sacramento",
+        "org_name": "Sacramento Country Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 161,
+      "team": {
+        "id": 37,
+        "number": 60340,
+        "name": "RoBobcats",
+        "city": "Santa Clara",
+        "org_name": "Basis Independent Silicon Vly"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 164,
+      "team": {
+        "id": 172,
+        "number": 60507,
+        "name": "Prime",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 294,
+      "team": {
+        "id": 373,
+        "number": 60759,
+        "name": "Sushi Rolls Roll Out",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 94,
+      "team": {
+        "id": 192,
+        "number": 60923,
+        "name": "Artesan",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 233,
+      "team": {
+        "id": 57,
+        "number": 60996,
+        "name": "VortexMasterminds",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 175,
+      "team": {
+        "id": 220,
+        "number": 61776,
+        "name": "Tech Ninja",
+        "city": "Rancho Cordova",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 320,
+      "team": {
+        "id": 374,
+        "number": 62274,
+        "name": "The Van Goes",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 312,
+      "team": {
+        "id": 254,
+        "number": 62380,
+        "name": "Astro",
+        "city": "Davis",
+        "org_name": "Pioneer Elementary School, Robert E Willett Elem School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

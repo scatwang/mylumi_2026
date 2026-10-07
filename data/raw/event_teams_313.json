@@ -1,0 +1,103 @@
+{
+  "event_id": 313,
+  "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - BASIS Independent School, Dublin",
+  "count": 8,
+  "teams": [
+    {
+      "id": 2308,
+      "team": {
+        "id": 2727,
+        "number": 60502,
+        "name": "CodeBreakerz",
+        "city": "San Ramon",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2386,
+      "team": {
+        "id": 2931,
+        "number": 60514,
+        "name": "CodeMasterz",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2350,
+      "team": {
+        "id": 2754,
+        "number": 65685,
+        "name": "Existential BREAD (65685)",
+        "city": "San Leandro",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2347,
+      "team": {
+        "id": 2786,
+        "number": 69015,
+        "name": "Quantum Tacocats",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2274,
+      "team": {
+        "id": 2836,
+        "number": 72257,
+        "name": "Lego Benders",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2321,
+      "team": {
+        "id": 2855,
+        "number": 73516,
+        "name": "Dino Nuggets (BBQ)",
+        "city": "Walnut Creek",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2346,
+      "team": {
+        "id": 2861,
+        "number": 74260,
+        "name": "EcoSpark",
+        "city": "Fremount",
+        "org_name": "Mission San Jose Elementary, William Hopkins Junior High"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2372,
+      "team": {
+        "id": 3038,
+        "number": 75563,
+        "name": "Team AVA",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

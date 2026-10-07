@@ -1,0 +1,167 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 29203,
+        "name": "Little Masters",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-12 15:45:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 31469,
+        "name": "Super Nova",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-12 16:00:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 32598,
+        "name": "DCADS- Gizmo Cubs",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-12 16:00:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 32604,
+        "name": "Curtner Builders",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-12 16:15:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33178,
+        "name": "Almaden Dolphins",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-12 16:30:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33325,
+        "name": "Lego Champs",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-12 15:45:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 33417,
+        "name": "Five people group",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-12 16:15:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-04-12 15:45:00-07:00",
+            "length": 10,
+            "rooms": [
+              "29203 - Little Masters",
+              "33325 - Lego Champs"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-04-12 16:00:00-07:00",
+            "length": 10,
+            "rooms": [
+              "31469 - Super Nova",
+              "32598 - DCADS- Gizmo Cubs"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-04-12 16:15:00-07:00",
+            "length": 10,
+            "rooms": [
+              "32604 - Curtner Builders",
+              "33417 - Five people group"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-04-12 16:30:00-07:00",
+            "length": 10,
+            "rooms": [
+              "33178 - Almaden Dolphins",
+              ""
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-04-10 23:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

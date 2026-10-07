@@ -1,0 +1,889 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 56482,
+        "name": "Brawl Bros",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-08 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2025-11-08 11:10:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-11-08 13:50:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-11-08 15:35:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-08 13:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61600,
+        "name": "Allstars Dolphins",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-08 11:35:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-11-08 13:15:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-11-08 15:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 10:15:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 62268,
+        "name": "Delta Cosmic Coders 2025",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-08 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2025-11-08 11:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-11-08 14:15:00-08:00",
+            "length": 45,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-11-08 15:35:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 11:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65841,
+        "name": "Falcon X",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-08 11:50:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-11-08 13:15:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-11-08 15:20:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 10:15:00-08:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67186,
+        "name": "Diggnation",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-08 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2025-11-08 11:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-11-08 14:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-11-08 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 11:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67854,
+        "name": "Superstars",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-08 11:35:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-08 13:25:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-11-08 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 10:15:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70238,
+        "name": "Trapped in Union City",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-11-08 12:00:00-08:00",
+            "length": 75,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-08 13:40:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-11-08 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 11:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70765,
+        "name": "The Paleo Coders",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-08 10:30:00-08:00",
+            "length": 30,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2025-11-08 11:10:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-11-08 14:15:00-08:00",
+            "length": 45,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-11-08 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-08 11:45:00-08:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71907,
+        "name": "Quarks",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-08 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-11-08 12:00:00-08:00",
+            "length": 75,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-08 13:25:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-11-08 15:20:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 11:00:00-08:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72421,
+        "name": "EarthCreators",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-08 10:30:00-08:00",
+            "length": 30,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-11-08 11:25:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-11-08 13:50:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-11-08 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-08 13:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73341,
+        "name": " Blitz Bots ",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-08 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-11-08 11:25:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-11-08 14:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-11-08 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-08 13:00:00-08:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73948,
+        "name": "Stratford Osgood",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-08 11:50:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-08 13:40:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-11-08 15:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-08 11:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          },
+          {
+            "name": "GREEN POD 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-11-08 10:15:00-08:00",
+            "length": 30,
+            "rooms": [
+              "61600",
+              "67854",
+              "65841"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-11-08 11:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "73948",
+              "70238",
+              "71907"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-11-08 11:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "62268",
+              "67186",
+              "70765"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-11-08 13:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "56482",
+              "72421",
+              "73341"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 969,
+        "name": "TABLE A"
+      },
+      {
+        "id": 970,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2025-11-08 09:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61600 - Allstars Dolphins",
+          "#71907 - Quarks"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2025-11-08 09:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#73948 - Stratford Osgood",
+          "#67854 - Superstars"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2025-11-08 09:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#70238 - Trapped in Union City",
+          "#65841 - Falcon X"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2025-11-08 10:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#62268 - Delta Cosmic Coders 2025",
+          "#73341 -  Blitz Bots "
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2025-11-08 10:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#56482 - Brawl Bros",
+          "#67186 - Diggnation"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2025-11-08 10:30:00-08:00",
+        "length": 30,
+        "tables": [
+          "#72421 - EarthCreators",
+          "#70765 - The Paleo Coders"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2025-11-08 11:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67186 - Diggnation",
+          "#62268 - Delta Cosmic Coders 2025"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2025-11-08 11:10:00-08:00",
+        "length": 15,
+        "tables": [
+          "#56482 - Brawl Bros",
+          "#70765 - The Paleo Coders"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2025-11-08 11:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#73341 -  Blitz Bots ",
+          "#72421 - EarthCreators"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2025-11-08 11:35:00-08:00",
+        "length": 15,
+        "tables": [
+          "#67854 - Superstars",
+          "#61600 - Allstars Dolphins"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2025-11-08 11:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#73948 - Stratford Osgood",
+          "#65841 - Falcon X"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2025-11-08 12:00:00-08:00",
+        "length": 75,
+        "tables": [
+          "#71907 - Quarks",
+          "#70238 - Trapped in Union City"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2025-11-08 13:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65841 - Falcon X",
+          "#61600 - Allstars Dolphins"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2025-11-08 13:25:00-08:00",
+        "length": 15,
+        "tables": [
+          "#71907 - Quarks",
+          "#67854 - Superstars"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2025-11-08 13:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#70238 - Trapped in Union City",
+          "#73948 - Stratford Osgood"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2025-11-08 13:50:00-08:00",
+        "length": 15,
+        "tables": [
+          "#72421 - EarthCreators",
+          "#56482 - Brawl Bros"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2025-11-08 14:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#73341 -  Blitz Bots ",
+          "#67186 - Diggnation"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2025-11-08 14:15:00-08:00",
+        "length": 45,
+        "tables": [
+          "#70765 - The Paleo Coders",
+          "#62268 - Delta Cosmic Coders 2025"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2025-11-08 15:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61600 - Allstars Dolphins",
+          "#73948 - Stratford Osgood"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2025-11-08 15:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67854 - Superstars",
+          "#70238 - Trapped in Union City"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2025-11-08 15:20:00-08:00",
+        "length": 15,
+        "tables": [
+          "#65841 - Falcon X",
+          "#71907 - Quarks"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2025-11-08 15:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#62268 - Delta Cosmic Coders 2025",
+          "#56482 - Brawl Bros"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2025-11-08 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67186 - Diggnation",
+          "#72421 - EarthCreators"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2025-11-08 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#70765 - The Paleo Coders",
+          "#73341 -  Blitz Bots "
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-10-28 04:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    1760,
+    1762,
+    1771,
+    1772,
+    1741,
+    1777,
+    1683,
+    1780,
+    1784,
+    1755,
+    1757,
+    1787
+  ]
+}

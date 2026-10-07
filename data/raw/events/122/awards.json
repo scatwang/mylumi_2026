@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 495,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 122,
+        "team": {
+          "number": 66820,
+          "name": "Leadways FBI",
+          "org_name": "Leadways School",
+          "org": {
+            "name": "Leadways School"
+          },
+          "city": "Cupertino",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 496,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 122,
+        "team": {
+          "number": 66820,
+          "name": "Leadways FBI",
+          "org_name": "Leadways School",
+          "org": {
+            "name": "Leadways School"
+          },
+          "city": "Cupertino",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 499,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 122,
+        "team": {
+          "number": 66906,
+          "name": "SuperAqua",
+          "org_name": "Theodore Judah Elementary",
+          "org": {
+            "name": "Theodore Judah Elementary"
+          },
+          "city": "El Dorado Hills",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 498,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 122,
+        "team": {
+          "number": 47622,
+          "name": "The Intellects",
+          "org_name": "Quarry Lane School",
+          "org": {
+            "name": "Quarry Lane School"
+          },
+          "city": "Dublin",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 497,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 122,
+        "team": {
+          "number": 58665,
+          "name": "Lunatics 2 (Wildcats)",
+          "org_name": "Allstars United Education Foundation",
+          "org": {
+            "name": "Allstars United Education Foundation"
+          },
+          "city": "San Jose",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 502,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "Praveen",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 122,
+        "team": {
+          "number": 61406,
+          "name": "Quantum Robotics",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Dublin",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": [
+      {
+        "id": 501,
+        "award_type": {
+          "id": 6,
+          "name": "Rising All-Star Award",
+          "display_name": "Rising All-Star Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 122,
+        "team": {
+          "number": 69238,
+          "name": "The Commas",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Stanford",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 500,
+        "award_type": {
+          "id": 55,
+          "name": "Motivate Award",
+          "display_name": "Motivate Award",
+          "category": "other",
+          "has_place": false,
+          "color": "pink",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 122,
+        "team": {
+          "number": 63874,
+          "name": "MasterBuilder3",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "HILLSBOROUGH",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,888 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 60141,
+        "name": "St. Anselm School Panthers",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-19 09:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-04-19 11:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-04-19 13:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-04-19 15:20:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-19 10:15:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65158,
+        "name": "Tierra Linda",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-19 09:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-04-19 11:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-04-19 13:40:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-04-19 15:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-19 11:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66736,
+        "name": "SAN RAMON ROBOS",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-19 09:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-04-19 12:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-04-19 13:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-04-19 15:20:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-19 11:00:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71110,
+        "name": "RobotiCi",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-19 09:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-04-19 11:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-04-19 13:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-04-19 15:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-19 10:15:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71922,
+        "name": "Pixelated Panthers",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-19 10:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-04-19 11:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-04-19 14:05:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-04-19 15:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-19 13:00:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72081,
+        "name": "INNO BOTS 1",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-19 09:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-04-19 12:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-04-19 13:40:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-04-19 15:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-19 11:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72482,
+        "name": "MWA Robotics Club",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-04-19 10:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-04-19 11:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-04-19 14:05:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2026-04-19 15:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-19 11:45:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72592,
+        "name": "Fantastic Five",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-19 09:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-04-19 11:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-04-19 13:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-04-19 15:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-19 10:15:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 73489,
+        "name": "RoboBlachsters",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-04-19 10:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-04-19 11:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-04-19 14:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-04-19 15:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-19 11:45:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 74365,
+        "name": "Master4Minds",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-19 10:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-04-19 11:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-04-19 14:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-04-19 15:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-19 11:45:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 74990,
+        "name": "St. Anselm School Rookies",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-04-19 10:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-04-19 11:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-04-19 13:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-04-19 15:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-19 13:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75058,
+        "name": "MegaBots",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-04-19 10:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-04-19 11:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-04-19 13:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2026-04-19 15:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-19 13:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          },
+          {
+            "name": "GREEN POD 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2026-04-19 10:15:00-07:00",
+            "length": 30,
+            "rooms": [
+              "71110",
+              "72592",
+              "60141"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2026-04-19 11:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "65158",
+              "72081",
+              "66736"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2026-04-19 11:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "74365",
+              "72482",
+              "73489"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2026-04-19 13:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "74990",
+              "75058",
+              "71922"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 1169,
+        "name": "TABLE A"
+      },
+      {
+        "id": 1170,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2026-04-19 09:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71110 - RobotiCi",
+          "#66736 - SAN RAMON ROBOS"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2026-04-19 09:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#65158 - Tierra Linda",
+          "#72592 - Fantastic Five"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2026-04-19 09:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72081 - INNO BOTS 1",
+          "#60141 - St. Anselm School Panthers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2026-04-19 10:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74365 - Master4Minds",
+          "#71922 - Pixelated Panthers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2026-04-19 10:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74990 - St. Anselm School Rookies",
+          "#72482 - MWA Robotics Club"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2026-04-19 10:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75058 - MegaBots",
+          "#73489 - RoboBlachsters"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2026-04-19 11:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72482 - MWA Robotics Club",
+          "#74365 - Master4Minds"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2026-04-19 11:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74990 - St. Anselm School Rookies",
+          "#73489 - RoboBlachsters"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2026-04-19 11:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71922 - Pixelated Panthers",
+          "#75058 - MegaBots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2026-04-19 11:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72592 - Fantastic Five",
+          "#71110 - RobotiCi"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2026-04-19 11:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#65158 - Tierra Linda",
+          "#60141 - St. Anselm School Panthers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2026-04-19 12:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66736 - SAN RAMON ROBOS",
+          "#72081 - INNO BOTS 1"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2026-04-19 13:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#60141 - St. Anselm School Panthers",
+          "#71110 - RobotiCi"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2026-04-19 13:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66736 - SAN RAMON ROBOS",
+          "#72592 - Fantastic Five"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2026-04-19 13:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72081 - INNO BOTS 1",
+          "#65158 - Tierra Linda"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2026-04-19 13:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75058 - MegaBots",
+          "#74990 - St. Anselm School Rookies"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2026-04-19 14:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71922 - Pixelated Panthers",
+          "#72482 - MWA Robotics Club"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2026-04-19 14:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#73489 - RoboBlachsters",
+          "#74365 - Master4Minds"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2026-04-19 15:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71110 - RobotiCi",
+          "#65158 - Tierra Linda"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2026-04-19 15:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72592 - Fantastic Five",
+          "#72081 - INNO BOTS 1"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2026-04-19 15:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#60141 - St. Anselm School Panthers",
+          "#66736 - SAN RAMON ROBOS"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2026-04-19 15:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74365 - Master4Minds",
+          "#74990 - St. Anselm School Rookies"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2026-04-19 15:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72482 - MWA Robotics Club",
+          "#75058 - MegaBots"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2026-04-19 15:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#73489 - RoboBlachsters",
+          "#71922 - Pixelated Panthers"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2026-04-16 21:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    2052,
+    2053,
+    2092,
+    2125,
+    2160,
+    2161,
+    2068,
+    2165,
+    2070,
+    2237,
+    2046
+  ]
+}

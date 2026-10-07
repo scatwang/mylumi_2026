@@ -1,0 +1,113 @@
+{
+  "count": 9,
+  "results": [
+    {
+      "id": 2239,
+      "team": {
+        "id": 2442,
+        "number": 33079,
+        "name": "Golden Retrievers",
+        "city": "Hercules",
+        "org_name": "Ohlone Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2242,
+      "team": {
+        "id": 2443,
+        "number": 33080,
+        "name": "Kangaroo Rats",
+        "city": "Hercules",
+        "org_name": "Ohlone Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2241,
+      "team": {
+        "id": 2444,
+        "number": 33081,
+        "name": "The 7 Hedgehogs",
+        "city": "Hercules",
+        "org_name": "Ohlone Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2240,
+      "team": {
+        "id": 2464,
+        "number": 33822,
+        "name": "Bricksters",
+        "city": "Santa Clara",
+        "org_name": "Stratford School - Santa Clara Pomeroy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2246,
+      "team": {
+        "id": 1807,
+        "number": 33851,
+        "name": "Earth Movers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2245,
+      "team": {
+        "id": 2436,
+        "number": 34776,
+        "name": "RoboDiggers8",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2243,
+      "team": {
+        "id": 2477,
+        "number": 34809,
+        "name": "RoboRangers",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2267,
+      "team": {
+        "id": 2487,
+        "number": 35185,
+        "name": "Lego Slayers",
+        "city": "Redwood City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2244,
+      "team": {
+        "id": 2280,
+        "number": 35380,
+        "name": "Yi Fan Robotics",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 70885,
+      "name": "IJAVVE #2",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 370,
+      "highest_display": 370,
+      "rounds": [
+        265,
+        370,
+        280
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        370,
+        280,
+        265
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 75065,
+      "name": "Cyber Cats",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 320,
+      "highest_display": 320,
+      "rounds": [
+        235,
+        320,
+        285
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        320,
+        285,
+        235
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 67736,
+      "name": "The Anonymous Raptors",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 300,
+      "highest_display": 300,
+      "rounds": [
+        185,
+        300,
+        295
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        300,
+        295,
+        185
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 72342,
+      "name": "The 4 Sigmas",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 245,
+      "highest_display": 245,
+      "rounds": [
+        180,
+        240,
+        245
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Extremely polite behavior, courteous to each other despite some fails",
+        ""
+      ],
+      "rounds_sorted": [
+        245,
+        240,
+        180
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 66668,
+      "name": "Springer Legonauts",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        180,
+        205,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        180,
+        115
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 60981,
+      "name": "TechPython",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        205,
+        160,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        170,
+        160
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 72259,
+      "name": "Earthquakers",
+      "judging_lane_name": "RED POD 2",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        195,
+        185,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        185,
+        180
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 73865,
+      "name": "TIRO-SV-C05",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        160,
+        180,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "They were warned to not argue",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        160,
+        160
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 73863,
+      "name": "TIRO-SV-C03",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        140,
+        115,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        140,
+        115
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 73864,
+      "name": "TIRO-SV-C04",
+      "judging_lane_name": "RED POD 2",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        105,
+        170,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        170,
+        150,
+        105
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 71269,
+      "name": "Coding Crusaders",
+      "judging_lane_name": "RED POD 2",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        140,
+        135,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Lack of gp, conflicts within the team during matches",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        170,
+        140,
+        135
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 74210,
+      "name": "Skywalker",
+      "judging_lane_name": "RED POD 2",
+      "highest": 125,
+      "highest_display": 125,
+      "rounds": [
+        65,
+        85,
+        125
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        125,
+        85,
+        65
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

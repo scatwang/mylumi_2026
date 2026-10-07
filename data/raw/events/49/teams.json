@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 886,
+      "team": {
+        "id": 889,
+        "number": 5254,
+        "name": "Golden Surfers",
+        "city": "Palo Alto",
+        "org_name": "Girl Scouts of Northern California"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 639,
+      "team": {
+        "id": 1106,
+        "number": 18197,
+        "name": "The Nudibranchs",
+        "city": "San Bruno",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 908,
+      "team": {
+        "id": 963,
+        "number": 60496,
+        "name": "Alternative Force",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 789,
+      "team": {
+        "id": 731,
+        "number": 61188,
+        "name": "Cyber Titans@",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 782,
+      "team": {
+        "id": 989,
+        "number": 61205,
+        "name": "Snacktopus",
+        "city": "Redwood City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 931,
+      "team": {
+        "id": 732,
+        "number": 61281,
+        "name": "Mustang Rockets",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 900,
+      "team": {
+        "id": 1042,
+        "number": 66111,
+        "name": "Byte Bots",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 630,
+      "team": {
+        "id": 1124,
+        "number": 66292,
+        "name": "CookieBots",
+        "city": "Danville",
+        "org_name": "Girl Scouts"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 939,
+      "team": {
+        "id": 863,
+        "number": 66961,
+        "name": "PreposterousPlatypus",
+        "city": "Palo Alto",
+        "org_name": "ULEAP"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 940,
+      "team": {
+        "id": 1287,
+        "number": 68442,
+        "name": "Argo Team 242",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 938,
+      "team": {
+        "id": 1270,
+        "number": 68454,
+        "name": "Argo Skibidi Bots",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 929,
+      "team": {
+        "id": 1255,
+        "number": 69343,
+        "name": "Ustar Ocean",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

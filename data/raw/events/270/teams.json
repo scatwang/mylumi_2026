@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 2058,
+      "team": {
+        "id": 1710,
+        "number": 60981,
+        "name": "TechPython",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2045,
+      "team": {
+        "id": 1769,
+        "number": 66668,
+        "name": "Springer Legonauts",
+        "city": "MOUNTAIN VIEW",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2060,
+      "team": {
+        "id": 2022,
+        "number": 67736,
+        "name": "The Anonymous Raptors",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2057,
+      "team": {
+        "id": 1592,
+        "number": 70885,
+        "name": "IJAVVE #2",
+        "city": "San Jose",
+        "org_name": "Ida Jew Academies, Valle Vista Elementary, Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2054,
+      "team": {
+        "id": 1595,
+        "number": 71269,
+        "name": "Coding Crusaders",
+        "city": "San Mateo",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2083,
+      "team": {
+        "id": 1973,
+        "number": 72259,
+        "name": "Earthquakers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2225,
+      "team": {
+        "id": 2480,
+        "number": 72342,
+        "name": "The 4 Sigmas",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2059,
+      "team": {
+        "id": 2223,
+        "number": 73863,
+        "name": "TIRO-SV-C03",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2055,
+      "team": {
+        "id": 2234,
+        "number": 73864,
+        "name": "TIRO-SV-C04",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2085,
+      "team": {
+        "id": 2411,
+        "number": 73865,
+        "name": "TIRO-SV-C05",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2231,
+      "team": {
+        "id": 2473,
+        "number": 74210,
+        "name": "Skywalker",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2047,
+      "team": {
+        "id": 2431,
+        "number": 75065,
+        "name": "Cyber Cats",
+        "city": "Cupertino",
+        "org_name": "Leadways School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

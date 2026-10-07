@@ -1,0 +1,889 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 17493,
+        "name": "17493",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-15 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2025-11-15 11:10:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-11-15 13:50:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-11-15 15:35:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-15 13:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 25573,
+        "name": "25573",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-15 10:30:00-08:00",
+            "length": 30,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2025-11-15 11:10:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-11-15 14:15:00-08:00",
+            "length": 45,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-11-15 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-15 11:45:00-08:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61949,
+        "name": "Ultraviolet",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-15 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2025-11-15 11:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-11-15 14:15:00-08:00",
+            "length": 45,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-11-15 15:35:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-15 11:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66137,
+        "name": "Build Guild - SBR",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-15 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-11-15 11:25:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-11-15 14:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-11-15 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-15 13:00:00-08:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66444,
+        "name": "CyberPirates",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-11-15 10:30:00-08:00",
+            "length": 30,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2025-11-15 11:25:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-11-15 13:50:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-11-15 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-11-15 13:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71128,
+        "name": "MidKnight Marvels",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-15 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-11-15 12:00:00-08:00",
+            "length": 75,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-15 13:40:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-11-15 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-15 11:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72298,
+        "name": "Muir Robotics Gold",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-15 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-15 11:35:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-11-15 13:15:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-11-15 15:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-15 10:15:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72366,
+        "name": "Muir Robotics Blue",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-15 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-11-15 12:00:00-08:00",
+            "length": 75,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-15 13:25:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-11-15 15:20:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-15 11:00:00-08:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72371,
+        "name": "SBR TEAM RED",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-15 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-15 11:50:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-11-15 13:15:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2025-11-15 15:20:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-15 10:15:00-08:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72379,
+        "name": "SBR TEAM ORANGE",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-15 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-11-15 11:50:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-11-15 13:40:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-11-15 15:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-15 11:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72380,
+        "name": "SBR TEAM GREEN",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-11-15 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2025-11-15 11:35:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-11-15 13:25:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-11-15 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-11-15 10:15:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72909,
+        "name": "Argo Robotics Team 255",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-11-15 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2025-11-15 11:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2025-11-15 14:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-11-15 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-11-15 11:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          },
+          {
+            "name": "GREEN POD 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-11-15 10:15:00-08:00",
+            "length": 30,
+            "rooms": [
+              "72298",
+              "72380",
+              "72371"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-11-15 11:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "72379",
+              "71128",
+              "72366"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-11-15 11:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "61949",
+              "72909",
+              "25573"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-11-15 13:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "17493",
+              "66444",
+              "66137"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 974,
+        "name": "TABLE A"
+      },
+      {
+        "id": 975,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2025-11-15 09:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#72298 - Muir Robotics Gold",
+          "#72366 - Muir Robotics Blue"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2025-11-15 09:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#72379 - SBR TEAM ORANGE",
+          "#72380 - SBR TEAM GREEN"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2025-11-15 09:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#71128 - MidKnight Marvels",
+          "#72371 - SBR TEAM RED"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2025-11-15 10:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61949 - Ultraviolet",
+          "#66137 - Build Guild - SBR"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2025-11-15 10:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#17493 - 17493",
+          "#72909 - Argo Robotics Team 255"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2025-11-15 10:30:00-08:00",
+        "length": 30,
+        "tables": [
+          "#66444 - CyberPirates",
+          "#25573 - 25573"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2025-11-15 11:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72909 - Argo Robotics Team 255",
+          "#61949 - Ultraviolet"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2025-11-15 11:10:00-08:00",
+        "length": 15,
+        "tables": [
+          "#17493 - 17493",
+          "#25573 - 25573"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2025-11-15 11:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66137 - Build Guild - SBR",
+          "#66444 - CyberPirates"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2025-11-15 11:35:00-08:00",
+        "length": 15,
+        "tables": [
+          "#72380 - SBR TEAM GREEN",
+          "#72298 - Muir Robotics Gold"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2025-11-15 11:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72379 - SBR TEAM ORANGE",
+          "#72371 - SBR TEAM RED"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2025-11-15 12:00:00-08:00",
+        "length": 75,
+        "tables": [
+          "#72366 - Muir Robotics Blue",
+          "#71128 - MidKnight Marvels"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2025-11-15 13:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72371 - SBR TEAM RED",
+          "#72298 - Muir Robotics Gold"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2025-11-15 13:25:00-08:00",
+        "length": 15,
+        "tables": [
+          "#72366 - Muir Robotics Blue",
+          "#72380 - SBR TEAM GREEN"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2025-11-15 13:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#71128 - MidKnight Marvels",
+          "#72379 - SBR TEAM ORANGE"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2025-11-15 13:50:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66444 - CyberPirates",
+          "#17493 - 17493"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2025-11-15 14:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66137 - Build Guild - SBR",
+          "#72909 - Argo Robotics Team 255"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2025-11-15 14:15:00-08:00",
+        "length": 45,
+        "tables": [
+          "#25573 - 25573",
+          "#61949 - Ultraviolet"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2025-11-15 15:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72298 - Muir Robotics Gold",
+          "#72379 - SBR TEAM ORANGE"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2025-11-15 15:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72380 - SBR TEAM GREEN",
+          "#71128 - MidKnight Marvels"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2025-11-15 15:20:00-08:00",
+        "length": 15,
+        "tables": [
+          "#72371 - SBR TEAM RED",
+          "#72366 - Muir Robotics Blue"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2025-11-15 15:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61949 - Ultraviolet",
+          "#17493 - 17493"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2025-11-15 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#72909 - Argo Robotics Team 255",
+          "#66444 - CyberPirates"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2025-11-15 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#25573 - 25573",
+          "#66137 - Build Guild - SBR"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-10-28 04:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    1600,
+    1538,
+    1539,
+    1603,
+    1639,
+    1612,
+    1516,
+    1552,
+    1557,
+    1591,
+    1595,
+    1599
+  ]
+}

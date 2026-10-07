@@ -1,0 +1,920 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 37811,
+        "name": "OwOls",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-19 09:15:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2023-11-19 12:05:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2023-11-19 13:45:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2023-11-19 14:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-19 10:25:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 39742,
+        "name": "QLS MiniBytes",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-19 09:00:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2023-11-19 11:35:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2023-11-19 13:30:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2023-11-19 14:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-19 09:45:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 39789,
+        "name": "QLS MegaBytes",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2023-11-19 10:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2023-11-19 10:50:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2023-11-19 13:00:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2023-11-19 15:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-19 13:50:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 47621,
+        "name": "QLS Flashbots",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2023-11-19 10:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2023-11-19 11:20:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2023-11-19 13:15:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2023-11-19 15:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2023-11-19 14:30:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 47622,
+        "name": "QLS CloudBots",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-19 09:45:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2023-11-19 10:50:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2023-11-19 14:15:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2023-11-19 15:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-19 13:10:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 56940,
+        "name": "RoboMasters",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-19 09:00:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2023-11-19 11:50:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2023-11-19 14:00:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2023-11-19 15:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2023-11-19 11:05:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 59943,
+        "name": "THESHOOTINGSTARS",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-19 09:15:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2023-11-19 11:50:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2023-11-19 13:30:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2023-11-19 15:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2023-11-19 09:45:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60113,
+        "name": "Next Gen Robos",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-19 10:00:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2023-11-19 11:20:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2023-11-19 13:00:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2023-11-19 15:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-19 13:50:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61301,
+        "name": "Fantastic Fource",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2023-11-19 10:00:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2023-11-19 11:05:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2023-11-19 14:15:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2023-11-19 15:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-19 13:10:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61406,
+        "name": "STEAM Bots",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2023-11-19 09:30:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2023-11-19 12:05:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2023-11-19 14:00:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2023-11-19 15:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2023-11-19 11:05:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 62552,
+        "name": "Fieldbots",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2023-11-19 09:45:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2023-11-19 11:05:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2023-11-19 13:15:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2023-11-19 15:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2023-11-19 14:30:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 63582,
+        "name": "QLS PoppeBots",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2023-11-19 09:30:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2023-11-19 11:35:00-08:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2023-11-19 13:45:00-08:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2023-11-19 15:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2023-11-19 10:25:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "Yellow Pod 1"
+          },
+          {
+            "name": "Red Pod 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2023-11-19 09:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "39742 - QLS MiniBytes",
+              "59943 - THESHOOTINGSTARS"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2023-11-19 10:25:00-08:00",
+            "length": 30,
+            "rooms": [
+              "63582 - QLS PoppeBots",
+              "37811 - OwOls"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2023-11-19 11:05:00-08:00",
+            "length": 30,
+            "rooms": [
+              "61406 - STEAM Bots",
+              "56940 - RoboMasters"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2023-11-19 13:10:00-08:00",
+            "length": 30,
+            "rooms": [
+              "47622 - QLS CloudBots",
+              "61301 - Fantastic Fource"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2023-11-19 13:50:00-08:00",
+            "length": 30,
+            "rooms": [
+              "39789 - QLS MegaBytes",
+              "60113 - Next Gen Robos"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2023-11-19 14:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "47621 - QLS Flashbots",
+              "62552 - Fieldbots"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 305,
+        "name": "Red Table"
+      },
+      {
+        "id": 306,
+        "name": "Blue Table"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2023-11-19 09:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#39742 - QLS MiniBytes",
+          "#56940 - RoboMasters"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2023-11-19 09:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#37811 - OwOls",
+          "#59943 - THESHOOTINGSTARS"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2023-11-19 09:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61406 - STEAM Bots",
+          "#63582 - QLS PoppeBots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2023-11-19 09:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#47622 - QLS CloudBots",
+          "#62552 - Fieldbots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2023-11-19 10:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60113 - Next Gen Robos",
+          "#61301 - Fantastic Fource"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2023-11-19 10:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#47621 - QLS Flashbots",
+          "#39789 - QLS MegaBytes"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2023-11-19 10:25:00-08:00",
+        "length": 25,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2023-11-19 10:50:00-08:00",
+        "length": 15,
+        "tables": [
+          "#39789 - QLS MegaBytes",
+          "#47622 - QLS CloudBots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2023-11-19 11:05:00-08:00",
+        "length": 15,
+        "tables": [
+          "#62552 - Fieldbots",
+          "#61301 - Fantastic Fource"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2023-11-19 11:20:00-08:00",
+        "length": 15,
+        "tables": [
+          "#47621 - QLS Flashbots",
+          "#60113 - Next Gen Robos"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2023-11-19 11:35:00-08:00",
+        "length": 15,
+        "tables": [
+          "#63582 - QLS PoppeBots",
+          "#39742 - QLS MiniBytes"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2023-11-19 11:50:00-08:00",
+        "length": 15,
+        "tables": [
+          "#56940 - RoboMasters",
+          "#59943 - THESHOOTINGSTARS"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2023-11-19 12:05:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61406 - STEAM Bots",
+          "#37811 - OwOls"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2023-11-19 12:20:00-08:00",
+        "length": 40,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2023-11-19 13:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#60113 - Next Gen Robos",
+          "#39789 - QLS MegaBytes"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2023-11-19 13:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#62552 - Fieldbots",
+          "#47621 - QLS Flashbots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2023-11-19 13:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#59943 - THESHOOTINGSTARS",
+          "#39742 - QLS MiniBytes"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2023-11-19 13:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#37811 - OwOls",
+          "#63582 - QLS PoppeBots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2023-11-19 14:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#56940 - RoboMasters",
+          "#61406 - STEAM Bots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2023-11-19 14:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61301 - Fantastic Fource",
+          "#47622 - QLS CloudBots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2023-11-19 14:30:00-08:00",
+        "length": 20,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2023-11-19 14:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#39742 - QLS MiniBytes",
+          "#37811 - OwOls"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2023-11-19 15:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#59943 - THESHOOTINGSTARS",
+          "#61406 - STEAM Bots"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2023-11-19 15:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#63582 - QLS PoppeBots",
+          "#56940 - RoboMasters"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2023-11-19 15:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#47622 - QLS CloudBots",
+          "#60113 - Next Gen Robos"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2023-11-19 15:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#61301 - Fantastic Fource",
+          "#47621 - QLS Flashbots"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2023-11-19 15:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#39789 - QLS MegaBytes",
+          "#62552 - Fieldbots"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2023-11-19 16:25:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": []
+}

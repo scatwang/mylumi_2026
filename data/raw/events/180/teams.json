@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 1674,
+      "team": {
+        "id": 1635,
+        "number": 7460,
+        "name": "Tiger Robotics 4",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1544,
+      "team": {
+        "id": 1645,
+        "number": 29151,
+        "name": "Tiger Robotics 3",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1686,
+      "team": {
+        "id": 1657,
+        "number": 37489,
+        "name": "FLL-C 37489",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1537,
+      "team": {
+        "id": 1660,
+        "number": 40997,
+        "name": "Denman Robotics",
+        "city": "San Francisco",
+        "org_name": "James Denman Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1607,
+      "team": {
+        "id": 1666,
+        "number": 45629,
+        "name": "Dragon Bots",
+        "city": "San Francisco",
+        "org_name": "Ecole Notre Dame Des Victoires"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1666,
+      "team": {
+        "id": 1995,
+        "number": 52090,
+        "name": "Canary1",
+        "city": "San Francisco",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1512,
+      "team": {
+        "id": 1996,
+        "number": 52943,
+        "name": "Digital Dolphins GREEN TEAM",
+        "city": "San Francisco",
+        "org_name": "San Francisco Day School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1515,
+      "team": {
+        "id": 1997,
+        "number": 52944,
+        "name": "Digital Dolphins BLUE TEAM",
+        "city": "San Francisco",
+        "org_name": "San Francisco Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1536,
+      "team": {
+        "id": 1677,
+        "number": 53592,
+        "name": "Tiger Robotics 1",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1510,
+      "team": {
+        "id": 2001,
+        "number": 57759,
+        "name": "Digital Dolphins GREY TEAM",
+        "city": "San Francisco",
+        "org_name": "San Francisco Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1548,
+      "team": {
+        "id": 1760,
+        "number": 66219,
+        "name": "CougarBots",
+        "city": "San Francisco",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1652,
+      "team": {
+        "id": 2020,
+        "number": 67216,
+        "name": "Submersiwolves",
+        "city": "San Francisco",
+        "org_name": "Lilienthal (Claire) Elementary"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1598,
+      "team": {
+        "id": 1795,
+        "number": 68218,
+        "name": "Tiger Robotics 5",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1513,
+      "team": {
+        "id": 2030,
+        "number": 68910,
+        "name": "Digital Dolphins - YELLOW TEAM",
+        "city": "San Francisco",
+        "org_name": "San Francisco Day School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1520,
+      "team": {
+        "id": 1799,
+        "number": 69000,
+        "name": "King Khai Robotics",
+        "city": "Alameda",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1604,
+      "team": {
+        "id": 1927,
+        "number": 69977,
+        "name": "FireDragons of CAIS",
+        "city": "San Francisco",
+        "org_name": "Chinese American International School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1670,
+      "team": {
+        "id": 2165,
+        "number": 72833,
+        "name": "Mckinely1",
+        "city": "Burlingame",
+        "org_name": "Mckinley Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1527,
+      "team": {
+        "id": 2200,
+        "number": 72904,
+        "name": "Tiger Robotics 6",
+        "city": "San Francisco",
+        "org_name": "Town School for Boys"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

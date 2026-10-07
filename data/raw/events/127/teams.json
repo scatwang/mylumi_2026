@@ -1,0 +1,101 @@
+{
+  "count": 8,
+  "results": [
+    {
+      "id": 1342,
+      "team": {
+        "id": 766,
+        "number": 21406,
+        "name": "Future Builders",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1396,
+      "team": {
+        "id": 1305,
+        "number": 28049,
+        "name": "Reef Revivers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1343,
+      "team": {
+        "id": 1480,
+        "number": 32010,
+        "name": "Champs",
+        "city": "San Jose",
+        "org_name": "Carlton Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1308,
+      "team": {
+        "id": 1202,
+        "number": 32061,
+        "name": "Lego Warriors",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1304,
+      "team": {
+        "id": 1403,
+        "number": 32199,
+        "name": "Dancing Dolphins",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1419,
+      "team": {
+        "id": 1065,
+        "number": 32387,
+        "name": "Falcon-Submerged",
+        "city": "Cupertino",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1405,
+      "team": {
+        "id": 1130,
+        "number": 32496,
+        "name": "Folsom@Autobots",
+        "city": "Folsom",
+        "org_name": "Theodore Judah Elementary, Mangini Ranch Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1416,
+      "team": {
+        "id": 1334,
+        "number": 32742,
+        "name": "Block Builders",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

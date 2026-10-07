@@ -1,0 +1,151 @@
+{
+  "event_id": 306,
+  "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - San Francisco Bay University, Fremont",
+  "count": 12,
+  "teams": [
+    {
+      "id": 2366,
+      "team": {
+        "id": 2659,
+        "number": 2847,
+        "name": "2847",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2369,
+      "team": {
+        "id": 2664,
+        "number": 4979,
+        "name": "4979",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2368,
+      "team": {
+        "id": 2672,
+        "number": 17491,
+        "name": "The Bioluminaries",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2380,
+      "team": {
+        "id": 2731,
+        "number": 60868,
+        "name": "iBots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2314,
+      "team": {
+        "id": 2749,
+        "number": 65258,
+        "name": "CrypticButterflies",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2334,
+      "team": {
+        "id": 2776,
+        "number": 67056,
+        "name": "Wavebots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2343,
+      "team": {
+        "id": 2779,
+        "number": 67727,
+        "name": "Thunderbolts",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2373,
+      "team": {
+        "id": 3007,
+        "number": 73984,
+        "name": "Cybert00th Tigers",
+        "city": "Los Altos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2385,
+      "team": {
+        "id": 2610,
+        "number": 75521,
+        "name": "The Bio Bots",
+        "city": "Union City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2362,
+      "team": {
+        "id": 2639,
+        "number": 76208,
+        "name": "VCES",
+        "city": "San Jose",
+        "org_name": "Valley Christian Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2381,
+      "team": {
+        "id": 2644,
+        "number": 76258,
+        "name": "Alpha Avengers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2387,
+      "team": {
+        "id": 2655,
+        "number": 76762,
+        "name": "BiomeBuddies",
+        "city": "Palo Alto",
+        "org_name": "Imagination Lab School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

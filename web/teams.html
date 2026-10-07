@@ -1,0 +1,2409 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NorCal FLL 全部参赛队伍全景看板 & 统计分析 (Public Teams Analytics)</title>
+  <meta name="description" content="NorCal FIRST LEGO League 2026 全部注册队伍（Public Teams）全景看板，涵盖 519 支队伍的项目分布、合规审查漏斗、城市机构分布及交互式检索。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="auth.js"></script>
+  <style>
+    /* Custom enhancements for teams analytics */
+    .nav-tabs {
+      display: flex;
+      gap: 12px;
+      margin-left: 20px;
+    }
+    .nav-link {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 0.9rem;
+      padding: 6px 14px;
+      border-radius: 999px;
+      border: 1px solid var(--border-subtle);
+      transition: all var(--transition-fast);
+      background: rgba(255, 255, 255, 0.03);
+    }
+    .nav-link:hover {
+      color: var(--text-main);
+      border-color: var(--cyan-neon);
+      background: rgba(0, 242, 254, 0.08);
+    }
+    .nav-link.active {
+      color: #0a0d17;
+      background: var(--cyan-neon);
+      font-weight: 600;
+      border-color: var(--cyan-neon);
+      box-shadow: 0 0 16px var(--cyan-glow);
+    }
+
+    /* Board Filter Switcher */
+    .board-filter-bar {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      margin-bottom: 22px;
+      padding: 14px 20px;
+      background: rgba(18, 24, 42, 0.85);
+      border: 1px solid rgba(0, 242, 254, 0.25);
+      border-radius: 14px;
+      backdrop-filter: var(--glass-blur);
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
+    }
+    .board-filter-label {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 0.92rem;
+      font-weight: 600;
+      color: var(--text-main);
+      font-family: var(--font-heading);
+    }
+    .pulse-indicator {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--cyan-neon);
+      box-shadow: 0 0 10px var(--cyan-neon);
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.3); opacity: 0.6; }
+    }
+    .board-filter-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .board-pill {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      padding: 8px 16px;
+      border-radius: 999px;
+      font-size: 0.88rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .board-pill:hover {
+      color: var(--text-main);
+      border-color: rgba(255, 255, 255, 0.3);
+      background: rgba(255, 255, 255, 0.08);
+      transform: translateY(-1px);
+    }
+    .board-pill.active {
+      color: #0a0d17;
+      background: var(--cyan-neon);
+      border-color: var(--cyan-neon);
+      font-weight: 700;
+      box-shadow: 0 0 16px var(--cyan-glow);
+    }
+    .board-pill.highlight {
+      border-color: rgba(0, 242, 254, 0.4);
+      background: rgba(0, 242, 254, 0.08);
+      color: #38bdf8;
+    }
+    .board-pill.highlight:hover {
+      border-color: var(--cyan-neon);
+      color: #fff;
+    }
+    .board-pill.highlight.active {
+      color: #0a0d17;
+      background: linear-gradient(135deg, #00f2fe 0%, #38bdf8 100%);
+      border-color: #00f2fe;
+      box-shadow: 0 0 20px rgba(0, 242, 254, 0.5);
+    }
+    .board-pill.ready-pill {
+      border-color: rgba(16, 185, 129, 0.4);
+      background: rgba(16, 185, 129, 0.08);
+      color: #34d399;
+      margin-left: auto;
+    }
+    .board-pill.ready-pill:hover {
+      border-color: #10b981;
+      background: rgba(16, 185, 129, 0.16);
+      color: #fff;
+    }
+    .board-pill.ready-pill.active {
+      color: #0a0d17;
+      background: linear-gradient(135deg, #10b981 0%, #34d399 100%);
+      border-color: #10b981;
+      box-shadow: 0 0 20px rgba(16, 185, 129, 0.5);
+      font-weight: 700;
+    }
+    .btn-ready-toggle {
+      background: rgba(16, 185, 129, 0.1);
+      border: 1px solid rgba(16, 185, 129, 0.35);
+      color: #34d399;
+      border-radius: 10px;
+      padding: 9px 14px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all var(--transition-fast);
+    }
+    .btn-ready-toggle:hover {
+      background: rgba(16, 185, 129, 0.2);
+      border-color: #10b981;
+      color: #fff;
+    }
+    .btn-ready-toggle.active {
+      background: #10b981;
+      color: #0a0d17;
+      border-color: #10b981;
+      box-shadow: 0 0 14px rgba(16, 185, 129, 0.4);
+    }
+    .region-bar-item {
+      cursor: pointer;
+      padding: 6px 10px;
+      border-radius: 8px;
+      border: 1px solid transparent;
+      transition: all var(--transition-fast);
+      margin-bottom: 8px;
+    }
+    .region-bar-item:hover {
+      background: rgba(255, 255, 255, 0.04);
+      border-color: rgba(255, 255, 255, 0.15);
+    }
+    .region-bar-item.active {
+      background: rgba(0, 242, 254, 0.12);
+      border-color: var(--cyan-neon);
+      box-shadow: 0 0 14px rgba(0, 242, 254, 0.3);
+    }
+    .btn-reset-region {
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-dim);
+      font-size: 0.72rem;
+      padding: 2px 8px;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+    }
+    .btn-reset-region:hover {
+      color: var(--text-main);
+      border-color: var(--cyan-neon);
+      background: rgba(0, 242, 254, 0.15);
+    }
+    .board-scope-tag {
+      display: inline-block;
+      font-size: 0.76rem;
+      padding: 2px 8px;
+      border-radius: 4px;
+      background: rgba(0, 242, 254, 0.15);
+      color: var(--cyan-neon);
+      margin-left: 8px;
+      font-weight: 600;
+    }
+
+    .analytics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+      gap: 20px;
+      margin: 24px 0 40px;
+    }
+
+    .chart-card {
+      background: var(--bg-card);
+      backdrop-filter: var(--glass-blur);
+      border: 1px solid var(--border-subtle);
+      border-radius: 16px;
+      padding: 24px;
+      box-shadow: var(--shadow-card);
+      transition: transform var(--transition-smooth), border-color var(--transition-smooth);
+    }
+    .chart-card:hover {
+      border-color: var(--border-glow);
+      transform: translateY(-2px);
+    }
+    .chart-title {
+      font-family: var(--font-heading);
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--text-main);
+      margin-bottom: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .chart-subtitle {
+      font-size: 0.82rem;
+      color: var(--text-dim);
+      margin-bottom: 18px;
+    }
+
+    /* Distribution Progress Bars */
+    .bar-item {
+      margin-bottom: 14px;
+    }
+    .bar-label-group {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.85rem;
+      margin-bottom: 5px;
+    }
+    .bar-label {
+      color: var(--text-main);
+      font-weight: 500;
+    }
+    .bar-value {
+      color: var(--text-muted);
+      font-family: monospace;
+      font-size: 0.85rem;
+    }
+    .bar-track {
+      width: 100%;
+      height: 8px;
+      background: rgba(255, 255, 255, 0.06);
+      border-radius: 999px;
+      overflow: hidden;
+      position: relative;
+    }
+    .bar-fill {
+      height: 100%;
+      border-radius: 999px;
+      transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .bg-cyan { background: linear-gradient(90deg, #00c6ff, #0072ff); }
+    .bg-emerald { background: linear-gradient(90deg, #10b981, #059669); }
+    .bg-purple { background: linear-gradient(90deg, #c084fc, #9333ea); }
+    .bg-amber { background: linear-gradient(90deg, #fbbf24, #d97706); }
+    .bg-rose { background: linear-gradient(90deg, #f43f5e, #be123c); }
+    .bg-blue { background: linear-gradient(90deg, #38bdf8, #0284c7); }
+
+    /* Funnel check cards */
+    .funnel-step {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 10px 14px;
+      margin-bottom: 8px;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid var(--border-subtle);
+      border-radius: 10px;
+    }
+    .funnel-name {
+      font-size: 0.88rem;
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .funnel-stat {
+      font-size: 0.85rem;
+      font-weight: 600;
+    }
+
+    /* Badges */
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 2px 8px;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      font-weight: 600;
+    }
+    .badge-good { background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.3); }
+    .badge-warn { background: rgba(245, 158, 11, 0.15); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.3); }
+    .badge-danger { background: rgba(244, 63, 94, 0.15); color: #f87171; border: 1px solid rgba(244, 63, 94, 0.3); }
+    .badge-info { background: rgba(56, 189, 248, 0.15); color: #38bdf8; border: 1px solid rgba(56, 189, 248, 0.3); }
+
+    /* Filter Controls */
+    .filter-section {
+      background: var(--bg-card);
+      backdrop-filter: var(--glass-blur);
+      border: 1px solid var(--border-subtle);
+      border-radius: 16px;
+      padding: 20px 24px;
+      margin-bottom: 24px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .search-box {
+      flex: 1 1 280px;
+      position: relative;
+    }
+    .search-input {
+      width: 100%;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: 10px;
+      padding: 10px 16px 10px 38px;
+      color: var(--text-main);
+      font-size: 0.9rem;
+      outline: none;
+      transition: border-color var(--transition-fast);
+    }
+    .search-input:focus {
+      border-color: var(--cyan-neon);
+      box-shadow: 0 0 10px var(--cyan-glow);
+    }
+    .search-icon {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-dim);
+      font-size: 1rem;
+    }
+
+    .filter-group {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .filter-select {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      border-radius: 10px;
+      padding: 9px 14px;
+      color: var(--text-main);
+      font-size: 0.85rem;
+      outline: none;
+      cursor: pointer;
+    }
+    .filter-select:focus {
+      border-color: var(--cyan-neon);
+    }
+
+    /* Teams Table */
+    .table-container {
+      background: var(--bg-card);
+      backdrop-filter: var(--glass-blur);
+      border: 1px solid var(--border-subtle);
+      border-radius: 16px;
+      overflow-x: auto;
+      box-shadow: var(--shadow-card);
+    }
+    .teams-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.88rem;
+      text-align: left;
+    }
+    .teams-table th {
+      background: rgba(18, 24, 42, 0.95);
+      color: var(--text-muted);
+      font-weight: 600;
+      padding: 14px 16px;
+      border-bottom: 1px solid var(--border-subtle);
+      white-space: nowrap;
+    }
+    .teams-table th.sortable {
+      cursor: pointer;
+      user-select: none;
+      transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .teams-table th.sortable:hover {
+      background: rgba(0, 242, 254, 0.08);
+      color: var(--cyan-neon);
+    }
+    .teams-table th.sortable.active-sort {
+      color: var(--cyan-neon);
+      background: rgba(0, 242, 254, 0.12);
+      border-bottom: 2px solid var(--cyan-neon);
+    }
+    .sort-icon {
+      display: inline-block;
+      margin-left: 4px;
+      font-size: 0.72rem;
+      color: var(--text-dim);
+      transition: all 0.2s ease;
+      vertical-align: middle;
+    }
+    .teams-table th.sortable:hover .sort-icon {
+      color: var(--cyan-neon);
+      opacity: 0.9;
+    }
+    .teams-table th.sortable.active-sort .sort-icon {
+      color: var(--cyan-neon);
+      font-weight: 800;
+      opacity: 1;
+    }
+    .teams-table td {
+      padding: 14px 16px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+      color: var(--text-main);
+      vertical-align: middle;
+    }
+    .teams-table tr:hover td {
+      background: rgba(255, 255, 255, 0.02);
+    }
+    .team-num-badge {
+      font-family: monospace;
+      font-weight: 700;
+      color: var(--cyan-neon);
+      background: rgba(0, 242, 254, 0.1);
+      padding: 2px 6px;
+      border-radius: 4px;
+    }
+    .team-name-cell {
+      font-weight: 600;
+      color: var(--text-main);
+    }
+    .team-org-sub {
+      font-size: 0.78rem;
+      color: var(--text-dim);
+      margin-top: 2px;
+    }
+
+    /* Pagination / Results count */
+    .table-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 16px 20px;
+      border-top: 1px solid var(--border-subtle);
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+    .pagination-btn {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-main);
+      padding: 6px 14px;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 0.82rem;
+      transition: all var(--transition-fast);
+    }
+    .pagination-btn:hover:not(:disabled) {
+      border-color: var(--cyan-neon);
+      color: var(--cyan-neon);
+    }
+    .pagination-btn:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+
+    /* Historical Badges & Tiers */
+    .badge-veteran {
+      background: rgba(168, 85, 247, 0.16);
+      color: #d8b4fe;
+      border: 1px solid rgba(168, 85, 247, 0.4);
+      font-weight: 600;
+    }
+    .badge-experienced {
+      background: rgba(14, 165, 233, 0.16);
+      color: #38bdf8;
+      border: 1px solid rgba(14, 165, 233, 0.35);
+      font-weight: 500;
+    }
+    .badge-rookie {
+      background: rgba(148, 163, 184, 0.08);
+      color: #94a3b8;
+      border: 1px solid rgba(148, 163, 184, 0.2);
+    }
+    .badge-score-elite {
+      background: linear-gradient(135deg, rgba(245, 158, 11, 0.25), rgba(234, 179, 8, 0.3));
+      color: #fef08a;
+      border: 1px solid rgba(250, 204, 21, 0.55);
+      font-weight: 700;
+      box-shadow: 0 0 10px rgba(234, 179, 8, 0.3);
+    }
+    .badge-score-high {
+      background: rgba(56, 189, 248, 0.15);
+      color: #7dd3fc;
+      border: 1px solid rgba(56, 189, 248, 0.35);
+      font-weight: 600;
+    }
+    .badge-score-mid {
+      background: rgba(16, 185, 129, 0.12);
+      color: #6ee7b7;
+      border: 1px solid rgba(16, 185, 129, 0.3);
+    }
+    .badge-award-cnt {
+      background: rgba(245, 158, 11, 0.18);
+      color: #fbbf24;
+      border: 1px solid rgba(245, 158, 11, 0.45);
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .badge-adv-cnt {
+      background: rgba(6, 182, 212, 0.15);
+      color: #22d3ee;
+      border: 1px solid rgba(6, 182, 212, 0.35);
+      font-weight: 600;
+    }
+    .btn-history-detail {
+      background: rgba(0, 242, 254, 0.08);
+      border: 1px solid rgba(0, 242, 254, 0.3);
+      color: var(--cyan-neon);
+      font-size: 0.72rem;
+      padding: 3px 8px;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+    }
+    .btn-history-detail:hover {
+      background: var(--cyan-neon);
+      color: #0a0d17;
+      box-shadow: 0 0 12px var(--cyan-glow);
+    }
+    .team-past-name-sub {
+      font-size: 0.72rem;
+      color: #94a3b8;
+      margin-top: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 220px;
+    }
+    .past-name-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(18, 24, 42, 0.85);
+      border: 1px solid rgba(0, 242, 254, 0.25);
+      border-radius: 6px;
+      padding: 4px 10px;
+      font-size: 0.82rem;
+    }
+    .past-name-text {
+      color: var(--text-main);
+      font-weight: 600;
+    }
+    .past-name-season {
+      font-size: 0.7rem;
+      color: var(--cyan-neon);
+      background: rgba(0, 242, 254, 0.12);
+      padding: 1px 6px;
+      border-radius: 4px;
+    }
+
+    /* Season Columns & Split QT/Champ Rows */
+    .season-cell {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+      min-width: 140px;
+    }
+    .season-row {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 0.74rem;
+      white-space: nowrap;
+    }
+    .event-type-tag {
+      font-size: 0.64rem;
+      font-weight: 700;
+      padding: 1px 4px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+      min-width: 44px;
+      text-align: center;
+      display: inline-block;
+    }
+    .event-type-tag.qt {
+      background: rgba(0, 242, 254, 0.12);
+      color: #38bdf8;
+      border: 1px solid rgba(0, 242, 254, 0.3);
+    }
+    .event-type-tag.champ {
+      background: rgba(168, 85, 247, 0.15);
+      color: #c084fc;
+      border: 1px solid rgba(168, 85, 247, 0.35);
+    }
+    .season-empty-row {
+      color: var(--text-dim);
+      font-size: 0.72rem;
+    }
+
+    /* Modal Backdrop & Dialog */
+    .modal-backdrop {
+      position: fixed;
+      inset: 0;
+      background: rgba(4, 7, 15, 0.85);
+      backdrop-filter: blur(8px);
+      z-index: 1000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.25s ease;
+    }
+    .modal-backdrop.open {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    .history-modal-dialog {
+      background: #0f1526;
+      border: 1px solid rgba(0, 242, 254, 0.35);
+      border-radius: 18px;
+      width: 100%;
+      max-width: 740px;
+      max-height: 88vh;
+      display: flex;
+      flex-direction: column;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.7), 0 0 30px rgba(0, 242, 254, 0.2);
+      transform: translateY(20px);
+      transition: transform 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .modal-backdrop.open .history-modal-dialog {
+      transform: translateY(0);
+    }
+    .modal-header {
+      padding: 20px 24px;
+      border-bottom: 1px solid var(--border-subtle);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .modal-title {
+      font-family: var(--font-heading);
+      font-size: 1.25rem;
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .modal-close-btn {
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      border-radius: 50%;
+      width: 32px;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 1.1rem;
+      transition: all var(--transition-fast);
+    }
+    .modal-close-btn:hover {
+      background: rgba(244, 63, 94, 0.2);
+      color: #f43f5e;
+      border-color: #f43f5e;
+    }
+    .modal-body {
+      padding: 24px;
+      overflow-y: auto;
+    }
+    .modal-kpi-row {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      gap: 10px;
+      margin-bottom: 22px;
+    }
+    .modal-kpi-box {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid var(--border-subtle);
+      border-radius: 10px;
+      padding: 10px 12px;
+      text-align: center;
+    }
+    .modal-kpi-box .val {
+      font-size: 1.25rem;
+      font-weight: 700;
+      font-family: var(--font-heading);
+    }
+    .modal-kpi-box .lbl {
+      font-size: 0.72rem;
+      color: var(--text-dim);
+      margin-top: 2px;
+    }
+    .timeline-event-item {
+      padding: 12px 14px;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid var(--border-subtle);
+      border-radius: 10px;
+      margin-bottom: 10px;
+      transition: all var(--transition-fast);
+    }
+    .timeline-event-item:hover {
+      border-color: rgba(0, 242, 254, 0.3);
+      background: rgba(0, 242, 254, 0.02);
+    }
+    .award-item-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 4px 10px;
+      border-radius: 6px;
+      font-size: 0.78rem;
+      background: rgba(245, 158, 11, 0.12);
+      color: #fbbf24;
+      border: 1px solid rgba(245, 158, 11, 0.35);
+      margin-bottom: 6px;
+      margin-right: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div class="glow-orb orb-1"></div>
+  <div class="glow-orb orb-2"></div>
+
+  <!-- Header -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="logo-badge">FLL</div>
+        <div class="title-group">
+          <h1>NorCal FLL 全部参赛队伍全景看板</h1>
+          <p class="subtitle">MyLumi Public Teams 519 支注册队伍深度统计与资质诊断</p>
+        </div>
+      </div>
+      
+      <!-- Nav Tabs -->
+      <nav class="nav-tabs">
+        <a href="index.html" class="nav-link">🏟️ 预选赛横向对比</a>
+        <a href="teams.html" class="nav-link active">👥 全部队伍全景看板</a>
+        <a href="event_teams.html" class="nav-link">⚔️ 各场参赛队分析</a>
+      </nav>
+
+      <div class="header-season-tag">
+        <span class="live-dot"></span>
+        <span id="data-updated-label">519 支已爬取队伍</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero & KPIs -->
+  <main class="page-container">
+    <section class="hero-section" style="padding-top: 20px;">
+      <div class="hero-content">
+        <div class="hero-badge">2026 NorCal FIRST LEGO League 官方注册队伍</div>
+        <h2>519 支参赛队伍全景数据分析与合规诊断</h2>
+        <p class="hero-desc">
+          涵盖北加州 70 个城市、106 个学校与机构的全部注册队伍数据。多维透视项目组别结构、合规审核瓶颈（指纹审查、花名册达标、全美筛查）、区域集中度与教练配置。
+        </p>
+
+        <!-- Board Filter Bar (Only show FLL Challenge or other programs) -->
+        <div class="board-filter-bar">
+          <div class="board-filter-label">
+            <span class="pulse-indicator"></span>
+            <span>统计看板组别过滤:</span>
+          </div>
+          <div class="board-filter-pills" id="boardFilterPills">
+            <button class="board-pill active" data-program="ALL">
+              <span>🌐 全部项目组别 (519)</span>
+            </button>
+            <button class="board-pill highlight" data-program="FIRST LEGO League: Challenge" id="btnFilterChallenge">
+              <span>🏆 只看 FLL-Challenge (349)</span>
+            </button>
+            <button class="board-pill" data-program="FIRST LEGO League: Explore">
+              <span>🧩 FLL Explore (117)</span>
+            </button>
+            <button class="board-pill" data-program="Future Edition">
+              <span>🚀 Future Edition 试点 (53)</span>
+            </button>
+            <button class="board-pill highlight" id="btnFilterVeteranOnly" title="点击切换：仅看往届老牌强队 (跨赛季/晋级/多次获奖)">
+              <span>👑 老牌强队 (<span id="veteranCountBadge">145</span>)</span>
+            </button>
+            <button class="board-pill ready-pill" id="btnFilterReadyOnly" title="点击切换：只看全部状态都已通过(Ready)的队伍">
+              <span>✅ 仅看全部Ready队伍 (<span id="readyCountBadge">178</span>)</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- KPI Grid -->
+        <div class="kpi-grid">
+          <div class="kpi-card">
+            <div class="kpi-label" id="kpi-label-total">队伍总数 (Total Teams)</div>
+            <div class="kpi-value text-cyan" id="kpi-total">519</div>
+            <div class="kpi-sub" id="kpi-sub-total">北加州各级别注册队伍</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label" id="kpi-label-ready">完全就绪率 (Fully Ready)</div>
+            <div class="kpi-value text-emerald" id="kpi-ready-pct">34.3%</div>
+            <div class="kpi-sub" id="kpi-sub-ready">178 队达成全部审核通过</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label" id="kpi-label-history">往届实战战队 (Veteran/Exp)</div>
+            <div class="kpi-value text-purple" id="kpi-history">227 队</div>
+            <div class="kpi-sub" id="kpi-sub-history">43.7% 战队拥有历届实战经验</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label" id="kpi-label-awards">荣誉斩获战队 (Awarded)</div>
+            <div class="kpi-value text-amber" id="kpi-awards">86 队</div>
+            <div class="kpi-sub" id="kpi-sub-awards">累计斩获 542 项官方大奖</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label" id="kpi-label-maxscore">机器人历史最高分 (Record)</div>
+            <div class="kpi-value text-cyan" id="kpi-maxscore" style="color: #fde047; text-shadow: 0 0 16px rgba(250,204,21,0.4);">540 pts</div>
+            <div class="kpi-sub" id="kpi-sub-maxscore">#64638 Brain Bots (Fremont)</div>
+          </div>
+          <div class="kpi-card">
+            <div class="kpi-label" id="kpi-label-geo">覆盖城市与机构</div>
+            <div class="kpi-value" id="kpi-geo">70 / 106</div>
+            <div class="kpi-sub" id="kpi-sub-geo">70 城市 · 106 学校/机构</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Visual Analytics Grid -->
+    <div class="analytics-grid">
+      <!-- 1. Program Breakdown -->
+      <div class="chart-card">
+        <div class="chart-title">
+          <span>🎯 项目组别分布 (Programs)</span>
+        </div>
+        <div class="chart-subtitle">Challenge 占超 2/3，Explore 及创新版试点快速发展</div>
+        <div id="program-bars"></div>
+      </div>
+
+      <!-- 2. Compliance Funnel -->
+      <div class="chart-card">
+        <div class="chart-title">
+          <span>🛡️ 五大合规环节通过率</span>
+        </div>
+        <div class="chart-subtitle">加州指纹审查与花名册人数是当前最大卡点</div>
+        <div id="compliance-funnel"></div>
+      </div>
+
+      <!-- 3. Regional Distribution (East Bay, South Bay, Peninsula, Sacramento) -->
+      <div class="chart-card">
+        <div class="chart-title">
+          <span>🗺️ 各大区域队伍数量 (Regional Distribution)</span>
+        </div>
+        <div class="chart-subtitle">东湾、南湾硅谷、半岛与首府圈分布对比 (点击可快速筛选)</div>
+        <div id="region-bars"></div>
+      </div>
+
+      <!-- 4. Top Cities -->
+      <div class="chart-card">
+        <div class="chart-title">
+          <span>🏙️ 队伍最多城市 Top 8</span>
+        </div>
+        <div class="chart-subtitle">东湾 (Oakland/Piedmont) 与南湾硅谷 (San Jose/Fremont) 集中</div>
+        <div id="city-bars"></div>
+      </div>
+
+      <!-- 5. Status Breakdown -->
+      <div class="chart-card">
+        <div class="chart-title">
+          <span>⏳ 队伍就绪状态 (Status v2)</span>
+        </div>
+        <div class="chart-subtitle">待确认邀请与加州指纹审查占据绝大多数未就绪队伍</div>
+        <div id="status-bars"></div>
+      </div>
+
+      <!-- 6. Organization Structure -->
+      <div class="chart-card">
+        <div class="chart-title">
+          <span>🏛️ 队伍归属组织大类</span>
+        </div>
+        <div class="chart-subtitle">家庭社区独立队 + Piedmont Makers 创客社团占据近七成</div>
+        <div id="org-bars"></div>
+      </div>
+
+      <!-- 7. Coaches Configuration -->
+      <div class="chart-card">
+        <div class="chart-title">
+          <span>👨‍🏫 教练人员配置结构</span>
+        </div>
+        <div class="chart-subtitle">81.1% 队伍配备2名教练，17.1% 队伍存在教练短缺风险</div>
+        <div id="coaches-bars"></div>
+      </div>
+
+      <!-- 8. History Experience & Score Tiers -->
+      <div class="chart-card">
+        <div class="chart-title">
+          <span>🏆 历届战绩与资历梯队 (Experience & Score Tiers)</span>
+        </div>
+        <div class="chart-subtitle">老牌强队、中坚队伍与历史得分实力分层</div>
+        <div id="history-tier-bars"></div>
+      </div>
+
+      <!-- 9. Top Career High Scores -->
+      <div class="chart-card">
+        <div class="chart-title">
+          <span>⚡ 机器人赛历史生涯最高分 Top 10 (Career High)</span>
+        </div>
+        <div class="chart-subtitle">生涯最高分战力榜 (点击任意队伍快速查看战绩与大奖)</div>
+        <div id="top-scorer-bars"></div>
+      </div>
+    </div>
+
+    <!-- Interactive Table & Filter Section -->
+    <section>
+      <div style="margin-bottom: 12px; display: flex; justify-content: space-between; align-items: flex-end;">
+        <div>
+          <h3 style="font-family: var(--font-heading); font-size: 1.4rem; color: var(--text-main);">🔍 队伍检索与资质名录 (Team Directory)</h3>
+          <p style="font-size: 0.85rem; color: var(--text-dim);">支持即时模糊搜索队号、队名、城市或学校机构，支持按区域、项目、历史资历与状态多维筛选</p>
+        </div>
+      </div>
+
+      <div class="filter-section">
+        <div class="search-box">
+          <span class="search-icon">🔎</span>
+          <input type="text" id="searchInput" class="search-input" placeholder="搜索队号、队名、城市、学校 (如 445, Oakland, Cabrillo...)">
+        </div>
+
+        <div class="filter-group">
+          <!-- Quick Ready Toggle -->
+          <button type="button" id="btnToggleReadyTable" class="btn-ready-toggle" title="快速筛选全部状态已就绪的队伍">
+            <span>✅ 仅看全部Ready</span>
+          </button>
+
+          <!-- Regional Filter Dropdown -->
+          <select id="filterRegion" class="filter-select">
+            <option value="ALL">全部区域 (All Regions)</option>
+            <option value="东湾 (East Bay)">🌉 东湾 (East Bay)</option>
+            <option value="南湾 / 硅谷 (South Bay)">💻 南湾 / 硅谷 (South Bay)</option>
+            <option value="半岛与旧金山 (Peninsula & SF)">🌁 半岛与旧金山 (Peninsula & SF)</option>
+            <option value="首府圈与中谷 (Sacramento & Valley)">🏛️ 首府圈与中谷 (Sacramento & Valley)</option>
+            <option value="北湾 (North Bay)">🌲 北湾 (North Bay)</option>
+          </select>
+
+          <!-- History Filter Dropdown -->
+          <select id="filterHistory" class="filter-select">
+            <option value="ALL">全部历史资历 (All History)</option>
+            <option value="veteran">👑 Veteran 老牌强队 (145)</option>
+            <option value="experienced">🎖️ Experienced 有参赛经验 (82)</option>
+            <option value="rookie">🌱 Rookie 新生战队 (292)</option>
+            <option value="has_awards">🏆 曾斩获官方奖项 (86)</option>
+            <option value="tier_500">🔥 生涯 500+ 争冠顶尖 (4)</option>
+            <option value="tier_400">⚡ 生涯 400+ 一档强队 (19)</option>
+            <option value="advanced">🚀 曾获赛事晋级 (70)</option>
+          </select>
+
+          <select id="filterProgram" class="filter-select">
+            <option value="ALL">全部项目组别 (All Programs)</option>
+            <option value="FIRST LEGO League: Challenge">FLL Challenge (349)</option>
+            <option value="FIRST LEGO League: Explore">FLL Explore (117)</option>
+            <option value="FIRST LEGO League: Future Edition 3-5">Future Edition 3-5 (25)</option>
+            <option value="FIRST LEGO League: Future Edition 6-8">Future Edition 6-8 (25)</option>
+            <option value="FIRST LEGO League: Future Edition K-2">Future Edition K-2 (3)</option>
+          </select>
+
+          <select id="filterStatus" class="filter-select">
+            <option value="ALL">全部状态 (All Statuses)</option>
+            <option value="good">✅ 完全合规 (good - 178)</option>
+            <option value="waiting_invites">⏳ 等待邀请 (waiting_invites - 176)</option>
+            <option value="pending_fingerprinting">⚠️ 指纹审查中 (pending_fingerprinting - 89)</option>
+            <option value="waiting_members">👥 队员不足2人 (waiting_members - 30)</option>
+            <option value="pending_national_screening">🔍 国家筛查中 (pending_national_screening - 27)</option>
+            <option value="waiting_jotform">📝 等待协议表单 (waiting_jotform - 16)</option>
+          </select>
+
+          <select id="filterCity" class="filter-select">
+            <option value="ALL">全部城市 (All Cities)</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="table-container">
+        <table class="teams-table">
+          <thead>
+            <tr>
+              <th class="sortable active-sort" onclick="handleSort('number')" style="width: 85px;" data-col="number" title="点击按队伍编号排序">
+                队伍编号 <span class="sort-icon" id="sort-icon-number">▲</span>
+              </th>
+              <th class="sortable" onclick="handleSort('name')" style="min-width: 170px;" data-col="name" title="点击按队伍名称排序">
+                队伍名称 <span class="sort-icon" id="sort-icon-name">↕</span>
+              </th>
+              <th class="sortable" onclick="handleSort('program')" style="width: 120px;" data-col="program" title="点击按组别排序">
+                组别 (Program) <span class="sort-icon" id="sort-icon-program">↕</span>
+              </th>
+              <th class="sortable" onclick="handleSort('city')" style="width: 110px;" data-col="city" title="点击按城市排序">
+                城市 (City) <span class="sort-icon" id="sort-icon-city">↕</span>
+              </th>
+              <th class="sortable" onclick="handleSort('s2025')" style="min-width: 145px;" data-col="s2025" title="点击按2025-26赛季最高分与荣誉排序">
+                2025-26 战绩 <span class="sort-icon" id="sort-icon-s2025">↕</span><br><span style="font-size:0.7rem;font-weight:normal;color:var(--text-dim);">UNEARTHED</span>
+              </th>
+              <th class="sortable" onclick="handleSort('s2024')" style="min-width: 145px;" data-col="s2024" title="点击按2024-25赛季最高分与荣誉排序">
+                2024-25 战绩 <span class="sort-icon" id="sort-icon-s2024">↕</span><br><span style="font-size:0.7rem;font-weight:normal;color:var(--text-dim);">SUBMERGED</span>
+              </th>
+              <th class="sortable" onclick="handleSort('s2023')" style="min-width: 145px;" data-col="s2023" title="点击按2023-24赛季最高分与荣誉排序">
+                2023-24 战绩 <span class="sort-icon" id="sort-icon-s2023">↕</span><br><span style="font-size:0.7rem;font-weight:normal;color:var(--text-dim);">MASTERPIECE</span>
+              </th>
+              <th class="sortable" onclick="handleSort('status')" style="width: 125px;" data-col="status" title="点击按合规就绪状态排序">
+                当前就绪状态 <span class="sort-icon" id="sort-icon-status">↕</span>
+              </th>
+              <th class="sortable" onclick="handleSort('compliance')" style="min-width: 170px;" data-col="compliance" title="点击按审核通过项数排序">
+                审核关键详情 <span class="sort-icon" id="sort-icon-compliance">↕</span>
+              </th>
+            </tr>
+          </thead>
+          <tbody id="teamsTableBody">
+            <!-- Dynamic Injection -->
+          </tbody>
+        </table>
+        
+        <div class="table-footer">
+          <div id="resultCountInfo">显示 0 / 0 支队伍</div>
+          <div style="display: flex; gap: 8px; align-items: center;">
+            <button id="prevPageBtn" class="pagination-btn">上一页</button>
+            <span id="pageInfo" style="font-size: 0.82rem;">第 1 / 1 页</span>
+            <button id="nextPageBtn" class="pagination-btn">下一页</button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Team History Modal -->
+  <div id="historyModal" class="modal-backdrop" onclick="closeHistoryModal(event)">
+    <div class="history-modal-dialog" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <div class="modal-title">
+          <span id="modalTeamNumBadge" class="team-num-badge">#00000</span>
+          <span id="modalTeamName">队伍历届战绩档案</span>
+        </div>
+        <button class="modal-close-btn" onclick="closeHistoryModal()" title="关闭">✕</button>
+      </div>
+      <div class="modal-body" id="modalBodyContent">
+        <!-- Injected dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Data Script -->
+  <script src="teams_data.js?v=20261006_history_v2"></script>
+  <script>
+    // State
+    const allTeams = window.PUBLIC_TEAMS_LIST || [];
+    let currentBoardProgram = "ALL"; // 'ALL', 'FIRST LEGO League: Challenge', etc.
+    let currentBoardRegion = "ALL"; // 'ALL', '东湾 (East Bay)', etc.
+    let onlyReady = false; // Toggle to view ONLY teams with all statuses ready
+    let onlyVeteran = false; // Toggle to view ONLY veteran teams
+    let filteredTeams = [...allTeams];
+    let currentPage = 1;
+    const pageSize = 500;
+    let currentSortColumn = "number"; // 'number', 'name', 'program', 'city', 's2025', 's2024', 's2023', 'status', 'compliance'
+    let currentSortDirection = "asc"; // 'asc' or 'desc'
+
+    // Helper: Normalize City Names
+    function normalizeCity(raw) {
+      if (!raw) return 'Unknown';
+      const c = raw.trim();
+      const cl = c.toLowerCase();
+      if (cl.includes('mountain view')) return 'Mountain View';
+      if (cl.includes('fremont') || cl.includes('fremount')) return 'Fremont';
+      if (cl.includes('san jose')) return 'San Jose';
+      if (cl.includes('san francisco')) return 'San Francisco';
+      if (cl.includes('santa clara')) return 'Santa Clara';
+      if (cl.includes('milpitas')) return 'Milpitas';
+      if (cl.includes('folsom')) return 'Folsom';
+      return c;
+    }
+
+    // Helper: Get Bay Area / NorCal Region
+    function getTeamRegion(city) {
+      const c = normalizeCity(city);
+      const eastBay = new Set(['Oakland', 'Piedmont', 'Fremont', 'Dublin', 'Pleasanton', 'San Ramon', 'Walnut Creek', 'Danville', 'Union City', 'Hercules', 'Berkeley', 'Castro Valley', 'Albany', 'Livermore', 'El Cerrito', 'Hayward', 'San Leandro', 'Alameda', 'Pleasant Hill', 'Newark', 'Richmond']);
+      const southBay = new Set(['San Jose', 'Santa Clara', 'Sunnyvale', 'Mountain View', 'Saratoga', 'Cupertino', 'Los Altos', 'Milpitas', 'Palo Alto', 'Morgan Hill', 'Los Gatos', 'Campbell', 'Monte Sereno', 'Hollister']);
+      const peninsula = new Set(['San Francisco', 'Burlingame', 'Hillsborough', 'San Carlos', 'San Mateo', 'Menlo Park', 'Half Moon Bay', 'East Palo Alto', 'San Bruno', 'Belmont', 'Foster City', 'Seaside', 'Marina']);
+      const sacValley = new Set(['Folsom', 'Mountain House', 'Sacramento', 'El Dorado Hills', 'Tracy', 'Lathrop', 'Rancho Cordova', 'Roseville', 'Modesto', 'Ceres', 'Lakeport', 'Rocklin']);
+      const northBay = new Set(['Kentfield', 'Santa Rosa', 'Petaluma', 'Novato', 'San Rafael']);
+
+      if (eastBay.has(c)) return '东湾 (East Bay)';
+      if (southBay.has(c)) return '南湾 / 硅谷 (South Bay)';
+      if (peninsula.has(c)) return '半岛与旧金山 (Peninsula & SF)';
+      if (sacValley.has(c)) return '首府圈与中谷 (Sacramento & Valley)';
+      if (northBay.has(c)) return '北湾 (North Bay)';
+      return '其他 / 外围区域 (Other)';
+    }
+
+    function getRegionBadgeClass(regShort) {
+      if (regShort.includes('南湾')) return 'badge-info';
+      if (regShort.includes('东湾')) return 'badge-warn';
+      if (regShort.includes('半岛')) return 'badge-good';
+      if (regShort.includes('首府')) return 'badge-danger';
+      return 'badge-info';
+    }
+
+    // Helper: Compute full analytics metrics on any team subset
+    function computeMetrics(teamsList) {
+      const total = teamsList.length;
+      if (total === 0) {
+        return {
+          total_teams: 0, ready_count: 0, ready_pct: 0,
+          unique_cities: 0, unique_orgs: 0, community_count: 0, community_pct: 0,
+          compliance: {}, statuses: [], top_cities: [], org_categories: [], coaches_dist: [], program_dist: [], region_dist: [],
+          history_teams: 0, history_pct: 0, awards_teams: 0, awards_pct: 0, adv_teams: 0, highest_score: 0, top_team: null,
+          exp_counts: {}, score_tier_counts: {}, top_scorers: []
+        };
+      }
+
+      // 1. Ready & Statuses
+      let readyCount = 0;
+      const statusCounts = {};
+      const progCounts = {};
+      const cityCounts = {};
+      const orgCounts = {};
+      const coachCounts = {};
+      const regionCounts = {};
+
+      const compGood = { screening: 0, fingerprinting: 0, coaches: 0, roster_status: 0, agreements: 0 };
+
+      let communityCount = 0;
+      let schoolCount = 0;
+      let makersCount = 0;
+      let otherCount = 0;
+
+      // Historical Metrics
+      let historyCount = 0;
+      let awardsCount = 0;
+      let advCount = 0;
+      let highestScore = 0;
+      let topTeam = null;
+
+      const expCounts = { "Veteran (老牌强队)": 0, "Experienced (有参赛经验)": 0, "Rookie (新队伍)": 0 };
+      const scoreTierCounts = { "500+ (争冠顶尖)": 0, "400-499 (一档强队)": 0, "300-399 (中坚晋级)": 0, "<300 (入门发展)": 0, "暂无历史成绩": 0 };
+      const scoredTeams = [];
+
+      teamsList.forEach(t => {
+        const st = t.status_v2 || 'unknown';
+        statusCounts[st] = (statusCounts[st] || 0) + 1;
+        if (st === 'good') readyCount++;
+
+        const prog = t.program_label || 'Unknown';
+        progCounts[prog] = (progCounts[prog] || 0) + 1;
+
+        const city = (t.city || '').trim() || 'Unknown';
+        cityCounts[city] = (cityCounts[city] || 0) + 1;
+
+        const reg = getTeamRegion(city);
+        regionCounts[reg] = (regionCounts[reg] || 0) + 1;
+
+        const org = (t.org_name || '').trim() || 'Family/Community';
+        orgCounts[org] = (orgCounts[org] || 0) + 1;
+        const orgLower = org.toLowerCase();
+        if (orgLower.includes('family') || orgLower.includes('community')) {
+          communityCount++;
+        } else if (orgLower.includes('piedmont makers')) {
+          makersCount++;
+        } else if (/school|elementary|middle|academy|district|high|unified/.test(orgLower)) {
+          schoolCount++;
+        } else {
+          otherCount++;
+        }
+
+        const cCnt = t.coaches_count || 0;
+        coachCounts[cCnt] = (coachCounts[cCnt] || 0) + 1;
+
+        const sq = t.status_quickview || {};
+        if (sq.screening?.good) compGood.screening++;
+        if (sq.fingerprinting?.good) compGood.fingerprinting++;
+        if (sq.coaches?.good) compGood.coaches++;
+        if (sq.roster_status?.good) compGood.roster_status++;
+        if (sq.agreements?.good) compGood.agreements++;
+
+        // History extraction
+        const h = t.history || {};
+        if (h.has_history) historyCount++;
+        if (h.awards_count > 0) awardsCount++;
+        if (h.advancements_count > 0) advCount++;
+
+        const expTier = h.experience_tier || "Rookie (新队伍)";
+        expCounts[expTier] = (expCounts[expTier] || 0) + 1;
+
+        const scoreTier = h.score_tier || "暂无历史成绩";
+        scoreTierCounts[scoreTier] = (scoreTierCounts[scoreTier] || 0) + 1;
+
+        if (h.max_score != null) {
+          scoredTeams.push(t);
+          if (h.max_score > highestScore) {
+            highestScore = h.max_score;
+            topTeam = t;
+          }
+        }
+      });
+
+      scoredTeams.sort((a, b) => (b.history?.max_score || 0) - (a.history?.max_score || 0));
+
+      // Format outputs
+      const compliance = {};
+      for (const k of ['coaches', 'agreements', 'screening', 'fingerprinting', 'roster_status']) {
+        const g = compGood[k] || 0;
+        compliance[k] = {
+          good_count: g,
+          good_pct: Math.round((g / total) * 1000) / 10,
+          fail_count: total - g,
+          fail_pct: Math.round(((total - g) / total) * 1000) / 10
+        };
+      }
+
+      const statuses = Object.entries(statusCounts)
+        .map(([k, v]) => ({ status: k, count: v, pct: Math.round((v / total) * 1000) / 10 }))
+        .sort((a, b) => b.count - a.count);
+
+      const top_cities = Object.entries(cityCounts)
+        .filter(([c]) => c !== 'Unknown')
+        .map(([c, v]) => ({ city: c, count: v, pct: Math.round((v / total) * 1000) / 10 }))
+        .sort((a, b) => b.count - a.count);
+
+      const region_dist = Object.entries(regionCounts)
+        .map(([r, v]) => ({ region: r, count: v, pct: Math.round((v / total) * 1000) / 10 }))
+        .sort((a, b) => b.count - a.count);
+
+      const org_categories = [
+        { category: 'Family/Community (家庭社区队)', count: communityCount, pct: Math.round((communityCount / total) * 1000) / 10 },
+        { category: 'Piedmont Makers (创客联盟)', count: makersCount, pct: Math.round((makersCount / total) * 1000) / 10 },
+        { category: 'School / Academic (学校校队)', count: schoolCount, pct: Math.round((schoolCount / total) * 1000) / 10 },
+        { category: 'Other / Private (课后机构/独立俱乐部)', count: otherCount, pct: Math.round((otherCount / total) * 1000) / 10 }
+      ];
+
+      const coaches_dist = Object.entries(coachCounts)
+        .map(([k, v]) => ({ coaches_count: Number(k), teams: v, pct: Math.round((v / total) * 1000) / 10 }))
+        .sort((a, b) => a.coaches_count - b.coaches_count);
+
+      const program_dist = Object.entries(progCounts)
+        .map(([p, v]) => ({ program: p, count: v, pct: Math.round((v / total) * 1000) / 10 }))
+        .sort((a, b) => b.count - a.count);
+
+      return {
+        total_teams: total,
+        ready_count: readyCount,
+        ready_pct: Math.round((readyCount / total) * 1000) / 10,
+        unique_cities: Object.keys(cityCounts).filter(c => c !== 'Unknown').length,
+        unique_orgs: Object.keys(orgCounts).length,
+        community_count: communityCount,
+        community_pct: Math.round((communityCount / total) * 1000) / 10,
+        compliance,
+        statuses,
+        top_cities,
+        region_dist,
+        org_categories,
+        coaches_dist,
+        program_dist,
+        history_teams: historyCount,
+        history_pct: Math.round((historyCount / total) * 1000) / 10,
+        awards_teams: awardsCount,
+        awards_pct: Math.round((awardsCount / total) * 1000) / 10,
+        adv_teams: advCount,
+        highest_score: highestScore,
+        top_team: topTeam,
+        exp_counts: expCounts,
+        score_tier_counts: scoreTierCounts,
+        top_scorers: scoredTeams.slice(0, 10)
+      };
+    }
+
+    // Initialize UI
+    document.addEventListener("DOMContentLoaded", () => {
+      populateCityDropdown();
+
+      // Check URL search parameters (e.g. ?program=challenge&ready=1&veteran=1)
+      const urlParams = new URLSearchParams(window.location.search);
+      const progParam = urlParams.get("program");
+      if (progParam) {
+        const lower = progParam.toLowerCase();
+        if (lower.includes("challenge")) {
+          currentBoardProgram = "FIRST LEGO League: Challenge";
+        } else if (lower.includes("explore")) {
+          currentBoardProgram = "FIRST LEGO League: Explore";
+        } else if (lower.includes("future")) {
+          currentBoardProgram = "Future Edition";
+        }
+      }
+
+      const readyParam = urlParams.get("ready") || urlParams.get("status");
+      if (readyParam && (readyParam === "1" || readyParam === "true" || readyParam.toLowerCase() === "good")) {
+        onlyReady = true;
+      }
+
+      const vetParam = urlParams.get("veteran");
+      if (vetParam && (vetParam === "1" || vetParam === "true")) {
+        onlyVeteran = true;
+      }
+
+      // Sync active state on Board Filter Pills
+      updatePillsActiveUI(currentBoardProgram);
+      updateReadyUI();
+      updateVeteranUI();
+
+      // Render Board & Filter Table
+      renderBoardAndSync();
+      applyFilters();
+
+      // Bind Board Pills click
+      document.getElementById("boardFilterPills").addEventListener("click", (e) => {
+        const btn = e.target.closest(".board-pill");
+        if (!btn) return;
+        if (btn.id === "btnFilterReadyOnly") {
+          toggleReadyMode();
+          return;
+        }
+        if (btn.id === "btnFilterVeteranOnly") {
+          toggleVeteranMode();
+          return;
+        }
+        const prog = btn.getAttribute("data-program");
+        if (prog) setBoardProgram(prog);
+      });
+
+      // Quick Table Ready Toggle button
+      const btnTableReady = document.getElementById("btnToggleReadyTable");
+      if (btnTableReady) {
+        btnTableReady.addEventListener("click", () => {
+          toggleReadyMode();
+        });
+      }
+
+      // Table controls
+      document.getElementById("searchInput").addEventListener("input", () => { currentPage = 1; applyFilters(); });
+      document.getElementById("filterRegion").addEventListener("change", (e) => {
+        currentBoardRegion = e.target.value;
+        renderBoardAndSync();
+        currentPage = 1;
+        applyFilters();
+      });
+      document.getElementById("filterHistory").addEventListener("change", () => {
+        currentPage = 1;
+        applyFilters();
+      });
+      document.getElementById("filterProgram").addEventListener("change", (e) => {
+        const val = e.target.value;
+        setBoardProgram(val, false);
+        currentPage = 1;
+        applyFilters();
+      });
+      document.getElementById("filterStatus").addEventListener("change", (e) => {
+        const val = e.target.value;
+        if (val === "good") {
+          onlyReady = true;
+        } else {
+          onlyReady = false;
+        }
+        updateReadyUI();
+        renderBoardAndSync();
+        currentPage = 1;
+        applyFilters();
+      });
+      document.getElementById("filterCity").addEventListener("change", () => { currentPage = 1; applyFilters(); });
+
+      document.getElementById("prevPageBtn").addEventListener("click", () => {
+        if (currentPage > 1) {
+          currentPage--;
+          renderTable();
+        }
+      });
+      document.getElementById("nextPageBtn").addEventListener("click", () => {
+        const totalPages = Math.ceil(filteredTeams.length / pageSize) || 1;
+        if (currentPage < totalPages) {
+          currentPage++;
+          renderTable();
+        }
+      });
+
+      // Escape key to close modal
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape") closeHistoryModal();
+      });
+    });
+
+    function toggleReadyMode() {
+      onlyReady = !onlyReady;
+      const statusSelect = document.getElementById("filterStatus");
+      if (onlyReady) {
+        if (statusSelect) statusSelect.value = "good";
+      } else {
+        if (statusSelect && statusSelect.value === "good") statusSelect.value = "ALL";
+      }
+      updateReadyUI();
+      renderBoardAndSync();
+      currentPage = 1;
+      applyFilters();
+    }
+
+    function toggleVeteranMode() {
+      onlyVeteran = !onlyVeteran;
+      const histSelect = document.getElementById("filterHistory");
+      if (onlyVeteran) {
+        if (histSelect) histSelect.value = "veteran";
+      } else {
+        if (histSelect && histSelect.value === "veteran") histSelect.value = "ALL";
+      }
+      updateVeteranUI();
+      renderBoardAndSync();
+      currentPage = 1;
+      applyFilters();
+    }
+
+    function updateReadyUI() {
+      const btnPill = document.getElementById("btnFilterReadyOnly");
+      const btnTable = document.getElementById("btnToggleReadyTable");
+      if (btnPill) {
+        if (onlyReady) btnPill.classList.add("active");
+        else btnPill.classList.remove("active");
+      }
+      if (btnTable) {
+        if (onlyReady) btnTable.classList.add("active");
+        else btnTable.classList.remove("active");
+      }
+    }
+
+    function updateVeteranUI() {
+      const btnVet = document.getElementById("btnFilterVeteranOnly");
+      if (btnVet) {
+        if (onlyVeteran) btnVet.classList.add("active");
+        else btnVet.classList.remove("active");
+      }
+    }
+
+    function setBoardProgram(prog, syncDropdown = true) {
+      currentBoardProgram = prog;
+      updatePillsActiveUI(prog);
+
+      if (syncDropdown) {
+        const sel = document.getElementById("filterProgram");
+        if (prog === "Future Edition") {
+          sel.value = "ALL";
+        } else {
+          sel.value = prog;
+        }
+      }
+
+      renderBoardAndSync();
+      currentPage = 1;
+      applyFilters();
+    }
+
+    function updatePillsActiveUI(prog) {
+      const pills = document.querySelectorAll("#boardFilterPills .board-pill");
+      pills.forEach(p => {
+        if (p.id === "btnFilterReadyOnly" || p.id === "btnFilterVeteranOnly") return;
+        const pProg = p.getAttribute("data-program");
+        if (pProg === prog) {
+          p.classList.add("active");
+        } else {
+          p.classList.remove("active");
+        }
+      });
+    }
+
+    function getTeamsForBoard() {
+      let list = allTeams;
+      if (currentBoardProgram === "Future Edition") {
+        list = allTeams.filter(t => (t.program_label || '').includes("Future Edition"));
+      } else if (currentBoardProgram !== "ALL") {
+        list = allTeams.filter(t => t.program_label === currentBoardProgram);
+      }
+      if (currentBoardRegion !== "ALL") {
+        list = list.filter(t => getTeamRegion(t.city) === currentBoardRegion);
+      }
+      if (onlyReady) {
+        list = list.filter(t => t.status_v2 === 'good');
+      }
+      if (onlyVeteran) {
+        list = list.filter(t => (t.history || {}).experience_tier === 'Veteran (老牌强队)');
+      }
+      return list;
+    }
+
+    function renderBoardAndSync() {
+      // 1. Base list: respects program & ready, but across all regions (for comparison bars)
+      let baseList = allTeams;
+      if (currentBoardProgram === "Future Edition") {
+        baseList = baseList.filter(t => (t.program_label || '').includes("Future Edition"));
+      } else if (currentBoardProgram !== "ALL") {
+        baseList = baseList.filter(t => t.program_label === currentBoardProgram);
+      }
+      if (onlyReady) {
+        baseList = baseList.filter(t => t.status_v2 === 'good');
+      }
+      if (onlyVeteran) {
+        baseList = baseList.filter(t => (t.history || {}).experience_tier === 'Veteran (老牌强队)');
+      }
+      const baseMetrics = computeMetrics(baseList);
+
+      // 2. Focused list: respects currentBoardRegion
+      const boardTeams = getTeamsForBoard();
+      const metrics = computeMetrics(boardTeams);
+
+      renderKPIs(metrics, baseMetrics);
+      renderCharts(metrics, baseMetrics);
+    }
+
+    function renderKPIs(metrics, baseMetrics) {
+      const isChallenge = currentBoardProgram === "FIRST LEGO League: Challenge";
+      const isAll = currentBoardProgram === "ALL";
+      const hasRegion = currentBoardRegion !== "ALL";
+      const regShort = hasRegion ? currentBoardRegion.split(' ')[0] : '';
+
+      // 1. Total Teams
+      document.getElementById("kpi-total").textContent = metrics.total_teams;
+      if (hasRegion) {
+        document.getElementById("kpi-label-total").textContent = `${regShort} 队伍总数`;
+        const pctOfProg = baseMetrics.total_teams > 0 ? Math.round((metrics.total_teams / baseMetrics.total_teams) * 1000) / 10 : 0;
+        document.getElementById("kpi-sub-total").textContent = `占当前组别的 ${pctOfProg}% (${metrics.total_teams}/${baseMetrics.total_teams})`;
+      } else if (isChallenge) {
+        document.getElementById("kpi-label-total").textContent = "FLL Challenge 队伍总数";
+        document.getElementById("kpi-sub-total").textContent = `占全部队伍的 67.2% (349/519)`;
+      } else if (isAll) {
+        document.getElementById("kpi-label-total").textContent = "队伍总数 (Total Teams)";
+        document.getElementById("kpi-sub-total").textContent = "北加州各级别全部注册队伍";
+      } else {
+        document.getElementById("kpi-label-total").textContent = "当前组别队伍数";
+        document.getElementById("kpi-sub-total").textContent = `占全部队伍的 ${Math.round((metrics.total_teams / allTeams.length)*100)}%`;
+      }
+
+      // 2. Ready %
+      document.getElementById("kpi-ready-pct").textContent = `${metrics.ready_pct}%`;
+      document.getElementById("kpi-sub-ready").textContent = `${metrics.ready_count} 队达成全部审核通过`;
+
+      // 3. History Teams KPI
+      document.getElementById("kpi-history").textContent = `${metrics.history_teams} 队`;
+      document.getElementById("kpi-sub-history").textContent = `${metrics.history_pct}% 战队拥有历届实战经验 (${metrics.history_teams}/${metrics.total_teams})`;
+
+      // 4. Awards Teams KPI
+      document.getElementById("kpi-awards").textContent = `${metrics.awards_teams} 队`;
+      document.getElementById("kpi-sub-awards").textContent = `占 ${metrics.awards_pct}% 曾斩获官方大奖`;
+
+      // 5. High Score Record KPI
+      if (metrics.highest_score > 0) {
+        document.getElementById("kpi-maxscore").textContent = `${metrics.highest_score} pts`;
+        const topT = metrics.top_team;
+        document.getElementById("kpi-sub-maxscore").textContent = topT ? `#${topT.number} ${topT.name || ''} (${topT.city || ''})` : '最高生涯记录';
+      } else {
+        document.getElementById("kpi-maxscore").textContent = `暂无`;
+        document.getElementById("kpi-sub-maxscore").textContent = `当前筛选范围无得分记录`;
+      }
+
+      // Update badges on board pills
+      const badgeReady = document.getElementById("readyCountBadge");
+      if (badgeReady) badgeReady.textContent = baseMetrics.ready_count;
+
+      const badgeVet = document.getElementById("veteranCountBadge");
+      if (badgeVet) badgeVet.textContent = baseMetrics.exp_counts["Veteran (老牌强队)"] || 0;
+
+      // 6. Geographic
+      document.getElementById("kpi-geo").textContent = `${metrics.unique_cities} / ${metrics.unique_orgs}`;
+      document.getElementById("kpi-sub-geo").textContent = `${metrics.unique_cities} 城市 · ${metrics.unique_orgs} 学校/机构`;
+    }
+
+    function filterByRegion(regionName) {
+      if (currentBoardRegion === regionName) {
+        currentBoardRegion = "ALL";
+      } else {
+        currentBoardRegion = regionName;
+      }
+      const regSelect = document.getElementById("filterRegion");
+      if (regSelect) {
+        regSelect.value = currentBoardRegion;
+      }
+      renderBoardAndSync();
+      currentPage = 1;
+      applyFilters();
+    }
+
+    function renderCharts(metrics, baseMetrics) {
+      const isChallenge = currentBoardProgram === "FIRST LEGO League: Challenge";
+      const hasRegion = currentBoardRegion !== "ALL";
+
+      // 1. Program Bars
+      const pContainer = document.getElementById("program-bars");
+      if (currentBoardProgram === "ALL") {
+        const progColors = ["bg-cyan", "bg-purple", "bg-emerald", "bg-amber", "bg-blue"];
+        pContainer.innerHTML = metrics.program_dist.map((p, idx) => `
+          <div class="bar-item">
+            <div class="bar-label-group">
+              <span class="bar-label">${p.program.replace('FIRST LEGO League: ', '')}</span>
+              <span class="bar-value">${p.count} 队 (${p.pct}%)</span>
+            </div>
+            <div class="bar-track">
+              <div class="bar-fill ${progColors[idx % progColors.length]}" style="width: ${p.pct}%;"></div>
+            </div>
+          </div>
+        `).join('');
+      } else {
+        pContainer.innerHTML = `
+          <div style="margin-bottom: 12px; padding: 10px 14px; background: rgba(0, 242, 254, 0.08); border-radius: 8px; border: 1px solid rgba(0,242,254,0.2);">
+            <div style="color: var(--cyan-neon); font-weight: 600; font-size: 0.9rem;">
+              🎯 当前看板范围：${currentBoardProgram} ${hasRegion ? `· ${currentBoardRegion.split(' ')[0]}` : ''}
+            </div>
+            <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 4px;">
+              共 ${metrics.total_teams} 支队伍 ${onlyReady ? '(仅全部Ready)' : ''}
+            </div>
+          </div>
+          <div class="bar-item">
+            <div class="bar-label-group">
+              <span class="bar-label">完全就绪 (Good)</span>
+              <span class="bar-value">${metrics.ready_count} 队 (${metrics.ready_pct}%)</span>
+            </div>
+            <div class="bar-track">
+              <div class="bar-fill bg-emerald" style="width: ${metrics.ready_pct}%;"></div>
+            </div>
+          </div>
+          <div class="bar-item">
+            <div class="bar-label-group">
+              <span class="bar-label">未就绪 (Pending / Waiting)</span>
+              <span class="bar-value">${metrics.total_teams - metrics.ready_count} 队 (${Math.round((100 - metrics.ready_pct) * 10) / 10}%)</span>
+            </div>
+            <div class="bar-track">
+              <div class="bar-fill bg-rose" style="width: ${100 - metrics.ready_pct}%;"></div>
+            </div>
+          </div>
+        `;
+      }
+
+      // 2. Compliance Funnel
+      const compContainer = document.getElementById("compliance-funnel");
+      const compItems = [
+        { key: "coaches", label: "👨‍🏫 教练人数要求 (≥2人)", hint: "官方安全标准" },
+        { key: "agreements", label: "📑 Jotform 免责签署", hint: "家长与教练表单" },
+        { key: "screening", label: "🛡️ FIRST 全美背景筛查", hint: "国家级审核" },
+        { key: "fingerprinting", label: "🖐️ 加州指纹背景调查", hint: "LiveScan / MRT" },
+        { key: "roster_status", label: "📋 学生队员花名册要求", hint: "最少2名队员" },
+      ];
+      compContainer.innerHTML = compItems.map(item => {
+        const cs = metrics.compliance[item.key] || { good_pct: 0, good_count: 0, fail_count: 0 };
+        const isGood = cs.good_pct >= 60;
+        return `
+          <div class="funnel-step">
+            <div class="funnel-name">
+              <span>${item.label}</span>
+              <span style="font-size: 0.72rem; color: var(--text-dim);">(${item.hint})</span>
+            </div>
+            <div class="funnel-stat">
+              <span class="badge ${isGood ? 'badge-good' : 'badge-warn'}">${cs.good_pct}% 通过</span>
+              <span style="color: var(--text-dim); font-size: 0.78rem; margin-left: 6px;">(${cs.good_count}/${metrics.total_teams})</span>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      // 3. Regional Distribution Bars (Uses baseMetrics so all regions are visible for comparison and clicking)
+      const regContainer = document.getElementById("region-bars");
+      if (regContainer) {
+        const regColors = ["bg-cyan", "bg-purple", "bg-emerald", "bg-amber", "bg-blue"];
+        
+        let resetHeader = '';
+        if (hasRegion) {
+          resetHeader = `
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; padding: 4px 8px; background: rgba(0,242,254,0.1); border-radius: 6px;">
+              <span style="font-size: 0.78rem; color: var(--cyan-neon);">已锁定：${currentBoardRegion}</span>
+              <button class="btn-reset-region" onclick="filterByRegion('${currentBoardRegion}')">✕ 取消区域锁定</button>
+            </div>
+          `;
+        }
+
+        regContainer.innerHTML = resetHeader + (baseMetrics.region_dist || []).map((r, idx) => {
+          const isSelected = r.region === currentBoardRegion;
+          return `
+            <div class="region-bar-item ${isSelected ? 'active' : ''}" title="${isSelected ? '点击取消该区域锁定' : '点击锁定查看此区域完整统计'}" onclick="filterByRegion('${r.region}')">
+              <div class="bar-label-group">
+                <span class="bar-label" style="display: flex; align-items: center; gap: 6px;">
+                  <span>${r.region}</span>
+                  ${isSelected ? '<span class="badge badge-info" style="font-size: 0.68rem;">✓ 当前看板</span>' : '<span style="font-size: 0.72rem; color: var(--text-dim); font-weight: normal;">(点击筛选)</span>'}
+                </span>
+                <span class="bar-value" style="font-weight: 600;">${r.count} 队 (${r.pct}%)</span>
+              </div>
+              <div class="bar-track">
+                <div class="bar-fill ${regColors[idx % regColors.length]}" style="width: ${r.pct}%;"></div>
+              </div>
+            </div>
+          `;
+        }).join('');
+      }
+
+      // 4. Top Cities
+      const cContainer = document.getElementById("city-bars");
+      const cityTitleEl = cContainer.parentElement.querySelector(".chart-title span");
+      if (cityTitleEl) {
+        cityTitleEl.textContent = hasRegion ? `🏙️ ${currentBoardRegion.split(' ')[0]} 队伍城市排行` : `🏙️ 队伍最多城市 Top 8`;
+      }
+      const maxCityPct = metrics.top_cities.length > 0 ? metrics.top_cities[0].pct : 1;
+      if (metrics.top_cities.length === 0) {
+        cContainer.innerHTML = `<div style="color: var(--text-dim); font-size: 0.85rem; padding: 20px 0;">该区域暂无城市数据</div>`;
+      } else {
+        cContainer.innerHTML = metrics.top_cities.slice(0, 6).map(c => `
+          <div class="bar-item">
+            <div class="bar-label-group">
+              <span class="bar-label">${c.city}</span>
+              <span class="bar-value">${c.count} 队 (${c.pct}%)</span>
+            </div>
+            <div class="bar-track">
+              <div class="bar-fill bg-cyan" style="width: ${Math.min(100, (c.pct / maxCityPct) * 100)}%;"></div>
+            </div>
+          </div>
+        `).join('');
+      }
+
+      // 5. Status Breakdown
+      const sContainer = document.getElementById("status-bars");
+      const statusTitleEl = sContainer.parentElement.querySelector(".chart-title span");
+      if (statusTitleEl) {
+        statusTitleEl.textContent = hasRegion ? `⏳ ${currentBoardRegion.split(' ')[0]} 队伍就绪状态` : `⏳ 队伍就绪状态 (Status v2)`;
+      }
+      const statusLabels = {
+        "good": "完全合规通过",
+        "waiting_invites": "等待邀请确认",
+        "pending_fingerprinting": "卡在指纹调查",
+        "waiting_members": "队员人数不足2人",
+        "pending_national_screening": "卡在全美筛查",
+        "waiting_jotform": "等待协议表单",
+        "roster_overload": "花名册超员"
+      };
+      sContainer.innerHTML = metrics.statuses.slice(0, 6).map(s => `
+        <div class="bar-item">
+          <div class="bar-label-group">
+            <span class="bar-label">${statusLabels[s.status] || s.status}</span>
+            <span class="bar-value">${s.count} 队 (${s.pct}%)</span>
+          </div>
+          <div class="bar-track">
+            <div class="bar-fill ${s.status === 'good' ? 'bg-emerald' : 'bg-rose'}" style="width: ${s.pct}%;"></div>
+          </div>
+        </div>
+      `).join('');
+
+      // 6. Organization Breakdown
+      const oContainer = document.getElementById("org-bars");
+      oContainer.innerHTML = metrics.org_categories.map(o => `
+        <div class="bar-item">
+          <div class="bar-label-group">
+            <span class="bar-label">${o.category}</span>
+            <span class="bar-value">${o.count} 队 (${o.pct}%)</span>
+          </div>
+          <div class="bar-track">
+            <div class="bar-fill bg-amber" style="width: ${o.pct}%;"></div>
+          </div>
+        </div>
+      `).join('');
+
+      // 7. Coaches Distribution
+      const coachContainer = document.getElementById("coaches-bars");
+      coachContainer.innerHTML = metrics.coaches_dist.map(c => `
+        <div class="bar-item">
+          <div class="bar-label-group">
+            <span class="bar-label">${c.coaches_count} 位教练</span>
+            <span class="bar-value">${c.teams} 队 (${c.pct}%)</span>
+          </div>
+          <div class="bar-track">
+            <div class="bar-fill ${c.coaches_count === 2 ? 'bg-emerald' : 'bg-rose'}" style="width: ${c.pct}%;"></div>
+          </div>
+        </div>
+      `).join('');
+
+      // 8. History Experience & Score Tiers Breakdown
+      const hContainer = document.getElementById("history-tier-bars");
+      if (hContainer) {
+        const tot = metrics.total_teams || 1;
+        const vetCnt = metrics.exp_counts["Veteran (老牌强队)"] || 0;
+        const expCnt = metrics.exp_counts["Experienced (有参赛经验)"] || 0;
+        const rkCnt = metrics.exp_counts["Rookie (新队伍)"] || 0;
+
+        const p500 = metrics.score_tier_counts["500+ (争冠顶尖)"] || 0;
+        const p400 = metrics.score_tier_counts["400-499 (一档强队)"] || 0;
+        const p300 = metrics.score_tier_counts["300-399 (中坚晋级)"] || 0;
+        const pLess = metrics.score_tier_counts["<300 (入门发展)"] || 0;
+
+        hContainer.innerHTML = `
+          <div style="font-size: 0.8rem; color: var(--text-dim); margin-bottom: 8px; font-weight: 600;">资历梯队 (Experience Tiers)</div>
+          <div class="bar-item">
+            <div class="bar-label-group">
+              <span class="bar-label">👑 Veteran (老牌强队)</span>
+              <span class="bar-value">${vetCnt} 队 (${Math.round((vetCnt / tot) * 1000) / 10}%)</span>
+            </div>
+            <div class="bar-track">
+              <div class="bar-fill bg-purple" style="width: ${(vetCnt / tot) * 100}%;"></div>
+            </div>
+          </div>
+          <div class="bar-item">
+            <div class="bar-label-group">
+              <span class="bar-label">🎖️ Experienced (有参赛经验)</span>
+              <span class="bar-value">${expCnt} 队 (${Math.round((expCnt / tot) * 1000) / 10}%)</span>
+            </div>
+            <div class="bar-track">
+              <div class="bar-fill bg-cyan" style="width: ${(expCnt / tot) * 100}%;"></div>
+            </div>
+          </div>
+          <div class="bar-item">
+            <div class="bar-label-group">
+              <span class="bar-label">🌱 Rookie (新队伍)</span>
+              <span class="bar-value">${rkCnt} 队 (${Math.round((rkCnt / tot) * 1000) / 10}%)</span>
+            </div>
+            <div class="bar-track">
+              <div class="bar-fill" style="background: rgba(148, 163, 184, 0.4); width: ${(rkCnt / tot) * 100}%;"></div>
+            </div>
+          </div>
+
+          <div style="font-size: 0.8rem; color: var(--text-dim); margin: 16px 0 8px; font-weight: 600;">历史得分实力梯队 (Score Tiers)</div>
+          <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px;">
+            <div style="background: rgba(245, 158, 11, 0.08); border: 1px solid rgba(245, 158, 11, 0.25); border-radius: 8px; padding: 8px 10px;">
+              <div style="font-size: 0.76rem; color: #fbbf24;">🔥 500+ (争冠顶尖)</div>
+              <div style="font-size: 1.1rem; font-weight: 700; color: #fde047; margin-top: 2px;">${p500} 队</div>
+            </div>
+            <div style="background: rgba(56, 189, 248, 0.08); border: 1px solid rgba(56, 189, 248, 0.25); border-radius: 8px; padding: 8px 10px;">
+              <div style="font-size: 0.76rem; color: #38bdf8;">⚡ 400-499 (一档强队)</div>
+              <div style="font-size: 1.1rem; font-weight: 700; color: #7dd3fc; margin-top: 2px;">${p400} 队</div>
+            </div>
+            <div style="background: rgba(16, 185, 129, 0.08); border: 1px solid rgba(16, 185, 129, 0.25); border-radius: 8px; padding: 8px 10px;">
+              <div style="font-size: 0.76rem; color: #34d399;">💪 300-399 (中坚晋级)</div>
+              <div style="font-size: 1.1rem; font-weight: 700; color: #6ee7b7; margin-top: 2px;">${p300} 队</div>
+            </div>
+            <div style="background: rgba(148, 163, 184, 0.08); border: 1px solid rgba(148, 163, 184, 0.2); border-radius: 8px; padding: 8px 10px;">
+              <div style="font-size: 0.76rem; color: #94a3b8;">🌱 &lt;300 (入门发展)</div>
+              <div style="font-size: 1.1rem; font-weight: 700; color: #cbd5e1; margin-top: 2px;">${pLess} 队</div>
+            </div>
+          </div>
+        `;
+      }
+
+      // 9. Top Career High Scorers
+      const topContainer = document.getElementById("top-scorer-bars");
+      if (topContainer) {
+        if (metrics.top_scorers.length === 0) {
+          topContainer.innerHTML = `<div style="color: var(--text-dim); font-size: 0.85rem; padding: 20px 0;">当前筛选范围暂无历史得分记录</div>`;
+        } else {
+          topContainer.innerHTML = metrics.top_scorers.map((t, idx) => {
+            const h = t.history || {};
+            const sc = h.max_score || 0;
+            const isTop3 = idx < 3;
+            const rankEmoji = idx === 0 ? '🥇' : (idx === 1 ? '🥈' : (idx === 2 ? '🥉' : `#${idx+1}`));
+            return `
+              <div style="display: flex; align-items: center; justify-content: space-between; padding: 8px 10px; margin-bottom: 6px; background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-subtle); border-radius: 8px; cursor: pointer; transition: all var(--transition-fast);" onclick="showTeamHistory(${t.number})">
+                <div style="display: flex; align-items: center; gap: 8px;">
+                  <span style="font-size: 0.9rem; font-weight: 700; width: 24px; text-align: center;">${rankEmoji}</span>
+                  <div>
+                    <span class="team-num-badge" style="font-size: 0.78rem;">#${t.number}</span>
+                    <span style="font-weight: 600; font-size: 0.86rem; margin-left: 6px; color: var(--text-main);">${escapeHtml(t.name || '未命名')}</span>
+                    <span style="font-size: 0.74rem; color: var(--text-dim); margin-left: 6px;">(${escapeHtml(t.city || '')})</span>
+                  </div>
+                </div>
+                <div style="display: flex; align-items: center; gap: 8px;">
+                  ${h.awards_count > 0 ? `<span class="badge badge-award-cnt" style="font-size: 0.7rem;">🏆 ${h.awards_count}</span>` : ''}
+                  <span class="badge ${isTop3 ? 'badge-score-elite' : 'badge-score-high'}" style="font-size: 0.82rem; font-weight: 700;">${sc} 分</span>
+                </div>
+              </div>
+            `;
+          }).join('');
+        }
+      }
+    }
+
+    function populateCityDropdown() {
+      const citySelect = document.getElementById("filterCity");
+      const citiesCount = {};
+      allTeams.forEach(t => {
+        const c = (t.city || '').trim();
+        if (c) citiesCount[c] = (citiesCount[c] || 0) + 1;
+      });
+      const sortedCities = Object.entries(citiesCount).sort((a, b) => b[1] - a[1]);
+
+      sortedCities.forEach(([city, count]) => {
+        const opt = document.createElement("option");
+        opt.value = city;
+        opt.textContent = `${city} (${count}队)`;
+        citySelect.appendChild(opt);
+      });
+    }
+
+    // Sorting Helper Functions
+    function getSeasonSortValue(team, yearKey) {
+      const bySeason = (team.history || {}).by_season || {};
+      const s = bySeason[yearKey];
+      if (!s || !s.has_participated) return -1;
+
+      const champScore = s.champ?.highest_score != null ? s.champ.highest_score : -1;
+      const qtScore = s.qt?.highest_score != null ? s.qt.highest_score : -1;
+      const bestScore = Math.max(champScore, qtScore);
+
+      const adv = (s.qt?.advanced || s.champ?.advanced) ? 1 : 0;
+      const awards = (s.champ?.awards?.length || 0) + (s.qt?.awards?.length || 0);
+
+      if (bestScore >= 0) {
+        return 1000000 + (bestScore * 1000) + (adv * 100) + awards;
+      }
+      return 10000 + (adv * 100) + awards;
+    }
+
+    function getComplianceScore(team) {
+      const sq = team.status_quickview || {};
+      let count = 0;
+      if (sq.screening?.good) count++;
+      if (sq.fingerprinting?.good) count++;
+      if (sq.roster_status?.good) count++;
+      if (sq.agreements?.good) count++;
+      return count;
+    }
+
+    const statusWeight = {
+      "good": 100,
+      "waiting_invites": 60,
+      "pending_national_screening": 50,
+      "waiting_jotform": 40,
+      "pending_fingerprinting": 30,
+      "waiting_members": 20,
+      "roster_overload": 10
+    };
+
+    function sortTeams(teams, col, dir) {
+      const multiplier = dir === "desc" ? -1 : 1;
+      teams.sort((a, b) => {
+        let diff = 0;
+        switch (col) {
+          case "number":
+            diff = (a.number || 0) - (b.number || 0);
+            break;
+          case "name":
+            diff = (a.name || "").localeCompare(b.name || "", "zh-CN", { numeric: true });
+            break;
+          case "program":
+            diff = (a.program_label || "").localeCompare(b.program_label || "", "zh-CN");
+            break;
+          case "city":
+            diff = (a.city || "").localeCompare(b.city || "", "zh-CN");
+            break;
+          case "s2025":
+            diff = getSeasonSortValue(a, "2025") - getSeasonSortValue(b, "2025");
+            break;
+          case "s2024":
+            diff = getSeasonSortValue(a, "2024") - getSeasonSortValue(b, "2024");
+            break;
+          case "s2023":
+            diff = getSeasonSortValue(a, "2023") - getSeasonSortValue(b, "2023");
+            break;
+          case "status":
+            const wA = statusWeight[a.status_v2] || 0;
+            const wB = statusWeight[b.status_v2] || 0;
+            diff = wA - wB;
+            break;
+          case "compliance":
+            diff = getComplianceScore(a) - getComplianceScore(b);
+            break;
+          default:
+            diff = (a.number || 0) - (b.number || 0);
+        }
+
+        if (diff === 0) {
+          return (a.number || 0) - (b.number || 0);
+        }
+        return diff * multiplier;
+      });
+    }
+
+    function handleSort(col) {
+      if (currentSortColumn === col) {
+        currentSortDirection = currentSortDirection === "asc" ? "desc" : "asc";
+      } else {
+        currentSortColumn = col;
+        if (["s2025", "s2024", "s2023", "status", "compliance"].includes(col)) {
+          currentSortDirection = "desc";
+        } else {
+          currentSortDirection = "asc";
+        }
+      }
+      currentPage = 1;
+      applySortAndRender();
+    }
+
+    function updateSortUI() {
+      const cols = ["number", "name", "program", "city", "s2025", "s2024", "s2023", "status", "compliance"];
+      cols.forEach(c => {
+        const icon = document.getElementById(`sort-icon-${c}`);
+        const th = document.querySelector(`th[data-col="${c}"]`);
+        if (c === currentSortColumn) {
+          if (icon) icon.textContent = currentSortDirection === "asc" ? "▲" : "▼";
+          if (th) th.classList.add("active-sort");
+        } else {
+          if (icon) icon.textContent = "↕";
+          if (th) th.classList.remove("active-sort");
+        }
+      });
+    }
+
+    function applySortAndRender() {
+      sortTeams(filteredTeams, currentSortColumn, currentSortDirection);
+      updateSortUI();
+      renderTable();
+    }
+
+    function applyFilters() {
+      const q = (document.getElementById("searchInput").value || "").trim().toLowerCase();
+      const reg = document.getElementById("filterRegion").value;
+      const hist = document.getElementById("filterHistory")?.value || "ALL";
+      const prog = document.getElementById("filterProgram").value;
+      const st = document.getElementById("filterStatus").value;
+      const city = document.getElementById("filterCity").value;
+
+      filteredTeams = allTeams.filter(t => {
+        // Query search
+        if (q) {
+          const matchNum = String(t.number || "").includes(q);
+          const matchName = (t.name || "").toLowerCase().includes(q);
+          const matchCity = (t.city || "").toLowerCase().includes(q);
+          const matchOrg = (t.org_name || "").toLowerCase().includes(q);
+          const matchPast = (t.past_names || t.history?.past_names || []).some(pn => pn.toLowerCase().includes(q));
+          if (!matchNum && !matchName && !matchCity && !matchOrg && !matchPast) return false;
+        }
+
+        // Region filter
+        if (reg !== "ALL" && getTeamRegion(t.city) !== reg) return false;
+
+        // History filter
+        if (onlyVeteran && (t.history || {}).experience_tier !== "Veteran (老牌强队)") return false;
+        if (hist !== "ALL") {
+          const h = t.history || {};
+          if (hist === "veteran" && h.experience_tier !== "Veteran (老牌强队)") return false;
+          if (hist === "experienced" && h.experience_tier !== "Experienced (有参赛经验)") return false;
+          if (hist === "rookie" && h.experience_tier !== "Rookie (新队伍)") return false;
+          if (hist === "has_awards" && (h.awards_count || 0) <= 0) return false;
+          if (hist === "tier_500" && (h.max_score || 0) < 500) return false;
+          if (hist === "tier_400" && (h.max_score || 0) < 400) return false;
+          if (hist === "advanced" && (h.advancements_count || 0) <= 0) return false;
+        }
+
+        // Program filter
+        if (prog !== "ALL") {
+          if (prog === "Future Edition") {
+            if (!(t.program_label || '').includes("Future Edition")) return false;
+          } else if (t.program_label !== prog) {
+            return false;
+          }
+        }
+
+        // Status filter
+        if (onlyReady && t.status_v2 !== "good") return false;
+        if (st !== "ALL" && t.status_v2 !== st) return false;
+
+        // City filter
+        if (city !== "ALL" && t.city !== city) return false;
+
+        return true;
+      });
+
+      applySortAndRender();
+    }
+
+    function renderTable() {
+      const tbody = document.getElementById("teamsTableBody");
+      const total = filteredTeams.length;
+      const totalPages = Math.ceil(total / pageSize) || 1;
+      if (currentPage > totalPages) currentPage = totalPages;
+
+      const startIdx = (currentPage - 1) * pageSize;
+      const endIdx = Math.min(startIdx + pageSize, total);
+      const pageItems = filteredTeams.slice(startIdx, endIdx);
+
+      // Info
+      document.getElementById("resultCountInfo").textContent = `显示 ${total > 0 ? startIdx + 1 : 0} - ${endIdx} 支队伍 / 共筛选出 ${total} 支队伍 (库中总计 ${allTeams.length} 支)`;
+      document.getElementById("pageInfo").textContent = `第 ${currentPage} / ${totalPages} 页`;
+      document.getElementById("prevPageBtn").disabled = currentPage <= 1;
+      document.getElementById("nextPageBtn").disabled = currentPage >= totalPages;
+
+      if (pageItems.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="9" style="text-align: center; padding: 40px; color: var(--text-dim);">没有找到符合条件的队伍</td></tr>`;
+        return;
+      }
+
+      const statusMap = {
+        "good": { cls: "badge-good", text: "✅ 合规就绪" },
+        "waiting_invites": { cls: "badge-warn", text: "⏳ 等待邀请确认" },
+        "pending_fingerprinting": { cls: "badge-danger", text: "⚠️ 指纹审查中" },
+        "waiting_members": { cls: "badge-danger", text: "👥 队员未满2人" },
+        "pending_national_screening": { cls: "badge-warn", text: "🔍 国家筛查中" },
+        "waiting_jotform": { cls: "badge-warn", text: "📝 等待协议表单" },
+        "roster_overload": { cls: "badge-danger", text: "🚫 花名册超员" }
+      };
+
+      function renderSeasonCell(sData, teamNumber) {
+        if (!sData || !sData.has_participated) {
+          return `
+            <div class="season-cell" style="opacity: 0.35;">
+              <div class="season-row"><span class="event-type-tag qt">QT</span><span class="season-empty-row">-</span></div>
+              <div class="season-row"><span class="event-type-tag champ">Champ</span><span class="season-empty-row">-</span></div>
+            </div>
+          `;
+        }
+
+        const renderRow = (label, ev, isChamp) => {
+          if (!ev) {
+            return `
+              <div class="season-row">
+                <span class="event-type-tag ${isChamp ? 'champ' : 'qt'}">${label}</span>
+                <span class="season-empty-row">-</span>
+              </div>
+            `;
+          }
+
+          const sc = ev.highest_score;
+          let scoreBadge = '';
+          if (sc != null) {
+            const cls = sc >= 500 ? 'badge-score-elite' : (sc >= 400 ? 'badge-score-high' : (sc >= 300 ? 'badge-score-mid' : 'badge-info'));
+            scoreBadge = `<span class="badge ${cls}" style="font-size:0.72rem; padding: 1px 5px;" title="${escapeHtml(ev.event_name)}: ${sc}分">⚡${sc}</span>`;
+          } else {
+            scoreBadge = `<span class="badge badge-rookie" style="font-size:0.68rem;" title="${escapeHtml(ev.event_name)}">未记分</span>`;
+          }
+
+          const rankBadge = ev.ranking != null ? `<span class="badge badge-info" style="font-size:0.68rem; padding: 1px 4px;" title="名次">#${ev.ranking}</span>` : '';
+          const advBadge = ev.advanced ? `<span class="badge badge-adv-cnt" style="font-size:0.66rem; padding: 1px 4px;" title="获得晋级 Championship 资格">🚀晋</span>` : '';
+          const awardsBadge = ev.awards && ev.awards.length > 0 ? `<span class="badge badge-award-cnt" style="font-size:0.66rem; padding: 1px 4px; cursor: pointer;" onclick="showTeamHistory(${teamNumber})" title="${escapeHtml(ev.awards.join('、'))}">🏆${ev.awards.length}</span>` : '';
+
+          return `
+            <div class="season-row" title="${escapeHtml(ev.event_name)} (${ev.date || ''})">
+              <span class="event-type-tag ${isChamp ? 'champ' : 'qt'}">${label}</span>
+              ${scoreBadge}
+              ${rankBadge}
+              ${advBadge}
+              ${awardsBadge}
+            </div>
+          `;
+        };
+
+        return `
+          <div class="season-cell">
+            ${renderRow('QT', sData.qt, false)}
+            ${renderRow('Champ', sData.champ, true)}
+          </div>
+        `;
+      }
+
+      tbody.innerHTML = pageItems.map(t => {
+        const stConf = statusMap[t.status_v2] || { cls: "badge-info", text: t.status_v2 };
+        const sq = t.status_quickview || {};
+        
+        // Build mini badges for checks
+        const scGood = sq.screening?.good;
+        const fpGood = sq.fingerprinting?.good;
+        const roGood = sq.roster_status?.good;
+        const agGood = sq.agreements?.good;
+
+        const checkTags = `
+          <div style="display: flex; gap: 4px; flex-wrap: wrap; font-size: 0.72rem;">
+            <span class="badge ${scGood ? 'badge-good' : 'badge-danger'}" title="全美背景调查">${scGood ? '✓' : '✗'} 筛查</span>
+            <span class="badge ${fpGood ? 'badge-good' : 'badge-danger'}" title="加州指纹">${fpGood ? '✓' : '✗'} 指纹</span>
+            <span class="badge ${roGood ? 'badge-good' : 'badge-danger'}" title="花名册">${roGood ? '✓' : '✗'} 花名册</span>
+            <span class="badge ${agGood ? 'badge-good' : 'badge-danger'}" title="免责协议">${agGood ? '✓' : '✗'} 协议</span>
+          </div>
+        `;
+
+        const progShort = (t.program_label || '').replace('FIRST LEGO League: ', '');
+        const teamReg = getTeamRegion(t.city);
+        const regShort = teamReg.split(' ')[0];
+        const regBadgeCls = getRegionBadgeClass(regShort);
+
+        // Build 3 Seasons Columns
+        const bySeason = (t.history || {}).by_season || {};
+        const s2025 = renderSeasonCell(bySeason["2025"], t.number);
+        const s2024 = renderSeasonCell(bySeason["2024"], t.number);
+        const s2023 = renderSeasonCell(bySeason["2023"], t.number);
+
+        const pastNames = t.past_names || t.history?.past_names || [];
+        const pastNameHtml = pastNames.length > 0 
+          ? `<div class="team-past-name-sub" title="历届曾用名: ${escapeHtml(pastNames.join('、'))}">🏷️ 曾用: ${escapeHtml(pastNames.join('、'))}</div>` 
+          : '';
+
+        return `
+          <tr>
+            <td><span class="team-num-badge">#${t.number}</span></td>
+            <td>
+              <div class="team-name-cell">
+                <span style="cursor: pointer;" onclick="showTeamHistory(${t.number})" title="点击查看战绩档案">${escapeHtml(t.name || '未命名')}</span>
+                <span class="btn-history-detail" style="margin-left: 6px; vertical-align: middle;" onclick="showTeamHistory(${t.number})" title="查看历年完整档案">详情 ↗</span>
+              </div>
+              ${pastNameHtml}
+              <div class="team-org-sub">${escapeHtml(t.org_name || 'Family/Community')}</div>
+            </td>
+            <td><span style="font-size: 0.8rem; color: var(--cyan-neon); font-weight: 500;">${progShort}</span></td>
+            <td>
+              <div style="font-weight: 500;">${escapeHtml(t.city || '-')}</div>
+              <div style="margin-top: 3px;">
+                <span class="badge ${regBadgeCls}" style="font-size: 0.7rem; cursor: pointer;" title="点击按此区域筛选" onclick="filterByRegion('${teamReg}')">${regShort}</span>
+              </div>
+            </td>
+            <td>${s2025}</td>
+            <td>${s2024}</td>
+            <td>${s2023}</td>
+            <td><span class="badge ${stConf.cls}">${stConf.text}</span></td>
+            <td>${checkTags}</td>
+          </tr>
+        `;
+      }).join('');
+    }
+
+    // Show History Modal Dialog
+    function showTeamHistory(teamNum) {
+      const team = allTeams.find(t => t.number === teamNum);
+      if (!team) return;
+
+      const h = team.history || {};
+      const modal = document.getElementById("historyModal");
+      document.getElementById("modalTeamNumBadge").textContent = `#${team.number}`;
+      document.getElementById("modalTeamName").textContent = `${team.name || '未命名'} — 历届战绩与荣誉`;
+
+      const body = document.getElementById("modalBodyContent");
+      
+      const seasonsStr = (h.seasons || []).join('、') || '暂无记录';
+      const eventsList = h.events || [];
+      const awardsList = h.awards || [];
+      const pastNamesDetails = h.past_names_details || [];
+      const pastNamesList = h.past_names || [];
+
+      let pastNamesHtml = '';
+      if (pastNamesDetails.length > 0) {
+        pastNamesHtml = `
+          <div style="margin-bottom: 18px; padding: 12px 16px; background: rgba(0, 242, 254, 0.05); border: 1px solid rgba(0, 242, 254, 0.22); border-radius: 8px;">
+            <div style="font-size: 0.85rem; font-weight: 700; color: var(--cyan-neon); margin-bottom: 8px; display: flex; align-items: center; justify-content: space-between;">
+              <div style="display: flex; align-items: center; gap: 6px;">
+                <span>🏷️ 队伍历届曾用名 (${pastNamesDetails.length})</span>
+                <span style="font-weight: normal; font-size: 0.74rem; color: var(--text-dim);">（历年赛事记载的历史更名轨迹）</span>
+              </div>
+            </div>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+              ${pastNamesDetails.map(pn => {
+                const sStr = (pn.seasons || []).map(s => s.replace(' - ', ' · ').replace(' (Challenge)', '').replace(' (Explore)', '')).join('、') || '以往赛季';
+                return `
+                  <div class="past-name-chip" title="曾用于: ${escapeHtml((pn.seasons || []).join(', '))}">
+                    <span class="past-name-text">🏷️ ${escapeHtml(pn.name)}</span>
+                    <span class="past-name-season">${escapeHtml(sStr)}</span>
+                  </div>
+                `;
+              }).join('')}
+            </div>
+          </div>
+        `;
+      } else {
+        pastNamesHtml = `
+          <div style="margin-bottom: 16px; font-size: 0.8rem; color: var(--text-dim); display: flex; align-items: center; gap: 6px;">
+            <span style="color: var(--text-muted); font-weight: 500;">🏷️ 历届曾用名：</span>
+            <span>始终沿用当前队名（未检测到历史曾用名）</span>
+          </div>
+        `;
+      }
+
+      let eventsHtml = '';
+      if (eventsList.length === 0) {
+        eventsHtml = `<div style="color: var(--text-dim); font-size: 0.85rem; padding: 12px 0;">暂无详细赛事对局数据</div>`;
+      } else {
+        eventsHtml = eventsList.map(ev => {
+          const scoreTxt = ev.highest_score != null ? `${ev.highest_score} 分` : '暂无得分';
+          const rankTxt = ev.ranking != null ? `第 ${ev.ranking} 名` : '-';
+          const advBadge = ev.advanced ? `<span class="badge badge-adv-cnt" style="font-size: 0.7rem;">🚀 成功晋级</span>` : '';
+          const awTxt = ev.awards && ev.awards.length > 0 ? ev.awards.map(a => `<span class="award-item-tag" style="margin: 0;">🏆 ${escapeHtml(a)}</span>`).join(' ') : '';
+          return `
+            <div class="timeline-event-item">
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 4px;">
+                <div>
+                  <span style="font-weight: 600; font-size: 0.92rem; color: var(--text-main);">${escapeHtml(ev.event_name)}</span>
+                  <span style="font-size: 0.75rem; color: var(--text-dim); margin-left: 8px;">${ev.season || ''} · ${ev.date || ''}</span>
+                </div>
+                <div style="display: flex; gap: 6px; align-items: center;">
+                  ${advBadge}
+                  <span class="badge badge-score-high" style="font-size: 0.82rem;">${scoreTxt}</span>
+                  ${ev.ranking != null ? `<span class="badge badge-info" style="font-size: 0.78rem;">${rankTxt}</span>` : ''}
+                </div>
+              </div>
+              ${awTxt ? `<div style="margin-top: 6px; display: flex; gap: 6px; flex-wrap: wrap;">${awTxt}</div>` : ''}
+            </div>
+          `;
+        }).join('');
+      }
+
+      let awardsHtml = '';
+      if (awardsList.length === 0) {
+        awardsHtml = `<div style="color: var(--text-dim); font-size: 0.85rem; padding: 8px 0;">该队伍暂未斩获官方大奖</div>`;
+      } else {
+        awardsHtml = `
+          <div style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px;">
+            ${awardsList.map(a => `
+              <div class="award-item-tag" title="${escapeHtml(a.event_name)} (${a.season})">
+                <span>🏆 ${escapeHtml(a.name)}</span>
+                ${a.place ? `<span style="font-size: 0.72rem; opacity: 0.8;">[${a.place}]</span>` : ''}
+              </div>
+            `).join('')}
+          </div>
+        `;
+      }
+
+      body.innerHTML = `
+        <div style="margin-bottom: 18px; padding-bottom: 14px; border-bottom: 1px solid var(--border-subtle); display: flex; justify-content: space-between; align-items: center;">
+          <div>
+            <div style="font-size: 0.85rem; color: var(--text-dim);">
+              城市：<strong style="color: var(--text-main);">${escapeHtml(team.city || '-')}</strong> · 
+              机构：<strong style="color: var(--text-main);">${escapeHtml(team.org_name || 'Family/Community')}</strong> · 
+              组别：<strong style="color: var(--cyan-neon);">${escapeHtml(team.program_label || '')}</strong>
+            </div>
+          </div>
+          <div>
+            <span class="badge ${h.experience_tier?.includes('Veteran') ? 'badge-veteran' : 'badge-experienced'}" style="font-size: 0.82rem;">
+              ${h.experience_tier || 'Rookie (新队伍)'}
+            </span>
+          </div>
+        </div>
+
+        ${pastNamesHtml}
+
+        <div class="modal-kpi-row">
+          <div class="modal-kpi-box">
+            <div class="val text-amber">${h.max_score != null ? h.max_score : '-'}</div>
+            <div class="lbl">生涯最高分</div>
+          </div>
+          <div class="modal-kpi-box">
+            <div class="val text-cyan">${h.avg_score != null ? h.avg_score : '-'}</div>
+            <div class="lbl">生涯平均分</div>
+          </div>
+          <div class="modal-kpi-box">
+            <div class="val text-emerald">${h.best_ranking != null ? '#' + h.best_ranking : '-'}</div>
+            <div class="lbl">历史最佳名次</div>
+          </div>
+          <div class="modal-kpi-box">
+            <div class="val text-amber">🏆 ${h.awards_count || 0}</div>
+            <div class="lbl">累计官方大奖</div>
+          </div>
+          <div class="modal-kpi-box">
+            <div class="val text-cyan">🚀 ${h.advancements_count || 0}</div>
+            <div class="lbl">晋级次数</div>
+          </div>
+          <div class="modal-kpi-box">
+            <div class="val text-purple">${h.events_count || 0} 站</div>
+            <div class="lbl">参赛总站数</div>
+          </div>
+        </div>
+
+        <div style="margin-bottom: 20px;">
+          <h4 style="font-family: var(--font-heading); font-size: 1.05rem; margin-bottom: 8px; color: var(--text-main); display: flex; align-items: center; gap: 6px;">
+            <span>🏆 累计荣誉与斩获大奖 (${awardsList.length})</span>
+          </h4>
+          ${awardsHtml}
+        </div>
+
+        <div>
+          <h4 style="font-family: var(--font-heading); font-size: 1.05rem; margin-bottom: 8px; color: var(--text-main); display: flex; align-items: center; gap: 6px;">
+            <span>📅 历年赛事对决轨迹 (活跃赛季: ${escapeHtml(seasonsStr)})</span>
+          </h4>
+          ${eventsHtml}
+        </div>
+      `;
+
+      modal.classList.add("open");
+    }
+
+    function closeHistoryModal(e) {
+      if (e && e.target && e.target.classList.contains("history-modal-dialog")) return;
+      const modal = document.getElementById("historyModal");
+      if (modal) modal.classList.remove("open");
+    }
+
+    function escapeHtml(str) {
+      if (!str) return '';
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+    }
+  </script>
+</body>
+</html>

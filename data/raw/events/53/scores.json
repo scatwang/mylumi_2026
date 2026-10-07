@@ -1,0 +1,407 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 60388,
+      "name": "Cosmic Motor",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 405,
+      "highest_display": 405,
+      "rounds": [
+        255,
+        405,
+        350
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        405,
+        350,
+        255
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 59703,
+      "name": "brick-o-brainiacs pioneers",
+      "judging_lane_name": "RED POD 2",
+      "highest": 325,
+      "highest_display": 325,
+      "rounds": [
+        210,
+        325,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        325,
+        260,
+        210
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 66923,
+      "name": "H2O Warriors",
+      "judging_lane_name": "RED POD 2",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        150,
+        275,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        275,
+        225,
+        150
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 61139,
+      "name": "Lightning Squad",
+      "judging_lane_name": "RED POD 2",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        155,
+        270,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        270,
+        155,
+        115
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 52508,
+      "name": "Oakland Short Circuits",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        225,
+        260,
+        240
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        260,
+        240,
+        225
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 20915,
+      "name": "TroBots",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 255,
+      "highest_display": 255,
+      "rounds": [
+        255,
+        240,
+        255
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        255,
+        255,
+        240
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 30516,
+      "name": "Cheerios FLL-C 30516",
+      "judging_lane_name": "RED POD 2",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        135,
+        230,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/K",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        230,
+        170,
+        135
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 60913,
+      "name": "Basement Bots",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        175,
+        210,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        225,
+        210,
+        175
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 66202,
+      "name": "Win-crafters",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        175,
+        170,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        185,
+        175,
+        170
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 61776,
+      "name": "Tech Ninja",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        100,
+        120,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        165,
+        120,
+        100
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 65839,
+      "name": "Aquastellar Innovators",
+      "judging_lane_name": "RED POD 2",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        135,
+        140,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        155,
+        140,
+        135
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 66235,
+      "name": "R0B0PE0PLE",
+      "judging_lane_name": "RED POD 2",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        95,
+        100,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        155,
+        100,
+        95
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 69281,
+      "name": "Spicy Mango Apple Generators (S.M.A.G.)",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 135,
+      "highest_display": 135,
+      "rounds": [
+        135,
+        135,
+        110
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        135,
+        135,
+        110
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 69118,
+      "name": "ZiwiKiwi.Co",
+      "judging_lane_name": "RED POD 2",
+      "highest": 135,
+      "highest_display": 135,
+      "rounds": [
+        40,
+        135,
+        125
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        135,
+        125,
+        40
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 60702,
+      "name": "Robochickens",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 135,
+      "highest_display": 135,
+      "rounds": [
+        85,
+        90,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        135,
+        90,
+        85
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 67290,
+      "name": "VXL",
+      "judging_lane_name": "RED POD 2",
+      "highest": 120,
+      "highest_display": 120,
+      "rounds": [
+        110,
+        95,
+        120
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "N/A",
+        "N/A",
+        "N/A"
+      ],
+      "rounds_sorted": [
+        120,
+        110,
+        95
+      ],
+      "ordinal": "16th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

@@ -1,0 +1,314 @@
+{
+  "id": 267,
+  "name": "2026 NorCal Gold Rush Relics Championship  - 2025/2026 Season",
+  "season": "2025 - UNEARTHED (Challenge)",
+  "program": "FIRST LEGO League: Challenge",
+  "program_abbreviation": "fll_challenge",
+  "description": "Championship event for Sacramento, East Bay, San Francisco, Modesto, and North San Jose qualifiers",
+  "capacity": 30,
+  "total_registered": 30,
+  "level": {
+    "id": 160,
+    "name": "2025 NorCal Gold Rush Relics Championship",
+    "next_level": null,
+    "previous_levels": [
+      {
+        "id": 159,
+        "name": "2025 NorCal Gold Rush Relics District Qualifiers"
+      }
+    ],
+    "registration_opens": "2026-01-31T14:00:00-08:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 8
+  },
+  "event_status": "closed",
+  "event_status_display": "Closed",
+  "status_v2": "complete",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 30,
+  "total_reserved": 0,
+  "start_time": "2026-02-22T07:00:00-08:00",
+  "end_time": "2026-02-22T19:00:00-08:00",
+  "all_details": [
+    {
+      "id": null,
+      "detail_type": "rg_tables",
+      "get_detail_type_display": "Robot Game",
+      "title": "Robot Game Tables",
+      "description": "This event will have <strong>3</strong> pairs of Robot Game tables."
+    },
+    {
+      "id": null,
+      "detail_type": "judging_lanes",
+      "get_detail_type_display": "Judging",
+      "title": "Judging Pods",
+      "description": "This event will have <strong>5</strong> Judging Pods "
+    },
+    {
+      "id": 12,
+      "detail_type": "food",
+      "get_detail_type_display": "Food",
+      "title": "No concession stand",
+      "description": "We don't have sufficient volunteers to run a concession stand.  Please plan to bring food/snacks/beverages for the team"
+    }
+  ],
+  "downloads": [],
+  "web_links": [
+    {
+      "id": 40,
+      "name": "Award Slides",
+      "description": "corrected 1st/2nd Robot Performance - wrong in original  (corrected at event)",
+      "category": "event_downloads",
+      "get_category_display": "Event Downloads",
+      "url": "https://mylumi.playingatlearning.org/links/web/40/",
+      "count": 630
+    },
+    {
+      "id": 34,
+      "name": "Championship Jotform",
+      "description": "",
+      "category": "event_downloads",
+      "get_category_display": "Event Downloads",
+      "url": "https://mylumi.playingatlearning.org/links/web/34/",
+      "count": 2351
+    },
+    {
+      "id": 41,
+      "name": "Award Script",
+      "description": "corrected 1st/2nd Robot Performance - wrong in original  (corrected at event)",
+      "category": "event_downloads",
+      "get_category_display": "Event Downloads",
+      "url": "https://mylumi.playingatlearning.org/links/web/41/",
+      "count": 581
+    },
+    {
+      "id": 37,
+      "name": "Championship Website",
+      "description": "Campus Map, What to Expect, How to Volunteer, more",
+      "category": "event_downloads",
+      "get_category_display": "Event Downloads",
+      "url": "https://mylumi.playingatlearning.org/links/web/37/",
+      "count": 1526
+    }
+  ],
+  "agenda_group": 112,
+  "agenda_items": [],
+  "public_agenda_items": [
+    {
+      "id": 3618,
+      "title": "Doors open",
+      "description": "",
+      "start_time": "07:00:00",
+      "end_time": "19:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3619,
+      "title": "Lead Coach - Check-in Team & Team Setup Pit Area",
+      "description": "Must show a copy of the current FIRST Team Roster for check-in; Person checking in the team must be an adult listed on the roster (with a completed online consent and release waiver).   After checking in the team,  this adult will help the team get their pit area all setup",
+      "start_time": "07:30:00",
+      "end_time": "08:00:00",
+      "location": "Lobby",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3620,
+      "title": "Coaches Meeting",
+      "description": "LOCATION CHANGE:   Coaches Meeting will be in the SMALL GYM.     \nOne Adult from each team will meet with the Tournament Director, Judge Advisor and Head Referee.  The Judge Advisor will cover any Judging questions.The Head Referee will answer Robot Game questions.  The Tournament Director go through any site specific announcement or reminders.  Typically this is one of the Lead Coaches but is not the same person as checking in the team.  It does not have to be someone listed on the team's official roster!",
+      "start_time": "07:30:00",
+      "end_time": "08:00:00",
+      "location": "Small Gym",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3621,
+      "title": "Opening Ceremony",
+      "description": "All attend",
+      "start_time": "08:00:00",
+      "end_time": "08:45:00",
+      "location": "Main Gym",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3622,
+      "title": "Team Judging & Robot Game Activities",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "17:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3623,
+      "title": "Scored Robot Game Matches - Round 1",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "10:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3624,
+      "title": "Team Medals & Team Picture",
+      "description": "As your team schedule permits, collect team Championship Medals and snap a team photo",
+      "start_time": "09:30:00",
+      "end_time": "16:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3625,
+      "title": "Morning Judging Blocks",
+      "description": "Only team members to go to Judging  - not open to the public",
+      "start_time": "10:00:00",
+      "end_time": "12:15:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3626,
+      "title": "Scored Robot Game Matches - Round 2",
+      "description": "",
+      "start_time": "11:00:00",
+      "end_time": "13:15:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3627,
+      "title": "Lunch Break",
+      "description": "",
+      "start_time": "12:15:00",
+      "end_time": "13:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3628,
+      "title": "Afternoon Judging Blocks ",
+      "description": "Only team members to go to Judging  - not open to the public",
+      "start_time": "13:10:00",
+      "end_time": "15:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3629,
+      "title": "Scored Robot Game Matches - Round 3",
+      "description": "",
+      "start_time": "13:10:00",
+      "end_time": "15:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3630,
+      "title": "Scored Robot Game Matches - Round 4",
+      "description": "",
+      "start_time": "15:45:00",
+      "end_time": "17:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3631,
+      "title": "Cleanup / Packout Pit Area",
+      "description": "Teams should pick up belongings and clean up their pit area.",
+      "start_time": "17:00:00",
+      "end_time": "17:45:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 3632,
+      "title": "Closing & Award Ceremonies",
+      "description": "Please do your best to make room in the seating area.",
+      "start_time": "18:00:00",
+      "end_time": "18:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    }
+  ],
+  "venue": {
+    "name": "Kimball High School",
+    "city": "Tracy",
+    "state": "CA",
+    "zip_code": "95377",
+    "website": "https://kimballhigh.tracy.k12.ca.us/"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/267/",
+  "website_uri": "/en/event/267/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/267/#volunteer",
+  "team_stats": {
+    "teams": 30,
+    "students": 91,
+    "cities": [
+      "hillsborough",
+      "piedmont",
+      "mountain house",
+      "fremont",
+      "pleasanton",
+      "san jose",
+      "rocklin",
+      "folsom",
+      "dublin",
+      "tracy",
+      "danville",
+      "san francisco",
+      "palo alto",
+      "union city",
+      "cupertino",
+      "san ramon",
+      "fremount"
+    ],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 8,
+    "info": {
+      "name": "UNEARTHED (Challenge)",
+      "year": 2025,
+      "release": "2025-08-01T09:00:00-07:00",
+      "program": {
+        "id": 1,
+        "abbreviation": "fll_challenge",
+        "previous_program": 2,
+        "get_abbreviation_display": "FIRST LEGO League: Challenge",
+        "get_logo_path": "images/program_logos/fll_challenge_logo.png",
+        "enable_team_profile": true
+      },
+      "season_begins": "2025-05-18",
+      "get_logo_path": "images/season_logos/2025_fll_challenge.png"
+    },
+    "tableau_import_start": null,
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/252588514598978?fllteam=%team_number%",
+    "has_team_profile": false
+  },
+  "role_template": null,
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": false,
+  "is_complete": true
+}

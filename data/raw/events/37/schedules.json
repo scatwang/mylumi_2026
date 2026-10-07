@@ -1,0 +1,239 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [
+      "Reviewing"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 21406,
+        "name": "Future Builders",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-04-28 13:30:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 24384,
+        "name": "Emerging Einstein1",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-04-28 13:30:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 26476,
+        "name": "crystalcookies",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-04-28 13:30:00-07:00",
+            "room_name": "Green",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 26753,
+        "name": "Master Crafty Lego Builders",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-04-28 14:00:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28352,
+        "name": "Lego_Knights",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-04-28 14:00:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28740,
+        "name": "DragonWarriors",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-04-28 14:00:00-07:00",
+            "room_name": "Green",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28758,
+        "name": "Adventure",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-04-28 14:30:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28767,
+        "name": "Sunshine Daisies Butter Mellow",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-04-28 14:30:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28771,
+        "name": "WizardWarriors",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-04-28 14:30:00-07:00",
+            "room_name": "Green",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 28931,
+        "name": "Wonderbots",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-04-28 15:00:00-07:00",
+            "room_name": "Red",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29038,
+        "name": "Team MARS",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-04-28 15:00:00-07:00",
+            "room_name": "Yellow",
+            "length": 10
+          }
+        ]
+      },
+      {
+        "number": 29513,
+        "name": "Legolanders",
+        "matches": [],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-04-28 15:00:00-07:00",
+            "room_name": "Green",
+            "length": 10
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Reviewing",
+        "table_header_class": "green-600",
+        "rooms": [
+          {
+            "name": "Red"
+          },
+          {
+            "name": "Yellow"
+          },
+          {
+            "name": "Green"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-04-28 13:30:00-07:00",
+            "length": 10,
+            "rooms": [
+              "21406",
+              "24384",
+              "26476"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-04-28 14:00:00-07:00",
+            "length": 10,
+            "rooms": [
+              "26753",
+              "28352",
+              "28740"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-04-28 14:30:00-07:00",
+            "length": 10,
+            "rooms": [
+              "28758",
+              "28767",
+              "28771"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-04-28 15:00:00-07:00",
+            "length": 10,
+            "rooms": [
+              "28931",
+              "29038",
+              "29513"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-04-25 18:52:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

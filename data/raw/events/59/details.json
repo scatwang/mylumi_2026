@@ -1,0 +1,126 @@
+{
+  "id": 59,
+  "name": "2024 NorCal FLL-C:  San Jose QT at Leland  HS",
+  "season": "2024 - SUBMERGED (Challenge)",
+  "program": "FIRST LEGO League: Challenge",
+  "program_abbreviation": "fll_challenge",
+  "description": "Thanks to FRC- 604 Quixillver for organizing",
+  "capacity": 24,
+  "total_registered": 24,
+  "level": {
+    "id": 12,
+    "name": "NorCal FLL-C Qualifiers 2024",
+    "next_level": null,
+    "previous_levels": [],
+    "registration_opens": "2024-10-09T19:00:00-07:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 5
+  },
+  "event_status": "closed",
+  "event_status_display": "Closed",
+  "status_v2": "complete",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 24,
+  "total_reserved": 0,
+  "start_time": "2024-11-15T08:00:00-08:00",
+  "end_time": "2024-11-15T18:00:00-08:00",
+  "all_details": [
+    {
+      "id": null,
+      "detail_type": "rg_tables",
+      "get_detail_type_display": "Robot Game",
+      "title": "Robot Game Tables",
+      "description": "This event will have <strong>TBD</strong> pairs of Robot Game tables."
+    },
+    {
+      "id": null,
+      "detail_type": "judging_lanes",
+      "get_detail_type_display": "Judging",
+      "title": "Judging Pods",
+      "description": "This event will have <strong>TBD</strong> Judging Pods "
+    }
+  ],
+  "downloads": [
+    {
+      "id": 993,
+      "name": "Leland HS Map for FLL",
+      "description": "",
+      "category": "event_downloads",
+      "get_category_display": "Event Downloads",
+      "url": "https://mylumi.playingatlearning.org/links/file/993/",
+      "count": 1982
+    },
+    {
+      "id": 994,
+      "name": "Food- Water-Snacks Not Provided",
+      "description": "List o local restaurants if you need to get food.",
+      "category": "event_downloads",
+      "get_category_display": "Event Downloads",
+      "url": "https://mylumi.playingatlearning.org/links/file/994/",
+      "count": 1857
+    }
+  ],
+  "web_links": [],
+  "agenda_group": null,
+  "agenda_items": [],
+  "public_agenda_items": [],
+  "venue": {
+    "name": "Leland High School",
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95120",
+    "website": "https://leland.sjusd.org/"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/59/",
+  "website_uri": "/en/event/59/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/59/#volunteer",
+  "team_stats": {
+    "teams": 24,
+    "students": 75,
+    "cities": [
+      "santa clara",
+      "folsom",
+      "fremont",
+      "san jose",
+      "pleasanton",
+      "cupertino",
+      "alamo",
+      "dublin",
+      "saratoga",
+      "san ramon"
+    ],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 5,
+    "info": {
+      "name": "SUBMERGED (Challenge)",
+      "year": 2024,
+      "release": "2024-08-01T09:00:00-07:00",
+      "program": {
+        "id": 1,
+        "abbreviation": "fll_challenge",
+        "previous_program": 2,
+        "get_abbreviation_display": "FIRST LEGO League: Challenge",
+        "get_logo_path": "images/program_logos/fll_challenge_logo.png",
+        "enable_team_profile": true
+      },
+      "season_begins": "2024-05-18",
+      "get_logo_path": "images/season_logos/2024_fll_challenge.png"
+    },
+    "tableau_import_start": null,
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/242547818475973?fllteam=%team_number%",
+    "has_team_profile": false
+  },
+  "role_template": null,
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": false,
+  "is_complete": true
+}

@@ -1,0 +1,125 @@
+{
+  "count": 10,
+  "results": [
+    {
+      "id": 1130,
+      "team": {
+        "id": 1406,
+        "number": 19689,
+        "name": "RoboKids",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1097,
+      "team": {
+        "id": 1033,
+        "number": 23670,
+        "name": "TinyBots",
+        "city": "Rancho Cordova",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1125,
+      "team": {
+        "id": 791,
+        "number": 26179,
+        "name": "Power Ninja Builders",
+        "city": "El Dorado Hills",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1159,
+      "team": {
+        "id": 823,
+        "number": 29121,
+        "name": "The Mighty Builders@TJ",
+        "city": "Folsom",
+        "org_name": "Theodore Judah Elem School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1056,
+      "team": {
+        "id": 1036,
+        "number": 31153,
+        "name": "BEC Rapid Leaners",
+        "city": "Sacramento",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1131,
+      "team": {
+        "id": 1409,
+        "number": 31468,
+        "name": "The Lego Cougars",
+        "city": "GOLD RIVER",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1128,
+      "team": {
+        "id": 1069,
+        "number": 31607,
+        "name": "Lego Divers",
+        "city": "El Dorado Hills",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1118,
+      "team": {
+        "id": 1021,
+        "number": 31726,
+        "name": "Team Megalodon",
+        "city": "El Dorado Hills",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1135,
+      "team": {
+        "id": 1084,
+        "number": 32505,
+        "name": "Marine M@sters ",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1177,
+      "team": {
+        "id": 1407,
+        "number": 32743,
+        "name": "Team Samurai",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

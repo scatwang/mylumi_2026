@@ -1,0 +1,53 @@
+{
+  "count": 4,
+  "results": [
+    {
+      "id": 1502,
+      "team": {
+        "id": 1363,
+        "number": 30760,
+        "name": "Cosmic coders",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1501,
+      "team": {
+        "id": 1053,
+        "number": 31011,
+        "name": "Robo Rangers",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1503,
+      "team": {
+        "id": 1408,
+        "number": 31145,
+        "name": "Santa Clara Hawks",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1487,
+      "team": {
+        "id": 1059,
+        "number": 31960,
+        "name": "Electric Eels",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

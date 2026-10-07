@@ -1,0 +1,1315 @@
+{
+  "total_teams": 519,
+  "total_unique_cities": 70,
+  "total_unique_orgs": 106,
+  "program_stats": [
+    {
+      "program": "FIRST LEGO League: Challenge",
+      "count": 349,
+      "pct": 67.24
+    },
+    {
+      "program": "FIRST LEGO League: Explore",
+      "count": 117,
+      "pct": 22.54
+    },
+    {
+      "program": "FIRST LEGO League: Future Edition 3-5",
+      "count": 25,
+      "pct": 4.82
+    },
+    {
+      "program": "FIRST LEGO League: Future Edition 6-8",
+      "count": 25,
+      "pct": 4.82
+    },
+    {
+      "program": "FIRST LEGO League: Future Edition K-2",
+      "count": 3,
+      "pct": 0.58
+    }
+  ],
+  "status_stats": [
+    {
+      "status": "good",
+      "count": 178,
+      "pct": 34.3
+    },
+    {
+      "status": "waiting_invites",
+      "count": 176,
+      "pct": 33.91
+    },
+    {
+      "status": "pending_fingerprinting",
+      "count": 89,
+      "pct": 17.15
+    },
+    {
+      "status": "waiting_members",
+      "count": 30,
+      "pct": 5.78
+    },
+    {
+      "status": "pending_national_screening",
+      "count": 27,
+      "pct": 5.2
+    },
+    {
+      "status": "waiting_jotform",
+      "count": 16,
+      "pct": 3.08
+    },
+    {
+      "status": "roster_overload",
+      "count": 3,
+      "pct": 0.58
+    }
+  ],
+  "compliance_stats": {
+    "screening": {
+      "good_count": 313,
+      "good_pct": 60.31,
+      "fail_count": 206,
+      "fail_pct": 39.69,
+      "other_count": 0
+    },
+    "fingerprinting": {
+      "good_count": 269,
+      "good_pct": 51.83,
+      "fail_count": 250,
+      "fail_pct": 48.17,
+      "other_count": 0
+    },
+    "coaches": {
+      "good_count": 417,
+      "good_pct": 80.35,
+      "fail_count": 102,
+      "fail_pct": 19.65,
+      "other_count": 0
+    },
+    "roster_status": {
+      "good_count": 243,
+      "good_pct": 46.82,
+      "fail_count": 276,
+      "fail_pct": 53.18,
+      "other_count": 0
+    },
+    "agreements": {
+      "good_count": 324,
+      "good_pct": 62.43,
+      "fail_count": 195,
+      "fail_pct": 37.57,
+      "other_count": 0
+    }
+  },
+  "top_cities": [
+    {
+      "city": "Oakland",
+      "count": 83,
+      "pct": 15.99
+    },
+    {
+      "city": "Piedmont",
+      "count": 70,
+      "pct": 13.49
+    },
+    {
+      "city": "San Jose",
+      "count": 53,
+      "pct": 10.21
+    },
+    {
+      "city": "Fremont",
+      "count": 41,
+      "pct": 7.9
+    },
+    {
+      "city": "Santa Clara",
+      "count": 26,
+      "pct": 5.01
+    },
+    {
+      "city": "San Francisco",
+      "count": 23,
+      "pct": 4.43
+    },
+    {
+      "city": "Mountain View",
+      "count": 21,
+      "pct": 4.05
+    },
+    {
+      "city": "Sunnyvale",
+      "count": 16,
+      "pct": 3.08
+    },
+    {
+      "city": "Dublin",
+      "count": 16,
+      "pct": 3.08
+    },
+    {
+      "city": "Saratoga",
+      "count": 15,
+      "pct": 2.89
+    },
+    {
+      "city": "Cupertino",
+      "count": 14,
+      "pct": 2.7
+    },
+    {
+      "city": "Folsom",
+      "count": 11,
+      "pct": 2.12
+    },
+    {
+      "city": "Pleasanton",
+      "count": 10,
+      "pct": 1.93
+    },
+    {
+      "city": "Los Altos",
+      "count": 7,
+      "pct": 1.35
+    },
+    {
+      "city": "San Ramon",
+      "count": 7,
+      "pct": 1.35
+    },
+    {
+      "city": "Mountain House",
+      "count": 6,
+      "pct": 1.16
+    },
+    {
+      "city": "Sacramento",
+      "count": 5,
+      "pct": 0.96
+    },
+    {
+      "city": "El Dorado Hills",
+      "count": 5,
+      "pct": 0.96
+    },
+    {
+      "city": "Milpitas",
+      "count": 5,
+      "pct": 0.96
+    },
+    {
+      "city": "Palo Alto",
+      "count": 5,
+      "pct": 0.96
+    }
+  ],
+  "region_summary": [
+    {
+      "region": "东湾 (East Bay)",
+      "count": 258,
+      "pct": 49.71
+    },
+    {
+      "region": "南湾 / 硅谷 (South Bay)",
+      "count": 174,
+      "pct": 33.53
+    },
+    {
+      "region": "半岛与旧金山 (Peninsula & SF)",
+      "count": 47,
+      "pct": 9.06
+    },
+    {
+      "region": "首府圈与中谷 (Sacramento & Valley)",
+      "count": 39,
+      "pct": 7.51
+    },
+    {
+      "region": "北湾 (North Bay)",
+      "count": 1,
+      "pct": 0.19
+    }
+  ],
+  "challenge_region_summary": [
+    {
+      "region": "南湾 / 硅谷 (South Bay)",
+      "count": 143,
+      "pct": 40.97
+    },
+    {
+      "region": "东湾 (East Bay)",
+      "count": 136,
+      "pct": 38.97
+    },
+    {
+      "region": "半岛与旧金山 (Peninsula & SF)",
+      "count": 39,
+      "pct": 11.17
+    },
+    {
+      "region": "首府圈与中谷 (Sacramento & Valley)",
+      "count": 30,
+      "pct": 8.6
+    },
+    {
+      "region": "北湾 (North Bay)",
+      "count": 1,
+      "pct": 0.29
+    }
+  ],
+  "top_orgs": [
+    {
+      "org_name": "Family/Community",
+      "count": 202,
+      "pct": 38.92
+    },
+    {
+      "org_name": "Piedmont Makers",
+      "count": 136,
+      "pct": 26.2
+    },
+    {
+      "org_name": "Cabrillo Middle School",
+      "count": 12,
+      "pct": 2.31
+    },
+    {
+      "org_name": "Town School for Boys",
+      "count": 8,
+      "pct": 1.54
+    },
+    {
+      "org_name": "Argonaut Elementary",
+      "count": 8,
+      "pct": 1.54
+    },
+    {
+      "org_name": "Home School",
+      "count": 7,
+      "pct": 1.35
+    },
+    {
+      "org_name": "Tom Matsumoto Elementary",
+      "count": 6,
+      "pct": 1.16
+    },
+    {
+      "org_name": "San Francisco Day School",
+      "count": 5,
+      "pct": 0.96
+    },
+    {
+      "org_name": "Nueva School",
+      "count": 4,
+      "pct": 0.77
+    },
+    {
+      "org_name": "Piedmont makers",
+      "count": 4,
+      "pct": 0.77
+    },
+    {
+      "org_name": "Foothill Elementary",
+      "count": 4,
+      "pct": 0.77
+    },
+    {
+      "org_name": "Ohlone Elementary",
+      "count": 3,
+      "pct": 0.58
+    },
+    {
+      "org_name": "Don Callejon",
+      "count": 3,
+      "pct": 0.58
+    },
+    {
+      "org_name": "Holy Family School",
+      "count": 3,
+      "pct": 0.58
+    },
+    {
+      "org_name": "Crittenden Middle School",
+      "count": 2,
+      "pct": 0.39
+    },
+    {
+      "org_name": "Sacramento Country Day School",
+      "count": 2,
+      "pct": 0.39
+    },
+    {
+      "org_name": "St. Gabriel School",
+      "count": 2,
+      "pct": 0.39
+    },
+    {
+      "org_name": "Code Ninjas",
+      "count": 2,
+      "pct": 0.39
+    },
+    {
+      "org_name": "Mckinley Elementary",
+      "count": 2,
+      "pct": 0.39
+    },
+    {
+      "org_name": "Athenian School",
+      "count": 2,
+      "pct": 0.39
+    }
+  ],
+  "org_category_stats": [
+    {
+      "category": "Family/Community",
+      "count": 210,
+      "pct": 40.46
+    },
+    {
+      "category": "Piedmont Makers",
+      "count": 146,
+      "pct": 28.13
+    },
+    {
+      "category": "School / Academic Institution",
+      "count": 138,
+      "pct": 26.59
+    },
+    {
+      "category": "Other / Private Org",
+      "count": 25,
+      "pct": 4.82
+    }
+  ],
+  "coaches_stats": [
+    {
+      "coaches_count": 0,
+      "teams": 20,
+      "pct": 3.85
+    },
+    {
+      "coaches_count": 1,
+      "teams": 69,
+      "pct": 13.29
+    },
+    {
+      "coaches_count": 2,
+      "teams": 421,
+      "pct": 81.12
+    },
+    {
+      "coaches_count": 3,
+      "teams": 9,
+      "pct": 1.73
+    }
+  ],
+  "number_stats": {
+    "min": 445,
+    "max": 600743,
+    "median": 67749,
+    "mean": 93252.4
+  },
+  "number_buckets": [
+    {
+      "range_label": "< 10,000 (Veteran/Early Teams)",
+      "count": 17,
+      "pct": 3.28
+    },
+    {
+      "range_label": "10,000 - 29,999 (Established Teams)",
+      "count": 59,
+      "pct": 11.37
+    },
+    {
+      "range_label": "30,000 - 49,999 (Mid-Era Teams)",
+      "count": 98,
+      "pct": 18.88
+    },
+    {
+      "range_label": "50,000 - 64,999 (Recent Teams 2021-2023)",
+      "count": 48,
+      "pct": 9.25
+    },
+    {
+      "range_label": "65,000 - 74,999 (New Teams 2024-2025)",
+      "count": 138,
+      "pct": 26.59
+    },
+    {
+      "range_label": ">= 75,000 (Brand New Teams 2025-2026)",
+      "count": 159,
+      "pct": 30.64
+    }
+  ],
+  "prog_status_breakdown": {
+    "FIRST LEGO League: Challenge": {
+      "total": 349,
+      "ready_good": 165,
+      "ready_good_pct": 47.28,
+      "status_details": {
+        "pending_national_screening": 20,
+        "waiting_invites": 77,
+        "good": 165,
+        "waiting_jotform": 13,
+        "waiting_members": 21,
+        "pending_fingerprinting": 50,
+        "roster_overload": 3
+      }
+    },
+    "FIRST LEGO League: Explore": {
+      "total": 117,
+      "ready_good": 2,
+      "ready_good_pct": 1.71,
+      "status_details": {
+        "waiting_invites": 81,
+        "pending_fingerprinting": 25,
+        "waiting_members": 4,
+        "pending_national_screening": 5,
+        "good": 2
+      }
+    },
+    "FIRST LEGO League: Future Edition K-2": {
+      "total": 3,
+      "ready_good": 0,
+      "ready_good_pct": 0.0,
+      "status_details": {
+        "waiting_invites": 2,
+        "pending_fingerprinting": 1
+      }
+    },
+    "FIRST LEGO League: Future Edition 3-5": {
+      "total": 25,
+      "ready_good": 3,
+      "ready_good_pct": 12.0,
+      "status_details": {
+        "pending_national_screening": 2,
+        "pending_fingerprinting": 5,
+        "waiting_invites": 11,
+        "good": 3,
+        "waiting_members": 3,
+        "waiting_jotform": 1
+      }
+    },
+    "FIRST LEGO League: Future Edition 6-8": {
+      "total": 25,
+      "ready_good": 8,
+      "ready_good_pct": 32.0,
+      "status_details": {
+        "waiting_invites": 5,
+        "good": 8,
+        "pending_fingerprinting": 8,
+        "waiting_members": 2,
+        "waiting_jotform": 2
+      }
+    }
+  },
+  "org_status_breakdown": {
+    "School / Academic Institution": {
+      "total": 138,
+      "ready_good": 67,
+      "ready_good_pct": 48.55,
+      "status_details": {
+        "pending_national_screening": 9,
+        "waiting_invites": 23,
+        "good": 67,
+        "waiting_members": 14,
+        "pending_fingerprinting": 19,
+        "roster_overload": 1,
+        "waiting_jotform": 5
+      }
+    },
+    "Other / Private Org": {
+      "total": 25,
+      "ready_good": 7,
+      "ready_good_pct": 28.0,
+      "status_details": {
+        "waiting_invites": 7,
+        "waiting_members": 5,
+        "pending_national_screening": 1,
+        "waiting_jotform": 1,
+        "pending_fingerprinting": 4,
+        "good": 7
+      }
+    },
+    "Family/Community": {
+      "total": 210,
+      "ready_good": 102,
+      "ready_good_pct": 48.57,
+      "status_details": {
+        "waiting_jotform": 10,
+        "waiting_members": 10,
+        "waiting_invites": 34,
+        "pending_fingerprinting": 36,
+        "good": 102,
+        "pending_national_screening": 16,
+        "roster_overload": 2
+      }
+    },
+    "Piedmont Makers": {
+      "total": 146,
+      "ready_good": 2,
+      "ready_good_pct": 1.37,
+      "status_details": {
+        "waiting_invites": 112,
+        "pending_fingerprinting": 30,
+        "waiting_members": 1,
+        "pending_national_screening": 1,
+        "good": 2
+      }
+    }
+  },
+  "registered_events_teams": 0,
+  "advancements_breakdown": {
+    "none": 519
+  },
+  "history_summary": {
+    "teams_with_history_count": 227,
+    "teams_with_history_pct": 43.74,
+    "teams_with_scores_count": 204,
+    "teams_with_scores_pct": 39.31,
+    "teams_with_awards_count": 86,
+    "teams_with_awards_pct": 16.57,
+    "teams_with_advancements_count": 70,
+    "teams_with_championship_count": 73,
+    "experience_tier_stats": [
+      {
+        "tier": "Rookie (新队伍)",
+        "count": 292,
+        "pct": 56.26
+      },
+      {
+        "tier": "Veteran (老牌强队)",
+        "count": 145,
+        "pct": 27.94
+      },
+      {
+        "tier": "Experienced (有参赛经验)",
+        "count": 82,
+        "pct": 15.8
+      }
+    ],
+    "score_tier_stats": [
+      {
+        "tier": "暂无得分记录",
+        "count": 315,
+        "pct": 60.69
+      },
+      {
+        "tier": "<300 (入门发展)",
+        "count": 129,
+        "pct": 24.86
+      },
+      {
+        "tier": "300-399 (中坚晋级)",
+        "count": 56,
+        "pct": 10.79
+      },
+      {
+        "tier": "400-499 (一档强队)",
+        "count": 15,
+        "pct": 2.89
+      },
+      {
+        "tier": "500+ (争冠顶尖)",
+        "count": 4,
+        "pct": 0.77
+      }
+    ],
+    "top_scoring_teams": [
+      {
+        "number": 64638,
+        "name": "Brain Bots",
+        "city": "San Jose",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 540.0,
+        "avg_score": 480.0,
+        "best_ranking": 1,
+        "awards_count": 11,
+        "advancements_count": 2,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 5
+      },
+      {
+        "number": 60085,
+        "name": "Lego Artisans",
+        "city": "Cupertino",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 515.0,
+        "avg_score": 420.0,
+        "best_ranking": 1,
+        "awards_count": 6,
+        "advancements_count": 2,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 5
+      },
+      {
+        "number": 60868,
+        "name": "iBots",
+        "city": "San Jose",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 515.0,
+        "avg_score": 379.0,
+        "best_ranking": 1,
+        "awards_count": 14,
+        "advancements_count": 3,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 6
+      },
+      {
+        "number": 17494,
+        "name": "17494",
+        "city": "Santa Clara",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 505.0,
+        "avg_score": 395.0,
+        "best_ranking": 1,
+        "awards_count": 1,
+        "advancements_count": 0,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 3
+      },
+      {
+        "number": 65258,
+        "name": "CrypticButterflies",
+        "city": "San Jose",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 485.0,
+        "avg_score": 417.5,
+        "best_ranking": 1,
+        "awards_count": 2,
+        "advancements_count": 1,
+        "seasons": [
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 4
+      },
+      {
+        "number": 71606,
+        "name": "Lego Legends",
+        "city": "Fremont",
+        "region": "东湾 (East Bay)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 480.0,
+        "avg_score": 450.0,
+        "best_ranking": 2,
+        "awards_count": 0,
+        "advancements_count": 1,
+        "seasons": [
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 2
+      },
+      {
+        "number": 72905,
+        "name": "Argo Cosmos",
+        "city": "Saratoga",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 470.0,
+        "avg_score": 435.0,
+        "best_ranking": 3,
+        "awards_count": 1,
+        "advancements_count": 1,
+        "seasons": [
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 2
+      },
+      {
+        "number": 52561,
+        "name": "Brilliant Beavers",
+        "city": "San Carlos",
+        "region": "半岛与旧金山 (Peninsula & SF)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 465.0,
+        "avg_score": 295.0,
+        "best_ranking": 1,
+        "awards_count": 1,
+        "advancements_count": 1,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 3
+      },
+      {
+        "number": 68040,
+        "name": "MH Quantum",
+        "city": "Mountain House",
+        "region": "首府圈与中谷 (Sacramento & Valley)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 465.0,
+        "avg_score": 232.5,
+        "best_ranking": 1,
+        "awards_count": 1,
+        "advancements_count": 0,
+        "seasons": [
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 2
+      },
+      {
+        "number": 48793,
+        "name": "Mountain House",
+        "city": "Mountain House",
+        "region": "首府圈与中谷 (Sacramento & Valley)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 455.0,
+        "avg_score": 319.0,
+        "best_ranking": 2,
+        "awards_count": 4,
+        "advancements_count": 3,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 6
+      },
+      {
+        "number": 52363,
+        "name": "TerraBytes",
+        "city": "San Jose",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 450.0,
+        "avg_score": 306.2,
+        "best_ranking": 4,
+        "awards_count": 2,
+        "advancements_count": 1,
+        "seasons": [
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 4
+      },
+      {
+        "number": 71232,
+        "name": "Aura100%",
+        "city": "San Jose",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 440.0,
+        "avg_score": 410.0,
+        "best_ranking": 1,
+        "awards_count": 1,
+        "advancements_count": 1,
+        "seasons": [
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 2
+      },
+      {
+        "number": 71804,
+        "name": "Astrobot",
+        "city": "Mountain House",
+        "region": "首府圈与中谷 (Sacramento & Valley)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 440.0,
+        "avg_score": 440.0,
+        "best_ranking": 1,
+        "awards_count": 0,
+        "advancements_count": 0,
+        "seasons": [
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 1
+      },
+      {
+        "number": 57382,
+        "name": "RoboRise",
+        "city": "Foster City",
+        "region": "半岛与旧金山 (Peninsula & SF)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 435.0,
+        "avg_score": 365.0,
+        "best_ranking": 5,
+        "awards_count": 3,
+        "advancements_count": 2,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 5
+      },
+      {
+        "number": 44532,
+        "name": "FLL-C 44532",
+        "city": "Piedmont",
+        "region": "东湾 (East Bay)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 430.0,
+        "avg_score": 305.0,
+        "best_ranking": 4,
+        "awards_count": 4,
+        "advancements_count": 1,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)"
+        ],
+        "events_count": 3
+      },
+      {
+        "number": 70148,
+        "name": "TerraKnights",
+        "city": "San Jose",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 430.0,
+        "avg_score": 341.7,
+        "best_ranking": 2,
+        "awards_count": 3,
+        "advancements_count": 1,
+        "seasons": [
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 3
+      },
+      {
+        "number": 54977,
+        "name": "Menlo Park Narleaotters",
+        "city": "Menlo Park",
+        "region": "半岛与旧金山 (Peninsula & SF)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 425.0,
+        "avg_score": 363.0,
+        "best_ranking": 2,
+        "awards_count": 6,
+        "advancements_count": 3,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 6
+      },
+      {
+        "number": 66820,
+        "name": "W Robotics",
+        "city": "Cupertino",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 410.0,
+        "avg_score": 360.0,
+        "best_ranking": 1,
+        "awards_count": 3,
+        "advancements_count": 1,
+        "seasons": [
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 3
+      },
+      {
+        "number": 60507,
+        "name": "Team Prime",
+        "city": "Mountain House",
+        "region": "首府圈与中谷 (Sacramento & Valley)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 400.0,
+        "avg_score": 286.2,
+        "best_ranking": 2,
+        "awards_count": 0,
+        "advancements_count": 2,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 5
+      },
+      {
+        "number": 4978,
+        "name": "4978",
+        "city": "Santa Clara",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "program": "FIRST LEGO League: Challenge",
+        "max_score": 390.0,
+        "avg_score": 306.7,
+        "best_ranking": 2,
+        "awards_count": 1,
+        "advancements_count": 2,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "events_count": 4
+      }
+    ],
+    "top_awarded_teams": [
+      {
+        "number": 60868,
+        "name": "iBots",
+        "city": "San Jose",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "awards_count": 14,
+        "max_score": 515.0,
+        "advancements_count": 3,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Core Values Award",
+          "Breakthrough Award",
+          "CT Kids Choice Award:  Favorite Team Costume",
+          "Core Values Award"
+        ]
+      },
+      {
+        "number": 64638,
+        "name": "Brain Bots",
+        "city": "San Jose",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "awards_count": 11,
+        "max_score": 540.0,
+        "advancements_count": 2,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Robot Performance Award",
+          "Innovation Project Award",
+          "Coach/Mentor Award",
+          "CT Kids Choice Award:  Favorite Pit Design"
+        ]
+      },
+      {
+        "number": 54977,
+        "name": "Menlo Park Narleaotters",
+        "city": "Menlo Park",
+        "region": "半岛与旧金山 (Peninsula & SF)",
+        "awards_count": 6,
+        "max_score": 425.0,
+        "advancements_count": 3,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Champion's Award",
+          "Champion's Award",
+          "Champion's Award",
+          "Robot Design Award"
+        ]
+      },
+      {
+        "number": 60085,
+        "name": "Lego Artisans",
+        "city": "Cupertino",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "awards_count": 6,
+        "max_score": 515.0,
+        "advancements_count": 2,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Robot Design Award",
+          "Robot Performance Award",
+          "Robot Performance Award",
+          "Champion's Award"
+        ]
+      },
+      {
+        "number": 4979,
+        "name": "4979",
+        "city": "Santa Clara",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "awards_count": 4,
+        "max_score": 380.0,
+        "advancements_count": 3,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Core Values Award",
+          "Robot Design Award",
+          "Champion's Award",
+          "Innovation Project Award"
+        ]
+      },
+      {
+        "number": 44532,
+        "name": "FLL-C 44532",
+        "city": "Piedmont",
+        "region": "东湾 (East Bay)",
+        "awards_count": 4,
+        "max_score": 430.0,
+        "advancements_count": 1,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)"
+        ],
+        "sample_awards": [
+          "Champion's Award",
+          "Robot Performance Award",
+          "CT Kids Choice Award:  Favorite Robot and/or attachment",
+          "CT Kids Choice Award:  Favorite team chant"
+        ]
+      },
+      {
+        "number": 48793,
+        "name": "Mountain House",
+        "city": "Mountain House",
+        "region": "首府圈与中谷 (Sacramento & Valley)",
+        "awards_count": 4,
+        "max_score": 455.0,
+        "advancements_count": 3,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Champion's Award",
+          "CT Kids Choice Award:  Best team giveaway",
+          "Champion's Award",
+          "Robot Performance Award"
+        ]
+      },
+      {
+        "number": 66292,
+        "name": "CookieBots",
+        "city": "Danville",
+        "region": "东湾 (East Bay)",
+        "awards_count": 4,
+        "max_score": 350.0,
+        "advancements_count": 2,
+        "seasons": [
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Robot Design Award",
+          "Coach/Mentor Award",
+          "Core Values Award",
+          "CT Kids Choice Award:  Best team giveaway"
+        ]
+      },
+      {
+        "number": 68202,
+        "name": "Curious Earthlings",
+        "city": "Fremont",
+        "region": "东湾 (East Bay)",
+        "awards_count": 4,
+        "max_score": 375.0,
+        "advancements_count": 2,
+        "seasons": [
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Robot Design Award",
+          "CT Kids Choice Award:  Favorite team chant",
+          "Champion's Award",
+          "Innovation Project Award"
+        ]
+      },
+      {
+        "number": 445,
+        "name": "Matsuyama RoboPines",
+        "city": "Sacramento",
+        "region": "首府圈与中谷 (Sacramento & Valley)",
+        "awards_count": 3,
+        "max_score": 160.0,
+        "advancements_count": 1,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Core Values Award",
+          "Core Values Award",
+          "Coach/Mentor Award"
+        ]
+      },
+      {
+        "number": 4416,
+        "name": "4416",
+        "city": "Santa Clara",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "awards_count": 3,
+        "max_score": 275.0,
+        "advancements_count": 2,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Core Values Award",
+          "Champion's Award",
+          "Core Values Award"
+        ]
+      },
+      {
+        "number": 7052,
+        "name": "Dynamite Dinosaurs",
+        "city": "San Francisco",
+        "region": "半岛与旧金山 (Peninsula & SF)",
+        "awards_count": 3,
+        "max_score": 345.0,
+        "advancements_count": 1,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Champion's Award",
+          "Robot Performance Award",
+          "Innovation Project Award"
+        ]
+      },
+      {
+        "number": 25572,
+        "name": "25572",
+        "city": "Santa Clara",
+        "region": "南湾 / 硅谷 (South Bay)",
+        "awards_count": 3,
+        "max_score": 320.0,
+        "advancements_count": 2,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Robot Design Award",
+          "Innovation Project Award",
+          "Rising All-Star Award"
+        ]
+      },
+      {
+        "number": 40997,
+        "name": "Denman Robotics",
+        "city": "San Francisco",
+        "region": "半岛与旧金山 (Peninsula & SF)",
+        "awards_count": 3,
+        "max_score": 230.0,
+        "advancements_count": 1,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Innovation Project Award",
+          "CT Kids Choice Award:  Coolest Innovation Project",
+          "Innovation Project Award"
+        ]
+      },
+      {
+        "number": 57382,
+        "name": "RoboRise",
+        "city": "Foster City",
+        "region": "半岛与旧金山 (Peninsula & SF)",
+        "awards_count": 3,
+        "max_score": 435.0,
+        "advancements_count": 2,
+        "seasons": [
+          "2023 - MASTERPIECE (Challenge)",
+          "2024 - SUBMERGED (Challenge)",
+          "2025 - UNEARTHED (Challenge)"
+        ],
+        "sample_awards": [
+          "Rising All-Star Award",
+          "Champion's Award",
+          "Innovation Project Award"
+        ]
+      }
+    ],
+    "readiness_by_exp": {
+      "Veteran (老牌强队)": {
+        "total": 145,
+        "ready_count": 88,
+        "ready_pct": 60.69
+      },
+      "Experienced (有参赛经验)": {
+        "total": 82,
+        "ready_count": 40,
+        "ready_pct": 48.78
+      },
+      "Rookie (新队伍)": {
+        "total": 292,
+        "ready_count": 50,
+        "ready_pct": 17.12
+      }
+    },
+    "regional_history_summary": [
+      {
+        "region": "东湾 (East Bay)",
+        "total_teams": 258,
+        "veterans": 52,
+        "veteran_pct": 20.16,
+        "elite_scorers_400plus": 2
+      },
+      {
+        "region": "南湾 / 硅谷 (South Bay)",
+        "total_teams": 174,
+        "veterans": 52,
+        "veteran_pct": 29.89,
+        "elite_scorers_400plus": 10
+      },
+      {
+        "region": "半岛与旧金山 (Peninsula & SF)",
+        "total_teams": 47,
+        "veterans": 25,
+        "veteran_pct": 53.19,
+        "elite_scorers_400plus": 3
+      },
+      {
+        "region": "首府圈与中谷 (Sacramento & Valley)",
+        "total_teams": 39,
+        "veterans": 15,
+        "veteran_pct": 38.46,
+        "elite_scorers_400plus": 4
+      },
+      {
+        "region": "北湾 (North Bay)",
+        "total_teams": 1,
+        "veterans": 1,
+        "veteran_pct": 100.0,
+        "elite_scorers_400plus": 0
+      }
+    ]
+  }
+}

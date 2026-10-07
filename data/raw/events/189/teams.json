@@ -1,0 +1,293 @@
+{
+  "count": 24,
+  "results": [
+    {
+      "id": 1765,
+      "team": {
+        "id": 1652,
+        "number": 37484,
+        "name": "FLL-C 37484",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1579,
+      "team": {
+        "id": 1668,
+        "number": 48793,
+        "name": "Mountain House",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1727,
+      "team": {
+        "id": 1929,
+        "number": 55739,
+        "name": "Tech_Bears",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1700,
+      "team": {
+        "id": 1684,
+        "number": 57285,
+        "name": "Mighty Minds",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1659,
+      "team": {
+        "id": 1689,
+        "number": 59703,
+        "name": "brick-o-brainiacs pioneers",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1585,
+      "team": {
+        "id": 1702,
+        "number": 60718,
+        "name": "Rockin Robos",
+        "city": "Rocklin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1584,
+      "team": {
+        "id": 1703,
+        "number": 60855,
+        "name": "GearShift",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1749,
+      "team": {
+        "id": 2003,
+        "number": 61139,
+        "name": "Lightning Squad",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1766,
+      "team": {
+        "id": 2012,
+        "number": 62984,
+        "name": "Eagle Bots 2025",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1549,
+      "team": {
+        "id": 1725,
+        "number": 64889,
+        "name": "Sea Monsters Squad",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1778,
+      "team": {
+        "id": 1733,
+        "number": 65273,
+        "name": "LEGOnardo da Vinci",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1602,
+      "team": {
+        "id": 1735,
+        "number": 65287,
+        "name": "RoboWizards7",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1558,
+      "team": {
+        "id": 1751,
+        "number": 65868,
+        "name": "Robotic Sigmas",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1646,
+      "team": {
+        "id": 1774,
+        "number": 66920,
+        "name": "SparkleBots1",
+        "city": "El Dorado Hills",
+        "org_name": "Theodore Judah Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1698,
+      "team": {
+        "id": 1921,
+        "number": 67056,
+        "name": "Wavebots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1728,
+      "team": {
+        "id": 1777,
+        "number": 67074,
+        "name": "Rad_Robos",
+        "city": "Roseville",
+        "org_name": "Rocklin Academy Gateway"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1608,
+      "team": {
+        "id": 1792,
+        "number": 68040,
+        "name": "MH Quantum",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1526,
+      "team": {
+        "id": 1794,
+        "number": 68202,
+        "name": "Curious Earthlings",
+        "city": "Fremont",
+        "org_name": ""
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1703,
+      "team": {
+        "id": 1914,
+        "number": 72060,
+        "name": "Robo Wizards",
+        "city": "Rancho Cordova",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1769,
+      "team": {
+        "id": 2282,
+        "number": 72697,
+        "name": "Vortex Dynamics",
+        "city": "Saratoga",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1754,
+      "team": {
+        "id": 2222,
+        "number": 72907,
+        "name": "Argo Robotics Team 253",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1705,
+      "team": {
+        "id": 2192,
+        "number": 72908,
+        "name": "Argo Robotics Team 254",
+        "city": "Saratoga",
+        "org_name": "Argonaut Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1704,
+      "team": {
+        "id": 2126,
+        "number": 73068,
+        "name": "Tracy Tech Titans",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1776,
+      "team": {
+        "id": 2220,
+        "number": 73717,
+        "name": "Artanators",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

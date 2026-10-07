@@ -1,0 +1,457 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 66820,
+      "name": "Leadways FBI",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 330,
+      "highest_display": 330,
+      "rounds": [
+        325,
+        255,
+        330
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        330,
+        325,
+        255
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 61406,
+      "name": "Quantum Robotics",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 265,
+      "highest_display": 265,
+      "rounds": [
+        165,
+        265,
+        220
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        265,
+        220,
+        165
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 69751,
+      "name": "Bubby Rules the World",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        260,
+        240,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        240,
+        210
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 47622,
+      "name": "The Intellects",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        155,
+        120,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        155,
+        120
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 58665,
+      "name": "Lunatics 2 (Wildcats)",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        215,
+        205,
+        120
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        215,
+        205,
+        120
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 66906,
+      "name": "SuperAqua",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        215,
+        195,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        215,
+        195,
+        185
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 66044,
+      "name": "Red Raptors",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        130,
+        150,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        150,
+        130
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 39742,
+      "name": "The Legos",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        150,
+        120,
+        205
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        150,
+        120
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 69767,
+      "name": "Banned in 49 states",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 190,
+      "highest_display": 190,
+      "rounds": [
+        190,
+        185,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        190,
+        185,
+        170
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 63874,
+      "name": "MasterBuilder3",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        180,
+        135,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        160,
+        135
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 69357,
+      "name": "Foothill Spring League Team (69357)",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        115,
+        105,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        115,
+        105
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 69238,
+      "name": "The Commas",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        160,
+        155,
+        175
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        160,
+        155
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 69015,
+      "name": "Quantum Robotics T2",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        170,
+        160,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        170,
+        160,
+        160
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 63308,
+      "name": "I Want Food",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        70,
+        135,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        135,
+        70
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 58668,
+      "name": "Hyper Technics 2 (Techno Sharks)",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        115,
+        110,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        115,
+        110
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 47621,
+      "name": "Oreo Pandas",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        145,
+        150,
+        95
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        150,
+        145,
+        95
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 67645,
+      "name": "Foothill Spring League Team (67645)",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 120,
+      "highest_display": 120,
+      "rounds": [
+        120,
+        50,
+        50
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        120,
+        50,
+        50
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 20975,
+      "name": "FMS Recreational Spring League Team (20975)",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 95,
+      "highest_display": 95,
+      "rounds": [
+        55,
+        95,
+        75
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Polite and professional always",
+        ""
+      ],
+      "rounds_sorted": [
+        95,
+        75,
+        55
+      ],
+      "ordinal": "18th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

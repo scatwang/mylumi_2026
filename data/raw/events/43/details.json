@@ -1,0 +1,96 @@
+{
+  "id": 43,
+  "name": "2024 NorCal FLL-C:  Second Chance Tournament 2",
+  "season": "2023 - MASTERPIECE (Challenge)",
+  "program": "FIRST LEGO League: Challenge",
+  "program_abbreviation": "fll_challenge",
+  "description": "",
+  "capacity": 15,
+  "total_registered": 0,
+  "level": {
+    "id": 11,
+    "name": "NorCal Second Chance",
+    "next_level": null,
+    "previous_levels": [],
+    "registration_opens": "2024-03-27T18:30:00-07:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 1
+  },
+  "event_status": "canceled",
+  "event_status_display": "Canceled",
+  "status_v2": "canceled",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 0,
+  "total_reserved": 0,
+  "start_time": "2024-04-28T08:00:00-07:00",
+  "end_time": "2024-04-28T17:00:00-07:00",
+  "all_details": [
+    {
+      "id": null,
+      "detail_type": "rg_tables",
+      "get_detail_type_display": "Robot Game",
+      "title": "Robot Game Tables",
+      "description": "This event will have <strong>TBD</strong> pairs of Robot Game tables."
+    },
+    {
+      "id": null,
+      "detail_type": "judging_lanes",
+      "get_detail_type_display": "Judging",
+      "title": "Judging Pods",
+      "description": "This event will have <strong>TBD</strong> Judging Pods "
+    }
+  ],
+  "downloads": [],
+  "web_links": [],
+  "agenda_group": null,
+  "agenda_items": [],
+  "public_agenda_items": [],
+  "venue": {
+    "name": "The Play Space",
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95131",
+    "website": "https://www.theplayspace.org"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/43/",
+  "website_uri": "/en/event/43/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/43/#volunteer",
+  "team_stats": {
+    "teams": 0,
+    "students": 0,
+    "cities": [],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 1,
+    "info": {
+      "name": "MASTERPIECE (Challenge)",
+      "year": 2023,
+      "release": "2023-08-01T09:00:00-07:00",
+      "program": {
+        "id": 1,
+        "abbreviation": "fll_challenge",
+        "previous_program": 2,
+        "get_abbreviation_display": "FIRST LEGO League: Challenge",
+        "get_logo_path": "images/program_logos/fll_challenge_logo.png",
+        "enable_team_profile": true
+      },
+      "season_begins": "2023-05-01",
+      "get_logo_path": "images/season_logos/2023_fll_challenge.png"
+    },
+    "tableau_import_start": null,
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/232376968448978?fllteam=%team_number%",
+    "has_team_profile": false
+  },
+  "role_template": null,
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": false,
+  "is_complete": true
+}

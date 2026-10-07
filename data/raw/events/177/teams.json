@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 1633,
+      "team": {
+        "id": 2109,
+        "number": 2848,
+        "name": "2848",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1511,
+      "team": {
+        "id": 1634,
+        "number": 7434,
+        "name": "The Human Computers",
+        "city": "San Bruno",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1534,
+      "team": {
+        "id": 1643,
+        "number": 20915,
+        "name": "TroBots",
+        "city": "Burlingame",
+        "org_name": "Burlingame Intermediate School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1621,
+      "team": {
+        "id": 1686,
+        "number": 57382,
+        "name": "RoboRise",
+        "city": "Foster City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1828,
+      "team": {
+        "id": 1701,
+        "number": 60702,
+        "name": "Robochickens",
+        "city": "Berkeley",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1643,
+      "team": {
+        "id": 1728,
+        "number": 65020,
+        "name": "The Golden Huskies",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1528,
+      "team": {
+        "id": 1730,
+        "number": 65065,
+        "name": "INNO BOTS",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1833,
+      "team": {
+        "id": 1731,
+        "number": 65072,
+        "name": "Master Builders",
+        "city": "Santa Clara",
+        "org_name": "Stratford School-Santa Clara"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1550,
+      "team": {
+        "id": 1919,
+        "number": 65193,
+        "name": "Worm Hole",
+        "city": "San Mateo",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1541,
+      "team": {
+        "id": 1779,
+        "number": 67092,
+        "name": "Flame Bots",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1546,
+      "team": {
+        "id": 1783,
+        "number": 67232,
+        "name": "Terminators",
+        "city": "Burlingame",
+        "org_name": "Burlingame Intermediate"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1832,
+      "team": {
+        "id": 1791,
+        "number": 67840,
+        "name": "The Submarine SharkBots",
+        "city": "Saratoga",
+        "org_name": "Saratoga Elementary"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1829,
+      "team": {
+        "id": 2274,
+        "number": 69118,
+        "name": "The Eggsplorers",
+        "city": "Berkeley",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1830,
+      "team": {
+        "id": 2275,
+        "number": 69281,
+        "name": "The RoboSnailRabbits",
+        "city": "Berkeley",
+        "org_name": "Tinker Coop, a 501(c)(3) community makerspace"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1831,
+      "team": {
+        "id": 1622,
+        "number": 71606,
+        "name": "Lego Legends",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1525,
+      "team": {
+        "id": 1913,
+        "number": 72055,
+        "name": "Almaden Ninjas",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1556,
+      "team": {
+        "id": 2235,
+        "number": 72670,
+        "name": "SPHINX",
+        "city": "Palo Alto",
+        "org_name": "Imagination Lab School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1524,
+      "team": {
+        "id": 2238,
+        "number": 74114,
+        "name": "LEGONEERS",
+        "city": "Palo Alto",
+        "org_name": "Imagination Lab School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

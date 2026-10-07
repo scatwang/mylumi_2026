@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 1867,
+      "team": {
+        "id": 2091,
+        "number": 7052,
+        "name": "Dynamite Dinosaurs",
+        "city": "San Francisco",
+        "org_name": "St. Gabriel School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1868,
+      "team": {
+        "id": 2092,
+        "number": 7453,
+        "name": "ChronoCrafters",
+        "city": "San Francisco",
+        "org_name": "St. Gabriel School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1656,
+      "team": {
+        "id": 2181,
+        "number": 10589,
+        "name": "Archybots",
+        "city": "Hillsborough",
+        "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1750,
+      "team": {
+        "id": 1694,
+        "number": 60152,
+        "name": "The Game Changers",
+        "city": "Union City",
+        "org_name": "Code Ninjas"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1669,
+      "team": {
+        "id": 1726,
+        "number": 64898,
+        "name": "Circuit Breakers",
+        "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1701,
+      "team": {
+        "id": 1738,
+        "number": 65501,
+        "name": "Artifact Masters",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1651,
+      "team": {
+        "id": 2094,
+        "number": 66163,
+        "name": "Dino Nuggets (Ketchup)",
+        "city": "Walnut Creek",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1641,
+      "team": {
+        "id": 1762,
+        "number": 66292,
+        "name": "CookieBots",
+        "city": "Danville",
+        "org_name": "Girl Scouts"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1759,
+      "team": {
+        "id": 2018,
+        "number": 67107,
+        "name": "Tech Titans",
+        "city": "Los Altos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1756,
+      "team": {
+        "id": 2081,
+        "number": 68231,
+        "name": "Everest",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1586,
+      "team": {
+        "id": 2209,
+        "number": 71343,
+        "name": "GoldenBots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1717,
+      "team": {
+        "id": 2244,
+        "number": 71909,
+        "name": "League of Lego Legends",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

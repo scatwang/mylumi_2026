@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 955,
+      "team": {
+        "id": 890,
+        "number": 5983,
+        "name": "GOATed Griffins (5983)",
+        "city": "Walnut Creek",
+        "org_name": "Foothill Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 635,
+      "team": {
+        "id": 1102,
+        "number": 7052,
+        "name": "OP Octopi",
+        "city": "San Francisco",
+        "org_name": "St. Gabriel School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 853,
+      "team": {
+        "id": 1104,
+        "number": 7453,
+        "name": "Political Penguins",
+        "city": "San Francisco",
+        "org_name": "St. Gabriel School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 952,
+      "team": {
+        "id": 1117,
+        "number": 61685,
+        "name": "Noddin Dynabots",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 760,
+      "team": {
+        "id": 998,
+        "number": 61708,
+        "name": "Squirtle",
+        "city": "Saratoga",
+        "org_name": "Saratoga Elementary School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 887,
+      "team": {
+        "id": 1012,
+        "number": 62140,
+        "name": "Team St.Anne",
+        "city": "San Francisco",
+        "org_name": "St.Anne"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 703,
+      "team": {
+        "id": 1070,
+        "number": 66342,
+        "name": "KiloNuggets",
+        "city": "El Dorado Hills",
+        "org_name": "Family/Community, Lakeview Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 951,
+      "team": {
+        "id": 854,
+        "number": 66715,
+        "name": "Oceanic Champs",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 935,
+      "team": {
+        "id": 1184,
+        "number": 66764,
+        "name": "Celsius and Beyond ",
+        "city": "San Francisco",
+        "org_name": "Celsius and Beyond"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 941,
+      "team": {
+        "id": 1228,
+        "number": 67854,
+        "name": "Superstars",
+        "city": "fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 966,
+      "team": {
+        "id": 1195,
+        "number": 68652,
+        "name": "Cowculators",
+        "city": "San Francisco",
+        "org_name": "West Portal Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 901,
+      "team": {
+        "id": 1207,
+        "number": 68847,
+        "name": "St.Anne Stars",
+        "city": "San Francisco",
+        "org_name": "St Anne Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

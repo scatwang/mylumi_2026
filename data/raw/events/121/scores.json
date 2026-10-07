@@ -1,0 +1,357 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 68726,
+      "name": "Daedalus Bots",
+      "judging_lane_name": "RED POD 2",
+      "highest": 245,
+      "highest_display": 245,
+      "rounds": [
+        245,
+        130,
+        230
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        245,
+        230,
+        130
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 45629,
+      "name": "Dragon Bots",
+      "judging_lane_name": "RED POD 2",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        150,
+        220,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        150,
+        145
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 65892,
+      "name": "Code Queens",
+      "judging_lane_name": "RED POD 2",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        170,
+        210,
+        120
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        170,
+        120
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 66511,
+      "name": "Tech Titans",
+      "judging_lane_name": "RED POD 2",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        155,
+        195,
+        100
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        155,
+        100
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 65072,
+      "name": "Master Builders",
+      "judging_lane_name": "RED POD 2",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        120,
+        150,
+        175
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        150,
+        120
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 65273,
+      "name": "LEGOnardo da Vinci",
+      "judging_lane_name": "RED POD 2",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        170,
+        160,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        170,
+        160,
+        160
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 67727,
+      "name": "Thunderbolts",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        160,
+        165,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        165,
+        165,
+        160
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 60141,
+      "name": "Banayays",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 130,
+      "highest_display": 130,
+      "rounds": [
+        130,
+        125,
+        125
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        130,
+        125,
+        125
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 69571,
+      "name": "Hydro-Electric Sharks",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 130,
+      "highest_display": 130,
+      "rounds": [
+        130,
+        100,
+        120
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        130,
+        120,
+        100
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 59696,
+      "name": "Energizers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 125,
+      "highest_display": 125,
+      "rounds": [
+        75,
+        125,
+        100
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        125,
+        100,
+        75
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 68643,
+      "name": "House of Coders",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 115,
+      "highest_display": 115,
+      "rounds": [
+        105,
+        115,
+        95
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        115,
+        105,
+        95
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 70140,
+      "name": "The Infinity Builders 1",
+      "judging_lane_name": "RED POD 2",
+      "highest": 90,
+      "highest_display": 90,
+      "rounds": [
+        90,
+        75,
+        75
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        90,
+        75,
+        75
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 65019,
+      "name": "The Ravens",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 80,
+      "highest_display": 80,
+      "rounds": [
+        50,
+        65,
+        80
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        80,
+        65,
+        50
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 68174,
+      "name": "Sundrop Robotics - Albany",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 65,
+      "highest_display": 65,
+      "rounds": [
+        65,
+        "",
+        ""
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        65,
+        0,
+        0
+      ],
+      "ordinal": "14th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

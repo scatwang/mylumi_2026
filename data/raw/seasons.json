@@ -1,0 +1,56 @@
+[
+  {
+    "id": 8,
+    "year": 2025,
+    "name": "UNEARTHED (Challenge)",
+    "program_abbreviation": "fll_challenge",
+    "season_logo_path": "images/season_logos/2025_fll_challenge.png",
+    "program_logo_path": "images/program_logos/fll_challenge_logo.png",
+    "event_count": 31
+  },
+  {
+    "id": 41,
+    "year": 2025,
+    "name": "UNEARTHED (Explore)",
+    "program_abbreviation": "fll_explore",
+    "season_logo_path": "images/season_logos/2025_fll_explore.png",
+    "program_logo_path": "images/program_logos/fll_explore_logo.png",
+    "event_count": 8
+  },
+  {
+    "id": 5,
+    "year": 2024,
+    "name": "SUBMERGED (Challenge)",
+    "program_abbreviation": "fll_challenge",
+    "season_logo_path": "images/season_logos/2024_fll_challenge.png",
+    "program_logo_path": "images/program_logos/fll_challenge_logo.png",
+    "event_count": 30
+  },
+  {
+    "id": 4,
+    "year": 2024,
+    "name": "SUBMERGED (Explore)",
+    "program_abbreviation": "fll_explore",
+    "season_logo_path": "images/season_logos/2024_fll_explore.png",
+    "program_logo_path": "images/program_logos/fll_explore_logo.png",
+    "event_count": 15
+  },
+  {
+    "id": 3,
+    "year": 2023,
+    "name": "MASTERPIECE (Explore)",
+    "program_abbreviation": "fll_explore",
+    "season_logo_path": "images/season_logos/2023_fll_explore.png",
+    "program_logo_path": "images/program_logos/fll_explore_logo.png",
+    "event_count": 9
+  },
+  {
+    "id": 1,
+    "year": 2023,
+    "name": "MASTERPIECE (Challenge)",
+    "program_abbreviation": "fll_challenge",
+    "season_logo_path": "images/season_logos/2023_fll_challenge.png",
+    "program_logo_path": "images/program_logos/fll_challenge_logo.png",
+    "event_count": 26
+  }
+]

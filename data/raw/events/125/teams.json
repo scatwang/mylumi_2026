@@ -1,0 +1,101 @@
+{
+  "count": 8,
+  "results": [
+    {
+      "id": 1305,
+      "team": {
+        "id": 1294,
+        "number": 28601,
+        "name": "Lego Mancers",
+        "city": "Saratoga",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1299,
+      "team": {
+        "id": 812,
+        "number": 28804,
+        "name": "Submerged Submarine",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1303,
+      "team": {
+        "id": 1297,
+        "number": 29201,
+        "name": "SparkSteam I",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1302,
+      "team": {
+        "id": 1298,
+        "number": 29660,
+        "name": "SparkSteam II",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1300,
+      "team": {
+        "id": 744,
+        "number": 31094,
+        "name": "Lego Legends",
+        "city": "Santa Clara",
+        "org_name": "Stratford School - Santa Clara Pomeroy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1301,
+      "team": {
+        "id": 1344,
+        "number": 31430,
+        "name": "Coral Warriors",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1306,
+      "team": {
+        "id": 826,
+        "number": 31479,
+        "name": "RoboSparks",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1307,
+      "team": {
+        "id": 759,
+        "number": 31650,
+        "name": "LegoLegends",
+        "city": "folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

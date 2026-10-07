@@ -1,0 +1,169 @@
+{
+  "id": 25,
+  "name": "2023 NorCal FLL-E Festival - San Jose",
+  "season": "2023 - MASTERPIECE (Explore)",
+  "program": "FIRST LEGO League: Explore",
+  "program_abbreviation": "fll_explore",
+  "description": "event at Stratford Prep - held in conjunction with the FTC Qualifier\r\n\r\nLikely will be in Multi-Use Room close to Gym",
+  "capacity": 6,
+  "total_registered": 6,
+  "level": {
+    "id": 8,
+    "name": "FLL Explore Festivals",
+    "next_level": null,
+    "previous_levels": [],
+    "registration_opens": "2023-11-17T17:00:00-08:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 3
+  },
+  "event_status": "closed",
+  "event_status_display": "Closed",
+  "status_v2": "complete",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 6,
+  "total_reserved": 0,
+  "start_time": "2023-12-16T12:30:00-08:00",
+  "end_time": "2023-12-16T17:30:00-08:00",
+  "all_details": [
+    {
+      "id": 3,
+      "detail_type": "other",
+      "get_detail_type_display": "Other",
+      "title": "FLL-E Team Check-in at 12:30pm",
+      "description": "Teams - you are welcome to come early to check out the FIRST Tech Challenge Qualifier happening in the Gym.   Game play will likely start between 10am-11am and continue through most of the afternoon. \n\nFor the FIRST LEGO League Explore Festival, please do not plan to bring your team model/poster into the venue until 12:30pm!"
+    }
+  ],
+  "downloads": [
+    {
+      "id": 237,
+      "name": "Stratford Campus Map",
+      "description": "Edited map to show where the FIRST LEGO League Explore activities will be on campus.",
+      "category": "event_downloads",
+      "get_category_display": "Event Downloads",
+      "url": "https://mylumi.playingatlearning.org/links/file/237/",
+      "count": 27
+    },
+    {
+      "id": 238,
+      "name": "Visual Schedule - Dec 16",
+      "description": "visual view of the overall schedule for the FIRST LEGO League Explore Festival at Stratford",
+      "category": "event_downloads",
+      "get_category_display": "Event Downloads",
+      "url": "https://mylumi.playingatlearning.org/links/file/238/",
+      "count": 21
+    }
+  ],
+  "web_links": [],
+  "agenda_group": 4,
+  "agenda_items": [],
+  "public_agenda_items": [
+    {
+      "id": 1748,
+      "title": "Team Check-in & Pits Open",
+      "description": "",
+      "start_time": "12:15:00",
+      "end_time": "12:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 1749,
+      "title": "Welcome Ceremony",
+      "description": "",
+      "start_time": "12:30:00",
+      "end_time": "12:45:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 1750,
+      "title": "Reviewing Sessions",
+      "description": "",
+      "start_time": "13:00:00",
+      "end_time": "14:15:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 1751,
+      "title": "Pit Cleanup / Tear Down",
+      "description": "Teams should pick up belongings and clean up their pit area.",
+      "start_time": "14:45:00",
+      "end_time": "15:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 1752,
+      "title": "Celebration Ceremony",
+      "description": "",
+      "start_time": "15:15:00",
+      "end_time": "15:45:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    }
+  ],
+  "venue": {
+    "name": "Stratford Prep School",
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95117",
+    "website": "https://www.stratfordschools.com/schools/northern-california/south-bay/san-jose-stratford-prep/"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/25/",
+  "website_uri": "/en/event/25/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/25/#volunteer",
+  "team_stats": {
+    "teams": 6,
+    "students": 18,
+    "cities": [
+      "san jose",
+      "sacramento",
+      "sunnyvale",
+      "san ramon",
+      "santa clara",
+      "fremont"
+    ],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 3,
+    "info": {
+      "name": "MASTERPIECE (Explore)",
+      "year": 2023,
+      "release": "2023-08-01T09:00:00-07:00",
+      "program": {
+        "id": 2,
+        "abbreviation": "fll_explore",
+        "previous_program": 3,
+        "get_abbreviation_display": "FIRST LEGO League: Explore",
+        "get_logo_path": "images/program_logos/fll_explore_logo.png",
+        "enable_team_profile": false
+      },
+      "season_begins": "2023-05-01",
+      "get_logo_path": "images/season_logos/2023_fll_explore.png"
+    },
+    "tableau_import_start": "2023-11-14T09:00:00-08:00",
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/233200869819967",
+    "has_team_profile": false
+  },
+  "role_template": {
+    "id": 4,
+    "name": "2023 FLL-E 6 Team Template"
+  },
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": true,
+  "is_complete": true
+}

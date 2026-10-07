@@ -1,0 +1,1332 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 2847,
+        "name": "Aquavengers",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2024-11-16 10:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2024-11-16 11:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-16 13:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 40,
+            "start_time_display": "2024-11-16 16:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-16 13:45:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 4979,
+        "name": "Aquabots",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-16 09:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-16 12:05:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-16 13:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2024-11-16 14:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-16 10:45:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 8278,
+        "name": "Titanium Turtles",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-16 09:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-16 11:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-16 13:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2024-11-16 15:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-16 10:00:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 8445,
+        "name": "Ultra Mega Technologies",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2024-11-16 10:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-16 11:35:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-16 13:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 37,
+            "start_time_display": "2024-11-16 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-16 14:30:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 53140,
+        "name": "Fin Finders",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2024-11-16 10:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-16 11:25:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-11-16 13:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 38,
+            "start_time_display": "2024-11-16 15:55:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-16 13:45:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 56993,
+        "name": "SuperChargers ",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2024-11-16 10:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-16 11:25:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-16 13:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 40,
+            "start_time_display": "2024-11-16 16:05:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-16 14:30:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60338,
+        "name": "Astrocubs",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2024-11-16 10:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2024-11-16 11:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2024-11-16 13:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 37,
+            "start_time_display": "2024-11-16 15:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-16 13:45:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60642,
+        "name": "Code CrasherZ",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-16 10:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-16 10:55:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-11-16 14:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2024-11-16 15:25:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-16 11:30:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60787,
+        "name": "Shelby",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-16 09:40:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-16 10:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-11-16 14:00:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2024-11-16 15:15:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-16 11:30:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60869,
+        "name": "Techno Troopers",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-16 09:40:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-16 10:55:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2024-11-16 14:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2024-11-16 15:35:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-16 13:00:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65885,
+        "name": "Ocean Plate Explorers",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-16 09:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-11-16 11:55:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-16 13:30:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2024-11-16 14:55:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-16 10:00:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65896,
+        "name": "Votel /Cook - 4th Grade",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-16 09:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-16 12:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-16 13:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2024-11-16 14:55:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-16 10:45:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65897,
+        "name": "Garcia / Lofft - 5th Grade",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-16 10:00:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-16 11:05:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2024-11-16 14:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2024-11-16 15:15:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-16 13:00:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65978,
+        "name": "Notre Dame Robotics - Blue Team",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-16 09:50:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-16 10:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2024-11-16 14:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2024-11-16 15:35:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-16 11:30:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66785,
+        "name": "Orange,Peach",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-16 09:10:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-11-16 11:55:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-16 13:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2024-11-16 15:05:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-16 10:45:00-08:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67117,
+        "name": "Super Divers ",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-16 09:10:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-16 11:45:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-16 13:30:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2024-11-16 14:45:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-16 10:00:00-08:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67352,
+        "name": "BlockBuster18",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2024-11-16 10:20:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-16 11:35:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-16 13:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 38,
+            "start_time_display": "2024-11-16 15:55:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-16 14:30:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68452,
+        "name": "Argo Bears",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-16 09:50:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-16 11:05:00-08:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2024-11-16 14:20:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2024-11-16 15:25:00-08:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-16 13:00:00-08:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "Yellow Pod 1"
+          },
+          {
+            "name": "Red Pod 2"
+          },
+          {
+            "name": "Green Pod 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-11-16 10:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "67117",
+              "65885",
+              "8278"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-11-16 10:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "4979",
+              "65896",
+              "66785"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-11-16 11:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "60787",
+              "60642",
+              "65978"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-11-16 13:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "65897",
+              "68452",
+              "60869"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2024-11-16 13:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "60338",
+              "53140",
+              "2847"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2024-11-16 14:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "8445",
+              "67352",
+              "56993"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 516,
+        "name": "Red Table"
+      },
+      {
+        "id": 517,
+        "name": "Blue Table"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2024-11-16 09:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67117 - Super Divers ",
+          "#66785 - Orange,Peach"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2024-11-16 09:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65896 - Votel /Cook - 4th Grade",
+          "#8278 - Titanium Turtles"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2024-11-16 09:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#4979 - Aquabots",
+          "#65885 - Ocean Plate Explorers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2024-11-16 09:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60787 - Shelby",
+          "#60869 - Techno Troopers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2024-11-16 09:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#68452 - Argo Bears",
+          "#65978 - Notre Dame Robotics - Blue Team"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2024-11-16 10:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65897 - Garcia / Lofft - 5th Grade",
+          "#60642 - Code CrasherZ"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2024-11-16 10:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60338 - Astrocubs",
+          "#56993 - SuperChargers "
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 8,
+        "start_time": "2024-11-16 10:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67352 - BlockBuster18",
+          "#2847 - Aquavengers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 9,
+        "start_time": "2024-11-16 10:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#8445 - Ultra Mega Technologies",
+          "#53140 - Fin Finders"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 10,
+        "start_time": "2024-11-16 10:40:00-08:00",
+        "length": 5,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2024-11-16 10:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65978 - Notre Dame Robotics - Blue Team",
+          "#60787 - Shelby"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2024-11-16 10:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60869 - Techno Troopers",
+          "#60642 - Code CrasherZ"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2024-11-16 11:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#68452 - Argo Bears",
+          "#65897 - Garcia / Lofft - 5th Grade"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2024-11-16 11:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#2847 - Aquavengers",
+          "#60338 - Astrocubs"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2024-11-16 11:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#56993 - SuperChargers ",
+          "#53140 - Fin Finders"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2024-11-16 11:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67352 - BlockBuster18",
+          "#8445 - Ultra Mega Technologies"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2024-11-16 11:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#8278 - Titanium Turtles",
+          "#67117 - Super Divers "
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2024-11-16 11:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66785 - Orange,Peach",
+          "#65885 - Ocean Plate Explorers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2024-11-16 12:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65896 - Votel /Cook - 4th Grade",
+          "#4979 - Aquabots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2024-11-16 12:15:00-08:00",
+        "length": 45,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2024-11-16 13:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#53140 - Fin Finders",
+          "#60338 - Astrocubs"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2024-11-16 13:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#8445 - Ultra Mega Technologies",
+          "#2847 - Aquavengers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2024-11-16 13:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#56993 - SuperChargers ",
+          "#67352 - BlockBuster18"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2024-11-16 13:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65885 - Ocean Plate Explorers",
+          "#67117 - Super Divers "
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2024-11-16 13:40:00-08:00",
+        "length": 10,
+        "tables": [
+          "#4979 - Aquabots",
+          "#8278 - Titanium Turtles"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2024-11-16 13:50:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66785 - Orange,Peach",
+          "#65896 - Votel /Cook - 4th Grade"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2024-11-16 14:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60642 - Code CrasherZ",
+          "#60787 - Shelby"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 28,
+        "start_time": "2024-11-16 14:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65897 - Garcia / Lofft - 5th Grade",
+          "#65978 - Notre Dame Robotics - Blue Team"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 29,
+        "start_time": "2024-11-16 14:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60869 - Techno Troopers",
+          "#68452 - Argo Bears"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 30,
+        "start_time": "2024-11-16 14:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 31,
+        "start_time": "2024-11-16 14:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67117 - Super Divers ",
+          "#4979 - Aquabots"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 32,
+        "start_time": "2024-11-16 14:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65885 - Ocean Plate Explorers",
+          "#65896 - Votel /Cook - 4th Grade"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 33,
+        "start_time": "2024-11-16 15:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#8278 - Titanium Turtles",
+          "#66785 - Orange,Peach"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 34,
+        "start_time": "2024-11-16 15:15:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60787 - Shelby",
+          "#65897 - Garcia / Lofft - 5th Grade"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 35,
+        "start_time": "2024-11-16 15:25:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60642 - Code CrasherZ",
+          "#68452 - Argo Bears"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 36,
+        "start_time": "2024-11-16 15:35:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65978 - Notre Dame Robotics - Blue Team",
+          "#60869 - Techno Troopers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 37,
+        "start_time": "2024-11-16 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#60338 - Astrocubs",
+          "#8445 - Ultra Mega Technologies"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 38,
+        "start_time": "2024-11-16 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#53140 - Fin Finders",
+          "#67352 - BlockBuster18"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 40,
+        "start_time": "2024-11-16 16:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#2847 - Aquavengers",
+          "#56993 - SuperChargers "
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-10-29 05:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    640,
+    706,
+    772,
+    773,
+    644,
+    711,
+    716,
+    781,
+    659,
+    916,
+    741,
+    936,
+    681,
+    689,
+    883,
+    889,
+    636,
+    701
+  ]
+}

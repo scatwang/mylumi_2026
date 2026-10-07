@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 1768,
+      "team": {
+        "id": 1989,
+        "number": 461,
+        "name": "Terminatorz",
+        "city": "Morgan Hill",
+        "org_name": "Britton Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1746,
+      "team": {
+        "id": 1644,
+        "number": 24392,
+        "name": "Firedragons",
+        "city": "San Francisco",
+        "org_name": "Chinese American International School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1736,
+      "team": {
+        "id": 1648,
+        "number": 30517,
+        "name": "Ice Cream Sundays FLL-C 30517",
+        "city": "Piedmont",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1761,
+      "team": {
+        "id": 1687,
+        "number": 58666,
+        "name": "Allstars Techno Bricks",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1751,
+      "team": {
+        "id": 2010,
+        "number": 61938,
+        "name": "ZE Gamers",
+        "city": "Fremont",
+        "org_name": "Code Ninjas"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1758,
+      "team": {
+        "id": 1727,
+        "number": 65018,
+        "name": "Brickbotsfll",
+        "city": "Fremont",
+        "org_name": "Family/Community, Warm Springs Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1763,
+      "team": {
+        "id": 1617,
+        "number": 71504,
+        "name": "Little lego miners",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1770,
+      "team": {
+        "id": 1968,
+        "number": 72104,
+        "name": "Techwiz 2.0",
+        "city": "Cupertino",
+        "org_name": "John F. Kennedy Middle"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1744,
+      "team": {
+        "id": 1984,
+        "number": 72433,
+        "name": "Blach Unearthed Odyssey",
+        "city": "Mountain View",
+        "org_name": "Georgina P. Blach Junior High"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1745,
+      "team": {
+        "id": 2089,
+        "number": 72841,
+        "name": "Haripriya Vangara",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1767,
+      "team": {
+        "id": 2171,
+        "number": 73282,
+        "name": "Epsilon Scorpii",
+        "city": "Mountain View",
+        "org_name": "Khan Lab School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1743,
+      "team": {
+        "id": 2224,
+        "number": 73984,
+        "name": "PSV C0ders",
+        "city": "Los Altos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

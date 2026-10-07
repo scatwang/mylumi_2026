@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 71515,
+      "name": "Lakeport Robo Runners",
+      "judging_lane_name": "RED POD 2",
+      "highest": 375,
+      "highest_display": 375,
+      "rounds": [
+        215,
+        375,
+        305
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        375,
+        305,
+        215
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 70000,
+      "name": "Bulldog Bots",
+      "judging_lane_name": "RED POD 2",
+      "highest": 350,
+      "highest_display": 350,
+      "rounds": [
+        290,
+        265,
+        350
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        350,
+        290,
+        265
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 72231,
+      "name": "Thunderbird",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        265,
+        225,
+        270
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        265,
+        225
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 72279,
+      "name": "Team Dory ",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        230,
+        180,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        230,
+        180
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 71848,
+      "name": "Brainy Bricksters",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 245,
+      "highest_display": 245,
+      "rounds": [
+        210,
+        135,
+        245
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        245,
+        210,
+        135
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 74290,
+      "name": "Fossil hunters",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        200,
+        160,
+        220
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        200,
+        160
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 65321,
+      "name": "DCADS Astro Cubs",
+      "judging_lane_name": "RED POD 2",
+      "highest": 200,
+      "highest_display": 200,
+      "rounds": [
+        175,
+        105,
+        200
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        200,
+        175,
+        105
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 71714,
+      "name": "RoboStars",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 190,
+      "highest_display": 190,
+      "rounds": [
+        190,
+        145,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        190,
+        190,
+        145
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 71017,
+      "name": "Alamo 5th Grade Lego Team",
+      "judging_lane_name": "RED POD 2",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        160,
+        180,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        180,
+        160
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 71706,
+      "name": "Sabercats1",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        110,
+        150,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        150,
+        110
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 74111,
+      "name": "Argon 6-7",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 135,
+      "highest_display": 135,
+      "rounds": [
+        130,
+        70,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        135,
+        130,
+        70
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 74480,
+      "name": "WARPSPEEDERS",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 130,
+      "highest_display": 130,
+      "rounds": [
+        70,
+        130,
+        125
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        130,
+        125,
+        70
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

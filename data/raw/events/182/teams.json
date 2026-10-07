@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 2052,
+      "team": {
+        "id": 1693,
+        "number": 60141,
+        "name": "St. Anselm School Panthers",
+        "city": "San Anselmo",
+        "org_name": "St Anselm School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2068,
+      "team": {
+        "id": 2122,
+        "number": 65158,
+        "name": "Tierra Linda",
+        "city": "San Carlos",
+        "org_name": "Tierra Linda Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2237,
+      "team": {
+        "id": 2486,
+        "number": 66736,
+        "name": "SAN RAMON ROBOS",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2053,
+      "team": {
+        "id": 1906,
+        "number": 71110,
+        "name": "RobotiCi",
+        "city": "San Francisco",
+        "org_name": "La Scuola International School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2092,
+      "team": {
+        "id": 1966,
+        "number": 71922,
+        "name": "Pixelated Panthers",
+        "city": "El Dorado Hills",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2160,
+      "team": {
+        "id": 2210,
+        "number": 72081,
+        "name": "INNO BOTS 1",
+        "city": "SUNNYVALE",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2165,
+      "team": {
+        "id": 2231,
+        "number": 72482,
+        "name": "MWA Robotics Club",
+        "city": "San Pablo, CA",
+        "org_name": "Making Waves Academy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2046,
+      "team": {
+        "id": 1987,
+        "number": 72592,
+        "name": "Fantastic Five",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2163,
+      "team": {
+        "id": 2206,
+        "number": 73489,
+        "name": "RoboBlachsters",
+        "city": "Mountain View",
+        "org_name": "Georgina P. Blach Junior High"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2161,
+      "team": {
+        "id": 2272,
+        "number": 74365,
+        "name": "Master4Minds",
+        "city": "Novato",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2070,
+      "team": {
+        "id": 2422,
+        "number": 74990,
+        "name": "St. Anselm School Rookies",
+        "city": "San Anselmo",
+        "org_name": "St Anselm School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2125,
+      "team": {
+        "id": 2430,
+        "number": 75058,
+        "name": "MegaBots",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

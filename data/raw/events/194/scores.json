@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 72433,
+      "name": "Blach Unearthed Odyssey",
+      "judging_lane_name": "RED POD 2",
+      "highest": 330,
+      "highest_display": 330,
+      "rounds": [
+        230,
+        250,
+        330
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        330,
+        250,
+        230
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 65018,
+      "name": "Brickbotsfll",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        255,
+        245,
+        275
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        255,
+        245
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 30517,
+      "name": "Ice Cream Sundays FLL-C 30517",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        270,
+        150,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        185,
+        150
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 72104,
+      "name": "Techwiz 2.0",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        210,
+        260,
+        245
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        245,
+        210
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 72841,
+      "name": "Haripriya Vangara",
+      "judging_lane_name": "RED POD 2",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        215,
+        175,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Argued with ref about handoff...a little😅",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        215,
+        175
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 73984,
+      "name": "PSV C0ders",
+      "judging_lane_name": "RED POD 2",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        145,
+        230,
+        205
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Honest team",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        205,
+        145
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 58666,
+      "name": "Allstars Techno Bricks",
+      "judging_lane_name": "RED POD 2",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        170,
+        230,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        170,
+        145
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 461,
+      "name": "Terminatorz",
+      "judging_lane_name": "RED POD 2",
+      "highest": 195,
+      "highest_display": 195,
+      "rounds": [
+        160,
+        190,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        195,
+        190,
+        160
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 61938,
+      "name": "ZE Gamers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 190,
+      "highest_display": 190,
+      "rounds": [
+        190,
+        175,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Maintained temper",
+        "Referee greeting 👍",
+        ""
+      ],
+      "rounds_sorted": [
+        190,
+        190,
+        175
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 73282,
+      "name": "Epsilon Scorpii",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        120,
+        160,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Honest about the scores and didn't push team members even during pressure situations"
+      ],
+      "rounds_sorted": [
+        160,
+        160,
+        120
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 24392,
+      "name": "Firedragons",
+      "judging_lane_name": "RED POD 2",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        95,
+        30,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Showed good spirit to bounce back from low score"
+      ],
+      "rounds_sorted": [
+        160,
+        95,
+        30
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 71504,
+      "name": "Little lego miners",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 110,
+      "highest_display": 110,
+      "rounds": [
+        110,
+        90,
+        75
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        110,
+        90,
+        75
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

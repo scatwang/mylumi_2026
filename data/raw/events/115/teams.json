@@ -1,0 +1,65 @@
+{
+  "count": 5,
+  "results": [
+    {
+      "id": 1171,
+      "team": {
+        "id": 1032,
+        "number": 30399,
+        "name": "Evergreen@Dreamers",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1180,
+      "team": {
+        "id": 755,
+        "number": 31378,
+        "name": "Team 11",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1167,
+      "team": {
+        "id": 1023,
+        "number": 31835,
+        "name": "Lego bees ",
+        "city": "Fremont",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1174,
+      "team": {
+        "id": 1081,
+        "number": 32497,
+        "name": "RoboSharks",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1175,
+      "team": {
+        "id": 1232,
+        "number": 32847,
+        "name": "Mebo",
+        "city": "Palo Alto",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

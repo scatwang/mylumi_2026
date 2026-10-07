@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 657,
+      "team": {
+        "id": 665,
+        "number": 2713,
+        "name": "Phat Seals",
+        "city": "Mountain View",
+        "org_name": "Crittenden Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 669,
+      "team": {
+        "id": 916,
+        "number": 50422,
+        "name": "DragonBots",
+        "city": "Palo Alto",
+        "org_name": "Frank S Greene Jr Middle Sch"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 732,
+      "team": {
+        "id": 935,
+        "number": 56793,
+        "name": "BCS See Sea Blue",
+        "city": "Los Altos",
+        "org_name": "Bullis Charter School N"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 656,
+      "team": {
+        "id": 1112,
+        "number": 58664,
+        "name": "Lunatics",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 662,
+      "team": {
+        "id": 707,
+        "number": 58828,
+        "name": "Cupertino ShortCircuit",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 728,
+      "team": {
+        "id": 949,
+        "number": 59937,
+        "name": "Robo Mangal",
+        "city": "Fremont",
+        "org_name": "Horner Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 686,
+      "team": {
+        "id": 957,
+        "number": 60297,
+        "name": "Circuit Breakers",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 688,
+      "team": {
+        "id": 958,
+        "number": 60354,
+        "name": "Paradox",
+        "city": "Los Altos",
+        "org_name": "Helios School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 746,
+      "team": {
+        "id": 980,
+        "number": 60942,
+        "name": "Taco Shark",
+        "city": "Palo Alto",
+        "org_name": "Herbert Hoover Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 753,
+      "team": {
+        "id": 647,
+        "number": 65285,
+        "name": "Poki Bots",
+        "city": "FREMONT",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 757,
+      "team": {
+        "id": 1171,
+        "number": 66069,
+        "name": "CuriousDivers",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 650,
+      "team": {
+        "id": 1182,
+        "number": 66598,
+        "name": "Poseidon",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 641,
+      "team": {
+        "id": 1191,
+        "number": 67107,
+        "name": "Tech Titans",
+        "city": "Los Altos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 678,
+      "team": {
+        "id": 872,
+        "number": 67186,
+        "name": "Aquamarines",
+        "city": "SARATOGA",
+        "org_name": "Foothill Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 739,
+      "team": {
+        "id": 1080,
+        "number": 67635,
+        "name": "Mission LEGO Legends",
+        "city": "Fremont",
+        "org_name": "Mission San Jose Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 960,
+      "team": {
+        "id": 1096,
+        "number": 67897,
+        "name": "Lego Legends Oak 2024",
+        "city": "Los Altos",
+        "org_name": "Oak Avenue Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 740,
+      "team": {
+        "id": 1099,
+        "number": 68191,
+        "name": "Lego Lillies",
+        "city": "Fremont",
+        "org_name": "William Hopkins Junior High"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 694,
+      "team": {
+        "id": 1192,
+        "number": 68582,
+        "name": "HERricanes",
+        "city": "Burlingame",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

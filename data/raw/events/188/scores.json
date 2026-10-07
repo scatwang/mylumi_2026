@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 70178,
+      "name": "Crystal Springs Uplands Middle School 1",
+      "judging_lane_name": "RED POD 2",
+      "highest": 450,
+      "highest_display": 450,
+      "rounds": [
+        450,
+        360,
+        400
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        450,
+        400,
+        360
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 54977,
+      "name": "Menlo Park Narleaotters",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 350,
+      "highest_display": 350,
+      "rounds": [
+        330,
+        350,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        350,
+        330,
+        260
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 70849,
+      "name": "ML Infinity Bots",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 350,
+      "highest_display": 350,
+      "rounds": [
+        305,
+        350,
+        290
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        350,
+        305,
+        290
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 66820,
+      "name": "Leadways FBI",
+      "judging_lane_name": "RED POD 2",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        340,
+        320,
+        335
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        340,
+        335,
+        320
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 71981,
+      "name": "Robo-Relics",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 330,
+      "highest_display": 330,
+      "rounds": [
+        320,
+        330,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        330,
+        320,
+        260
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 56768,
+      "name": "Blue Brickbots",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 310,
+      "highest_display": 310,
+      "rounds": [
+        310,
+        255,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        310,
+        255,
+        155
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 71306,
+      "name": "Wingin' It",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 240,
+      "highest_display": 240,
+      "rounds": [
+        85,
+        155,
+        240
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        240,
+        155,
+        85
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 25572,
+      "name": "25572",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        120,
+        220,
+        195
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        195,
+        120
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 73146,
+      "name": "Master Builders",
+      "judging_lane_name": "RED POD 2",
+      "highest": 190,
+      "highest_display": 190,
+      "rounds": [
+        140,
+        145,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        190,
+        145,
+        140
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 72884,
+      "name": "Starlight Scouts",
+      "judging_lane_name": "RED POD 2",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        150,
+        180,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        160,
+        150
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 5254,
+      "name": "Golden Surfers",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 125,
+      "highest_display": 125,
+      "rounds": [
+        125,
+        115,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        125,
+        115,
+        115
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 71481,
+      "name": "Westlake Robotics Soar",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 125,
+      "highest_display": 125,
+      "rounds": [
+        125,
+        75,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "High spirit to do better",
+        ""
+      ],
+      "rounds_sorted": [
+        125,
+        105,
+        75
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

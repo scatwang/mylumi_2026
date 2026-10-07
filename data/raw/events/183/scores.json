@@ -1,0 +1,457 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 71232,
+      "name": "Aura100%",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 380,
+      "highest_display": 380,
+      "rounds": [
+        285,
+        380,
+        295
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        380,
+        295,
+        285
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 72068,
+      "name": "DVMS Robotics",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 370,
+      "highest_display": 370,
+      "rounds": [
+        295,
+        370,
+        285
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        370,
+        295,
+        285
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 67150,
+      "name": "Coding Ninjas",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 360,
+      "highest_display": 360,
+      "rounds": [
+        165,
+        250,
+        360
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        360,
+        250,
+        165
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 71969,
+      "name": "HUNTRX",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        340,
+        310,
+        330
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        340,
+        330,
+        310
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 71713,
+      "name": "BuildHers",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        130,
+        340,
+        330
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        340,
+        330,
+        130
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 66280,
+      "name": "DELTABOTS",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        240,
+        305,
+        340
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        340,
+        305,
+        240
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 60418,
+      "name": "Hedgedroid",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        300,
+        340,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        340,
+        300,
+        250
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 65685,
+      "name": "FLL-C 65685",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 285,
+      "highest_display": 285,
+      "rounds": [
+        285,
+        265,
+        215
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        285,
+        265,
+        215
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 71755,
+      "name": "Avolving_Earthbots",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        280,
+        145,
+        210
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        210,
+        145
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 70550,
+      "name": "BionicPanthers",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        265,
+        270,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        265,
+        190
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 17491,
+      "name": "17491",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        210,
+        270,
+        255
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        255,
+        210
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 67422,
+      "name": "The Alameda Wild Turkey Gang",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 270,
+      "highest_display": 270,
+      "rounds": [
+        250,
+        270,
+        220
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        270,
+        250,
+        220
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 51095,
+      "name": "CreaTech",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        235,
+        185,
+        230
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        230,
+        185
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 72906,
+      "name": "Argo Robotics Team 252",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        235,
+        145,
+        205
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Team needs to stay positive when things go wrong",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        205,
+        145
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 71418,
+      "name": "SALADS2025",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        135,
+        160,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        160,
+        135
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 39190,
+      "name": "Owls",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        150,
+        160,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        150,
+        135
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 37811,
+      "name": "OwOls",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 135,
+      "highest_display": 135,
+      "rounds": [
+        115,
+        135,
+        85
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        135,
+        115,
+        85
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 47206,
+      "name": "Owlz",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 125,
+      "highest_display": 125,
+      "rounds": [
+        125,
+        95,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        125,
+        105,
+        95
+      ],
+      "ordinal": "18th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

@@ -1,0 +1,382 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 68861,
+      "name": "Technic Pythons",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 335,
+      "highest_display": 335,
+      "rounds": [
+        265,
+        235,
+        335
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        335,
+        265,
+        235
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 67946,
+      "name": "Sea Sigmas",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        260,
+        130,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        225,
+        130
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 65868,
+      "name": "Robotic Sigmas",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 255,
+      "highest_display": 255,
+      "rounds": [
+        195,
+        255,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        255,
+        195,
+        155
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 70000,
+      "name": "Bulldog Bots",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        120,
+        225,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        225,
+        120
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 66337,
+      "name": "IJAVVE",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        225,
+        135,
+        200
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        200,
+        135
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 68894,
+      "name": "Mustang Four'ce",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        95,
+        205,
+        95
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        95,
+        95
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 68226,
+      "name": "NinjaRobo$",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        110,
+        185,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        180,
+        110
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 69250,
+      "name": "Surfer_Sharks!",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        110,
+        120,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        120,
+        110
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 61351,
+      "name": "RRR Rockets",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        95,
+        140,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "coaching from audience after warming",
+        ""
+      ],
+      "rounds_sorted": [
+        165,
+        140,
+        95
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 66756,
+      "name": "Cryptobots",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        130,
+        130,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        130,
+        130
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 62969,
+      "name": "Straw Hat Dragons",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        125,
+        155,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        150,
+        125
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 69572,
+      "name": "Hydro Hackers",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        120,
+        75,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        150,
+        120,
+        75
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 59995,
+      "name": "Bricks you step on",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        60,
+        150,
+        95
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        150,
+        95,
+        60
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 61938,
+      "name": "ZE Gamers",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 140,
+      "highest_display": 140,
+      "rounds": [
+        130,
+        115,
+        140
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        140,
+        130,
+        115
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 44835,
+      "name": "Ninja NERDles",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 120,
+      "highest_display": 120,
+      "rounds": [
+        120,
+        85,
+        110
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        120,
+        110,
+        85
+      ],
+      "ordinal": "15th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

@@ -1,0 +1,67 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [],
+    "judging_area_headers": [],
+    "judging_headers": [],
+    "teams": [
+      {
+        "number": 26093,
+        "name": "Falcon X",
+        "matches": [],
+        "sessions": []
+      },
+      {
+        "number": 26467,
+        "name": "Robo Girls",
+        "matches": [],
+        "sessions": []
+      },
+      {
+        "number": 26725,
+        "name": "SuperLego4",
+        "matches": [],
+        "sessions": []
+      },
+      {
+        "number": 28936,
+        "name": "WildRoz2023",
+        "matches": [],
+        "sessions": []
+      },
+      {
+        "number": 29205,
+        "name": "The Gamers",
+        "matches": [],
+        "sessions": []
+      },
+      {
+        "number": 29353,
+        "name": "Cosmic Innovators",
+        "matches": [],
+        "sessions": []
+      },
+      {
+        "number": 29354,
+        "name": "Bee Curious",
+        "matches": [],
+        "sessions": []
+      },
+      {
+        "number": 29565,
+        "name": "Rubik Squad",
+        "matches": [],
+        "sessions": []
+      }
+    ],
+    "areas": []
+  },
+  "schedule_config": {
+    "last_updated": "2024-04-30 22:12:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": false
+  },
+  "teams_with_results": []
+}

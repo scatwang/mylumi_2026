@@ -1,0 +1,457 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 60787,
+      "name": "Shelby",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 440,
+      "highest_display": 440,
+      "rounds": [
+        335,
+        360,
+        440
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        440,
+        360,
+        335
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 60338,
+      "name": "Astrocubs",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        190,
+        205,
+        340
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        340,
+        205,
+        190
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 8278,
+      "name": "Titanium Turtles",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        200,
+        280,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        225,
+        200
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 68452,
+      "name": "Argo Bears",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        100,
+        165,
+        250
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        165,
+        100
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 53140,
+      "name": "Fin Finders",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        185,
+        230,
+        235
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        230,
+        185
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 66785,
+      "name": "Orange,Peach",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        200,
+        205,
+        235
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        205,
+        200
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 4979,
+      "name": "Aquabots",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        150,
+        210,
+        220
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        210,
+        150
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 65978,
+      "name": "Notre Dame Robotics - Blue Team",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        220,
+        210,
+        130
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        210,
+        130
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 60869,
+      "name": "Techno Troopers",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        180,
+        165,
+        205
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        180,
+        165
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 65896,
+      "name": "Votel /Cook - 4th Grade",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        175,
+        205,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        175,
+        150
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 8445,
+      "name": "Ultra Mega Technologies",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        145,
+        135,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        145,
+        135
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 56993,
+      "name": "SuperChargers ",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        175,
+        165,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        165,
+        145
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 65897,
+      "name": "Garcia / Lofft - 5th Grade",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        130,
+        145,
+        175
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        145,
+        130
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 65885,
+      "name": "Ocean Plate Explorers",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        160,
+        160,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        160,
+        145
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 60642,
+      "name": "Code CrasherZ",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        115,
+        80,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        115,
+        80
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 67352,
+      "name": "BlockBuster18",
+      "judging_lane_name": "Red Pod 2",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        150,
+        140,
+        110
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        150,
+        140,
+        110
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 67117,
+      "name": "Super Divers ",
+      "judging_lane_name": "Yellow Pod 1",
+      "highest": 130,
+      "highest_display": 130,
+      "rounds": [
+        130,
+        70,
+        80
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        130,
+        80,
+        70
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 2847,
+      "name": "Aquavengers",
+      "judging_lane_name": "Green Pod 3",
+      "highest": 115,
+      "highest_display": 115,
+      "rounds": [
+        60,
+        50,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        115,
+        60,
+        50
+      ],
+      "ordinal": "18th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

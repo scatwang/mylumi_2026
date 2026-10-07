@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 61018,
+      "name": "Mecha Lions FLL C",
+      "judging_lane_name": "RED POD 2",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        230,
+        185,
+        190
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        190,
+        185
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 66285,
+      "name": "Alpha Zeta",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        215,
+        195,
+        215
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        215,
+        215,
+        195
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 67058,
+      "name": "Coral Keepers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        105,
+        215,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        215,
+        165,
+        105
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 57236,
+      "name": "Electric Bricks",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 205,
+      "highest_display": 205,
+      "rounds": [
+        205,
+        175,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        205,
+        175,
+        155
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 57125,
+      "name": "Incredibuilders",
+      "judging_lane_name": "RED POD 2",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        110,
+        95,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        110,
+        95
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 65065,
+      "name": "INNO BOTS",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        175,
+        145,
+        165
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        165,
+        145
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 60070,
+      "name": "Robo-Sapiens",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 170,
+      "highest_display": 170,
+      "rounds": [
+        120,
+        160,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        170,
+        160,
+        120
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 68216,
+      "name": "Circuit Breakers",
+      "judging_lane_name": "RED POD 2",
+      "highest": 165,
+      "highest_display": 165,
+      "rounds": [
+        165,
+        110,
+        140
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        165,
+        140,
+        110
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 53086,
+      "name": "Discovery Eagles",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        130,
+        160,
+        110
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "They were very patient with the referee. He made an error which caused them possibly not to score something. So after the match he explained what happened to them and they were so kind and went over what the mission would have done so that he was able to give them the score. It was just their overall demeanor they were very friendly about it and they wanted to work together you could tell that they just wanted everything to be good for everyone",
+        "Honest about a mission they did not attempt even it was partly done due force from the robot",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        130,
+        110
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 61017,
+      "name": "Mecha Lions FLL B",
+      "judging_lane_name": "RED POD 2",
+      "highest": 140,
+      "highest_display": 140,
+      "rounds": [
+        130,
+        140,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        140,
+        130,
+        105
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 61016,
+      "name": "Mecha Lions FLL A",
+      "judging_lane_name": "RED POD 2",
+      "highest": 130,
+      "highest_display": 130,
+      "rounds": [
+        45,
+        130,
+        115
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        130,
+        115,
+        45
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 60981,
+      "name": "WinsLab",
+      "judging_lane_name": "RED POD 2",
+      "highest": 95,
+      "highest_display": 95,
+      "rounds": [
+        65,
+        95,
+        95
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        95,
+        95,
+        65
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

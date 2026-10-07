@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 2088,
+      "team": {
+        "id": 1638,
+        "number": 8445,
+        "name": "Ray - Prev UMT",
+        "city": "San Jose",
+        "org_name": "St Christopher School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2069,
+      "team": {
+        "id": 1691,
+        "number": 60037,
+        "name": "BuilderBots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2207,
+      "team": {
+        "id": 2188,
+        "number": 61351,
+        "name": "RRR Rockets",
+        "city": "Lathrop",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2212,
+      "team": {
+        "id": 2016,
+        "number": 66894,
+        "name": "Dusty Diggers",
+        "city": "San Jose",
+        "org_name": "Family/Community, Bret Harte Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2216,
+      "team": {
+        "id": 1800,
+        "number": 69015,
+        "name": "QR Codes",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2087,
+      "team": {
+        "id": 2096,
+        "number": 69238,
+        "name": "The Commas",
+        "city": "Stanford",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2048,
+      "team": {
+        "id": 2374,
+        "number": 69572,
+        "name": "Hydro Hackers",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2089,
+      "team": {
+        "id": 1614,
+        "number": 71344,
+        "name": "Cheez Puffer Fish",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2214,
+      "team": {
+        "id": 1626,
+        "number": 71771,
+        "name": "QR Team 3",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2215,
+      "team": {
+        "id": 1627,
+        "number": 71772,
+        "name": "Team 4",
+        "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2175,
+      "team": {
+        "id": 2285,
+        "number": 72699,
+        "name": "GearGirls",
+        "city": "Fremont",
+        "org_name": "Fred E. Weibel Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2084,
+      "team": {
+        "id": 2172,
+        "number": 72963,
+        "name": "CodeBreakers",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2091,
+      "team": {
+        "id": 2476,
+        "number": 72994,
+        "name": "Bone Appetit",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2100,
+      "team": {
+        "id": 2104,
+        "number": 72999,
+        "name": "Eagle Eyes",
+        "city": "CUPERTINO",
+        "org_name": "William Faria Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2226,
+      "team": {
+        "id": 2462,
+        "number": 75124,
+        "name": "FKS Robotics",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2101,
+      "team": {
+        "id": 2467,
+        "number": 75126,
+        "name": "Brain Bot",
+        "city": "Union City",
+        "org_name": "Union City Robotics"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2217,
+      "team": {
+        "id": 2454,
+        "number": 75146,
+        "name": "Brickbots-spring",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2264,
+      "team": {
+        "id": 2488,
+        "number": 75149,
+        "name": "EML Tigers",
+        "city": "Union City",
+        "org_name": "Guy Jr. Emanuele Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

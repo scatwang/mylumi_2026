@@ -1,0 +1,543 @@
+id,event_id,award_type_id,award_name,display_name,category,place_number,team_number,team_name,team_org,recipient_name,city,state
+1,1,1,Champion's Award,Champion's Award,core,0,55513,Marvelous Moochis,,,Sunnyvale,CA
+2,1,2,Robot Performance Award,Robot Performance Award,core,0,55513,Marvelous Moochis,,,Sunnyvale,CA
+3,1,3,Core Values Award,Core Values Award,core,0,62354,Star Catchers,Chaboya Middle School,,San Jose,CA
+4,1,4,Innovation Project Award,Innovation Project Award,core,0,61016,Mecha-lions FLL A,Stratford Preparatory,,San Jose,CA
+5,1,5,Robot Design Award,Robot Design Award,core,0,55739,Tech_Bears,Family/Community,,San Jose,CA
+7,1,8,Coach/Mentor Award,Coach/Mentor Award,core,0,30497,FBI(Fascinating Bot Intelligence),Family/Community,Shalini Suravarjjala,Dublin,CA
+6,1,6,Rising All-Star Award,Rising All-Star Award,other,0,30497,FBI(Fascinating Bot Intelligence),Family/Community,,Dublin,CA
+22,2,1,Champion's Award,Champion's Award,core,0,60198,Chronobot,Family/Community,,Fremont,CA
+21,2,2,Robot Performance Award,Robot Performance Award,core,0,60198,Chronobot,Family/Community,,Fremont,CA
+18,2,3,Core Values Award,Core Values Award,core,0,60702,Robochickens,Tinker Coop,,Berkeley,CA
+19,2,4,Innovation Project Award,Innovation Project Award,core,0,37489,Human Joulez,Piedmont Makers,,Piedmont,CA
+20,2,5,Robot Design Award,Robot Design Award,core,0,55794,Purple People Eaters,Piedmont Makers,,Oakland,CA
+16,2,8,Coach/Mentor Award,Coach/Mentor Award,core,0,39190,Owlz,Athenian School,Andrew Shinkle,Danville,CA
+17,2,6,Rising All-Star Award,Rising All-Star Award,other,0,60070,Robo-Sapiens,Fremont Robotics Academy,,Milpitas,CA
+30,3,1,Champion's Award,Champion's Award,core,0,61251,RoBosses,Family/Community,,Fremont,CA
+31,3,1,Champion's Award,Champion's Award,core,0,62681,Golden Eagles,Queen of Apostles School,,San Jose,CA
+32,3,2,Robot Performance Award,Robot Performance Award,core,0,61251,RoBosses,Family/Community,,Fremont,CA
+35,3,3,Core Values Award,Core Values Award,core,0,50778,Technoblade,Family/Community,,Los Altos,CA
+34,3,4,Innovation Project Award,Innovation Project Award,core,0,55496,Tierra Bots,Harker Middle School,,Santa Clara,CA
+33,3,5,Robot Design Award,Robot Design Award,core,0,25571,Brick X Brick,Cabrillo Middle School,,Santa Clara,CA
+37,3,8,Coach/Mentor Award,Coach/Mentor Award,core,0,60855,Gearshift,Family/Community,Viswanatha Ramireddy,Fremont,CA
+36,3,6,Rising All-Star Award,Rising All-Star Award,other,0,60354,The Vision,Helios School,,Los Altos,CA
+24,4,1,Champion's Award,Champion's Award,core,0,44532,Razzle Dazzle Robotics,Piedmont Makers,,Piedmont,CA
+25,4,2,Robot Performance Award,Robot Performance Award,core,0,44532,Razzle Dazzle Robotics,Piedmont Makers,,Piedmont,CA
+28,4,3,Core Values Award,Core Values Award,core,0,52702,ArgoRobotics Team #3 - Argo-Haves,Argonaut Elementary School,,Saratoga,CA
+27,4,4,Innovation Project Award,Innovation Project Award,core,0,60152,Masterpiecers,Code Ninjas,,Union city,CA
+26,4,5,Robot Design Award,Robot Design Award,core,0,46302,The Trampolines,Piedmont Makers,,Piedmont,CA
+23,4,8,Coach/Mentor Award,Coach/Mentor Award,core,0,62701,Hillbrook Bears,Hillbrook School,Ojas Shastri,Los Gatos,CA
+29,4,6,Rising All-Star Award,Rising All-Star Award,other,0,61775,WeibelTeam,Fred Weibel Elementary School,,Fremont,CA
+60,5,1,Champion's Award,Champion's Award,core,0,17492,BloK Masters,Cabrillo Middle School,,Santa Clara,CA
+61,5,2,Robot Performance Award,Robot Performance Award,core,0,60338,Astrocubs,AstroBruins,,Sunnyvale,CA
+64,5,3,Core Values Award,Core Values Award,core,0,4979,Mighty Ducks,Cabrillo Middle School,,Santa Clara,CA
+63,5,4,Innovation Project Award,Innovation Project Award,core,0,60623,Double Trouble Masterminds,Family/Community,,Fremont,CA
+62,5,5,Robot Design Award,Robot Design Award,core,0,60100,Cobras,Family/Community,,LOS GATOS,CA
+66,5,8,Coach/Mentor Award,Coach/Mentor Award,core,0,52142,Art's Genesis,Family/Community,Ying Feng Pang,San Jose,CA
+65,5,6,Rising All-Star Award,Rising All-Star Award,other,0,52516,The Krazy Kiwis,Family/Community,,Los Gatos,CA
+54,6,1,Champion's Award,Champion's Award,core,0,51197,Jumping Jelly Beans,Family/Community,,Fremont,CA
+55,6,2,Robot Performance Award,Robot Performance Award,core,0,44530,Platinum Programmers,Piedmont Makers,,Piedmont,CA
+58,6,3,Core Values Award,Core Values Award,core,0,52943,Digital Dolphins,SF Day School,,San Francisco,CA
+57,6,4,Innovation Project Award,Innovation Project Award,core,0,10586,Da Vinci,Nueva School,,Hillsborough,CA
+56,6,5,Robot Design Award,Robot Design Award,core,0,52397,Invalid Syntax,Piedmont Makers,,Piedmont,CA
+59,6,8,Coach/Mentor Award,Coach/Mentor Award,core,0,52944,Digital Dolphins- White Team,SF Day School,Devina Vera,San Francisco,CA
+102,7,1,Champion's Award,Champion's Award,core,0,54145,G.O.A.T.S,Family/Community,,San Jose,CA
+103,7,2,Robot Performance Award,Robot Performance Award,core,0,54145,G.O.A.T.S,Family/Community,,San Jose,CA
+106,7,3,Core Values Award,Core Values Award,core,0,61168,Foothill 2023C,Foothill Elementary School,,Saratoga,CA
+105,7,4,Innovation Project Award,Innovation Project Award,core,0,40997,Denman Robotics,James Denman Middle School,,San Francisco,CA
+104,7,5,Robot Design Award,Robot Design Award,core,0,52090,Canary1,Family/Community,,San Francisco,CA
+108,7,8,Coach/Mentor Award,Coach/Mentor Award,core,0,52090,Canary1,Family/Community,Anna Utgoff,San Francisco,CA
+107,7,6,Rising All-Star Award,Rising All-Star Award,other,0,59937,Robo Mangal,Harvey Green Elementary School,,Fremont,CA
+95,8,1,Champion's Award,Champion's Award,core,0,60428,LegoLegends,Family/Community,,Tracy,CA
+96,8,2,Robot Performance Award,Robot Performance Award,core,0,56453,Donut Powered,Family/Community,,Fremont,CA
+99,8,3,Core Values Award,Core Values Award,core,0,25573,X-Mann Bots,Cabrillo Middle School,,Santa Clara,CA
+98,8,4,Innovation Project Award,Innovation Project Award,core,0,50809,AstroBruins,AstroBruins,,Sunnyvale,CA
+97,8,5,Robot Design Award,Robot Design Award,core,0,57010,Rocket,Family/Community,,Pleasanton,CA
+101,8,8,Coach/Mentor Award,Coach/Mentor Award,core,0,57010,Rocket,Family/Community,Vijay Gangaadaran,Pleasanton,CA
+100,8,6,Rising All-Star Award,Rising All-Star Award,other,0,61351,RI Robo Raiders,Family/Community,,Lathrop,CA
+88,9,1,Champion's Award,Champion's Award,core,0,56459,Code Warriors,Oliveira Elementary School,,Fremont,CA
+87,9,1,Champion's Award,Champion's Award,core,0,55494,Robo Brain,,,San Jose,CA
+86,9,2,Robot Performance Award,Robot Performance Award,core,0,53890,Autorun,Family/Community,,Sunnyvale,CA
+83,9,3,Core Values Award,Core Values Award,core,0,55726,D()lphinS,Family/Community,,San Jose,CA
+84,9,4,Innovation Project Award,Innovation Project Award,core,0,51006,H.E.R.,Family/Community,,Saratoga,CA
+85,9,5,Robot Design Award,Robot Design Award,core,0,61172,FLL Voyager,Self,,SUNNYVALE,CA
+82,9,8,Coach/Mentor Award,Coach/Mentor Award,core,0,62268,Delta Cosmic Coders,Family/Community,Anita Sudher,San Jose,CA
+81,9,6,Rising All-Star Award,Rising All-Star Award,other,0,61932,Bullis Gold Team,Bullis,,Los Altos,CA
+109,10,1,Champion's Award,Champion's Award,core,0,54977,Menlo Park Narleaotters,Family/Community,,Menlo Park,CA
+110,10,2,Robot Performance Award,Robot Performance Award,core,0,52070,Smilodon,Family/Community,,Palo Alto,CA
+113,10,3,Core Values Award,Core Values Award,core,0,55669,Robot Dolphin,,,Foster City,CA
+112,10,4,Innovation Project Award,Innovation Project Award,core,0,52070,Smilodon,Family/Community,,Palo Alto,CA
+111,10,5,Robot Design Award,Robot Design Award,core,0,25572,Ctrl+T,Cabrillo Middle School,,Santa Clara,CA
+114,10,8,Coach/Mentor Award,Coach/Mentor Award,core,0,61604,Mechanical Thump,Allstars United Education Foundation,Joshua Billmann,San Jose,CA
+115,10,6,Rising All-Star Award,Rising All-Star Award,other,0,58711,Arctic Wolves,Family/Community,,Sunnyvale,CA
+80,11,1,Champion's Award,Champion's Award,core,0,60496,Alternative Force,Family/Community,,Sunnyvale,CA
+79,11,2,Robot Performance Award,Robot Performance Award,core,0,60151,Best Bees,Basis Independent Fremont,,Fremont,CA
+76,11,3,Core Values Award,Core Values Award,core,0,52765,Dragonoids,Thorton Middle school,,Fremont,CA
+77,11,4,Innovation Project Award,Innovation Project Award,core,0,56649,Innovative Energizers,Basis Independent Fremont,,Fremont,CA
+78,11,5,Robot Design Award,Robot Design Award,core,0,60151,Best Bees,Basis Independent Fremont,,Fremont,CA
+74,11,8,Coach/Mentor Award,Coach/Mentor Award,core,0,61998,TechTitans,John M Horner Jr High School,Srivatsan Balasubramanian,Fremont,CA
+75,11,6,Rising All-Star Award,Rising All-Star Award,other,0,51095,CreaTech,Family/Community,,Fremont,CA
+46,12,1,Champion's Award,Champion's Award,core,0,57977,Rockhead Robotics,Argonaut Elementary School,,Saratoga,CA
+47,12,1,Champion's Award,Champion's Award,core,0,61119,Futuristic Felines,Sunnyvale Middle School,,Sunnyvale,CA
+48,12,2,Robot Performance Award,Robot Performance Award,core,0,60320,Hepha,Family/Community,,San Jose,CA
+51,12,3,Core Values Award,Core Values Award,core,0,30515,Rockin Robos,Piedmont Makers,,Piedmont,CA
+50,12,4,Innovation Project Award,Innovation Project Award,core,0,60537,Mecha Masters,Family/Community,,FREMONT,CA
+49,12,5,Robot Design Award,Robot Design Award,core,0,60320,Hepha,Family/Community,,San Jose,CA
+53,12,8,Coach/Mentor Award,Coach/Mentor Award,core,0,18197,SCEME Team,Nueva School,Michelle Grau,San Bruno,CA
+52,12,6,Rising All-Star Award,Rising All-Star Award,other,0,60418,Hedgedroid,Hoover Elementary School,,Palo Alto,CA
+8,14,1,Champion's Award,Champion's Award,core,0,51168,The Warriors,Family/Community,,Rancho Cordova,CA
+9,14,1,Champion's Award,Champion's Award,core,0,60727,Cyber Soldiers,Family/Community,,Sunnyvale,CA
+10,14,2,Robot Performance Award,Robot Performance Award,core,0,52481,Vision,Family/Community,,Pleasanton,CA
+11,14,3,Core Values Award,Core Values Award,core,0,56747,MillikinBots,Family/Community,,Santa Clara,CA
+12,14,4,Innovation Project Award,Innovation Project Award,core,0,2848,S.H.R.E.K.,Cabrillo Middle School,,Santa Clara,CA
+13,14,5,Robot Design Award,Robot Design Award,core,0,62308,Funky Potatoes,Family/Community,,Cupertino,CA
+14,14,8,Coach/Mentor Award,Coach/Mentor Award,core,0,56747,MillikinBots,Family/Community,Raj Chaugle,Santa Clara,CA
+15,14,6,Rising All-Star Award,Rising All-Star Award,other,0,60787,Shelby,Saratoga Elementary School,,Saratoga,CA
+67,15,1,Champion's Award,Champion's Award,core,0,4978,Maroon Five,Cabrillo Middle School,,Santa Clara,CA
+68,15,2,Robot Performance Award,Robot Performance Award,core,0,53278,Magnetronics,Tri Valley Robotics,,San Ramon,CA
+71,15,3,Core Values Award,Core Values Award,core,0,60868,iBots,Family/Community,,Milpitas,CA
+70,15,4,Innovation Project Award,Innovation Project Award,core,0,53140,Van Gophers,Family/Community,,San Jose,CA
+69,15,5,Robot Design Award,Robot Design Award,core,0,51054,Techno Masters,Family/Community,,Pleasanton,CA
+73,15,8,Coach/Mentor Award,Coach/Mentor Award,core,0,51054,Techno Masters,Family/Community,Aseem Bajaj,Pleasanton,CA
+72,15,6,Rising All-Star Award,Rising All-Star Award,other,0,2847,Crescendo Coders,Cabrillo Middle School,,Santa Clara,CA
+38,16,1,Champion's Award,Champion's Award,core,0,48793,Mountain House,Mountain House Community,,Mountain House,CA
+39,16,1,Champion's Award,Champion's Award,core,0,62274,The Van Goes,Family/Community,,Mountain View,CA
+40,16,2,Robot Performance Award,Robot Performance Award,core,0,60340,RoBobcats,Basis Independent Silicon Vly,,Santa Clara,CA
+41,16,3,Core Values Award,Core Values Award,core,0,445,Matsuyama RoboPines,Matsuyama Elementary School,,Sacramento,CA
+42,16,4,Innovation Project Award,Innovation Project Award,core,0,4506,Techno Cavs,Sacramento Country Day School,,Sacramento,CA
+43,16,5,Robot Design Award,Robot Design Award,core,0,60923,Artesan,Family/Community,,Folsom,CA
+45,16,8,Coach/Mentor Award,Coach/Mentor Award,core,0,877,Code Crashers,Home School,Erik Burns,Sacramento,CA
+44,16,6,Rising All-Star Award,Rising All-Star Award,other,0,52597,Flaming Stars,Family/Community,,Folsom,CA
+121,17,1,Champion's Award,Champion's Award,core,0,62296,In-Vinci-Bots,Self,,Cupertino,CA
+122,17,2,Robot Performance Award,Robot Performance Award,core,0,61333,DaVinci Coders,"Peterson Middle School, Don Callejon K-8 School",,Santa Clara,CA
+125,17,3,Core Values Award,Core Values Award,core,0,62229,LegoLegends,,,San Jose,CA
+124,17,4,Innovation Project Award,Innovation Project Award,core,0,61138,Golden Musicians,Family/Community,,Cupertino,CA
+123,17,5,Robot Design Award,Robot Design Award,core,0,61333,DaVinci Coders,"Peterson Middle School, Don Callejon K-8 School",,Santa Clara,CA
+126,17,8,Coach/Mentor Award,Coach/Mentor Award,core,0,61334,Manu Srinivasan,Family/Community,Manu Srinivasan,Cupertino,CA
+89,18,1,Champion's Award,Champion's Award,core,0,61406,STEAM Bots,Family/Community,,Dublin,CA
+90,18,2,Robot Performance Award,Robot Performance Award,core,0,61301,Fantastic Fource,Family/Community,,Dublin,CA
+91,18,3,Core Values Award,Core Values Award,core,0,47622,QLS CloudBots,The Quarry Lane School,,Dublin,CA
+92,18,4,Innovation Project Award,Innovation Project Award,core,0,61301,Fantastic Fource,Family/Community,,Dublin,CA
+93,18,5,Robot Design Award,Robot Design Award,core,0,56940,RoboMasters,Family/Community,,Fremont,CA
+94,18,8,Coach/Mentor Award,Coach/Mentor Award,core,0,,,,Brian Martin,,CA
+116,21,1,Champion's Award,Champion's Award,core,0,61055,Silent Builders,Family/Community,,Fremont,CA
+117,21,2,Robot Performance Award,Robot Performance Award,core,0,60914,TechnoMasters,Family/Community,,San Jose,CA
+118,21,3,Core Values Award,Core Values Award,core,0,62005,Lego Legends,"Ardenwood Elementary School, Forest Park Elementary School",,FREMONT,CA
+119,21,4,Innovation Project Award,Innovation Project Award,core,0,60914,TechnoMasters,Family/Community,,San Jose,CA
+120,21,5,Robot Design Award,Robot Design Award,core,0,60929,Chips 'n' Bots,Family/Community,,San Mateo,CA
+127,21,8,Coach/Mentor Award,Coach/Mentor Award,core,0,62140,Team St.Anne,St.Anne,Daniel Linhardt,San Francisco,CA
+144,22,1,Champion's Award,Champion's Award,core,0,60198,Chronobot,Family/Community,,Fremont,CA
+145,22,1,Champion's Award,Champion's Award,core,0,51197,Jumping Jelly Beans,Family/Community,,Fremont,CA
+143,22,2,Robot Performance Award,Robot Performance Award,core,0,60198,Chronobot,Family/Community,,Fremont,CA
+142,22,2,Robot Performance Award,Robot Performance Award,core,0,56453,Donut Powered,Family/Community,,Fremont,CA
+138,22,3,Core Values Award,Core Values Award,core,0,20915,TroBots,Burlingame Intermediate School,,Burlingame,CA
+137,22,3,Core Values Award,Core Values Award,core,0,52397,Invalid Syntax,Piedmont Makers,,Piedmont,CA
+140,22,4,Innovation Project Award,Innovation Project Award,core,0,25573,X-Mann Bots,Cabrillo Middle School,,Santa Clara,CA
+139,22,4,Innovation Project Award,Innovation Project Award,core,0,60718,Rockin Robos,Family/Community,,Rocklin,CA
+141,22,5,Robot Design Award,Robot Design Award,core,0,55959,Shrek's Friends,Family/Community,,Foster City,CA
+136,22,5,Robot Design Award,Robot Design Award,core,0,44530,Platinum Programmers,Piedmont Makers,,Piedmont,CA
+134,22,8,Coach/Mentor Award,Coach/Mentor Award,core,0,4506,Techno Cavs,Sacramento Country Day School,Albert Code Grunst,Sacramento,CA
+135,22,8,Coach/Mentor Award,Coach/Mentor Award,core,0,60198,Chronobot,Family/Community,Liang Zhang,Fremont,CA
+129,22,10,CT Kids Choice Award:  Favorite Pit Design,CT Kids Choice Award:  Favorite Pit Design,other,0,51197,Jumping Jelly Beans,Family/Community,,Fremont,CA
+131,22,12,CT Kids Choice Award:  Favorite Team Costume,CT Kids Choice Award:  Favorite Team Costume,other,0,51197,Jumping Jelly Beans,Family/Community,,Fremont,CA
+130,22,11,CT Kids Choice Award:  Favorite Robot and/or attachment,CT Kids Choice Award:  Favorite Robot and/or attachment,other,0,60198,Chronobot,Family/Community,,Fremont,CA
+132,22,13,CT Kids Choice Award:  Favorite team chant,CT Kids Choice Award:  Favorite team chant,other,0,54145,G.O.A.T.S,Family/Community,,San Jose,CA
+133,22,14,CT Kids Choice Award:  Best team giveaway,CT Kids Choice Award:  Best team giveaway,other,0,48793,Mountain House,Mountain House Community,,Mountain House,CA
+128,22,9,CT Kids Choice Award:  Coolest Innovation Project,CT Kids Choice Award:  Coolest Innovation Project,other,0,40997,Denman Robotics,James Denman Middle School,,San Francisco,CA
+183,23,1,Champion's Award,Champion's Award,core,0,60762,Legotronics,Tri Valley Robotics,,Dublin,CA
+182,23,1,Champion's Award,Champion's Award,core,0,54977,Menlo Park Narleaotters,Family/Community,,Menlo Park,CA
+181,23,2,Robot Performance Award,Robot Performance Award,core,0,52070,Smilodon,Family/Community,,Palo Alto,CA
+180,23,2,Robot Performance Award,Robot Performance Award,core,0,57600,Delta Rovers,Family/Community,,San Jose,CA
+175,23,3,Core Values Award,Core Values Award,core,0,60502,Codebreakerz,Newagecoders,,San Ramon,CA
+174,23,3,Core Values Award,Core Values Award,core,0,4416,Techno Cougars,Cabrillo Middle School,,Santa Clara,CA
+177,23,4,Innovation Project Award,Innovation Project Award,core,0,25572,Ctrl+T,Cabrillo Middle School,,Santa Clara,CA
+176,23,4,Innovation Project Award,Innovation Project Award,core,0,55513,Marvelous Moochis,,,Sunnyvale,CA
+179,23,5,Robot Design Award,Robot Design Award,core,0,60215,Robotmakers,Family/Community,,San Jose,CA
+178,23,5,Robot Design Award,Robot Design Award,core,0,52070,Smilodon,Family/Community,,Palo Alto,CA
+166,23,8,Coach/Mentor Award,Coach/Mentor Award,core,0,60502,Codebreakerz,Newagecoders,Deepak Gupta,San Ramon,CA
+167,23,8,Coach/Mentor Award,Coach/Mentor Award,core,0,51168,The Warriors,Family/Community,Sridhar Arjula,Rancho Cordova,CA
+173,23,10,CT Kids Choice Award:  Favorite Pit Design,CT Kids Choice Award:  Favorite Pit Design,other,0,61093,LEGO Nerds,Code Ninjas Fremont,,Fremont,CA
+171,23,12,CT Kids Choice Award:  Favorite Team Costume,CT Kids Choice Award:  Favorite Team Costume,other,0,61093,LEGO Nerds,Code Ninjas Fremont,,Fremont,CA
+170,23,11,CT Kids Choice Award:  Favorite Robot and/or attachment,CT Kids Choice Award:  Favorite Robot and/or attachment,other,0,44532,Razzle Dazzle Robotics,Piedmont Makers,,Piedmont,CA
+172,23,13,CT Kids Choice Award:  Favorite team chant,CT Kids Choice Award:  Favorite team chant,other,0,44532,Razzle Dazzle Robotics,Piedmont Makers,,Piedmont,CA
+169,23,14,CT Kids Choice Award:  Best team giveaway,CT Kids Choice Award:  Best team giveaway,other,0,61093,LEGO Nerds,Code Ninjas Fremont,,Fremont,CA
+168,23,9,CT Kids Choice Award:  Coolest Innovation Project,CT Kids Choice Award:  Coolest Innovation Project,other,0,61093,LEGO Nerds,Code Ninjas Fremont,,Fremont,CA
+146,24,1,Champion's Award,Champion's Award,core,0,55494,Robo Brain,,,San Jose,CA
+147,24,1,Champion's Award,Champion's Award,core,0,50778,Technoblade,Family/Community,,Los Altos,CA
+148,24,2,Robot Performance Award,Robot Performance Award,core,0,55496,Tierra Bots,Harker Middle School,,Santa Clara,CA
+149,24,2,Robot Performance Award,Robot Performance Award,core,0,55726,D()lphinS,Family/Community,,San Jose,CA
+150,24,3,Core Values Award,Core Values Award,core,0,55739,Tech_Bears,Family/Community,,San Jose,CA
+151,24,3,Core Values Award,Core Values Award,core,0,51054,Techno Masters,Family/Community,,Pleasanton,CA
+152,24,4,Innovation Project Award,Innovation Project Award,core,0,53140,Van Gophers,Family/Community,,San Jose,CA
+153,24,4,Innovation Project Award,Innovation Project Award,core,0,60914,TechnoMasters,Family/Community,,San Jose,CA
+154,24,5,Robot Design Award,Robot Design Award,core,0,55496,Tierra Bots,Harker Middle School,,Santa Clara,CA
+155,24,5,Robot Design Award,Robot Design Award,core,0,2847,Crescendo Coders,Cabrillo Middle School,,Santa Clara,CA
+158,24,8,Coach/Mentor Award,Coach/Mentor Award,core,0,55779,PowerGirls,"Blossom Hill Elementary School, Family/Community",Girish Moodalbail,Los Gatos,CA
+159,24,8,Coach/Mentor Award,Coach/Mentor Award,core,0,51054,Techno Masters,Family/Community,Richard Shen,Pleasanton,CA
+156,24,6,Rising All-Star Award,Rising All-Star Award,other,0,55779,PowerGirls,"Blossom Hill Elementary School, Family/Community",,Los Gatos,CA
+160,24,10,CT Kids Choice Award:  Favorite Pit Design,CT Kids Choice Award:  Favorite Pit Design,other,0,53140,Van Gophers,Family/Community,,San Jose,CA
+161,24,12,CT Kids Choice Award:  Favorite Team Costume,CT Kids Choice Award:  Favorite Team Costume,other,0,60868,iBots,Family/Community,,Milpitas,CA
+162,24,11,CT Kids Choice Award:  Favorite Robot and/or attachment,CT Kids Choice Award:  Favorite Robot and/or attachment,other,0,53890,Autorun,Family/Community,,Sunnyvale,CA
+163,24,13,CT Kids Choice Award:  Favorite team chant,CT Kids Choice Award:  Favorite team chant,other,0,60537,Mecha Masters,Family/Community,,FREMONT,CA
+164,24,14,CT Kids Choice Award:  Best team giveaway,CT Kids Choice Award:  Best team giveaway,other,0,60537,Mecha Masters,Family/Community,,FREMONT,CA
+165,24,9,CT Kids Choice Award:  Coolest Innovation Project,CT Kids Choice Award:  Coolest Innovation Project,other,0,60914,TechnoMasters,Family/Community,,San Jose,CA
+157,24,15,Breakthrough Award,Breakthrough Award,other,0,60868,iBots,Family/Community,,Milpitas,CA
+272,44,1,Champion's Award,Champion's Award,core,0,67473,Krazy Krillionaires,Williams Elementary,,San Jose,CA
+277,44,8,Coach/Mentor Award,Coach/Mentor Award,core,0,68707,HF Bears,Holy Family School,Katherine Oania,San Jose,CA
+276,44,3,Core Values Award,Core Values Award,core,0,67232,Terminators,Burlingame Intermediate,,Burlingame,CA
+275,44,4,Innovation Project Award,Innovation Project Award,core,0,60956,The Stanlicorns,St martin of Tours,,san jose,CA
+274,44,5,Robot Design Award,Robot Design Award,core,0,55976,Megamind Mechanics,Family/Community,,Los Altos,CA
+273,44,2,Robot Performance Award,Robot Performance Award,core,0,67473,Krazy Krillionaires,Williams Elementary,,San Jose,CA
+292,46,1,Champion's Award,Champion's Award,core,0,66285,Alpha Zeta,Family/Community,,Milpitas,CA
+297,46,8,Coach/Mentor Award,Coach/Mentor Award,core,0,65065,INNO BOTS,Family/Community,Bhargav Patel,Sunnyvale,CA
+296,46,3,Core Values Award,Core Values Award,core,0,67058,Coral Keepers,,,San Jose,CA
+295,46,4,Innovation Project Award,Innovation Project Award,core,0,57125,Incredibuilders,Family/Community,,Fremont,CA
+294,46,5,Robot Design Award,Robot Design Award,core,0,60981,WinsLab,Family/Community,,San Jose,CA
+293,46,2,Robot Performance Award,Robot Performance Award,core,0,61018,Mecha Lions FLL C,Stratford Preparatory,,San Jose,CA
+205,47,1,Champion's Award,Champion's Award,core,0,7052,OP Octopi,St. Gabriel School,,San Francisco,CA
+210,47,8,Coach/Mentor Award,Coach/Mentor Award,core,0,67854,Superstars,Family/Community,Raghavan Ramadoss,fremont,CA
+209,47,3,Core Values Award,Core Values Award,core,0,61708,Squirtle,Saratoga Elementary School,,Saratoga,CA
+208,47,4,Innovation Project Award,Innovation Project Award,core,0,61685,Noddin Dynabots,Family/Community,,San Jose,CA
+207,47,5,Robot Design Award,Robot Design Award,core,0,67854,Superstars,Family/Community,,fremont,CA
+206,47,2,Robot Performance Award,Robot Performance Award,core,0,7052,OP Octopi,St. Gabriel School,,San Francisco,CA
+298,48,1,Champion's Award,Champion's Award,core,0,60069,NINDROIDS,Family/Community,,Santa Clara,CA
+303,48,8,Coach/Mentor Award,Coach/Mentor Award,core,0,64757,Greater Than One,Family/Community,Jonathan Yun,Fremont,CA
+302,48,3,Core Values Award,Core Values Award,core,0,60868,iBots,Family/Community,,Milpitas,CA
+301,48,4,Innovation Project Award,Innovation Project Award,core,0,66894,Oceanic Explorers,Family/Community,,San Jose,CA
+300,48,5,Robot Design Award,Robot Design Award,core,0,65018,Brickbots,"John M Horner Jr High School, William Hopkins Jr High School, Thomas Russell Middle School",,Fremont,CA
+299,48,2,Robot Performance Award,Robot Performance Award,core,0,60069,NINDROIDS,Family/Community,,Santa Clara,CA
+311,49,1,Champion's Award,Champion's Award,core,0,60496,Alternative Force,Family/Community,,Sunnyvale,CA
+317,49,8,Coach/Mentor Award,Coach/Mentor Award,core,0,60496,Alternative Force,Family/Community,Rui Qiao,Sunnyvale,CA
+315,49,3,Core Values Award,Core Values Award,core,0,66961,PreposterousPlatypus,ULEAP,,Palo Alto,CA
+314,49,4,Innovation Project Award,Innovation Project Award,core,0,61188,Cyber Titans@,Family/Community,,San Jose,CA
+313,49,5,Robot Design Award,Robot Design Award,core,0,66292,CookieBots,Girl Scouts,,Danville,CA
+312,49,2,Robot Performance Award,Robot Performance Award,core,0,61281,Mustang Rockets,Family/Community,,Santa Clara,CA
+318,51,1,Champion's Award,Champion's Award,core,0,65125,Baybots,Family/Community,,Sunnyvale,CA
+324,51,8,Coach/Mentor Award,Coach/Mentor Award,core,0,68557,M-A Cubs 1,La Entrada Middle,Heidi Chen,Menlo Park,CA
+322,51,3,Core Values Award,Core Values Award,core,0,10585,Code Crackers,Nueva School,,Hillsborough,CA
+321,51,4,Innovation Project Award,Innovation Project Award,core,0,60152,The Game Changers,Code Ninjas,,Union City,CA
+320,51,5,Robot Design Award,Robot Design Award,core,0,66233,Galaxy Guardians,Family/Community,,Santa Clara,CA
+319,51,2,Robot Performance Award,Robot Performance Award,core,0,66233,Galaxy Guardians,Family/Community,,Santa Clara,CA
+323,51,6,Rising All-Star Award,Rising All-Star Award,other,0,57382,RoboRise,Family/Community,,Foster City,CA
+304,52,1,Champion's Award,Champion's Award,core,0,61950,Codettes,Family/Community,,Tracy,CA
+305,52,2,Robot Performance Award,Robot Performance Award,core,0,65258,CrypticButterflies,Family/Community,,San Jose,CA
+308,52,3,Core Values Award,Core Values Award,core,0,55971,Electroid Marines,"Fremont High School, Don Callejon K-8 School",,Santa Clara,CA
+307,52,4,Innovation Project Award,Innovation Project Award,core,0,60100,Cobras,Family/Community,,Los Gatos,CA
+306,52,5,Robot Design Award,Robot Design Award,core,0,67395,Marine Mavericks,Family/Community,,Sunnyvale,CA
+310,52,8,Coach/Mentor Award,Coach/Mentor Award,core,0,61055,Robotic Athletes,Family/Community,Subhani Shaik,Fremont,CA
+309,52,6,Rising All-Star Award,Rising All-Star Award,other,0,38159,Otterly Awesome,Family/Community,,Menlo Park,CA
+211,53,1,Champion's Award,Champion's Award,core,0,60388,Cosmic Motor,Family/Community,,Saratoga,CA
+217,53,8,Coach/Mentor Award,Coach/Mentor Award,core,0,61139,Lightning Squad,Family/Community,Miruthu Bashimi Namaduria,Folsom,CA
+215,53,3,Core Values Award,Core Values Award,core,0,59703,brick-o-brainiacs pioneers,Family/Community,,Tracy,CA
+214,53,4,Innovation Project Award,Innovation Project Award,core,0,20915,TroBots,,,Burlingame,CA
+213,53,5,Robot Design Award,Robot Design Award,core,0,52508,Oakland Short Circuits,Piedmont Makers,,Oakland,CA
+212,53,2,Robot Performance Award,Robot Performance Award,core,0,60388,Cosmic Motor,Family/Community,,Saratoga,CA
+216,53,6,Rising All-Star Award,Rising All-Star Award,other,0,67290,VXL,Family/Community,,Folsom,CA
+339,54,1,Champion's Award,Champion's Award,core,1,64698,ROAR,Basis Independent Silicon Vly,,San Jose,CA
+340,54,1,Champion's Award,Champion's Award,core,1,4416,O.R.C.A,Cabrillo Middle School,,Santa Clara,CA
+346,54,8,Coach/Mentor Award,Coach/Mentor Award,core,0,64698,ROAR,Basis Independent Silicon Vly,Yifei Zha,San Jose,CA
+344,54,3,Core Values Award,Core Values Award,core,0,60291,Fusion Vortex,Family/Community,,Fremont,CA
+343,54,4,Innovation Project Award,Innovation Project Award,core,0,56487,The Sea Syrens,Family/Community,,Fremont,CA
+342,54,5,Robot Design Award,Robot Design Award,core,0,60085,Lego Artisans,Family/Community,,Cupertino,CA
+341,54,2,Robot Performance Award,Robot Performance Award,core,0,64698,ROAR,Basis Independent Silicon Vly,,San Jose,CA
+345,54,6,Rising All-Star Award,Rising All-Star Award,other,0,25572,Octonauts,Cabrillo Middle School,,Santa Clara,CA
+225,55,1,Champion's Award,Champion's Award,core,0,52090,Canary1,Family/Community,,San Francisco,CA
+231,55,8,Coach/Mentor Award,Coach/Mentor Award,core,0,52090,Canary1,Family/Community,Calvin Cupini,San Francisco,CA
+229,55,3,Core Values Award,Core Values Award,core,0,67216,Submersiwolves,Lilienthal (Claire) Elementary,,San Francisco,CA
+228,55,4,Innovation Project Award,Innovation Project Award,core,0,40997,Denman Robotics,James Denman Middle School,,San Francisco,CA
+227,55,5,Robot Design Award,Robot Design Award,core,0,52943,Digital Dolphins GREEN TEAM,San Francisco Day School,,San Francisco,CA
+226,55,2,Robot Performance Award,Robot Performance Award,core,0,61610,Argoclucks,Family/Community,,ALBANY,CA
+230,55,6,Rising All-Star Award,Rising All-Star Award,other,0,66219,CougarBots,Family/Community,,San Francisco,CA
+332,56,1,Champion's Award,Champion's Award,core,0,60338,Astrocubs,Family/Community,,Sunnyvale,CA
+337,56,8,Coach/Mentor Award,Coach/Mentor Award,core,0,65896,Votel /Cook - 4th Grade,St Christopher School,Ronny Votel,San Jose,CA
+336,56,3,Core Values Award,Core Values Award,core,0,60642,Code CrasherZ,Family/Community,,Santa Clara,CA
+335,56,4,Innovation Project Award,Innovation Project Award,core,0,53140,Fin Finders,Bret Harte Middle School,,San Jose,CA
+334,56,5,Robot Design Award,Robot Design Award,core,0,4979,Aquabots,Cabrillo Middle School,,Santa Clara,CA
+333,56,2,Robot Performance Award,Robot Performance Award,core,0,60787,Shelby,Saratoga Elementary School,,Saratoga,CA
+338,56,6,Rising All-Star Award,Rising All-Star Award,other,0,56993,SuperChargers ,Family/Community,,San Jose,CA
+286,57,1,Champion's Award,Champion's Award,core,0,65020,The Golden Huskies,Family/Community,,Palo Alto,CA
+291,57,8,Coach/Mentor Award,Coach/Mentor Award,core,0,62681,Golden Eagles,Queen of Apostles School,“Coach Beatriz” Maeireizo,San Jose,CA
+290,57,3,Core Values Award,Core Values Award,core,0,67287,Spark Squad,Family/Community,,Fremont,CA
+289,57,4,Innovation Project Award,Innovation Project Award,core,0,52363,Terrabytes,TerraEd,,San Jose,CA
+288,57,5,Robot Design Award,Robot Design Award,core,0,58711,Arctic Wolves,Family/Community,,Sunnyvale,CA
+287,57,2,Robot Performance Award,Robot Performance Award,core,0,65020,The Golden Huskies,Family/Community,,Palo Alto,CA
+218,58,1,Champion's Award,Champion's Award,core,0,60855,GearShift,Family/Community,,Fremont,CA
+224,58,8,Coach/Mentor Award,Coach/Mentor Award,core,0,65953,Infinity E-Bots,Cottonwood Creek,Peter Sim,Dublin,CA
+222,58,3,Core Values Award,Core Values Award,core,0,62984,Eagle Bots 2024,Family/Community,,Fremont,CA
+221,58,4,Innovation Project Award,Innovation Project Award,core,0,65569,Tassajara Bots,Family/Community,,Dublin,CA
+220,58,5,Robot Design Award,Robot Design Award,core,0,56860,RoboShockers,Harvest Park Middle School,,Pleasanton,CA
+219,58,2,Robot Performance Award,Robot Performance Award,core,0,65953,Infinity E-Bots,Cottonwood Creek,,Dublin,CA
+223,58,6,Rising All-Star Award,Rising All-Star Award,other,0,62079,Glitch Gang,Family/Community,,San Ramon,CA
+347,60,1,Champion's Award,Champion's Award,core,0,54977,Menlo Park Narleaotters,Family/Community,,Menlo Park,CA
+353,60,8,Coach/Mentor Award,Coach/Mentor Award,core,0,61932,BCS Golden Oceaneers,Bullis,Jodi Ramos,Los Altos,CA
+351,60,3,Core Values Award,Core Values Award,core,0,17493,Whale Whisperers,Cabrillo Middle School,,Santa Clara,CA
+350,60,4,Innovation Project Award,Innovation Project Award,core,0,8560,ProGRAHAMers,Graham Middle School,,Mountain View,CA
+349,60,5,Robot Design Award,Robot Design Award,core,0,67342,Sharks,Silicon Valley International School,,Palo Alto,CA
+348,60,2,Robot Performance Award,Robot Performance Award,core,0,60759,Cat-a-Bots,Family/Community,,Santa Clara,CA
+352,60,6,Rising All-Star Award,Rising All-Star Award,other,0,67150,Coding Ninjas,ULEAP,,Palo Alto,CA
+278,61,1,Champion's Award,Champion's Award,core,1,2713,Phat Seals,Crittenden Middle School,,Mountain View,CA
+285,61,8,Coach/Mentor Award,Coach/Mentor Award,core,0,60297,Circuit Breakers,Family/Community,Bhawana Mishra,Santa Clara,CA
+283,61,3,Core Values Award,Core Values Award,core,0,65285,Poki Bots,Family/Community,,FREMONT,CA
+282,61,4,Innovation Project Award,Innovation Project Award,core,0,58828,Cupertino ShortCircuit,Family/Community,,Cupertino,CA
+281,61,5,Robot Design Award,Robot Design Award,core,0,60942,Taco Shark,Herbert Hoover Elementary School,,Palo Alto,CA
+280,61,2,Robot Performance Award,Robot Performance Award,core,0,58828,Cupertino ShortCircuit,Family/Community,,Cupertino,CA
+284,61,6,Rising All-Star Award,Rising All-Star Award,other,0,50422,DragonBots,Frank S Greene Jr Middle Sch,,Palo Alto,CA
+239,62,1,Champion's Award,Champion's Award,core,1,417,Notre Dame Fighting iBots,Notre Dame School,,Vacaville,CA
+240,62,1,Champion's Award,Champion's Award,core,2,60718,Rockin Robos,Family/Community,,Rocklin,CA
+246,62,8,Coach/Mentor Award,Coach/Mentor Award,core,0,59943,Aqua Avengers,Family/Community,Mayank Agrawal,San Jose,CA
+244,62,3,Core Values Award,Core Values Award,core,0,445,Matsuyama RoboPines,Matsuyama Elementary School,,Sacramento,CA
+243,62,4,Innovation Project Award,Innovation Project Award,core,0,60923,Artesan,Family/Community,,Folsom,CA
+242,62,5,Robot Design Award,Robot Design Award,core,0,68202,Soaring Seastars,Family/Community,,Fremont,CA
+241,62,2,Robot Performance Award,Robot Performance Award,core,0,65902,Coding Mavs,Family/Community,,ROCKLIN,CA
+245,62,6,Rising All-Star Award,Rising All-Star Award,other,0,58380,Lego Masters1,,,Folsom,CA
+232,63,1,Champion's Award,Champion's Award,core,0,64052,ThunderBots,Family/Community,,Fremont,CA
+238,63,8,Coach/Mentor Award,Coach/Mentor Award,core,0,52765,warrior bot,Ardenwood school,Aditya D,Fremont,CA
+236,63,3,Core Values Award,Core Values Award,core,0,53595,Mechaminds,Family/Community,,Fremont,CA
+235,63,4,Innovation Project Award,Innovation Project Award,core,0,66075,TechTitans,Family/Community,,Fremont,CA
+234,63,5,Robot Design Award,Robot Design Award,core,0,51095,CreaTech,Family/Community,,Fremont,CA
+233,63,2,Robot Performance Award,Robot Performance Award,core,0,60037,BuilderBots,Family/Community,,Fremont,CA
+237,63,6,Rising All-Star Award,Rising All-Star Award,other,0,68231,Everest,Family/Community,,Milpitas,CA
+199,76,1,Champion's Award,Champion's Award,core,0,60198,Chronobot,Family/Community,,Fremont,CA
+200,76,2,Robot Performance Award,Robot Performance Award,core,0,60198,Chronobot,Family/Community,,Fremont,CA
+203,76,3,Core Values Award,Core Values Award,core,0,55794,Purple People Eaters FLL-C 55794,Piedmont Makers,,Oakland,CA
+202,76,4,Innovation Project Award,Innovation Project Award,core,0,56768,Blue Brickbots,Family/Community,,Fremont,CA
+201,76,5,Robot Design Award,Robot Design Award,core,0,60958,FLL-C 60958 -- The Great White Sharks,Piedmont Makers,,Piedmont,CA
+204,76,8,Coach/Mentor Award,Coach/Mentor Award,core,0,56768,Blue Brickbots,Family/Community,Ketan Rasal,Fremont,CA
+367,77,1,Champion's Award,Champion's Award,core,0,56860,RoboShockers,Harvest Park Middle School,,Pleasanton,CA
+369,77,1,Champion's Award,Champion's Award,core,0,64052,ThunderBots,Family/Community,,Fremont,CA
+371,77,2,Robot Performance Award,Robot Performance Award,core,0,65953,Infinity E-Bots,Cottonwood Creek,,Dublin,CA
+372,77,2,Robot Performance Award,Robot Performance Award,core,0,60388,Cosmic Motor,Family/Community,,Saratoga,CA
+374,77,3,Core Values Award,Core Values Award,core,0,65287,RoboWizards7,Family/Community,,Folsom,CA
+375,77,3,Core Values Award,Core Values Award,core,0,60855,GearShift,Family/Community,,Fremont,CA
+376,77,4,Innovation Project Award,Innovation Project Award,core,0,7052,OP Octopi,St. Gabriel School,,San Francisco,CA
+377,77,4,Innovation Project Award,Innovation Project Award,core,0,51095,CreaTech,Family/Community,,Fremont,CA
+378,77,5,Robot Design Award,Robot Design Award,core,0,52090,Canary1,Family/Community,,San Francisco,CA
+379,77,5,Robot Design Award,Robot Design Award,core,0,60037,BuilderBots,Family/Community,,Fremont,CA
+380,77,8,Coach/Mentor Award,Coach/Mentor Award,core,0,445,Matsuyama RoboPines,Matsuyama Elementary School,Mike Mullen,Sacramento,CA
+381,77,8,Coach/Mentor Award,Coach/Mentor Award,core,0,5983,GOATed Griffins (5983),Foothill Middle School,Devin Jackson,Walnut Creek,CA
+382,77,10,CT Kids Choice Award:  Favorite Pit Design,CT Kids Choice Award:  Favorite Pit Design,other,0,60388,Cosmic Motor,Family/Community,,Saratoga,CA
+383,77,12,CT Kids Choice Award:  Favorite Team Costume,CT Kids Choice Award:  Favorite Team Costume,other,0,61610,Argoclucks,Family/Community,,ALBANY,CA
+384,77,11,CT Kids Choice Award:  Favorite Robot and/or attachment,CT Kids Choice Award:  Favorite Robot and/or attachment,other,0,60388,Cosmic Motor,Family/Community,,Saratoga,CA
+373,77,13,CT Kids Choice Award:  Favorite team chant,CT Kids Choice Award:  Favorite team chant,other,0,68202,Soaring Seastars,Family/Community,,Fremont,CA
+370,77,14,CT Kids Choice Award:  Best team giveaway,CT Kids Choice Award:  Best team giveaway,other,0,56860,RoboShockers,Harvest Park Middle School,,Pleasanton,CA
+368,77,9,CT Kids Choice Award:  Coolest Innovation Project,CT Kids Choice Award:  Coolest Innovation Project,other,0,60388,Cosmic Motor,Family/Community,,Saratoga,CA
+451,110,1,Champion's Award,Champion's Award,core,0,65125,Baybots,Family/Community,,Sunnyvale,CA
+452,110,1,Champion's Award,Champion's Award,core,0,57382,RoboRise,Family/Community,,Foster City,CA
+453,110,1,Champion's Award,Champion's Award,core,0,60537,Mecha Masters,Basis Independent Fremont,,Fremont,CA
+454,110,2,Robot Performance Award,Robot Performance Award,core,0,65125,Baybots,Family/Community,,Sunnyvale,CA
+455,110,2,Robot Performance Award,Robot Performance Award,core,0,58828,Cupertino ShortCircuit,Family/Community,,Cupertino,CA
+456,110,2,Robot Performance Award,Robot Performance Award,core,0,60085,Lego Artisans,Family/Community,,Cupertino,CA
+457,110,3,Core Values Award,Core Values Award,core,0,4416,O.R.C.A,Cabrillo Middle School,,Santa Clara,CA
+458,110,3,Core Values Award,Core Values Award,core,0,60354,Paradox,Helios School,,Los Altos,CA
+459,110,3,Core Values Award,Core Values Award,core,0,62681,Golden Eagles,Queen of Apostles School,,San Jose,CA
+460,110,4,Innovation Project Award,Innovation Project Award,core,0,61950,Codettes,Family/Community,,Tracy,CA
+461,110,4,Innovation Project Award,Innovation Project Award,core,0,61685,Noddin Dynabots,Family/Community,,San Jose,CA
+462,110,4,Innovation Project Award,Innovation Project Award,core,0,67865,HydroHackers,Family/Community,,Santa Clara,CA
+463,110,5,Robot Design Award,Robot Design Award,core,0,64698,ROAR,Basis Independent Silicon Vly,,San Jose,CA
+464,110,5,Robot Design Award,Robot Design Award,core,0,60100,Cobras,Family/Community,,Los Gatos,CA
+465,110,5,Robot Design Award,Robot Design Award,core,0,54977,Menlo Park Narleaotters,Family/Community,,Menlo Park,CA
+466,110,8,Coach/Mentor Award,Coach/Mentor Award,core,0,51168,The Warriors,Family/Community,Sridhar Arjula,Rancho Cordova,CA
+467,110,8,Coach/Mentor Award,Coach/Mentor Award,core,0,66292,CookieBots,Girl Scouts,Eric Jacobson,Danville,CA
+472,110,10,CT Kids Choice Award:  Favorite Pit Design,CT Kids Choice Award:  Favorite Pit Design,other,0,60537,Mecha Masters,Basis Independent Fremont,,Fremont,CA
+470,110,12,CT Kids Choice Award:  Favorite Team Costume,CT Kids Choice Award:  Favorite Team Costume,other,0,65020,The Golden Huskies,Family/Community,,Palo Alto,CA
+469,110,11,CT Kids Choice Award:  Favorite Robot and/or attachment,CT Kids Choice Award:  Favorite Robot and/or attachment,other,0,65125,Baybots,Family/Community,,Sunnyvale,CA
+471,110,13,CT Kids Choice Award:  Favorite team chant,CT Kids Choice Award:  Favorite team chant,other,0,62681,Golden Eagles,Queen of Apostles School,,San Jose,CA
+468,110,14,CT Kids Choice Award:  Best team giveaway,CT Kids Choice Award:  Best team giveaway,other,0,60537,Mecha Masters,Basis Independent Fremont,,Fremont,CA
+473,110,9,CT Kids Choice Award:  Coolest Innovation Project,CT Kids Choice Award:  Coolest Innovation Project,other,0,60152,The Game Changers,Code Ninjas,,Union City,CA
+428,111,1,Champion's Award,Champion's Award,core,0,62314,Cyber Sharks,Family/Community,,Cupertino,CA
+429,111,1,Champion's Award,Champion's Award,core,0,60868,iBots,Family/Community,,Milpitas,CA
+430,111,1,Champion's Award,Champion's Award,core,0,56459,Code Warriors,Family/Community,,Fremont,CA
+431,111,2,Robot Performance Award,Robot Performance Award,core,0,64638,Brain Bots,Family/Community,,San Jose,CA
+432,111,2,Robot Performance Award,Robot Performance Award,core,0,62314,Cyber Sharks,Family/Community,,Cupertino,CA
+433,111,2,Robot Performance Award,Robot Performance Award,core,0,60787,Shelby,Saratoga Elementary School,,Saratoga,CA
+434,111,3,Core Values Award,Core Values Award,core,0,20915,TroBots,,,Burlingame,CA
+435,111,3,Core Values Award,Core Values Award,core,0,61611,Electro-Phoenix,Family/Community,,Fremont,CA
+436,111,3,Core Values Award,Core Values Award,core,0,60642,Code CrasherZ,Family/Community,,Santa Clara,CA
+437,111,4,Innovation Project Award,Innovation Project Award,core,0,58380,Lego Masters1,,,Folsom,CA
+438,111,4,Innovation Project Award,Innovation Project Award,core,0,61990,MIGHTY MINDS,Family/Community,,San Jose,CA
+439,111,4,Innovation Project Award,Innovation Project Award,core,0,64638,Brain Bots,Family/Community,,San Jose,CA
+440,111,5,Robot Design Award,Robot Design Award,core,0,57600,Delta Rovers,Family/Community,,San Jose,CA
+441,111,5,Robot Design Award,Robot Design Award,core,0,65018,Brickbots,"John M Horner Jr High School, William Hopkins Jr High School, Thomas Russell Middle School",,Fremont,CA
+442,111,5,Robot Design Award,Robot Design Award,core,0,53140,Fin Finders,Bret Harte Middle School,,San Jose,CA
+443,111,8,Coach/Mentor Award,Coach/Mentor Award,core,0,64638,Brain Bots,Family/Community,Frank Ren,San Jose,CA
+444,111,8,Coach/Mentor Award,Coach/Mentor Award,core,0,65978,Notre Dame Robotics - Blue Team,Notre Dame Elementary School,James Peroulas,Belmont,CA
+445,111,10,CT Kids Choice Award:  Favorite Pit Design,CT Kids Choice Award:  Favorite Pit Design,other,0,64638,Brain Bots,Family/Community,,San Jose,CA
+446,111,12,CT Kids Choice Award:  Favorite Team Costume,CT Kids Choice Award:  Favorite Team Costume,other,0,60868,iBots,Family/Community,,Milpitas,CA
+447,111,11,CT Kids Choice Award:  Favorite Robot and/or attachment,CT Kids Choice Award:  Favorite Robot and/or attachment,other,0,64638,Brain Bots,Family/Community,,San Jose,CA
+448,111,13,CT Kids Choice Award:  Favorite team chant,CT Kids Choice Award:  Favorite team chant,other,0,60868,iBots,Family/Community,,Milpitas,CA
+449,111,14,CT Kids Choice Award:  Best team giveaway,CT Kids Choice Award:  Best team giveaway,other,0,56459,Code Warriors,Family/Community,,Fremont,CA
+450,111,9,CT Kids Choice Award:  Coolest Innovation Project,CT Kids Choice Award:  Coolest Innovation Project,other,0,64638,Brain Bots,Family/Community,,San Jose,CA
+503,118,1,Champion's Award,Champion's Award,core,0,59559,Hawktonauts,Family/Community,,Menlo Park,CA
+504,118,2,Robot Performance Award,Robot Performance Award,core,0,70135,WorkInProgress,Family/Community,,Sunnyvale,CA
+505,118,3,Core Values Award,Core Values Award,core,0,65501,The Ocean Fighters,Family/Community,,Folsom,CA
+506,118,4,Innovation Project Award,Innovation Project Award,core,0,70148,TerraKnights,Family/Community,,San Jose,CA
+507,118,5,Robot Design Award,Robot Design Award,core,0,66522,The Placeholders,Family/Community,,San Carlos,CA
+510,118,8,Coach/Mentor Award,Coach/Mentor Award,core,0,65026,Brick Brains,Family/Community,Hari Krishna Kanigeri,Folsom,CA
+508,118,6,Rising All-Star Award,Rising All-Star Award,other,0,66208,Bob the Builders,Family/Community,,Cupertino,CA
+509,118,55,Motivate Award,Motivate Award,other,0,67111,AI Masters,Family/Community,,Folsom,CA
+511,119,1,Champion's Award,Champion's Award,core,0,67086,Any Fling,Harker,,San Jose,CA
+512,119,2,Robot Performance Award,Robot Performance Award,core,0,66438,Fearsome 5,Family/Community,,FOLSOM,CA
+514,119,3,Core Values Award,Core Values Award,core,0,66816,Seven Seas,Herbert Hoover Elementary,,Palo Alto,CA
+515,119,4,Innovation Project Award,Innovation Project Award,core,0,65572,Lego Llamas,Family/Community,,Folsom,CA
+513,119,5,Robot Design Award,Robot Design Award,core,0,65321,DCADS - Astro Cubs,Don Callejon Arts and Design School,,Santa Clara,CA
+518,119,8,Coach/Mentor Award,Coach/Mentor Award,core,0,70238,Trapped in Union City,Family/Community,,Union City,CA
+517,119,6,Rising All-Star Award,Rising All-Star Award,other,0,69207,Depth,Family/Community,,San Jose,CA
+516,119,55,Motivate Award,Motivate Award,other,0,65320,DCADS - Cyber Cubs,Don Callejon Arts and Design School,,Santa Clara,CA
+474,120,1,Champion's Award,Champion's Award,core,0,68221,"20,000 Legos Under the Sea",Silicon Valley International School,,Palo Alto,CA
+475,120,2,Robot Performance Award,Robot Performance Award,core,0,61692,Blue Bots,Family/Community,,Mountain View,CA
+476,120,3,Core Values Award,Core Values Award,core,0,65801,Pink Potato Chips,Family/Community,,Pleasanton,CA
+477,120,4,Innovation Project Award,Innovation Project Award,core,0,66045,BrickSlayers2.0,Family/Community,,alameda,CA
+478,120,5,Robot Design Award,Robot Design Award,core,0,67430,BayBots,Family/Community,,Cupertino,CA
+480,120,8,Coach/Mentor Award,Coach/Mentor Award,core,0,68412,QuantumBots,,Andrew Zhao,Palo Alto,CA
+479,120,6,Rising All-Star Award,Rising All-Star Award,other,0,66875,Famous Lego Lords,Family/Community,,FREMONT,CA
+481,121,1,Champion's Award,Champion's Award,core,0,65892,Code Queens,Family/Community,,Folsom,CA
+482,121,2,Robot Performance Award,Robot Performance Award,core,0,68726,Daedalus Bots,Marian A. Peterson Middle,,Sunnyvale,CA
+485,121,3,Core Values Award,Core Values Award,core,0,68643,House of Coders,Family/Community,,San Jose,CA
+484,121,4,Innovation Project Award,Innovation Project Award,core,0,67727,Thunderbolts,Family/Community,,Fremont,CA
+483,121,5,Robot Design Award,Robot Design Award,core,0,65273,LEGOnardo da Vinci,Family/Community,,Folsom,CA
+487,121,8,Coach/Mentor Award,Coach/Mentor Award,core,0,60141,Banayays,St Anselm School,Julie Symons,San Anselmo,CA
+486,121,6,Rising All-Star Award,Rising All-Star Award,other,0,66511,Tech Titans,Family/Community,,San Jose,CA
+495,122,1,Champion's Award,Champion's Award,core,0,66820,Leadways FBI,Leadways School,,Cupertino,CA
+496,122,2,Robot Performance Award,Robot Performance Award,core,0,66820,Leadways FBI,Leadways School,,Cupertino,CA
+499,122,3,Core Values Award,Core Values Award,core,0,66906,SuperAqua,Theodore Judah Elementary,,El Dorado Hills,CA
+498,122,4,Innovation Project Award,Innovation Project Award,core,0,47622,The Intellects,Quarry Lane School,,Dublin,CA
+497,122,5,Robot Design Award,Robot Design Award,core,0,58665,Lunatics 2 (Wildcats),Allstars United Education Foundation,,San Jose,CA
+502,122,8,Coach/Mentor Award,Coach/Mentor Award,core,0,61406,Quantum Robotics,Family/Community,Praveen,Dublin,CA
+501,122,6,Rising All-Star Award,Rising All-Star Award,other,0,69238,The Commas,Family/Community,,Stanford,CA
+500,122,55,Motivate Award,Motivate Award,other,0,63874,MasterBuilder3,Family/Community,,HILLSBOROUGH,CA
+494,123,1,Champion's Award,Champion's Award,core,0,68861,Technic Pythons,Family/Community,,Menlo Park,CA
+493,123,2,Robot Performance Award,Robot Performance Award,core,0,68861,Technic Pythons,Family/Community,,Menlo Park,CA
+490,123,3,Core Values Award,Core Values Award,core,0,67946,Sea Sigmas,Family/Community,,Folsom,CA
+491,123,4,Innovation Project Award,Innovation Project Award,core,0,70000,Bulldog Bots,Family/Community,,Fremont,CA
+492,123,5,Robot Design Award,Robot Design Award,core,0,66337,IJAVVE,Ida Jew Academy Valle Vista Elementary,,San Jose,CA
+488,123,8,Coach/Mentor Award,Coach/Mentor Award,core,0,68226,NinjaRobo$,"William Hopkins Junior High, Joshua Chadbourne Elementary, Diablo Vista Middle School",Suchita Garg,Fremont,CA
+489,123,6,Rising All-Star Award,Rising All-Star Award,other,0,66756,Cryptobots,,,Fremont,CA
+695,174,6,Rising All-Star Award,Rising All-Star Award,other,0,61803,Robosaurs,Foothill Elementary School,,Saratoga,CA
+706,178,1,Champion's Award,Champion's Award,core,0,61949,Ultraviolet,Family/Community,,Cupertino,CA
+705,178,2,Robot Performance Award,Robot Performance Award,core,0,66444,CyberPirates,Family/Community,,San Jose,CA
+702,178,3,Core Values Award,Core Values Award,core,0,17493,17493,Cabrillo Middle School,,Santa Clara,CA
+703,178,4,Innovation Project Award,Innovation Project Award,core,0,71128,MidKnight Marvels,The King's Academy,,Sunnyvale,CA
+704,178,5,Robot Design Award,Robot Design Award,core,0,66137,Build Guild - SBR,Family/Community,,Sunnyvale,CA
+661,185,1,Champion's Award,Champion's Award,core,0,72610,Lightning Raiders,Family/Community,,Cupertino,CA
+660,185,2,Robot Performance Award,Robot Performance Award,core,0,64757,Brain Bot,Family/Community,,Union City ,CA
+657,185,3,Core Values Award,Core Values Award,core,0,71805,Robo Crushers,Family/Community,,Cupertino,CA
+658,185,4,Innovation Project Award,Innovation Project Award,core,0,10586,The Peanut Botters,Nueva School,,Hillsborough,CA
+659,185,5,Robot Design Award,Robot Design Award,core,0,64757,Brain Bot,Family/Community,,Union City ,CA
+656,185,8,Coach/Mentor Award,Coach/Mentor Award,core,0,72207,St. Cecilia Robotics 8th Grade,St Cecilia School,Raith Roland,San Francisco,CA
+745,186,1,Champion's Award,Champion's Award,core,0,66208,Bob the Builders,Family/Community,,Cupertino,CA
+744,186,2,Robot Performance Award,Robot Performance Award,core,0,66208,Bob the Builders,Family/Community,,Cupertino,CA
+741,186,3,Core Values Award,Core Values Award,core,0,8278,Titanium Turtles,St Christopher School,,San Jose,CA
+742,186,4,Innovation Project Award,Innovation Project Award,core,0,60497,Apollo 6,Family/Community,,Fremont,CA
+743,186,5,Robot Design Award,Robot Design Award,core,0,65319,DCADS Robo Cubs,Don Callejon,,Santa Clara,CA
+740,186,8,Coach/Mentor Award,Coach/Mentor Award,core,0,73699,Cambrian Titans,"Union Middle, Dartmouth Middle",Ganga Bhavani Kondapalli,San Jose,CA
+686,187,1,Champion's Award,Champion's Award,core,0,60996,VortexMasterminds,Family/Community,,Folsom,CA
+685,187,2,Robot Performance Award,Robot Performance Award,core,0,73516,Dino Nuggets (BBQ),Family/Community,,Walnut Creek,CA
+682,187,3,Core Values Award,Core Values Award,core,0,71669,TheCodeBlooded4,Thornton Junior High,,Fremont,CA
+683,187,4,Innovation Project Award,Innovation Project Award,core,0,72651,Coding Buddies ,Family/Community,,San Ramon,CA
+684,187,5,Robot Design Award,Robot Design Award,core,0,60354,Helios Suns,Helios School,,Los Altos,CA
+680,187,8,Coach/Mentor Award,Coach/Mentor Award,core,0,66923,H2O Warriors,Family/Community,Neel Gopalan,Saratoga,CA
+681,187,6,Rising All-Star Award,Rising All-Star Award,other,0,66034,Westpark Mech Warriors,Family/Community,,Roseville,CA
+709,188,1,Champion's Award,Champion's Award,core,0,54977,Menlo Park Narleaotters,Family/Community,,Menlo Park,CA
+711,188,2,Robot Performance Award,Robot Performance Award,core,0,70178,Crystal Springs Uplands Middle School 1,Crystal Springs Uplands School,,Belmont,CA
+708,188,3,Core Values Award,Core Values Award,core,0,56768,Blue Brickbots,Family/Community,,Fremont,CA
+710,188,4,Innovation Project Award,Innovation Project Award,core,0,66820,Leadways FBI,Leadways School,,Cupertino,CA
+712,188,5,Robot Design Award,Robot Design Award,core,0,70849,ML Infinity Bots,Family/Community,,San Jose,CA
+707,188,8,Coach/Mentor Award,Coach/Mentor Award,core,0,72884,Starlight Scouts,Girl Scouts,Cat Fan,Pleasant Hill,CA
+694,189,1,Champion's Award,Champion's Award,core,0,48793,Mountain House,Family/Community,,Mountain House,CA
+693,189,1,Champion's Award,Champion's Award,core,0,68202,Curious Earthlings,,,Fremont,CA
+692,189,2,Robot Performance Award,Robot Performance Award,core,0,68040,MH Quantum,Family/Community,,Mountain House,CA
+689,189,3,Core Values Award,Core Values Award,core,0,60855,GearShift,Family/Community,,Fremont,CA
+690,189,4,Innovation Project Award,Innovation Project Award,core,0,61139,Lightning Squad,Family/Community,,Folsom,CA
+691,189,5,Robot Design Award,Robot Design Award,core,0,65287,RoboWizards7,Family/Community,,Folsom,CA
+687,189,8,Coach/Mentor Award,Coach/Mentor Award,core,0,72907,Argo Robotics Team 253,Argonaut Elementary,Purushotham G. Lala Balaji,Saratoga,CA
+688,189,6,Rising All-Star Award,Rising All-Star Award,other,0,72060,Robo Wizards,Family/Community,,Rancho Cordova,CA
+719,190,1,Champion's Award,Champion's Award,core,0,60085,Lego Artisans,Family/Community,,Cupertino,CA
+718,190,2,Robot Performance Award,Robot Performance Award,core,0,60085,Lego Artisans,Family/Community,,Cupertino,CA
+715,190,3,Core Values Award,Core Values Award,core,0,70148,TerraKnights,Family/Community,,San Jose,CA
+716,190,4,Innovation Project Award,Innovation Project Award,core,0,17492,17492,Cabrillo Middle School,,Santa Clara,CA
+717,190,5,Robot Design Award,Robot Design Award,core,0,67149,Imagination Lab School Team,ULEAP,,Palo Alto,CA
+713,190,8,Coach/Mentor Award,Coach/Mentor Award,core,0,56793,BCS Blue Team: Paleo-Paws,Bullis Charter School N,Jodi Ramos,Los Altos,CA
+714,190,6,Rising All-Star Award,Rising All-Star Award,other,0,8560,ProGRAHAMers,Graham Middle School,,Mountain View,CA
+701,191,1,Champion's Award,Champion's Award,core,0,4979,4979,Cabrillo Middle School,,Santa Clara,CA
+700,191,2,Robot Performance Award,Robot Performance Award,core,0,17494,17494,Cabrillo Middle School,,Santa Clara,CA
+697,191,3,Core Values Award,Core Values Award,core,0,53591,Tiger Robotics 2,Town School for Boys,,San Francisco,CA
+698,191,4,Innovation Project Award,Innovation Project Award,core,0,72540,TBD123,Family/Community,,San Jose,CA
+699,191,5,Robot Design Award,Robot Design Award,core,0,60942,Excavators,Jane Lathrop Stanford Middle,,Palo Alto,CA
+696,191,8,Coach/Mentor Award,Coach/Mentor Award,core,0,53591,Tiger Robotics 2,Town School for Boys,Eric Wild,San Francisco,CA
+667,192,1,Champion's Award,Champion's Award,core,0,62268,Delta Cosmic Coders 2025,Family/Community,,San Jose,CA
+666,192,2,Robot Performance Award,Robot Performance Award,core,0,62268,Delta Cosmic Coders 2025,Family/Community,,San Jose,CA
+663,192,3,Core Values Award,Core Values Award,core,0,73341, Blitz Bots ,Stratford School - Sunnyvale De Anza Park,,Sunnyvale,CA
+664,192,4,Innovation Project Award,Innovation Project Award,core,0,70765,The Paleo Coders,Stevens Creek Elementary,,Cupertino,CA
+665,192,5,Robot Design Award,Robot Design Award,core,0,70238,Trapped in Union City,Family/Community,,Union City,CA
+662,192,8,Coach/Mentor Award,Coach/Mentor Award,core,0,61600,Allstars Dolphins,Allstars United Education Foundation,Madan Bellam,San Jose,CA
+668,193,1,Champion's Award,Champion's Award,core,0,60033,Pokémon ,Family/Community,,Cupertino,CA
+669,193,2,Robot Performance Award,Robot Performance Award,core,0,60033,Pokémon ,Family/Community,,Cupertino,CA
+672,193,3,Core Values Award,Core Values Award,core,0,66078,Pleasanton Explorers,Family/Community,,Pleasanton,CA
+671,193,4,Innovation Project Award,Innovation Project Award,core,0,66816,Six Stars,Herbert Hoover Elementary,,Palo Alto,CA
+670,193,5,Robot Design Award,Robot Design Award,core,0,74260,Brickaneers,Mission San Jose Elementary,,Fremount,CA
+673,193,8,Coach/Mentor Award,Coach/Mentor Award,core,0,61017,Mecha Lions FLL B,Stratford Preparatory,Mr Chu,San Jose,CA
+679,194,1,Champion's Award,Champion's Award,core,0,72433,Blach Unearthed Odyssey,Georgina P. Blach Junior High,,Mountain View,CA
+678,194,2,Robot Performance Award,Robot Performance Award,core,0,72433,Blach Unearthed Odyssey,Georgina P. Blach Junior High,,Mountain View,CA
+675,194,3,Core Values Award,Core Values Award,core,0,72104,Techwiz 2.0,John F. Kennedy Middle,,Cupertino,CA
+676,194,4,Innovation Project Award,Innovation Project Award,core,0,30517,Ice Cream Sundays FLL-C 30517,Piedmont Makers,,Piedmont,CA
+677,194,5,Robot Design Award,Robot Design Award,core,0,72841,Haripriya Vangara,Family/Community,,Santa Clara,CA
+674,194,8,Coach/Mentor Award,Coach/Mentor Award,core,0,72104,Techwiz 2.0,John F. Kennedy Middle,Bindiya Abhinkar,Cupertino,CA
+758,267,1,Champion's Award,Champion's Award,core,0,61406,Quantum Bots,Family/Community,,Dublin,CA
+759,267,1,Champion's Award,Champion's Award,core,0,52363,TerraBytes,Family/Community,,San Jose,CA
+760,267,2,Robot Performance Award,Robot Performance Award,core,0,61406,Quantum Bots,Family/Community,,Dublin,CA
+761,267,2,Robot Performance Award,Robot Performance Award,core,0,48793,Mountain House,Family/Community,,Mountain House,CA
+766,267,3,Core Values Award,Core Values Award,core,0,66292,CookieBots,Girl Scouts,,Danville,CA
+767,267,3,Core Values Award,Core Values Award,core,0,70238,Trapped in Union City,Family/Community,,Union City,CA
+764,267,4,Innovation Project Award,Innovation Project Award,core,0,68202,Curious Earthlings,,,Fremont,CA
+765,267,4,Innovation Project Award,Innovation Project Award,core,0,62268,Delta Cosmic Coders 2025,Family/Community,,San Jose,CA
+762,267,5,Robot Design Award,Robot Design Award,core,0,64638,Brain Bots,Family/Community,,San Jose,CA
+763,267,5,Robot Design Award,Robot Design Award,core,0,60718,Rockin Robos,Family/Community,,Rocklin,CA
+768,267,8,Coach/Mentor Award,Coach/Mentor Award,core,0,70238,Trapped in Union City,Family/Community,David Wang,Union City,CA
+769,267,8,Coach/Mentor Award,Coach/Mentor Award,core,0,72257,Lego Benders,Family/Community,Vishwanath Ramireddy,Fremont,CA
+775,267,10,CT Kids Choice Award:  Favorite Pit Design,CT Kids Choice Award:  Favorite Pit Design,other,0,64638,Brain Bots,Family/Community,,San Jose,CA
+773,267,12,CT Kids Choice Award:  Favorite Team Costume,CT Kids Choice Award:  Favorite Team Costume,other,0,72151,Miniona Jones,Family/Community,,San Jose,CA
+772,267,11,CT Kids Choice Award:  Favorite Robot and/or attachment,CT Kids Choice Award:  Favorite Robot and/or attachment,other,0,64638,Brain Bots,Family/Community,,San Jose,CA
+774,267,13,CT Kids Choice Award:  Favorite team chant,CT Kids Choice Award:  Favorite team chant,other,0,64638,Brain Bots,Family/Community,,San Jose,CA
+771,267,14,CT Kids Choice Award:  Best team giveaway,CT Kids Choice Award:  Best team giveaway,other,0,66292,CookieBots,Girl Scouts,,Danville,CA
+770,267,9,CT Kids Choice Award:  Coolest Innovation Project,CT Kids Choice Award:  Coolest Innovation Project,other,0,64638,Brain Bots,Family/Community,,San Jose,CA
+783,268,1,Champion's Award,Champion's Award,core,0,60868,iBots,Family/Community,,San Jose,CA
+784,268,1,Champion's Award,Champion's Award,core,0,72905,Argo Robotics Team 251,Argonaut Elementary,,Saratoga,CA
+785,268,1,Champion's Award,Champion's Award,core,0,67092,Flame Bots,Family/Community,,Sunnyvale,CA
+786,268,2,Robot Performance Award,Robot Performance Award,core,0,60868,iBots,Family/Community,,San Jose,CA
+787,268,2,Robot Performance Award,Robot Performance Award,core,0,60085,Lego Artisans,Family/Community,,Cupertino,CA
+788,268,2,Robot Performance Award,Robot Performance Award,core,0,65258,CrypticButterflies,Family/Community,,San Jose,CA
+795,268,3,Core Values Award,Core Values Award,core,0,65319,DCADS Robo Cubs,Don Callejon,,Santa Clara,CA
+796,268,3,Core Values Award,Core Values Award,core,0,58828,ShortCircuit,Family/Community,,Cupertino,CA
+797,268,3,Core Values Award,Core Values Award,core,0,61685,Union Megatrons,Family/Community,,San Jose,CA
+792,268,4,Innovation Project Award,Innovation Project Award,core,0,57382,RoboRise,Family/Community,,Foster City,CA
+793,268,4,Innovation Project Award,Innovation Project Award,core,0,4979,4979,Cabrillo Middle School,,Santa Clara,CA
+794,268,4,Innovation Project Award,Innovation Project Award,core,0,71232,Aura100%,Family/Community,,San Jose,CA
+789,268,5,Robot Design Award,Robot Design Award,core,0,52561,Brilliant Beavers,Family/Community,,San Carlos,CA
+790,268,5,Robot Design Award,Robot Design Award,core,0,54977,Menlo Park Narleaotters,Family/Community,,Menlo Park,CA
+791,268,5,Robot Design Award,Robot Design Award,core,0,60996,VortexMasterminds,Family/Community,,Folsom,CA
+808,268,8,Coach/Mentor Award,Coach/Mentor Award,core,0,60497,Apollo 6,Family/Community,Scott Lee,Fremont,CA
+809,268,8,Coach/Mentor Award,Coach/Mentor Award,core,0,70148,TerraKnights,Family/Community,Pratik Lokesh,San Jose,CA
+802,268,10,CT Kids Choice Award:  Favorite Pit Design,CT Kids Choice Award:  Favorite Pit Design,other,0,60868,iBots,Family/Community,,San Jose,CA
+804,268,12,CT Kids Choice Award:  Favorite Team Costume,CT Kids Choice Award:  Favorite Team Costume,other,0,60868,iBots,Family/Community,,San Jose,CA
+805,268,11,CT Kids Choice Award:  Favorite Robot and/or attachment,CT Kids Choice Award:  Favorite Robot and/or attachment,other,0,60868,iBots,Family/Community,,San Jose,CA
+803,268,13,CT Kids Choice Award:  Favorite team chant,CT Kids Choice Award:  Favorite team chant,other,0,2848,2848,Cabrillo Middle School,,Santa Clara,CA
+806,268,14,CT Kids Choice Award:  Best team giveaway,CT Kids Choice Award:  Best team giveaway,other,0,60868,iBots,Family/Community,,San Jose,CA
+807,268,9,CT Kids Choice Award:  Coolest Innovation Project,CT Kids Choice Award:  Coolest Innovation Project,other,0,60868,iBots,Family/Community,,San Jose,CA
+800,268,15,Breakthrough Award,Breakthrough Award,other,0,34265,EagleBots,Queen of Apostles School,,San Jose,CA
+801,268,15,Breakthrough Award,Breakthrough Award,other,0,60502,CodeBreakerz,Home School,,San Ramon,CA
+798,268,93,Motivate Award,Motivate Award,other,0,60085,Lego Artisans,Family/Community,,Cupertino,CA
+799,268,93,Motivate Award,Motivate Award,other,0,66208,Bob the Builders,Family/Community,,Cupertino,CA
+810,271,1,Champion's Award,Champion's Award,core,0,66438,Fearsome 5,Family/Community,,FOLSOM,CA
+811,271,2,Robot Performance Award,Robot Performance Award,core,0,69947,Fossilbot,Family/Community,,Danville,CA
+814,271,3,Core Values Award,Core Values Award,core,0,56271,Gyraf,Family/Community,,Albany,CA
+813,271,4,Innovation Project Award,Innovation Project Award,core,0,70694,Stocklmeir BrickBots 10,Family/Community,,Sunnyvale,CA
+812,271,5,Robot Design Award,Robot Design Award,core,0,59278,Quantum Bricks,Family/Community,,Palo Alto,CA
+816,271,8,Coach/Mentor Award,Coach/Mentor Award,core,0,70727,Lego Legends,Family/Community,Kinchit Desai,Folsom,CA
+815,271,6,Rising All-Star Award,Rising All-Star Award,other,0,69947,Fossilbot,Family/Community,,Danville,CA
+782,272,1,Champion's Award,Champion's Award,core,0,60788,Sea Tractor,Saratoga Elementary School,,Saratoga,CA
+781,272,2,Robot Performance Award,Robot Performance Award,core,0,70468,Future Finders,Family/Community,,Fremont,CA
+778,272,3,Core Values Award,Core Values Award,core,0,72801,Super Kraken,Family/Community,,Alamo,CA
+779,272,4,Innovation Project Award,Innovation Project Award,core,0,70468,Future Finders,Family/Community,,Fremont,CA
+780,272,5,Robot Design Award,Robot Design Award,core,0,71033,TechnoTigers,Family/Community,,Mountain View,CA
+776,272,8,Coach/Mentor Award,Coach/Mentor Award,core,0,70468,Future Finders,Family/Community,Viral Gosalia,Fremont,CA
+777,272,6,Rising All-Star Award,Rising All-Star Award,other,0,74706,Porky Oinks,Family/Community,,Newark,CA

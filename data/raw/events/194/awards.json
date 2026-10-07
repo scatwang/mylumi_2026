@@ -1,0 +1,201 @@
+{
+  "status": "ok",
+  "awards": {
+    "champions": [],
+    "core": [
+      {
+        "id": 679,
+        "award_type": {
+          "id": 1,
+          "name": "Champion's Award",
+          "display_name": "Champion's Award",
+          "category": "core",
+          "has_place": true,
+          "color": "purple",
+          "icon": {
+            "style": "fa-solid",
+            "name": "fa-trophy-star"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 194,
+        "team": {
+          "number": 72433,
+          "name": "Blach Unearthed Odyssey",
+          "org_name": "Georgina P. Blach Junior High",
+          "org": {
+            "name": "Georgina P. Blach Junior High"
+          },
+          "city": "Mountain View",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 678,
+        "award_type": {
+          "id": 2,
+          "name": "Robot Performance Award",
+          "display_name": "Robot Performance Award",
+          "category": "core",
+          "has_place": true,
+          "color": "teal",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 194,
+        "team": {
+          "number": 72433,
+          "name": "Blach Unearthed Odyssey",
+          "org_name": "Georgina P. Blach Junior High",
+          "org": {
+            "name": "Georgina P. Blach Junior High"
+          },
+          "city": "Mountain View",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 675,
+        "award_type": {
+          "id": 3,
+          "name": "Core Values Award",
+          "display_name": "Core Values Award",
+          "category": "core",
+          "has_place": true,
+          "color": "danger",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 194,
+        "team": {
+          "number": 72104,
+          "name": "Techwiz 2.0",
+          "org_name": "John F. Kennedy Middle",
+          "org": {
+            "name": "John F. Kennedy Middle"
+          },
+          "city": "Cupertino",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 676,
+        "award_type": {
+          "id": 4,
+          "name": "Innovation Project Award",
+          "display_name": "Innovation Project Award",
+          "category": "core",
+          "has_place": true,
+          "color": "primary",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 194,
+        "team": {
+          "number": 30517,
+          "name": "Ice Cream Sundays FLL-C 30517",
+          "org_name": "Piedmont Makers",
+          "org": {
+            "name": "Piedmont Makers"
+          },
+          "city": "Piedmont",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 677,
+        "award_type": {
+          "id": 5,
+          "name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "has_place": true,
+          "color": "success",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-trophy"
+          }
+        },
+        "number": 0,
+        "recipient_name": "",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 194,
+        "team": {
+          "number": 72841,
+          "name": "Haripriya Vangara",
+          "org_name": "Family/Community",
+          "org": {
+            "name": "Family/Community"
+          },
+          "city": "Santa Clara",
+          "state": "CA"
+        },
+        "name": ""
+      },
+      {
+        "id": 674,
+        "award_type": {
+          "id": 8,
+          "name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "has_place": false,
+          "color": "info",
+          "icon": {
+            "style": "fa-duotone",
+            "name": "fa-award"
+          }
+        },
+        "number": 0,
+        "recipient_name": "Bindiya Abhinkar",
+        "organization_name": "",
+        "city": "",
+        "state": "CA",
+        "event_id": 194,
+        "team": {
+          "number": 72104,
+          "name": "Techwiz 2.0",
+          "org_name": "John F. Kennedy Middle",
+          "org": {
+            "name": "John F. Kennedy Middle"
+          },
+          "city": "Cupertino",
+          "state": "CA"
+        },
+        "name": ""
+      }
+    ],
+    "other": []
+  }
+}

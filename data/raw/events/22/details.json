@@ -1,0 +1,313 @@
+{
+  "id": 22,
+  "name": "2024 SF / East Bay / Capital District Championship",
+  "season": "2023 - MASTERPIECE (Challenge)",
+  "program": "FIRST LEGO League: Challenge",
+  "program_abbreviation": "fll_challenge",
+  "description": "",
+  "capacity": 36,
+  "total_registered": 36,
+  "level": {
+    "id": 4,
+    "name": "NorCal FLL-C : SF / East Bay / Capital District Championship",
+    "next_level": null,
+    "previous_levels": [
+      {
+        "id": 7,
+        "name": "NorCal FLL-C : SF / East Bay / Capital Qualifiers"
+      }
+    ],
+    "registration_opens": "2023-12-31T08:00:00-08:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 1
+  },
+  "event_status": "closed",
+  "event_status_display": "Closed",
+  "status_v2": "complete",
+  "event_day_phase": "complete",
+  "get_event_day_phase_display": "Event is Complete",
+  "registered": 36,
+  "total_reserved": 0,
+  "start_time": "2024-02-04T07:30:00-08:00",
+  "end_time": "2024-02-04T18:00:00-08:00",
+  "all_details": [
+    {
+      "id": null,
+      "detail_type": "rg_tables",
+      "get_detail_type_display": "Robot Game",
+      "title": "Robot Game Tables",
+      "description": "This event will have <strong>3</strong> pairs of Robot Game tables."
+    },
+    {
+      "id": null,
+      "detail_type": "judging_lanes",
+      "get_detail_type_display": "Judging",
+      "title": "Judging Pods",
+      "description": "This event will have <strong>6</strong> Judging Pods "
+    },
+    {
+      "id": 4,
+      "detail_type": "other",
+      "get_detail_type_display": "Other",
+      "title": "Championship Jotform",
+      "description": "Championship Requirements are posted on the Championship website including the jotform so that we can pull together the tournament program book and highlight reel.  Details at https://championship.norcalfll.org/mp-ct-registration-requirements/"
+    }
+  ],
+  "downloads": [],
+  "web_links": [
+    {
+      "id": 7,
+      "name": "PGHS Campus Map",
+      "description": "edited campus map showing where all of the Championship activities will be taking place",
+      "category": "event_downloads",
+      "get_category_display": "Event Downloads",
+      "url": "https://mylumi.playingatlearning.org/links/web/7/",
+      "count": 35
+    },
+    {
+      "id": 9,
+      "name": "Championship website",
+      "description": "",
+      "category": "event_downloads",
+      "get_category_display": "Event Downloads",
+      "url": "https://mylumi.playingatlearning.org/links/web/9/",
+      "count": 226
+    }
+  ],
+  "agenda_group": 6,
+  "agenda_items": [],
+  "public_agenda_items": [
+    {
+      "id": 738,
+      "title": "Team Check-in & Teams setup Pit table",
+      "description": "",
+      "start_time": "07:00:00",
+      "end_time": "07:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 739,
+      "title": "Coaches Meeting",
+      "description": "One Team Coach from each team will meet with the Tournament Director, Judge Advisor and Head Referee.  The Judge Advisor will cover any Judging questions.The Head Referee will answer Robot Game questions.  The Tournament Director go through any site specific announcement or reminders.",
+      "start_time": "07:30:00",
+      "end_time": "08:10:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 740,
+      "title": "Opening Ceremony",
+      "description": "Please do your best to make room in the seating area.",
+      "start_time": "08:10:00",
+      "end_time": "08:50:00",
+      "location": "`",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 742,
+      "title": "Team Robot Game Matches & Judging ",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "16:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 741,
+      "title": "Pits Open to Public",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "16:30:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 744,
+      "title": "Robot Game Matches - Round 1",
+      "description": "",
+      "start_time": "09:00:00",
+      "end_time": "10:25:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 743,
+      "title": "Team Medals & Team Picture",
+      "description": "",
+      "start_time": "09:30:00",
+      "end_time": "16:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 745,
+      "title": "Judging Blocks 1 & 2 & 3",
+      "description": "Only team members to go to Judging  - not open to the public",
+      "start_time": "09:45:00",
+      "end_time": "12:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 746,
+      "title": "Robot Game Matches - Round 2",
+      "description": "",
+      "start_time": "10:30:00",
+      "end_time": "12:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 747,
+      "title": "Lunch Break",
+      "description": "",
+      "start_time": "12:00:00",
+      "end_time": "12:50:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 748,
+      "title": "Judging Blocks 4 & 5 & 6",
+      "description": "Only team members to go to Judging  - not open to the public",
+      "start_time": "13:15:00",
+      "end_time": "15:15:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 749,
+      "title": "Robot Game Matches - Round 3",
+      "description": "",
+      "start_time": "13:25:00",
+      "end_time": "14:35:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 750,
+      "title": "Robot Game Matches - Round 4",
+      "description": "",
+      "start_time": "15:00:00",
+      "end_time": "16:10:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 751,
+      "title": "Cleanup / Tear Down",
+      "description": "Teams should pick up belongings and clean up their pit area.",
+      "start_time": "16:30:00",
+      "end_time": "17:00:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 752,
+      "title": "LEGO Master Model Builder ",
+      "description": "Please do your best to make room in the seating area in the main gym",
+      "start_time": "17:15:00",
+      "end_time": "17:45:00",
+      "location": " ",
+      "category": null,
+      "category_display": null
+    },
+    {
+      "id": 753,
+      "title": "Award Ceremony",
+      "description": " ",
+      "start_time": "17:45:00",
+      "end_time": "18:45:00",
+      "location": "",
+      "category": null,
+      "category_display": null
+    }
+  ],
+  "venue": {
+    "name": "Pleasant Grove High School",
+    "city": "Elk Grove",
+    "state": "CA",
+    "zip_code": "95624",
+    "website": ""
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/22/",
+  "website_uri": "/en/event/22/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/22/#volunteer",
+  "team_stats": {
+    "teams": 36,
+    "students": 118,
+    "cities": [
+      "sacramento",
+      "hillsborough",
+      "burlingame",
+      "santa clara",
+      "piedmont",
+      "danville",
+      "san francisco",
+      "mountain house",
+      "folsom",
+      "fremont",
+      "rocklin",
+      "palo alto",
+      "san jose",
+      "oakland",
+      "foster city",
+      "pleasanton",
+      "milpitas",
+      "tracy",
+      "saratoga",
+      "dublin",
+      "mountain view"
+    ],
+    "rookies": 0
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 1,
+    "info": {
+      "name": "MASTERPIECE (Challenge)",
+      "year": 2023,
+      "release": "2023-08-01T09:00:00-07:00",
+      "program": {
+        "id": 1,
+        "abbreviation": "fll_challenge",
+        "previous_program": 2,
+        "get_abbreviation_display": "FIRST LEGO League: Challenge",
+        "get_logo_path": "images/program_logos/fll_challenge_logo.png",
+        "enable_team_profile": true
+      },
+      "season_begins": "2023-05-01",
+      "get_logo_path": "images/season_logos/2023_fll_challenge.png"
+    },
+    "tableau_import_start": null,
+    "active": false,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/232376968448978?fllteam=%team_number%",
+    "has_team_profile": false
+  },
+  "role_template": {
+    "id": 5,
+    "name": "2023 FLL-C 36 Team Championship"
+  },
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": true,
+  "is_complete": true
+}

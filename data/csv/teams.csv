@@ -1,0 +1,1826 @@
+id,event_id,team_id,team_number,team_name,city,org_name,advancing_to_next_level,advancing_wait_list
+264,1,324,30497,FBI(Fascinating Bot Intelligence),Dublin,Family/Community,True,False
+260,1,223,52217,Merryhill Knights,Milpitas,Merryhill School,False,False
+251,1,357,52700,ArgoRobotics Team #1- Skyhigh,Saratoga,Argonaut Elementary School,False,False
+257,1,358,52701,ArgoRobotics Team #2 - ArgoStars,Saratoga,Argonaut Elementary School,False,False
+273,1,367,55513,Marvelous Moochis,Sunnyvale,,True,False
+188,1,70,55739,Tech_Bears,San Jose,Family/Community,True,False
+170,1,65,56511,Super Charged,Folsom,Family/Community,False,False
+287,1,308,60642,Code CrasherZ,Sunnyvale,Family/Community,True,False
+302,1,113,61016,Mecha-lions FLL A,San Jose,Stratford Preparatory,True,False
+303,1,114,61017,Mecha-lions FLL B,San Jose,Stratford Preparatory,False,False
+304,1,115,61018,Mecha-lions FLL C,San Jose,Stratford Preparatory,False,False
+288,1,293,61025,ROBOT REVOLUTIONARIES,Fremont,Code Ninjas Fremont,False,False
+286,1,294,61093,LEGO Nerds,Fremont,Code Ninjas Fremont,False,False
+95,1,154,61166,Foothill 2023A,Saratoga,Foothill Elementary School,False,True
+78,1,265,61599,Robusta,San Jose,Allstars United Education Foundation,False,False
+31,1,41,61803,RoboDolphins,Saratoga,Foothill Elementary School,False,False
+253,1,360,62000,ArgoRobotics Team #5 - Da Crewmates,Saratoga,Argonaut Elementary School,False,False
+283,1,369,62354,Star Catchers,San Jose,Chaboya Middle School,True,False
+284,2,313,7460,Tiger Robotics 8,San Francisco,Town School for Boys,False,False
+290,2,314,29151,Tiger Robotics 7,San Francisco,Town School for Boys,False,False
+1,2,180,30517,Ice Cream Sundays,Piedmont,Piedmont Makers,True,False
+12,2,182,37488,Jason Short,Oakland,Piedmont Makers,False,False
+22,2,90,37489,Human Joulez,Piedmont,Piedmont Makers,True,False
+291,2,356,39190,Owlz,Danville,Athenian School,False,False
+5,2,185,44531,Robotic Dogs,Piedmont,Piedmont Makers,False,False
+285,2,287,53591,Tiger Robotics 6,San Francisco,Town School for Boys,False,False
+20,2,149,55794,Purple People Eaters,Oakland,Piedmont Makers,True,False
+242,2,187,55795,The Chipmunks,Piedmont,Piedmont Makers,False,False
+9,2,188,55881,Electric Bananas,Piedmont,Piedmont Makers,False,False
+248,2,224,59976,Montevideo Merlins,San Ramon,Montevideo Elementary School,False,False
+274,2,366,60070,Robo-Sapiens,Milpitas,Fremont Robotics Academy,True,False
+133,2,45,60198,Chronobot,Fremont,Family/Community,True,False
+178,2,146,60447,Little Einstein,Lathrop,,False,False
+267,2,177,60702,Robochickens,Berkeley,Tinker Coop,False,False
+243,2,178,60958,Puma,Oakland,Piedmont Makers,True,False
+252,2,179,60959,60959,Piedmont,,False,False
+88,3,238,17491,ADOREable Fivesome,Santa Clara,Cabrillo Middle School,True,False
+207,3,232,25571,Brick X Brick,Santa Clara,Cabrillo Middle School,False,False
+225,3,28,50778,Technoblade,Los Altos,Family/Community,True,False
+223,3,176,53897,#OSKAR,Fremont,,False,False
+128,3,197,55324,Superstars,Cupertino,Family/Community,False,False
+169,3,342,55496,Tierra Bots,Santa Clara,Harker Middle School,True,False
+236,3,349,55779,PowerGirls,Los Gatos,"Blossom Hill Elementary School, Family/Community",True,False
+2,3,112,56489,The Elec-Droids,San Jose,Family/Community,False,False
+219,3,130,56993,SuperChargers,San Jose,Futurebytes,False,False
+224,3,290,57344,Jiggy Guys,Fremont,John M Gomes Elementary School,False,False
+74,3,277,58666,TechnoBricks Allstars,San Jose,Allstars United Education Foundation,False,False
+247,3,60,60033,Pokémon,Cupertino,Family/Community,False,False
+245,3,201,60050,Ustar Artist,San Jose,Ustar Education,False,False
+250,3,175,60297,Circuit Breakers,Santa Clara,Family/Community,False,False
+108,3,160,60337,short circuit,Pleasanton,Family/Community,False,False
+179,3,140,60354,The Vision,Los Altos,Helios School,False,False
+201,3,174,60788,Sheldon,Saratoga,Saratoga Elementary School,False,False
+125,3,25,60855,Gearshift,Fremont,Family/Community,True,False
+147,3,55,60869,Techno Troopers,San Jose,Family/Community,False,False
+110,3,213,61251,RoBosses,Fremont,Family/Community,True,False
+176,3,87,61704,Lego Monsters,Fremont,Family/Community,False,False
+206,3,108,61990,Mighty Minds,San Jose,Family/Community,True,False
+315,3,404,62443,The Eternal Encrypters,Sunnyvale,Cupertino Middle School,False,False
+279,3,361,62681,Golden Eagles,San Jose,Queen of Apostles School,True,False
+7,4,162,10585,BRTC,Hillsborough,Nueva School,False,False
+246,4,161,37482,Team Brick 2.0,Piedmont,Piedmont Makers,False,False
+269,4,184,44529,Bernstein-Ghassemi,Piedmont,Piedmont Makers,False,False
+258,4,183,44532,Razzle Dazzle Robotics,Piedmont,Piedmont Makers,True,False
+80,4,71,46302,The Trampolines,Piedmont,Piedmont Makers,True,False
+262,4,359,52702,ArgoRobotics Team #3 - Argo-Haves,Saratoga,Argonaut Elementary School,True,False
+261,4,124,56957,ArgoRobotics Team #4 - Olympians,Saratoga,Argonaut Elementary School,False,False
+270,4,303,56994,BWX,San Francisco,Brightworks,False,False
+276,4,292,60152,Masterpiecers,Union city,Code Ninjas,False,False
+238,4,298,60362,Master  Droids,Fremont,Family/Community,True,False
+40,4,116,61102,Project Mercury CL,San Francisco,Claire Lilienthal Sch-Scott,False,False
+280,4,343,61205,Woodland Robotics,Palo Alto,Family/Community,True,False
+281,4,123,61775,WeibelTeam,Fremont,Fred Weibel Elementary School,False,False
+265,4,289,61856,Digital Dawgs,Los Altos Hills,Family/Community,True,False
+272,4,301,62429,The Wild Bannas,San Jose,Avenues Silicon Valley,False,False
+271,4,312,62558,The Wild Corndogs,San Jose,Avenues Silicon Valley,False,False
+289,4,347,62701,Hillbrook Bears,Los Gatos,Hillbrook School,False,False
+86,5,237,4979,Mighty Ducks,Santa Clara,Cabrillo Middle School,True,False
+59,5,231,17492,BloK Masters,Santa Clara,Cabrillo Middle School,True,False
+52,5,52,37487,Bunny Bots,Piedmont,Piedmont Makers,False,False
+34,5,98,52142,Art's Genesis,San Jose,Family/Community,False,False
+100,5,151,52516,The Krazy Kiwis,Los Gatos,Family/Community,True,False
+41,5,20,53893,Roaring Lions,Santa Clara,Family/Community,False,False
+18,5,200,55971,Electroid Mayhem,Santa Clara,"Fremont High School, Don Callejon K-8 School",False,False
+43,5,158,56341,Master BEAST,Saratoga,St Andrew's Episcopal School,False,False
+226,5,214,60100,Cobras,LOS GATOS,Family/Community,True,False
+127,5,33,60215,Robotmakers,San Jose,Family/Community,True,False
+112,5,334,60338,Astrocubs,Sunnyvale,AstroBruins,False,False
+113,5,250,60388,Cosmic Motor,Santa Clara,Family/Community,False,False
+47,5,15,60535,Teal Tech Robotics,Palo Alto,Family/Community,False,False
+49,5,74,60623,Double Trouble Masterminds,Fremont,Family/Community,True,False
+116,5,336,61258,Beyond Stellar Robotics,Cupertino,Family/Community,False,False
+62,5,299,61282,Shoo Flies,San Jose,Apple Inc,False,False
+131,5,49,61699,LegoMasterz,San Ramon,Family/Community,False,False
+97,5,259,62381,Fast Leaping Lions,Los Altos,Family/Community,False,False
+172,6,163,10586,Da Vinci,Hillsborough,Nueva School,True,False
+162,6,122,37485,Morrison-Fisher,Piedmont,Piedmont Makers,False,False
+163,6,138,44530,Platinum Programmers,Piedmont,Piedmont Makers,False,False
+192,6,167,44533,Piedmont 44533,Oakland,Piedmont Makers,False,False
+167,6,12,51197,Jumping Jelly Beans,Fremont,Family/Community,True,False
+28,6,152,52397,Invalid Syntax,Piedmont,Piedmont Makers,True,False
+134,6,88,52502,Unicorn Sparkles,San Jose,Family/Community,False,False
+156,6,186,52508,Short Circuits,Oakland,Piedmont Makers,False,False
+19,6,325,52943,Digital Dolphins,San Francisco,SF Day School,True,False
+10,6,326,52944,Digital Dolphins- White Team,San Francisco,SF Day School,False,False
+16,6,327,57759,Digital Dolphins- Grey Team,San Francisco,SF Day School,False,False
+33,6,251,60913,Basement Bots,San Francisco,Claire Lilienthal Sch-Scott,False,False
+240,7,282,7052,Leaping Lemurs,San Francisco,St. Gabriel School,False,False
+241,7,283,7453,Magnificent Mangos,San Francisco,St. Gabriel School,False,False
+117,7,164,10589,Legovolts,Hillsborough,Nueva School,False,False
+194,7,256,20915,TroBots,Burlingame,Burlingame Intermediate School,True,False
+104,7,166,30516,Cheerios,Piedmont,Piedmont Makers,False,False
+173,7,181,30518,RoboSapiens,Piedmont,Piedmont Makers,False,False
+145,7,51,37484,Artvarks,Piedmont,Piedmont Makers,False,False
+129,7,170,40997,Denman Robotics,San Francisco,James Denman Middle School,True,False
+202,7,63,52090,Canary1,San Francisco,Family/Community,True,False
+220,7,221,52405,CheetoBots 2022,Fremont,John M Gomes Elementary School,False,False
+93,7,286,52498,MovingTreeHouse,Palo Alto,,True,False
+208,7,67,54145,G.O.A.T.S,San Jose,Family/Community,True,False
+210,7,40,55992,HawkBots,San Jose,Hacienda Science Magnet School,False,False
+211,7,36,55998,FLL Owls,San Jose,,False,False
+217,7,8,59937,Robo Mangal,Fremont,Harvey Green Elementary School,False,False
+204,7,244,60942,Doodle,Palo Alto,Herbert Hoover Elementary School,False,False
+213,7,156,61168,Foothill 2023C,Saratoga,Foothill Elementary School,True,False
+221,7,281,61397,GoForBots,Fremont,John M Gomes Elementary School,False,False
+77,8,242,25573,X-Mann Bots,Santa Clara,Cabrillo Middle School,True,False
+256,8,94,34265,Eagle Bots,San Jose,Queen of Apostles School,False,False
+228,8,284,40238,Plus Ultra,Pacific Grove,Family/Community,False,False
+230,8,332,47810,Plus Ultra 2,Salinas,Family/Community,False,False
+222,8,335,50809,AstroBruins,Sunnyvale,AstroBruins,False,False
+214,8,331,55867,Harrybot,San Jose,Family/Community,True,False
+91,8,258,56453,Donut Powered,Fremont,Family/Community,True,False
+231,8,75,57010,Rocket,Pleasanton,Family/Community,True,False
+259,8,217,58118,Protatoes,Fremont,Thornton Junior High School,False,False
+255,8,246,58181,GOATs,Fremont,"John M Gomes Elementary School, William Hopkins Jr High School, Basis Independent Fremont",False,False
+209,8,31,60038,Robo Champs,Fremont,Family/Community,False,False
+227,8,247,60377,RI Lego Warriors,Lathrop,Family/Community,False,False
+190,8,32,60428,LegoLegends,Tracy,Family/Community,True,False
+203,8,225,60718,Rockin Robos,Rocklin,Family/Community,True,False
+27,8,222,60753,Ri Robotics- Droid Sharks,Lathrop,Family/Community,False,False
+244,8,353,61031,Tech Masters,Castro Valley,Family/Community,False,False
+229,8,350,61351,RI Robo Raiders,Lathrop,Family/Community,False,False
+268,8,333,62314,Robotics Ninja,Cupertino,Family/Community,False,False
+3,9,111,752,Lego Gagas,San Jose,Bret Harte Middle School,True,False
+143,9,150,46264,Nuclear Eagles,San Jose,Family/Community,False,False
+141,9,89,51006,H.E.R.,Saratoga,Family/Community,True,False
+130,9,159,52496,CodeRunners,Cupertino,Family/Community,False,False
+132,9,44,53854,RRAVENS,San Jose,Bret Harte Middle,True,False
+144,9,29,53890,Autorun,Sunnyvale,Family/Community,True,False
+71,9,145,55494,Robo Brain,San Jose,,True,False
+73,9,328,55726,D()lphinS,San Jose,Family/Community,True,False
+142,9,10,56375,Zeal Kids,Fremont,Family/Community,False,False
+152,9,11,56459,Code Warriors,Fremont,Oliveira Elementary School,True,False
+165,9,26,56768,Blue Brickbots,Fremont,Family/Community,False,False
+82,9,276,58665,Wildcats Allstars,San Jose,Allstars United Education Foundation,False,False
+174,9,62,58828,ShortCircuit,Cupertino,Family/Community,False,False
+75,9,39,59366,Robo-JOKKIS,San Jose,Stratford School Mid-San Jose,True,False
+151,9,191,60115,racing robo,Pleasanton,Family/Community,False,False
+159,9,229,60120,Baoming Yang,San Jose,Family/Community,False,False
+160,9,255,61172,FLL Voyager,SUNNYVALE,Self,False,False
+99,9,206,61188,Cyber Titans@,San Jose,Family/Community,False,False
+107,9,69,61281,Mustang Rockets,Santa Clara,Family/Community,False,False
+60,9,309,61402,#RoboHackers,San Jose,Williams Elementary School,False,False
+137,9,23,61932,Bullis Gold Team,Los Altos,Bullis,False,False
+155,9,22,61944,FlyingWheels,Cupertino,Monta Vista High School,False,False
+51,9,169,62191,BookWormZ,CUPERTINO,Personal,False,False
+105,9,243,62268,Delta Cosmic Coders,San Jose,Family/Community,False,False
+55,10,253,21887,Electric Eagles,San Lorenzo,Redwood Christian Middle HS,False,False
+118,10,241,25572,Ctrl+T,Santa Clara,Cabrillo Middle School,True,False
+68,10,245,52070,Smilodon,Palo Alto,Family/Community,True,False
+115,10,100,52305,Master Oogway,Pleasanton,Family/Community,False,False
+72,10,35,54977,Menlo Park Narleaotters,Menlo Park,Family/Community,True,False
+66,10,252,55669,Robot Dolphin,Foster City,,True,False
+26,10,272,55793,SkyHigh,San Jose,Allstars United Education Foundation,False,False
+83,10,189,55823,Enginerds,Fremont,William Hopkins Jr High School,False,False
+124,10,128,57236,Electric Bricks,Fremont,Family/Community,False,False
+25,10,275,58664,ArtHackerZ,San Jose,Allstars United Education Foundation,False,False
+61,10,80,58711,Arctic Wolves,Sunnyvale,Family/Community,True,False
+24,10,134,60085,Lego Artisans,Cupertino,Family/Community,False,False
+79,10,147,60169,BUUUFF!!3,Sunnyvale,"Cupertino Middle School, Louis E Stocklmeir School",False,False
+96,10,47,60514,Artistic,San Ramon,Family/Community,False,False
+32,10,91,60762,Legotronics,Dublin,Tri Valley Robotics,True,False
+84,10,270,61604,Mechanical Thump,San Jose,Allstars United Education Foundation,False,False
+89,10,344,61778,RoboRangers,Palo Alto,Family/Community,False,False
+85,10,226,62280,THE B.E.A.Rs.,Sunnyvale,Family/Community,False,False
+109,11,19,51095,CreaTech,Fremont,Family/Community,True,False
+46,11,56,52765,Dragonoids,Fremont,Thorton Middle school,True,False
+11,11,126,56649,Innovative Energizers,Fremont,Basis Independent Fremont,True,False
+92,11,14,57125,Incredibuilders,Fremont,Family/Community,False,False
+36,11,278,58668,Techno Sharks Allstars,San Jose,Allstars United Education Foundation,False,False
+81,11,137,59703,Brick-o-Brainiacs,Tracy,Family/Community,False,False
+4,11,72,60151,Best Bees,Fremont,Basis Independent Fremont,True,False
+8,11,27,60268,Lego Beats,Fremont,John M Gomes Elementary School,False,False
+42,11,257,60496,Alternative Force,Sunnyvale,Family/Community,True,False
+14,11,104,60668,Legendary Builders,Fremont,Basis Independent Fremont,False,False
+103,11,216,60734,Gopher Botz,Fremont,John M Gomes Elementary School,True,False
+39,11,205,60967,Lightening Bots,Milpitas,Family/Community,False,False
+63,11,269,61603,Wrecker Jaw,San Jose,Allstars United Education Foundation,False,False
+29,11,271,61605,Smash Clan,San Jose,Allstars United Education Foundation,False,False
+30,11,136,61713,brick-o-brainiacs wizards,Tracy,Family/Community,False,False
+37,11,346,61717,Robo Titans,Fremont,John M Gomes Elementary School,False,False
+54,11,82,61998,TechTitans,Fremont,John M Horner Jr High School,False,False
+53,11,204,62079,San Ramon Thunders,San Ramon,Family/Community,False,False
+189,12,119,2713,Pantherbots,Mountain View,Crittenden Middle School,False,False
+182,12,235,4416,Techno Cougars,Santa Clara,Cabrillo Middle School,True,False
+149,12,240,17494,From Another Planet,Santa Clara,Cabrillo Middle School,False,False
+122,12,165,18197,SCEME Team,San Bruno,Nueva School,True,False
+198,12,13,30515,Rockin Robos,Piedmont,Piedmont Makers,True,False
+153,12,107,32759,Kenneth Glassey,Santa Clara,Monticello Academy,False,False
+158,12,93,37483,Freckles GPT,Piedmont,Piedmont Makers,False,False
+135,12,202,50422,DragonBots,Palo Alto,Frank S Greene Jr Middle Sch,False,False
+205,12,61,52286,Tornado,Cupertino,Family/Community,False,False
+181,12,260,55976,Megamind Mechanics,Los Altos,Family/Community,False,False
+166,12,24,56793,BCS Blue Team,Los Altos,Bullis Charter School N,False,False
+215,12,230,57285,Mighty Minds,San Jose,Family/Community,False,False
+101,12,339,57382,RoboRise,Foster City,Family/Community,False,False
+200,12,76,57570,FremontSupernovas,Fremont,,False,False
+187,12,173,57600,Delta Rovers,San Jose,Family/Community,True,False
+136,12,77,57977,Rockhead Robotics,Saratoga,Argonaut Elementary School,True,False
+218,12,208,59725,Pokemon,Cupertino,Family/Community,False,False
+140,12,97,60320,Hepha,San Jose,Family/Community,True,False
+183,12,53,60418,Hedgedroid,Palo Alto,Hoover Elementary School,False,False
+186,12,99,60537,Mecha Masters,FREMONT,Family/Community,True,False
+171,12,135,61119,Futuristic Felines,Sunnyvale,Sunnyvale Middle School,True,False
+216,12,143,61153,Apollo 13 Wolves,San Francisco,Claire Lilienthal Sch-Scott,False,False
+58,12,96,61185,Piece Masters,Palo Alto,Family/Community,False,False
+157,12,59,61610,Van Gopher,Albany,Family/Community,False,True
+185,14,234,2848,S.H.R.E.K.,Santa Clara,Cabrillo Middle School,True,False
+15,14,86,5254,Golden Surfers,East Palo Alto,Aspire East Palo Alto Charter School,False,False
+196,14,102,7434,Pikachu Power Plant,San Bruno,Nueva School,False,False
+266,14,110,37486,Cyber Kings,Piedmont,Piedmont Makers,False,False
+177,14,196,51047,NETHER BOTS 20,San Ramon,Family/Community,False,False
+193,14,228,51168,The Warriors,Rancho Cordova,Family/Community,True,False
+237,14,101,52306,Infinite AI,San Ramon,Family/Community,False,False
+64,14,21,52481,Vision,Pleasanton,Family/Community,True,False
+212,14,50,52522,Coding-Arsenals,San Ramon,Home School,True,False
+146,14,6,56339,Electric Sources,FREMONT,William Hopkins Middle School,True,False
+154,14,157,56747,MillikinBots,Santa Clara,Family/Community,True,False
+199,14,7,58305,RoboWarriors,Fremont,Family/Community,False,False
+119,14,81,60291,Lightning Lego Legends,Fremont,Family/Community,False,False
+277,14,131,60433,Dragon Monkeys,Santa Clara,St Lawrence Elem & Middle Sch,False,False
+191,14,46,60502,Codebreakerz,San Ramon,Newagecoders,True,False
+38,14,48,60533,Artify,San Ramon,Newagecoders,False,False
+76,14,262,60684,TheArcticPack,San Jose,Allstars United Education Foundation,False,False
+249,14,305,60727,Cyber Soldiers,Sunnyvale,Family/Community,True,False
+197,14,118,60787,Shelby,Saratoga,Saratoga Elementary School,False,False
+35,14,263,61597,Split Bot,San Jose,Allstars United Education Foundation,False,False
+232,14,168,61708,Squirtle,Saratoga,Saratoga Elementary School,False,False
+278,14,132,61769,Flaming Phoenixes,Santa Clara,St Lawrence Elem & Middle Sch,False,False
+195,14,109,61949,ULTRAVIOLET,Cupertino,Family/Community,False,False
+282,14,348,62308,Funky Potatoes,Cupertino,Family/Community,False,False
+65,15,233,2847,Crescendo Coders,Santa Clara,Cabrillo Middle School,True,False
+106,15,236,4978,Maroon Five,Santa Clara,Cabrillo Middle School,True,False
+13,15,315,8278,Titanium Turtles,San Jose,St Christopher School,False,False
+6,15,304,8347,Brickaroos,San Jose,St Christopher School,False,False
+23,15,307,8445,Ultra Mega Technologies,San Jose,St Christopher School,False,False
+21,15,297,8743,Challenge - Team 4 Rewired,San Jose,St Christopher School,False,False
+121,15,106,9726,Kenneth Glassey,Santa Clara,Monticello Academy,False,False
+67,15,239,17493,Krafty Kids,Santa Clara,Cabrillo Middle School,False,False
+50,15,66,51054,Techno Masters,Pleasanton,Family/Community,True,False
+87,15,129,53086,Discovery Eagles,San Jose,Discovery Charter School 1,False,False
+17,15,210,53140,Van Gophers,San Jose,Family/Community,True,False
+126,15,92,53278,Magnetronics,San Ramon,Tri Valley Robotics,False,False
+111,15,5,59926,TechnoDragonz,Fremont,John M. Horner Middle School,True,False
+45,15,261,60683,TechStrikePrecision,San Jose,Allstars United Education Foundation,False,False
+56,15,54,60868,iBots,Milpitas,Family/Community,True,False
+102,15,155,61167,Foothill 2023B,Saratoga,Foothill Elementary School,False,False
+98,15,58,61387,CCL,Mountain View,YCIS Silicon Valley,False,False
+70,15,268,61602,Hacksaw Siesta,San Jose,Allstars United Education Foundation,False,False
+293,16,371,445,Matsuyama RoboPines,Sacramento,Matsuyama Elementary School,False,False
+90,16,139,877,Code Crashers,Sacramento,Home School,False,False
+123,16,291,4506,Techno Cavs,Sacramento,Sacramento Country Day School,True,False
+239,16,248,19169,The Notre Dame Fighting iBots - GOLD,Vacaville,Notre Dame School,False,False
+235,16,249,30509,The Notre Dame Fighting iBots - GREEN,Vacaville,Notre Dame School,False,False
+168,16,212,38103,Astrobots,Sacramento,Family/Community,True,False
+139,16,211,48793,Mountain House,Mountain House,Mountain House Community,True,False
+275,16,42,51057,ROCKING ROBOTS,Folsom,Family/Community,True,False
+120,16,68,52427,Circuit Squad,Rocklin,Family/Community,False,False
+148,16,193,52597,Flaming Stars,Folsom,Family/Community,True,False
+138,16,121,53150,DigiTech,Folsom,"Folsom Middle School, Theodore Judah Elem School",False,False
+69,16,329,53291,Mad Olive,El Dorado Hills,Family/Community,False,False
+234,16,43,55917,Dragon Dudes,Danville,Diablo Vista Middle School,False,False
+295,16,218,55959,Shrek's Friends,Foster City,Family/Community,True,False
+44,16,95,58380,Lego Masters1,Folsom,Community,True,False
+150,16,300,59922,Baxter's Builders,Sacramento,Sacramento Country Day School,False,False
+161,16,37,60340,RoBobcats,Santa Clara,Basis Independent Silicon Vly,False,False
+164,16,172,60507,Prime,Tracy,Family/Community,False,False
+294,16,373,60759,Sushi Rolls Roll Out,Santa Clara,Family/Community,False,False
+94,16,192,60923,Artesan,Folsom,Family/Community,False,False
+233,16,57,60996,VortexMasterminds,Folsom,Family/Community,False,False
+175,16,220,61776,Tech Ninja,Rancho Cordova,Family/Community,False,False
+320,16,374,62274,The Van Goes,Mountain View,Family/Community,True,False
+312,16,254,62380,Astro,Davis,"Pioneer Elementary School, Robert E Willett Elem School",False,False
+313,17,207,54970,Blaze,Pleasanton,Family/Community,True,False
+298,17,203,60280,The Hackers,Mountain View,Family/Community,False,False
+308,17,363,60956,The henny pennys,san jose,St martin of Tours,False,False
+311,17,364,60987,RoboFish,san jose,St martin of Tours,False,False
+307,17,125,61116,Spike Builders,Mountain House,Golden Coast Innovations,False,False
+317,17,390,61138,Golden Musicians,Cupertino,Family/Community,True,False
+305,17,310,61333,DaVinci Coders,Santa Clara,"Peterson Middle School, Don Callejon K-8 School",True,False
+301,17,64,61334,Manu Srinivasan,Cupertino,Family/Community,False,False
+309,17,194,61808,Untitled Documents,Santa Clara,Millikin Elementary School,False,False
+310,17,295,61938,LEGO Champions,Fremont,Code Ninjas Fremont,False,False
+299,17,219,62229,LegoLegends,San Jose,,False,False
+297,17,376,62296,In-Vinci-Bots,Cupertino,Self,True,False
+318,18,362,37811,OwOls,Danville,Athenian School,False,False
+342,18,379,39742,QLS MiniBytes,Dublin,The Quarry Lane School,False,False
+336,18,380,39789,QLS MegaBytes,Pleasanton,The Quarry Lane School,False,False
+333,18,381,47621,QLS Flashbots,Dublin,Quarry Lane School,False,False
+334,18,382,47622,QLS CloudBots,Dublin,The Quarry Lane School,False,False
+314,18,398,56940,RoboMasters,Fremont,Family/Community,True,False
+306,18,345,59943,THESHOOTINGSTARS,San Jose,Family/Community,True,False
+319,18,393,60113,Next Gen Robos,Fremont,Family/Community,False,False
+296,18,199,61301,Fantastic Fource,Dublin,Family/Community,True,False
+300,18,352,61406,STEAM Bots,Dublin,Family/Community,True,False
+316,18,378,62552,Fieldbots,Belmont,Field Middle School,False,False
+335,18,395,63582,QLS PoppeBots,Dublin,The Quarry Lane School,False,False
+321,21,377,461,Terminatorz,Morgan Hill,Britton Middle School,False,False
+327,21,105,24392,Firedragons,San Francisco,Chinese American International School,False,False
+328,21,354,48453,Firedragons 2,San Francisco,Chinese American International School,False,False
+330,21,413,51196,BunnyBots,Milpitas,Family/Community,False,False
+332,21,410,56487,CreativeSeven,Fremont,Family/Community,False,False
+323,21,402,60384,Brick Innovators,Santa Clara,Family / Community,False,False
+324,21,16,60914,TechnoMasters,San Jose,Family/Community,True,False
+322,21,408,60929,Chips 'n' Bots,San Mateo,Family/Community,True,False
+326,21,406,60984,Limitless Stars,Fremont,Family/Community,False,False
+325,21,407,61055,Silent Builders,Fremont,Family/Community,True,False
+331,21,409,62005,Lego Legends,FREMONT,"Ardenwood Elementary School, Forest Park Elementary School",True,False
+329,21,416,62140,Team St.Anne,San Francisco,St.Anne,False,False
+496,22,291,4506,Techno Cavs,Sacramento,Sacramento Country Day School,False,False
+465,22,163,10586,Da Vinci,Hillsborough,Nueva School,False,False
+415,22,256,20915,TroBots,Burlingame,Burlingame Intermediate School,False,False
+370,22,242,25573,X-Mann Bots,Santa Clara,Cabrillo Middle School,False,False
+491,22,180,30517,Ice Cream Sundays,Piedmont,Piedmont Makers,False,False
+433,22,90,37489,Human Joulez,Piedmont,Piedmont Makers,False,False
+384,22,212,38103,Astrobots,Sacramento,Family/Community,False,False
+528,22,356,39190,Owlz,Danville,Athenian School,False,False
+493,22,170,40997,Denman Robotics,San Francisco,James Denman Middle School,False,False
+520,22,138,44530,Platinum Programmers,Piedmont,Piedmont Makers,False,False
+487,22,211,48793,Mountain House,Mountain House,Mountain House Community,False,False
+390,22,42,51057,ROCKING ROBOTS,Folsom,Family/Community,False,False
+373,22,12,51197,Jumping Jelly Beans,Fremont,Family/Community,False,False
+485,22,63,52090,Canary1,San Francisco,Family/Community,False,False
+425,22,152,52397,Invalid Syntax,Piedmont,Piedmont Makers,False,False
+494,22,68,52427,Circuit Squad,Rocklin,Family/Community,False,False
+424,22,286,52498,MovingTreeHouse,Palo Alto,,False,False
+414,22,193,52597,Flaming Stars,Folsom,Family/Community,False,False
+405,22,67,54145,G.O.A.T.S,San Jose,Family/Community,False,False
+490,22,149,55794,Purple People Eaters,Oakland,Piedmont Makers,False,False
+388,22,331,55867,Harrybot,San Jose,Family/Community,False,False
+375,22,218,55959,Shrek's Friends,Foster City,Family/Community,False,False
+464,22,258,56453,Donut Powered,Fremont,Family/Community,False,False
+486,22,398,56940,RoboMasters,Fremont,Family/Community,False,False
+376,22,75,57010,Rocket,Pleasanton,Family/Community,False,False
+387,22,95,58380,Lego Masters1,Folsom,Community,False,False
+483,22,345,59943,THESHOOTINGSTARS,San Jose,Family/Community,False,False
+497,22,366,60070,Robo-Sapiens,Milpitas,Fremont Robotics Academy,False,False
+379,22,45,60198,Chronobot,Fremont,Family/Community,False,False
+500,22,32,60428,LegoLegends,Tracy,Family/Community,False,False
+391,22,225,60718,Rockin Robos,Rocklin,Family/Community,False,False
+428,22,178,60958,Puma,Oakland,Piedmont Makers,False,False
+385,22,156,61168,Foothill 2023C,Saratoga,Foothill Elementary School,False,False
+394,22,199,61301,Fantastic Fource,Dublin,Family/Community,False,False
+396,22,352,61406,STEAM Bots,Dublin,Family/Community,False,False
+530,22,374,62274,The Van Goes,Mountain View,Family/Community,False,False
+525,23,234,2848,S.H.R.E.K.,Santa Clara,Cabrillo Middle School,False,False
+392,23,235,4416,Techno Cougars,Santa Clara,Cabrillo Middle School,False,False
+514,23,237,4979,Mighty Ducks,Santa Clara,Cabrillo Middle School,False,False
+603,23,239,17493,Krafty Kids,Santa Clara,Cabrillo Middle School,False,False
+413,23,165,18197,SCEME Team,San Bruno,Nueva School,False,False
+475,23,241,25572,Ctrl+T,Santa Clara,Cabrillo Middle School,False,False
+430,23,13,30515,Rockin Robos,Piedmont,Piedmont Makers,False,False
+450,23,183,44532,Razzle Dazzle Robotics,Piedmont,Piedmont Makers,False,False
+447,23,71,46302,The Trampolines,Piedmont,Piedmont Makers,False,False
+537,23,228,51168,The Warriors,Rancho Cordova,Family/Community,False,False
+612,23,413,51196,BunnyBots,Milpitas,Family/Community,False,False
+488,23,245,52070,Smilodon,Palo Alto,Family/Community,False,False
+369,23,50,52522,Coding-Arsenals,San Ramon,Home School,False,False
+395,23,359,52702,ArgoRobotics Team #3 - Argo-Haves,Saratoga,Argonaut Elementary School,False,False
+523,23,325,52943,Digital Dolphins,San Francisco,SF Day School,False,False
+591,23,20,53893,Roaring Lions,Santa Clara,Family/Community,False,False
+402,23,35,54977,Menlo Park Narleaotters,Menlo Park,Family/Community,False,False
+482,23,367,55513,Marvelous Moochis,Sunnyvale,,False,False
+382,23,6,56339,Electric Sources,FREMONT,William Hopkins Middle School,False,False
+565,23,14,57125,Incredibuilders,Fremont,Family/Community,False,False
+378,23,173,57600,Delta Rovers,San Jose,Family/Community,False,False
+374,23,77,57977,Rockhead Robotics,Saratoga,Argonaut Elementary School,False,False
+617,23,276,58665,Wildcats Allstars,San Jose,Allstars United Education Foundation,False,False
+526,23,214,60100,Cobras,LOS GATOS,Family/Community,False,False
+563,23,292,60152,Masterpiecers,Union city,Code Ninjas,False,False
+371,23,33,60215,Robotmakers,San Jose,Family/Community,False,False
+467,23,97,60320,Hepha,San Jose,Family/Community,False,False
+516,23,298,60362,Master  Droids,Fremont,Family/Community,False,False
+368,23,46,60502,Codebreakerz,San Ramon,Newagecoders,False,False
+518,23,74,60623,Double Trouble Masterminds,Fremont,Family/Community,False,False
+393,23,91,60762,Legotronics,Dublin,Tri Valley Robotics,False,False
+542,23,294,61093,LEGO Nerds,Fremont,Code Ninjas Fremont,False,False
+479,23,135,61119,Futuristic Felines,Sunnyvale,Sunnyvale Middle School,False,False
+524,23,390,61138,Golden Musicians,Cupertino,Family/Community,False,False
+420,23,343,61205,Woodland Robotics,Palo Alto,Family/Community,False,False
+377,23,289,61856,Digital Dawgs,Los Altos Hills,Family/Community,False,False
+406,24,111,752,Lego Gagas,San Jose,Bret Harte Middle School,False,False
+504,24,233,2847,Crescendo Coders,Santa Clara,Cabrillo Middle School,False,False
+419,24,236,4978,Maroon Five,Santa Clara,Cabrillo Middle School,False,False
+432,24,238,17491,ADOREable Fivesome,Santa Clara,Cabrillo Middle School,False,False
+510,24,324,30497,FBI(Fascinating Bot Intelligence),Dublin,Family/Community,False,False
+423,24,28,50778,Technoblade,Los Altos,Family/Community,False,False
+417,24,89,51006,H.E.R.,Saratoga,Family/Community,False,False
+505,24,66,51054,Techno Masters,Pleasanton,Family/Community,False,False
+408,24,19,51095,CreaTech,Fremont,Family/Community,False,False
+522,24,21,52481,Vision,Pleasanton,Family/Community,False,False
+429,24,56,52765,Dragonoids,Fremont,Thorton Middle school,False,False
+400,24,210,53140,Van Gophers,San Jose,Family/Community,False,False
+511,24,44,53854,RRAVENS,San Jose,Bret Harte Middle,False,False
+397,24,29,53890,Autorun,Sunnyvale,Family/Community,False,False
+507,24,207,54970,Blaze,Pleasanton,Family/Community,False,False
+422,24,145,55494,Robo Brain,San Jose,,False,False
+409,24,342,55496,Tierra Bots,Santa Clara,Harker Middle School,False,False
+372,24,252,55669,Robot Dolphin,Foster City,,False,False
+503,24,328,55726,D()lphinS,San Jose,Family/Community,False,False
+506,24,70,55739,Tech_Bears,San Jose,Family/Community,False,False
+509,24,349,55779,PowerGirls,Los Gatos,"Blossom Hill Elementary School, Family/Community",False,False
+398,24,11,56459,Code Warriors,Fremont,Oliveira Elementary School,False,False
+489,24,126,56649,Innovative Energizers,Fremont,Basis Independent Fremont,False,False
+512,24,39,59366,Robo-JOKKIS,San Jose,Stratford School Mid-San Jose,False,False
+410,24,5,59926,TechnoDragonz,Fremont,John M. Horner Middle School,False,False
+407,24,72,60151,Best Bees,Fremont,Basis Independent Fremont,False,False
+403,24,257,60496,Alternative Force,Sunnyvale,Family/Community,False,False
+550,24,99,60537,Mecha Masters,FREMONT,Family/Community,False,False
+427,24,308,60642,Code CrasherZ,Sunnyvale,Family/Community,False,False
+480,24,305,60727,Cyber Soldiers,Sunnyvale,Family/Community,False,False
+453,24,216,60734,Gopher Botz,Fremont,John M Gomes Elementary School,False,False
+529,24,25,60855,Gearshift,Fremont,Family/Community,False,False
+426,24,54,60868,iBots,Milpitas,Family/Community,False,False
+411,24,16,60914,TechnoMasters,San Jose,Family/Community,False,False
+399,24,408,60929,Chips 'n' Bots,San Mateo,Family/Community,False,False
+412,24,113,61016,Mecha-lions FLL A,San Jose,Stratford Preparatory,False,False
+421,24,407,61055,Silent Builders,Fremont,Family/Community,False,False
+502,24,213,61251,RoBosses,Fremont,Family/Community,False,False
+456,24,108,61990,Mighty Minds,San Jose,Family/Community,False,False
+499,24,409,62005,Lego Legends,FREMONT,"Ardenwood Elementary School, Forest Park Elementary School",False,False
+401,24,376,62296,In-Vinci-Bots,Cupertino,Self,False,False
+404,24,361,62681,Golden Eagles,San Jose,Queen of Apostles School,False,False
+352,25,525,28584,Legorators,San Jose,Almaden Country School,False,False
+339,25,508,28689,Master Minds,Sacramento,Family/Community,False,False
+338,25,514,28998,Cuckoo Carrots,Sunnyvale,Family/Community,False,False
+354,25,524,29198,SanRamonBuilders,San Ramon,Family/Community,False,False
+337,25,460,29203,Little Masters,Santa Clara,Family/Community,False,False
+345,25,523,29489,TechnoBots,Fremont,"Family/Community, Home School",False,False
+353,27,521,23545,Thunderbolts,Fremont,Family/Community,False,False
+351,27,502,26216,Sonic Bots,Rocklin,Family/Community,False,False
+359,27,554,28738,Throwouts,Los Altos,Family/Community,False,False
+349,27,455,28872,Astro Bot,Milpitas,Family/Community,False,False
+358,27,553,28935,Legosaurus Rex,Millbrae,Family/Community,False,False
+344,27,517,28976,Explorers,Fremont,Family/Community,False,False
+357,27,520,29192,LEGO {Coder} Dudes,Fremont,Family/Community,False,False
+355,27,541,29201,SparkSteam I,Palo Alto,Family/Community,False,False
+347,27,532,29601,Fairmeadow Explorers,Palo Alto,Fairmeadow Elementary School,False,False
+348,27,533,29602,Fairmeadow Builders,Palo Alto,Fairmeadow Elementary School,False,False
+356,27,542,29660,SparkSteam II,Palo Alto,Family/Community,False,False
+362,27,465,29674,RI Robo Rockets,Lathrop,Family/Community,False,False
+521,28,572,21866,BlueJay Master Builders,San Ramon,Quail Run Elementary School,False,False
+366,28,515,24443,Code O Bots,Rocklin,Code O World,False,False
+389,28,513,28665,Lightning Stars,Fremont,Code Ninjas Fremont,False,False
+383,28,526,28930,LegoLlamas,San Jose,Family/Community,False,False
+364,28,529,29210,Graystone Ninjas,San Jose,Graystone Elementary School,False,False
+363,28,543,29211,Graystone Sparks,San Jose,Graystone Elementary School,False,False
+367,28,536,29974,Robo Boys,Fremont,"Fred Weibel Elementary School, Delaine Eastin Elem School",False,False
+434,29,296,193,1. Team Logo,Belmont,Crystal Springs Uplands School,False,False
+437,29,190,45629,Dragon Bots,San Francisco,Ecole Notre Dame Des Victoires,False,False
+492,29,384,54960,RoboCavs,Sacramento,Sacramento Country Day School,False,False
+454,29,78,56026,RoboKids,Folsom,,False,False
+445,29,567,56308,Dr. Rofrostnik,Fremont,Community,False,False
+564,29,133,56463,AArtIntel,San Jose,Evergreen Elementary School,False,False
+438,29,4,57420,ChickenBachBachs,Fremont,Family/Community,False,False
+446,29,575,60756,Folsom Thunderbots,Folsom,Family/Community,False,False
+501,29,227,61139,Lightning Squad,Folsom,Family/Community,False,False
+549,29,623,61510,4RoboGurus,Folsom,Family/Community,False,False
+484,29,569,61950,FemBots,Tracy,Family/Community,False,False
+473,29,570,61951,Lords of the Legos,Tracy,Family/Community,False,False
+538,29,368,62984,Eagle Bots,Fremont,Family/Community,False,False
+508,29,392,63333,Jaguars,Santa Clara,Family/Community,False,False
+533,29,389,63410,Robots En Fuego,San Francisco,Family/Community,False,False
+513,29,420,63865,EBTCC Youth Group,San Ramon,Family/Community,False,False
+548,29,527,64052,Newbies,Fremont,Family/Community,False,False
+468,30,311,5983,Foothill Rec Team,Walnut Creek,Foothill Middle School,False,False
+469,30,330,20975,Foothill Recreational Team,Walnut Creek,Foothill Middle School,False,False
+476,30,561,58043,Bulldog Bots,Fremont,Family/Community,False,False
+442,30,424,59696,Energizers,Sacramento,Family/Community,False,False
+535,30,195,59923,Botatoes,Fremont,Family/Community,False,False
+540,30,610,60069,NINDROIDS,Santa Clara,Family/Community,False,False
+462,30,405,60141,Ginger Seals,San Anselmo,St Anselm School,False,False
+536,30,38,60451,Galactic Marshmallows,San Mateo,Highlands Elementary School,False,False
+455,30,519,60497,Apollo 6,Fremont,Family/Community,False,False
+460,30,370,60786,Vornadoes,Fremont,Family/Community,False,False
+478,30,509,61489,Guinius,Walnut Creek,Family/Community,False,False
+436,30,18,61719,Emeralds,Ripon,Family/Community,False,False
+459,30,415,61997,Clueless Mechanics,San Ramon,,False,False
+598,30,383,63308,QLS 5G,Pleasanton,The Quarry Lane School,False,False
+597,30,396,63583,QLS HopperBots,Dublin,The Quarry Lane School,False,False
+477,30,578,63874,MasterBuilder3,HILLSBOROUGH,Family/Community,False,False
+532,30,585,64480,@Anakin Piewalkers,Fremont,John M Horner Jr High School,False,False
+546,30,551,64490,Legonauts,Fremont,,False,False
+416,33,565,25732,Super Lego Builders,Fremont,,False,False
+461,33,493,26136,Gallery Girls,San Ramon,Home School,False,False
+527,33,518,26421,Robo Explorers,Milpitas,Family/Community,False,False
+381,33,556,26706,Super LegoKids,Albany,Family/Community,False,False
+380,33,531,28793,Art-Kid-Tex ,San Jose,Family/Community,False,False
+515,33,534,28799,Lego Mega MASSters,Fremont,Basis Independent Fremont,False,False
+418,33,444,28804,ArtMasterZ,San Ramon,Family/Community,False,False
+541,33,589,29787,Tigerbots,Fremont,Chadbourne Elementary School,False,False
+545,33,555,30595,SparkSteam III,East Palo Alto,Family/Community,False,False
+449,34,9,20710,Our Savior Lions,Livermore,Our Savior Lutheran School,False,False
+443,34,153,56549,SPAKE,Saratoga,Family/Community,False,False
+534,34,562,57290,Cyberspace Crusader,Los Altos,Applied computing foundation,False,False
+439,34,535,60037,BuilderBots,Fremont,Family/Community,False,False
+498,34,399,60381,Robotic Raptors,Santa Clara,Don Callejon K-8 School,False,False
+441,34,417,61353,BookWorms,Cupertino,Family/Community,False,False
+547,34,586,61685,Noddin Dynabots,San Jose,Family/Community,False,False
+589,34,598,62969,Pineapple Dragons,Marina,Los Arboles Middle School,False,False
+539,34,387,63265,Stratford Osgood Lionfish,Fremont,Stratford Fremont Middle School,False,False
+451,34,568,63820,Robo Rangers,Fremont,Warm Springs Elementary School,False,False
+458,35,397,8560,ProGRAHAMers,Mountain View,Graham Middle School,False,False
+481,35,103,50914,STEALTHY PYTHON,Fremont,Family/Community,False,False
+440,35,127,56313,The Demonics,San Jose,Rita Ledesma Elementary School,False,False
+457,35,351,58230,Celestial Phoenix,San Jose,Family/Community,False,False
+470,35,273,58632,Foxes Allstars,San Jose,Allstars United Education Foundation,False,False
+471,35,274,58663,Arctech Foxes Allstars,San Jose,Allstars United Education Foundation,False,False
+472,35,279,59907,Cheetahs Allstars ,San Jose,Allstars United Education Foundation,False,False
+531,35,563,59995,Lego Lion Legends,Los Altos,Applied computing foundation,False,False
+474,35,422,60028,Dublin Robotics Club Genesis,Dublin,Dublin Robotics Club,False,False
+599,35,400,60382,DCS Robo Cubs,Santa Clara,Don Callejon K-8 School,False,False
+448,35,394,60658,Alphabots,Fremont,Family/Community,False,False
+466,35,540,60845,Blue Kitties,San Ramon,Family/Community,False,False
+519,35,584,61718,MechMavericks,Folsom,"Theodore Judah Elem School, Russell Ranch Elem School",False,False
+600,35,365,62819,Bobcat Bots,San Jose,,False,False
+435,35,559,64638,Brain Bots,San Jose,Family/Community,False,False
+614,35,560,64644,The Axolotls,San Jose,Hacienda Environmental Science Magnet,False,False
+452,35,577,64698,ROAR,San Jose,Basis Independent Silicon Vly,False,False
+557,36,504,26422,Golden Ninja,Milpitas,Family/Community,False,False
+552,36,522,29087,Kinetic Bots,San Jose,James Franklin Smith Elem Sch,False,False
+558,36,548,29097,Lego Champs,San Jose,"Tom Matsumoto Elem School, Carolyn a Clark Elementary Sch",False,False
+555,36,591,29180,Brick@Slayers,Alameda,Family/Community,False,False
+551,36,528,29246,Creative Girls,Fremont,Family/Community,False,False
+554,36,609,29802,Marvelous,Saratoga,Family/Community,False,False
+559,36,574,29805,ARTomic Explosions,Fremont,Family/Community,False,False
+553,36,467,30186,4 Terrific Techs,Palo Alto,Hoover Elementary School,False,False
+577,37,475,21406,Future Builders,Santa Clara,Family/Community,False,False
+561,37,600,24384,Emerging Einstein1,El Dorado Hills,Theodore Judah Elem School,False,False
+562,37,505,26476,crystalcookies,Palo Alto,Family/Community,False,False
+578,37,558,26753,Master Crafty Lego Builders,Sunnyvale,Family/Community,False,False
+570,37,583,28352,Lego_Knights,Santa Clara,Family/Community,False,False
+575,37,566,28740,DragonWarriors,Fremont,Basis Independent Fremont,False,False
+568,37,512,28758,Adventure,Albany,Family/Community,False,False
+560,37,581,28767,Sunshine Daisies Butter Mellow,Palo Alto,Family/Community,False,False
+579,37,593,28771,WizardWarriors,Fremont,John G Mattos Elem School,False,False
+556,37,599,28931,Wonderbots,Fremont,Basis Independent Fremont,False,False
+576,37,557,29038,Team MARS,Sunnyvale,Family/Community,False,False
+567,37,537,29513,Legolanders,Cupertino,Family/Community,False,False
+582,38,624,26386,Gurkha Geeks Jr 5 - Mini Explorers,Fremont,Family/Community,False,False
+585,38,614,26427,Battlebots,Los Altos,Family/Community,False,False
+584,38,605,29345,Team Oak 2023,Los Altos,,False,False
+587,38,539,29814,CosmicBananas,Sunnyvale,West Valley Elementary School,False,False
+583,38,547,29976,Lego_Champs,Fremont,Warm Springs Elementary School,False,False
+586,38,595,30105,Lego Lions,Fremont,E M Grimmer Elementary School,False,False
+543,38,538,30399,Evergreen@Dreamers,San Jose,Family/Community,False,False
+580,38,576,30705,Cosmic Builders,San Jose,Family/Community,False,False
+581,38,615,30760,Cosmic Coders,San Jose,Family/Community,False,False
+595,39,596,26179,Power Ninja Builders,El Dorado Hills,Community,False,False
+573,39,579,26743,Pro Bowlers,Folsom,Theodore Judah Elem School,False,False
+572,39,573,26768,AI Masters,Folsom,Family/Community,False,False
+571,39,510,27452,Red Raptors,Folsom,Theodore Judah Elem School,False,False
+596,39,590,27662,Science Bomb,Milpitas,Family/Community,False,False
+569,39,507,28410,Creators,Folsom,Family/Community,False,False
+592,39,607,29012,AKASAS,Folsom,Family/Community,False,False
+594,39,458,29098,Boltz,Rancho Cordova,Family/Community,False,False
+590,39,612,29121,The Mighty Builders@TJ,Folsom,Theodore Judah Elem School,False,False
+588,39,459,29122,LEGO Mech Masters,Fremont,Basis Independent Fremont,False,False
+616,39,636,29287,Lego Titans,Newark,Basis Independent Fremont,False,False
+574,39,546,30055,Lego Llamas,Folsom,Family/Community,False,False
+613,41,491,26093,Falcon X,Fremont,Basis Independent Fremont,False,False
+608,41,618,26467,Robo Girls,Fremont,Fred Weibel Elementary School,False,False
+609,41,594,26725,SuperLego4,San Jose,Family/Community,False,False
+606,41,613,28936,WildRoz2023,San Jose,Helios School,False,False
+611,41,611,29205,The Gamers,San Jose,Family/Community,False,False
+607,41,603,29353,Cosmic Innovators,Santa Clara,Family/Community,False,False
+610,41,619,29354,Bee Curious,Los Gatos,Family/Community,False,False
+605,41,463,29565,Rubik Squad,San Jose,Family/Community,False,False
+620,42,17,52561,Brilliant Beavers,San Carlos,Family/Community,False,False
+622,42,62,58828,ShortCircuit,Cupertino,Family/Community,False,False
+601,42,550,59559,The Masterminds,Menlo Park,Family/Community,False,False
+602,42,401,60383,DCS Astro Cubs,Santa Clara,Don Callejon K-8 School,False,False
+621,42,118,60787,Shelby,Saratoga,Saratoga Elementary School,False,False
+615,42,355,62720,The Golden Group,Folsom,Family/Community,False,False
+604,42,634,63993,HSS Robotics 63993,san jose,Holy Spirit School,False,False
+619,42,587,64724,Happy Banana,Los Altos,Applied Computing Foundation,False,False
+618,42,625,64757,Greater Than One,Fremont,Family/Community,False,False
+631,44,1103,7434,Human Computers,San Bruno,Nueva School,False,False
+899,44,929,55976,Megamind Mechanics,Los Altos,Family/Community,True,False
+722,44,961,60433,Sigma Squad,Santa Clara,St Lawrence Elem & Middle Sch,False,False
+894,44,981,60956,The Stanlicorns,san jose,St martin of Tours,True,False
+906,44,983,60987,The fighting Pickles,san jose,St martin of Tours,False,False
+803,44,986,61166,R2-D2,Saratoga,Foothill Elementary School,False,False
+847,44,1001,61769,Omegas,Santa Clara,St Lawrence Elem & Middle Sch,False,False
+971,44,1283,66452,TeamRuana,San Jose,Family/Community,False,False
+863,44,869,67148,Snowboard Seals,Palo Alto,ULEAP,False,False
+898,44,1181,67232,Terminators,Burlingame,Burlingame Intermediate,True,False
+888,44,1128,67473,Krazy Krillionaires,San Jose,Williams Elementary,True,False
+934,44,1204,68707,HF Bears,San Jose,Holy Family School,False,False
+764,46,925,53086,Discovery Eagles,San Jose,,False,False
+933,46,938,57125,Incredibuilders,Fremont,Family/Community,True,False
+712,46,939,57236,Electric Bricks,Fremont,Family/Community,False,False
+930,46,953,60070,Robo-Sapiens,Milpitas,Fremont Robotics Academy,False,False
+926,46,1265,60981,WinsLab,San Jose,Family/Community,True,False
+862,46,1072,61016,Mecha Lions FLL A,San Jose,Stratford Preparatory,False,False
+858,46,1073,61017,Mecha Lions FLL B,San Jose,Stratford Preparatory,False,False
+867,46,1074,61018,Mecha Lions FLL C,San Jose,Stratford Preparatory,False,False
+914,46,830,65065,INNO BOTS,Sunnyvale,Family/Community,False,False
+928,46,1224,66285,Alpha Zeta,Milpitas,Family/Community,True,False
+932,46,1250,67058,Coral Keepers,San Jose,,True,False
+909,46,1139,68216,Circuit Breakers,Fremont,Family/Community,False,False
+955,47,890,5983,GOATed Griffins (5983),Walnut Creek,Foothill Middle School,False,False
+635,47,1102,7052,OP Octopi,San Francisco,St. Gabriel School,True,False
+853,47,1104,7453,Political Penguins,San Francisco,St. Gabriel School,False,False
+952,47,1117,61685,Noddin Dynabots,San Jose,Family/Community,True,False
+760,47,998,61708,Squirtle,Saratoga,Saratoga Elementary School,True,False
+887,47,1012,62140,Team St.Anne,San Francisco,St.Anne,False,False
+703,47,1070,66342,KiloNuggets,El Dorado Hills,"Family/Community, Lakeview Elementary",False,False
+951,47,854,66715,Oceanic Champs,Cupertino,Family/Community,False,False
+935,47,1184,66764,Celsius and Beyond ,San Francisco,Celsius and Beyond,False,False
+941,47,1228,67854,Superstars,fremont,Family/Community,True,False
+966,47,1195,68652,Cowculators,San Francisco,West Portal Elementary,False,False
+901,47,1207,68847,St.Anne Stars,San Francisco,St Anne Elementary School,False,False
+699,48,881,461,Terminatorz,Morgan Hill,Britton Middle School,False,False
+704,48,919,52305,Master Oogway,Pleasanton,Family/Community,False,False
+683,48,712,60069,NINDROIDS,Santa Clara,Family/Community,True,False
+890,48,977,60868,iBots,Milpitas,Family/Community,True,False
+921,48,1209,61951,Lords of the Legos,Tracy,Family/Community,False,False
+913,48,1010,62005,Lego Legends,Fremont,Parent Volunteers,True,False
+918,48,742,64757,Greater Than One,Fremont,Family/Community,False,False
+915,48,639,65018,Brickbots,Fremont,"John M Horner Jr High School, William Hopkins Jr High School, Thomas Russell Middle School",True,False
+924,48,856,66759,BA Tigers,Fremont,Family/Community,False,False
+817,48,1039,66827,CircuitBreakers,Lathrop,Family/Community,False,False
+920,48,859,66894,Oceanic Explorers,San Jose,Family/Community,False,False
+922,48,1259,66965,QuestBots,Fremont,Family/Community,False,False
+886,49,889,5254,Golden Surfers,Palo Alto,Girl Scouts of Northern California,False,False
+639,49,1106,18197,The Nudibranchs,San Bruno,Nueva School,False,False
+908,49,963,60496,Alternative Force,Sunnyvale,Family/Community,True,False
+789,49,731,61188,Cyber Titans@,San Jose,Family/Community,False,False
+782,49,989,61205,Snacktopus,Redwood City,Family/Community,True,False
+931,49,732,61281,Mustang Rockets,Santa Clara,Family/Community,True,False
+900,49,1042,66111,Byte Bots,Sunnyvale,Family/Community,False,False
+630,49,1124,66292,CookieBots,Danville,Girl Scouts,True,False
+939,49,863,66961,PreposterousPlatypus,Palo Alto,ULEAP,False,False
+940,49,1287,68442,Argo Team 242,Saratoga,Argonaut Elementary,False,False
+938,49,1270,68454,Argo Skibidi Bots,Saratoga,Argonaut Elementary,False,False
+929,49,1255,69343,Ustar Ocean,San Jose,Family/Community,False,False
+779,50,918,52142,Surfing Chickens,San Jose,Family/Community,False,False
+776,50,931,56339,Electric Sources,Fremont,William Hopkins Middle School,True,False
+673,50,936,56940,RoboMasters,Fremont,Family/Community,True,False
+734,50,1127,60215,Robotmakers,San Jose,Family/Community,False,False
+895,50,720,60337,Circuit united,Pleasanton,Family/Community,False,False
+749,50,968,60684,Hyper Technics,San Jose,Allstars United Education Foundation,False,False
+891,50,974,60786,Vornadoes,Fremont,Family/Community,False,False
+695,50,982,60967,Lightning Bots,Milpitas,Family/Community,False,False
+896,50,996,61611,Electro-Phoenix,Fremont,Family/Community,True,False
+715,50,1009,61990,MIGHTY MINDS,San Jose,Family/Community,True,False
+723,50,643,64898,The Brick By Brick Builders,Tracy,Family/Community,False,False
+871,50,827,65350,Pioneering Pantheon,Milpitas,Family/Community,False,False
+714,50,1170,65800,The Tech Titans,Santa Clara,Family/Community,False,False
+787,50,1140,66110,Bot-of-Water,Fremont,Family/Community,True,False
+816,50,1183,66280,DELTABOTS,Fremont,Family/Community,False,False
+836,50,866,67092,Flame Bots,SUNNYVALE,Family/Community,False,False
+713,51,897,10585,Code Crackers,Hillsborough,Nueva School,True,False
+806,51,691,51168,The Warriors,Rancho Cordova,Family/Community,False,False
+838,51,941,57382,RoboRise,Foster City,Family/Community,True,False
+970,51,1111,58015,Spirit Robotics,Hollister,Family/Community,False,False
+730,51,952,60033,Pokémon,Cupertino,Family/Community,False,False
+666,51,716,60152,The Game Changers,Union City,Code Ninjas,True,False
+820,51,1115,60514,Staz,San Ramon,Family/Community,False,False
+633,51,1116,60537,Mecha Masters,Fremont,Basis Independent Fremont,True,False
+868,51,735,61998,TechTitans,Fremont,John M Horner Jr High School,False,False
+692,51,644,65125,Baybots,Sunnyvale,Family/Community,True,False
+881,51,846,66233,Galaxy Guardians,Santa Clara,Family/Community,True,False
+720,51,847,66286,MasterDroids,Fremont,Family/Community,False,False
+969,51,853,66699,Techno Turtles,Fremont,,False,False
+870,51,1093,67837,Submarine Surferz,San Ramon,Family/Community,False,False
+972,51,1197,68557,M-A Cubs 1,Menlo Park,La Entrada Middle,False,False
+973,51,1198,68558,M-A Cubs 2,Menlo Park,La Entrada Middle,False,False
+974,51,1199,68559,M-A Cubs 3,Menlo Park,La Entrada Middle,False,False
+903,52,912,38159,Otterly Awesome,Menlo Park,Family/Community,False,False
+850,52,920,52489,Flaming Jalapenos,Sunnyvale,Family/Community,False,False
+927,52,701,55971,Electroid Marines,Santa Clara,"Fremont High School, Don Callejon K-8 School",True,False
+852,52,714,60100,Cobras,Los Gatos,Family/Community,True,False
+842,52,984,61055,Robotic Athletes,Fremont,Family/Community,False,False
+655,52,730,61185,Electrolyte Stingers,Palo Alto,Family/Community,False,False
+872,52,1004,61778,Crab Surfers,Palo Alto,Family/Community,False,False
+912,52,1147,61950,Codettes,Tracy,Family/Community,True,False
+826,52,646,65258,CrypticButterflies,San Jose,Family/Community,False,False
+910,52,1050,65770,CoralCrew,Cupertino,Family/Community,False,False
+708,52,1157,65848,Cougars Techwiz,Cupertino,Family/Community,False,False
+905,52,1083,66795,Dilworth-Dragons,San Jose,Family/Community,False,False
+763,52,1143,67213,Naji M Abdulla,San Ramon,,False,False
+911,52,1088,67395,Marine Mavericks,Sunnyvale,Family/Community,True,False
+902,52,1091,67736,Robo Pro Max,Sunnyvale,Family/Community,False,False
+869,52,1094,67865,HydroHackers,Santa Clara,Family/Community,True,False
+892,53,667,20915,TroBots,Burlingame,,True,False
+799,53,670,30516,Cheerios FLL-C 30516,Piedmont,Piedmont Makers,False,False
+828,53,694,52508,Oakland Short Circuits,Oakland,Piedmont Makers,True,False
+897,53,708,59703,brick-o-brainiacs pioneers,Tracy,Family/Community,True,False
+751,53,960,60388,Cosmic Motor,Saratoga,Family/Community,True,False
+794,53,969,60702,Robochickens,Berkeley,Family/Community,False,False
+664,53,726,60913,Basement Bots,San Francisco,Claire Lilienthal Sch-Scott,False,False
+925,53,985,61139,Lightning Squad,Folsom,Family/Community,True,False
+907,53,1003,61776,Tech Ninja,Rancho Cordova,Family/Community,False,False
+975,53,1085,65839,Aquastellar Innovators,Santa Clara,Family/Community,False,False
+946,53,1132,66202,Win-crafters,San Francisco,Family/Community,False,False
+923,53,1219,66235,R0B0PE0PLE,Santa Rosa,Family/Community,False,False
+643,53,1194,66923,H2O Warriors,Saratoga,Family/Community,False,False
+904,53,1235,67290,VXL,Folsom,Family/Community,False,False
+808,53,1208,69118,ZiwiKiwi.Co,Berkeley,Family/Community,False,False
+767,53,1234,69281,Spicy Mango Apple Generators (S.M.A.G.),Berkeley,Family/Community,False,False
+672,54,885,4416,O.R.C.A,Santa Clara,Cabrillo Middle School,True,False
+725,54,887,4978,Otter Bots,Santa Clara,Cabrillo Middle School,True,False
+798,54,898,10586,Master Builders,Hillsborough,Nueva School,False,False
+628,54,899,10589,Turtle Tech,Hillsborough,Nueva School,False,False
+652,54,907,25572,Octonauts,Santa Clara,Cabrillo Middle School,True,False
+851,54,685,44532,Razzle Dazzle Robotics FLL-C 44532,Piedmont,Piedmont Makers,False,False
+819,54,692,52306,Infinite AI,San Ramon,Family/Community,False,False
+744,54,933,56487,The Sea Syrens,Fremont,Family/Community,True,False
+696,54,705,57285,Mighty Minds,San Jose,Family/Community,False,False
+865,54,711,60050,Ustar Tech Lightning,Cupertino,Family/Community,False,False
+873,54,713,60085,Lego Artisans,Cupertino,Family/Community,True,False
+864,54,956,60291,Fusion Vortex,Fremont,Family/Community,True,False
+710,54,723,60502,CodeBreakerz,San Ramon,Home School,False,False
+718,54,966,60533,Human Microphones,San Ramon,Family/Community,False,False
+805,54,987,61167,Hydrostorm,Saratoga,Foothill Elementary School,False,False
+795,54,992,61334,Sparks Fly,Cupertino,Family/Community,False,False
+766,54,999,61717,Pixel Pirates,Fremont,William Hopkins Middle School,False,False
+792,54,1008,61949,Ultraviolet,San Jose,Family/Community,False,False
+814,54,740,64698,ROAR,San Jose,Basis Independent Silicon Vly,True,False
+747,54,1051,66444,CyberPirates,San Jose,Family/Community,False,False
+796,54,1253,66817,Reid-Hillview Airport Robotics,Sunnyvale,TechVision,False,False
+804,54,865,67056,Wavebots,Fremont,Family/Community,True,False
+821,54,1151,67459,MissionBots,Fremont,William Hopkins Junior High,False,False
+967,54,1299,68499,Waqar B Hashim,Cupertino,,False,False
+800,55,1105,7460,Tiger Robotics 4,San Francisco,Town School for Boys,False,False
+785,55,668,29151,Tiger Robotics 3,San Francisco,Town School for Boys,False,False
+801,55,673,37482,Team Brick 3.0 - 37482,Piedmont,Piedmont Makers,False,False
+697,55,681,40997,Denman Robotics,San Francisco,James Denman Middle School,False,False
+822,55,917,52090,Canary1,San Francisco,Family/Community,True,False
+840,55,923,52943,Digital Dolphins GREEN TEAM,San Francisco,San Francisco Day School,False,False
+632,55,924,52944,Digital Dolphins BLUE TEAM,San Francisco,San Francisco Day School,False,False
+811,55,696,53591,Tiger Robotics 2,San Francisco,Town School for Boys,False,False
+748,55,697,53592,Tiger Robotics 1,San Francisco,Town School for Boys,True,False
+629,55,1109,57759,Digital Dolphins GREY TEAM,San Francisco,San Francisco Day School,False,False
+682,55,988,61168,DivingDolphins,Saratoga,Foothill Elementary School,False,False
+649,55,734,61610,Argoclucks,ALBANY,Family/Community,True,False
+738,55,659,65690,Shady Sashimi 65690,Alameda,Piedmont Makers,True,False
+797,55,1185,66219,CougarBots,San Francisco,Family/Community,True,False
+665,55,1077,67216,Submersiwolves,San Francisco,Lilienthal (Claire) Elementary,True,False
+661,55,1206,68218,Tiger Robotics 5,San Francisco,Town School for Boys,False,False
+835,55,1165,68910,Digital Dolphins - White Team,San Francisco,San Francisco Day School,False,False
+784,55,1196,69000,King Bob Robotics,Alameda,Family/Community,False,False
+681,56,883,2847,Aquavengers,Santa Clara,Cabrillo Middle School,False,False
+640,56,888,4979,Aquabots,Santa Clara,Cabrillo Middle School,True,False
+889,56,891,8278,Titanium Turtles,San Jose,St Christopher School,True,False
+636,56,893,8445,Ultra Mega Technologies,San Jose,St Christopher School,False,False
+706,56,926,53140,Fin Finders,San Jose,Bret Harte Middle School,True,False
+659,56,937,56993,SuperChargers ,San Jose,Family/Community,False,False
+644,56,721,60338,Astrocubs,Sunnyvale,Family/Community,True,False
+773,56,967,60642,Code CrasherZ,Santa Clara,Family/Community,True,False
+711,56,975,60787,Shelby,Saratoga,Saratoga Elementary School,True,False
+883,56,978,60869,Techno Troopers,San Jose,Family/Community,False,False
+689,56,834,65885,Ocean Plate Explorers,San Jose,St Christopher School,False,False
+916,56,836,65896,Votel /Cook - 4th Grade,San Jose,St Christopher School,False,False
+772,56,837,65897,Garcia / Lofft - 5th Grade,San Jose,St Christopher School,False,False
+701,56,1037,65978,Notre Dame Robotics - Blue Team,Belmont,Notre Dame Elementary School,False,False
+716,56,1156,66785,"Orange,Peach",San Jose,Family/Community,False,False
+741,56,868,67117,Super Divers ,Santa Clara,Family/Community,False,False
+781,56,1213,67352,BlockBuster18,Fremont,"Patterson Elementary, Ardenwood Elementary",False,False
+936,56,1285,68452,Argo Bears,Saratoga,Argonaut Elementary,False,False
+637,57,672,30518,Marine Manatees (#30518),Piedmont,Piedmont Makers,False,False
+793,57,1045,52363,Terrabytes,San Jose,TerraEd,True,False
+721,57,921,52522,Aqua Avatars,San Ramon,Home School,False,False
+809,57,706,58711,Arctic Wolves,Sunnyvale,Family/Community,True,False
+861,57,990,61282,The Krusty Crab,San Jose,Guadalupe Elementary School,False,False
+645,57,1005,61803,Techeon,Saratoga,Foothill Elementary School,False,False
+854,57,736,62681,Golden Eagles,San Jose,Queen of Apostles School,True,False
+786,57,1144,64706,Techactrons,Fremont,Family/Community,False,False
+879,57,640,65020,The Golden Huskies,Palo Alto,Family/Community,True,False
+736,57,1079,66078,Pleasanton Piranhas,Pleasanton,Family/Community,False,False
+719,57,874,67287,Spark Squad,Fremont,Family/Community,True,False
+855,57,1126,67840,The Submarine SharkBots,Saratoga,Saratoga Elementary,False,False
+671,58,904,20710,Our Savior Lions,Livermore,Our Savior Lutheran School,False,False
+684,58,689,48793,Team Mountain House,Mountain House,Family/Community,True,False
+882,58,1108,56860,RoboShockers,Pleasanton,Harvest Park Middle School,True,False
+724,58,959,60377,RI Lego Warriors,Lathrop,Family/Community,False,False
+702,58,962,60447,Little Einstein,Lathrop,Family/Community,False,False
+807,58,724,60753,DroidSharks,Lathrop,,False,False
+833,58,725,60855,GearShift,Fremont,Family/Community,True,False
+944,58,1000,61718,MechMavericks,Folsom,"Folsom - Sutter Middle School, Russell Ranch Elem School",False,False
+737,58,1011,62079,Glitch Gang,San Ramon,Family/Community,False,False
+824,58,1015,62984,Eagle Bots 2024,Fremont,Family/Community,True,False
+831,58,1076,65523,TechnoTitans12,Mountain House,Family/Community,False,False
+642,58,650,65569,Tassajara Bots,Dublin,Family/Community,True,False
+750,58,1258,65830,MegaBots,Union City,Family/Community,False,False
+638,58,1180,65849,4:12 Robots,Modesto,Family/Community,False,False
+705,58,839,65953,Infinity E-Bots,Dublin,Cottonwood Creek,True,False
+823,58,1254,66355,Iron Dolphins,Modesto,Mary Lou Dieterich Elementary,False,False
+731,58,1225,66490,In Lak'ech,San Jose,Voices College-Bound Language Academy at Mt. Pleasant,False,False
+844,58,1216,67114,MH Vanguards,Mountain House,Family/Community,False,False
+679,59,884,2848,H2LEGO,Santa Clara,Cabrillo Middle School,False,False
+675,59,901,17492,Hydrospace,Santa Clara,Cabrillo Middle School,False,False
+674,59,903,17494,Coral Crusaders,Santa Clara,Cabrillo Middle School,False,False
+677,59,906,25571,The Innovative Inventors,Santa Clara,Cabrillo Middle School,False,False
+726,59,908,25573,Otter This World,Santa Clara,Cabrillo Middle School,False,False
+885,59,930,56026,RoboKids,Folsom,Gold Ridge Elementary School,True,False
+774,59,702,56459,Code Warriors,Fremont,Family/Community,True,False
+634,59,703,56489,Gear Girls,San Jose,Family/Community,False,False
+880,59,1041,57600,Delta Rovers,San Jose,Family/Community,True,False
+860,59,946,58666,Techno Bricks,San Jose,Allstars United Education Foundation,True,False
+762,59,954,60115,Racing Robo,Pleasanton,Family/Community,False,False
+780,59,718,60296,Stormy Knights,San Jose,Graystone Elementary School,False,False
+878,59,964,60497,Apollo 6,Fremont,Family/Community,False,False
+759,59,1013,62268,Delta Cosmic coders,SAN JOSE,Family/Community,True,False
+690,59,1014,62314,Cyber Sharks,Cupertino,Family/Community,True,False
+752,59,1019,64638,Brain Bots,San Jose,Family/Community,True,False
+843,59,638,64902,TBT,Alamo,Tice Creek School,False,False
+968,59,1058,65169,Terrace TechTitans,Dublin,Family/Community,False,False
+729,59,662,65840,Graystone Ninjas,San Jose,Graystone Elementary,True,False
+733,59,873,67205,Robots of Atlantis,SARATOGA,Foothill Elementary,False,False
+849,59,1078,67280,Superstarz 3.0,San Ramon,Family/Community,False,False
+735,59,876,67447,Cool Thunderbolts!,San Jose,Family/Community,False,False
+884,59,1273,68440,Oceanic Overlords (Argo Team 241),Saratoga,Argonaut Elementary,False,False
+957,59,1284,68453,Argo Team 245,Saratoga,Argonaut Elementary,False,False
+813,60,894,8560,ProGRAHAMers,Mountain View,Graham Middle School,False,False
+668,60,900,17491,H2Flow,Santa Clara,Cabrillo Middle School,False,False
+676,60,902,17493,Whale Whisperers,Santa Clara,Cabrillo Middle School,True,False
+848,60,1107,47206,Owlz,Danville,Athenian School,False,False
+827,60,928,54977,Menlo Park Narleaotters,Menlo Park,Family/Community,True,False
+859,60,943,58043,Hacking Hornets,Fremont,Family/Community,False,False
+777,60,973,60759,Cat-a-Bots,Santa Clara,Family/Community,True,False
+742,60,1006,61932,BCS Golden Oceaneers,Los Altos,Bullis,False,False
+856,60,1158,65278,Hydrobots,Cupertino,Family/Community,True,False
+778,60,1186,65319,DCADS Robo Cubs,Santa Clara,Don Callejon Arts and Design School,False,False
+937,60,1237,65595,Team Sigma,Mountain House,Family/Community,False,False
+765,60,654,65685,Ocean Engineers,San Leandro,Piedmont Makers,False,False
+755,60,1038,65979,Notre Dame Robotics - Red Team,Belmont,Notre Dame Elementary School,False,False
+745,60,870,67149,URB Ultimate Robotic Builders,Palo Alto,ULEAP,False,False
+810,60,871,67150,Coding Ninjas,Palo Alto,ULEAP,True,False
+812,60,1218,67289,Electric Eels,San Jose,Family/Community,False,False
+771,60,875,67342,Sharks,Palo Alto,Silicon Valley International School,True,False
+660,60,1245,69277,Oceanic Operators,San Jose,Family/Community,False,False
+657,61,665,2713,Phat Seals,Mountain View,Crittenden Middle School,True,False
+669,61,916,50422,DragonBots,Palo Alto,Frank S Greene Jr Middle Sch,True,False
+732,61,935,56793,BCS See Sea Blue,Los Altos,Bullis Charter School N,True,False
+656,61,1112,58664,Lunatics,San Jose,Allstars United Education Foundation,False,False
+662,61,707,58828,Cupertino ShortCircuit,Cupertino,Family/Community,True,False
+728,61,949,59937,Robo Mangal,Fremont,Horner Middle School,False,False
+686,61,957,60297,Circuit Breakers,Santa Clara,Family/Community,False,False
+688,61,958,60354,Paradox,Los Altos,Helios School,True,False
+746,61,980,60942,Taco Shark,Palo Alto,Herbert Hoover Elementary School,False,False
+753,61,647,65285,Poki Bots,FREMONT,Family/Community,False,False
+757,61,1171,66069,CuriousDivers,Fremont,Family/Community,True,False
+650,61,1182,66598,Poseidon,Santa Clara,Family/Community,False,False
+641,61,1191,67107,Tech Titans,Los Altos,Family/Community,False,False
+678,61,872,67186,Aquamarines,SARATOGA,Foothill Elementary School,False,False
+739,61,1080,67635,Mission LEGO Legends,Fremont,Mission San Jose Elementary,False,False
+960,61,1096,67897,Lego Legends Oak 2024,Los Altos,Oak Avenue Elementary,False,False
+740,61,1099,68191,Lego Lillies,Fremont,William Hopkins Junior High,False,False
+694,61,1192,68582,HERricanes,Burlingame,Family/Community,False,False
+709,62,663,417,Notre Dame Fighting iBots,Vacaville,Notre Dame School,True,False
+945,62,664,445,Matsuyama RoboPines,Sacramento,Matsuyama Elementary School,True,False
+783,62,886,4506,Techno Cavs,Sacramento,Sacramento Country Day School,False,False
+758,62,927,53150,DigiTech,El Dorado Hills,,False,False
+756,62,932,56453,Donut Powered,Fremont,Donutpowered,False,False
+788,62,934,56511,Super Charged,Folsom,Family/Community,False,False
+845,62,944,58380,Lego Masters1,Folsom,,True,False
+651,62,1114,59922,Baxter's Builders,Sacramento,Sacramento Country Day School,False,False
+769,62,950,59943,Aqua Avengers,San Jose,Family/Community,False,False
+832,62,965,60507,Team Prime,Mountain House,Family/Community,True,False
+841,62,970,60718,Rockin Robos,Rocklin,Family/Community,True,False
+717,62,972,60756,Folsom Thunderbots,Folsom,Family/Community,False,False
+768,62,979,60923,Artesan,Folsom,Family/Community,True,False
+802,62,729,60996,VortexMasterminds,Folsom,Family/Community,False,False
+830,62,642,64889,Sea Monsters Squad,EL DORADO HILLS,Family/Community,False,False
+815,62,648,65287,RoboWizards7,Folsom,Family/Community,True,False
+770,62,838,65902,Coding Mavs,ROCKLIN,Family/Community,False,False
+754,62,1264,65980,Bugatti Bulldogs #65980,El Dorado Hills,Family/Community,False,False
+834,62,1138,66034,Westpark Mech Warriors,Roseville,Family/Community,False,False
+667,62,1222,67074,Rad_Robos,Roseville,Rocklin Academy Gateway,False,False
+818,62,877,67461,Ocean Explorers,Fremont,Family/Community,False,False
+953,62,1137,67585,Bob the builder,Sacramento,Family/Community,False,False
+846,62,1229,68040,MH Aqua Blue 9,Mountain House,Family/Community,False,False
+839,62,1179,68202,Soaring Seastars,Fremont,Family/Community,True,False
+680,63,690,51095,CreaTech,Fremont,Family/Community,True,False
+693,63,695,52765,warrior bot,Fremont,Ardenwood school,False,False
+653,63,1044,53595,Mechaminds,Fremont,Family/Community,True,False
+647,63,940,57344,Jiggy Guys,Fremont,John M Gomes Elementary School,False,False
+700,63,710,60037,BuilderBots,Fremont,Family/Community,True,False
+663,63,994,61397,PineappleBots,Fremont,John M Gomes Elementary School,False,False
+654,63,738,64052,ThunderBots,Fremont,Family/Community,True,False
+687,63,739,64672,MechaBotz,San Jose,Family/Community,False,False
+691,63,660,65691,FLL-C 65691 OCTOBOTS,PIEDMONT,Piedmont Makers,False,False
+670,63,833,65841,Falcon X,Fremont,Basis Independent Fremont,False,False
+698,63,1215,66075,TechTitans,Fremont,Family/Community,False,False
+658,63,850,66439,Super Lego Builders,Fremont,Family/Community,True,False
+961,63,862,66956,RRR Vicious Voyagers,Lathrop,Family/Community,False,False
+646,63,1141,67102,The Goldfishies,Alameda,Family/Community,False,False
+707,63,1142,67422,The Alameda Wild Turkey Gang,Alameda,Family/Community,False,False
+685,63,1190,67669,Narahari Kotla,Fremont,recursys,False,False
+648,63,1089,67722,TechnoSharks*,Fremont,,True,False
+877,63,1133,68231,Everest,Milpitas,Family/Community,False,False
+1009,71,1057,31486,Dolphins,Belmont,Family/Community,False,False
+959,71,1238,31566,Little Lego Masters,Santa Clara,Family/Community,False,False
+1010,71,1340,31596,CV Roblocks,Castro Valley,Family/Community,False,False
+1014,71,1068,32093,RoboDivers,Cupertino,,False,False
+1003,71,1205,32630,HF Cubs,San Jose,Holy Family School,False,False
+989,71,1304,33016,Go Bears! ,San Jose,Holy Family School,False,False
+1011,74,792,26216,Sonicbots,Rocklin,Family/Community,False,False
+1013,74,1029,26386,Cool Kids,Fremont,Family/Community,False,False
+1005,74,1056,29513,Legolanders,Cupertino,Family/Community,False,False
+1017,74,743,31054,Deep Blue Voyager,Livermore,Family/Community,False,False
+1018,74,1361,31130,Team Dino,Campbell,"Stratford School - San Jose, Stratford School - Santa Clara Pomeroy",False,False
+1004,74,1046,31850,HawkBots,San Ramon,Family/Community,False,False
+624,74,1060,32055,Explorers,Milpitas,Family/Community,False,False
+994,74,1075,32416,Otterbots,Menlo Park,Oak Knoll Elementary,False,False
+775,76,910,34265,Eagle Bots,Saratoga,Queen of Apostles School,False,False
+790,76,913,39190,Owls,Danville,Athenian School,False,False
+837,76,698,55794,Purple People Eaters FLL-C 55794,Oakland,Piedmont Makers,True,False
+943,76,704,56768,Blue Brickbots,Fremont,Family/Community,True,False
+942,76,1239,59992,Team Scylla,Dublin,Family/Community,False,False
+857,76,717,60198,Chronobot,Fremont,Family/Community,True,False
+727,76,727,60958,FLL-C 60958 -- The Great White Sharks,Piedmont,Piedmont Makers,True,False
+791,76,997,61699,The League of Lego Legends,San Ramon,Family/Community,False,False
+958,76,1241,66087,Cougar TritonBots,Cupertino,John F. Kennedy Middle,False,False
+761,76,1172,66163,Dino Nuggets,Walnut Creek,Buena Vista Elementary,False,False
+743,76,1226,67458,MarineX,Mountain House,Family/Community,False,False
+917,76,1236,69218,Gale Wind,San Ramon,Family/Community,False,False
+1084,77,663,417,Notre Dame Fighting iBots,Vacaville,Notre Dame School,False,False
+1099,77,664,445,Matsuyama RoboPines,Sacramento,Matsuyama Elementary School,False,False
+1129,77,890,5983,GOATed Griffins (5983),Walnut Creek,Foothill Middle School,False,False
+1074,77,1102,7052,OP Octopi,San Francisco,St. Gabriel School,False,False
+1089,77,690,51095,CreaTech,Fremont,Family/Community,False,False
+1059,77,917,52090,Canary1,San Francisco,Family/Community,False,False
+1083,77,1044,53595,Mechaminds,Fremont,Family/Community,False,False
+1098,77,698,55794,Purple People Eaters FLL-C 55794,Oakland,Piedmont Makers,False,False
+1079,77,701,55971,Electroid Marines,Santa Clara,"Fremont High School, Don Callejon K-8 School",False,False
+1064,77,704,56768,Blue Brickbots,Fremont,Family/Community,False,False
+1087,77,1108,56860,RoboShockers,Pleasanton,Harvest Park Middle School,False,False
+1106,77,708,59703,brick-o-brainiacs pioneers,Tracy,Family/Community,False,False
+1068,77,710,60037,BuilderBots,Fremont,Family/Community,False,False
+1069,77,717,60198,Chronobot,Fremont,Family/Community,False,False
+1117,77,959,60377,RI Lego Warriors,Lathrop,Family/Community,False,False
+1071,77,960,60388,Cosmic Motor,Saratoga,Family/Community,False,False
+1066,77,965,60507,Team Prime,Mountain House,Family/Community,False,False
+1060,77,970,60718,Rockin Robos,Rocklin,Family/Community,False,False
+1058,77,725,60855,GearShift,Fremont,Family/Community,False,False
+1102,77,979,60923,Artesan,Folsom,Family/Community,False,False
+1104,77,985,61139,Lightning Squad,Folsom,Family/Community,False,False
+1085,77,734,61610,Argoclucks,ALBANY,Family/Community,False,False
+1105,77,998,61708,Squirtle,Saratoga,Saratoga Elementary School,False,False
+1090,77,738,64052,ThunderBots,Fremont,Family/Community,False,False
+1057,77,648,65287,RoboWizards7,Folsom,Family/Community,False,False
+1061,77,839,65953,Infinity E-Bots,Dublin,Cottonwood Creek,False,False
+1076,77,850,66439,Super Lego Builders,Fremont,Family/Community,False,False
+1095,77,1077,67216,Submersiwolves,San Francisco,Lilienthal (Claire) Elementary,False,False
+1062,77,1089,67722,TechnoSharks*,Fremont,,False,False
+1067,77,1179,68202,Soaring Seastars,Fremont,Family/Community,False,False
+1080,110,665,2713,Phat Seals,Mountain View,Crittenden Middle School,False,False
+1119,110,885,4416,O.R.C.A,Santa Clara,Cabrillo Middle School,False,False
+1207,110,897,10585,Code Crackers,Hillsborough,Nueva School,False,False
+1189,110,907,25572,Octonauts,Santa Clara,Cabrillo Middle School,False,False
+1288,110,912,38159,Otterly Awesome,Menlo Park,Family/Community,False,False
+1259,110,691,51168,The Warriors,Rancho Cordova,Family/Community,False,False
+1192,110,1045,52363,Terrabytes,San Jose,TerraEd,False,False
+1103,110,694,52508,Oakland Short Circuits,Oakland,Piedmont Makers,False,False
+1077,110,928,54977,Menlo Park Narleaotters,Menlo Park,Family/Community,False,False
+1134,110,933,56487,The Sea Syrens,Fremont,Family/Community,False,False
+1179,110,935,56793,BCS See Sea Blue,Los Altos,Bullis Charter School N,False,False
+1173,110,941,57382,RoboRise,Foster City,Family/Community,False,False
+1268,110,943,58043,Hacking Hornets,Fremont,Family/Community,False,False
+1132,110,707,58828,Cupertino ShortCircuit,Cupertino,Family/Community,False,False
+1139,110,713,60085,Lego Artisans,Cupertino,Family/Community,False,False
+1070,110,714,60100,Cobras,Los Gatos,Family/Community,False,False
+1199,110,716,60152,The Game Changers,Union City,Code Ninjas,False,False
+1196,110,956,60291,Fusion Vortex,Fremont,Family/Community,False,False
+1137,110,958,60354,Paradox,Los Altos,Helios School,False,False
+1210,110,963,60496,Alternative Force,Sunnyvale,Family/Community,False,False
+1220,110,966,60533,Human Microphones,San Ramon,Family/Community,False,False
+1195,110,1116,60537,Mecha Masters,Fremont,Basis Independent Fremont,False,False
+1133,110,989,61205,Snacktopus,Redwood City,Family/Community,False,False
+1168,110,732,61281,Mustang Rockets,Santa Clara,Family/Community,False,False
+1082,110,1117,61685,Noddin Dynabots,San Jose,Family/Community,False,False
+1093,110,1147,61950,Codettes,Tracy,Family/Community,False,False
+1088,110,736,62681,Golden Eagles,San Jose,Queen of Apostles School,False,False
+1208,110,740,64698,ROAR,San Jose,Basis Independent Silicon Vly,False,False
+1109,110,640,65020,The Golden Huskies,Palo Alto,Family/Community,False,False
+1211,110,644,65125,Baybots,Sunnyvale,Family/Community,False,False
+1278,110,646,65258,CrypticButterflies,San Jose,Family/Community,False,False
+1086,110,1158,65278,Hydrobots,Cupertino,Family/Community,False,False
+1219,110,647,65285,Poki Bots,FREMONT,Family/Community,False,False
+1091,110,1171,66069,CuriousDivers,Fremont,Family/Community,False,False
+1214,110,846,66233,Galaxy Guardians,Santa Clara,Family/Community,False,False
+1072,110,1124,66292,CookieBots,Danville,Girl Scouts,False,False
+1276,110,863,66961,PreposterousPlatypus,Palo Alto,ULEAP,False,False
+1215,110,865,67056,Wavebots,Fremont,Family/Community,False,False
+1108,110,874,67287,Spark Squad,Fremont,Family/Community,False,False
+1212,110,875,67342,Sharks,Palo Alto,Silicon Valley International School,False,False
+1218,110,1088,67395,Marine Mavericks,Sunnyvale,Family/Community,False,False
+1183,110,1094,67865,HydroHackers,Santa Clara,Family/Community,False,False
+1204,111,888,4979,Aquabots,Santa Clara,Cabrillo Middle School,False,False
+1073,111,891,8278,Titanium Turtles,San Jose,St Christopher School,False,False
+1157,111,667,20915,TroBots,Burlingame,,False,False
+1092,111,689,48793,Team Mountain House,Mountain House,Family/Community,False,False
+1169,111,926,53140,Fin Finders,San Jose,Bret Harte Middle School,False,False
+1096,111,697,53592,Tiger Robotics 1,San Francisco,Town School for Boys,False,False
+1202,111,929,55976,Megamind Mechanics,Los Altos,Family/Community,False,False
+1184,111,931,56339,Electric Sources,Fremont,William Hopkins Middle School,False,False
+1120,111,702,56459,Code Warriors,Fremont,Family/Community,False,False
+1216,111,703,56489,Gear Girls,San Jose,Family/Community,False,False
+1203,111,936,56940,RoboMasters,Fremont,Family/Community,False,False
+1160,111,938,57125,Incredibuilders,Fremont,Family/Community,False,False
+1176,111,1041,57600,Delta Rovers,San Jose,Family/Community,False,False
+1121,111,944,58380,Lego Masters1,Folsom,,False,False
+1124,111,946,58666,Techno Bricks,San Jose,Allstars United Education Foundation,False,False
+1114,111,712,60069,NINDROIDS,Santa Clara,Family/Community,False,False
+1126,111,721,60338,Astrocubs,Sunnyvale,Family/Community,False,False
+1123,111,967,60642,Code CrasherZ,Santa Clara,Family/Community,False,False
+1116,111,975,60787,Shelby,Saratoga,Saratoga Elementary School,False,False
+1194,111,977,60868,iBots,Milpitas,Family/Community,False,False
+1162,111,981,60956,The Stanlicorns,san jose,St martin of Tours,False,False
+1200,111,727,60958,FLL-C 60958 -- The Great White Sharks,Piedmont,Piedmont Makers,False,False
+1158,111,1265,60981,WinsLab,San Jose,Family/Community,False,False
+1186,111,996,61611,Electro-Phoenix,Fremont,Family/Community,False,False
+1170,111,1009,61990,MIGHTY MINDS,San Jose,Family/Community,False,False
+1191,111,1010,62005,Lego Legends,Fremont,Parent Volunteers,False,False
+1100,111,1013,62268,Delta Cosmic coders,SAN JOSE,Family/Community,False,False
+1193,111,1014,62314,Cyber Sharks,Cupertino,Family/Community,False,False
+1115,111,1015,62984,Eagle Bots 2024,Fremont,Family/Community,False,False
+1101,111,1019,64638,Brain Bots,San Jose,Family/Community,False,False
+1190,111,639,65018,Brickbots,Fremont,"John M Horner Jr High School, William Hopkins Jr High School, Thomas Russell Middle School",False,False
+1188,111,650,65569,Tassajara Bots,Dublin,Family/Community,False,False
+1197,111,659,65690,Shady Sashimi 65690,Alameda,Piedmont Makers,False,False
+1136,111,662,65840,Graystone Ninjas,San Jose,Graystone Elementary,False,False
+1217,111,1037,65978,Notre Dame Robotics - Blue Team,Belmont,Notre Dame Elementary School,False,False
+1122,111,1140,66110,Bot-of-Water,Fremont,Family/Community,False,False
+1127,111,1224,66285,Alpha Zeta,Milpitas,Family/Community,False,False
+1206,111,859,66894,Oceanic Explorers,San Jose,Family/Community,False,False
+1138,111,1250,67058,Coral Keepers,San Jose,,False,False
+1201,111,871,67150,Coding Ninjas,Palo Alto,ULEAP,False,False
+1198,111,1181,67232,Terminators,Burlingame,Burlingame Intermediate,False,False
+1172,111,1128,67473,Krazy Krillionaires,San Jose,Williams Elementary,False,False
+1130,112,1406,19689,RoboKids,Folsom,Family/Community,False,False
+1097,112,1033,23670,TinyBots,Rancho Cordova,Family/Community,False,False
+1125,112,791,26179,Power Ninja Builders,El Dorado Hills,Family/Community,False,False
+1159,112,823,29121,The Mighty Builders@TJ,Folsom,Theodore Judah Elem School,False,False
+1056,112,1036,31153,BEC Rapid Leaners,Sacramento,Family/Community,False,False
+1131,112,1409,31468,The Lego Cougars,GOLD RIVER,,False,False
+1128,112,1069,31607,Lego Divers,El Dorado Hills,Family/Community,False,False
+1118,112,1021,31726,Team Megalodon,El Dorado Hills,Family/Community,False,False
+1135,112,1084,32505,Marine M@sters ,Folsom,Family/Community,False,False
+1177,112,1407,32743,Team Samurai,Folsom,Family/Community,False,False
+1155,114,1309,26725,SuperLego4ce,San Jose,Family/Community,False,False
+1209,114,814,28847,Shark Builders,San Jose,St Christopher School,False,False
+1153,114,817,28850,Precious Puppies,San Jose,St Christopher School,False,False
+1161,114,819,28852,The Botniks! ,San Jose,St Christopher School,False,False
+1154,114,1262,32858,Duveneck Dragons,Palo Alto,Duveneck Elementary,False,False
+1171,115,1032,30399,Evergreen@Dreamers,San Jose,Family/Community,False,False
+1180,115,755,31378,Team 11,San Jose,St Christopher School,False,False
+1167,115,1023,31835,Lego bees ,Fremont,Basis Independent Fremont,False,False
+1174,115,1081,32497,RoboSharks,Santa Clara,Family/Community,False,False
+1175,115,1232,32847,Mebo,Palo Alto,Family/Community,False,False
+1181,117,816,28849,The Golden Blocks,San Jose,St Christopher School,False,False
+1182,117,820,28853,Penguin Builders,San Jose,St Christopher School,False,False
+1187,117,756,31379,GlitterBots,San Jose,St Christopher School,False,False
+1178,117,1071,31819,robogue,FREMONT,,False,False
+1065,117,1269,32916,WildRoz,Sunnyvale,Helios,False,False
+1227,118,1366,59559,Hawktonauts,Menlo Park,Family/Community,False,False
+1358,118,951,60028,Dublin Robotics Club Genesis,Dublin,Dublin Robotics Club,False,False
+1223,118,1428,60425,Protobot,Fremont,Family/Community,False,False
+1239,118,641,65026,Brick Brains,Folsom,Family/Community,False,False
+1231,118,649,65501,The Ocean Fighters,Folsom,Family/Community,False,False
+1251,118,1434,66208,Bob the Builders,Cupertino,Family/Community,False,False
+1261,118,1421,66522,The Placeholders,San Carlos,Family/Community,False,False
+1356,118,855,66736,SAN RAMON ROBOS,San Ramon,Family/Community,False,False
+1271,118,867,67111,AI Masters,Folsom,Family/Community,False,False
+1221,118,880,67749,ML Infinity Bots,San Jose,Family/Community,False,False
+1253,118,1148,68590,Fremont Wizwards,Fremont,Warwick Elementary,False,False
+1394,118,1411,68695,Marine Masterminds,Folsom,Family/Community,False,False
+1233,118,1251,68921,Dragon_1,San Jose,Nelson S. Dilworth Elementary,False,False
+1355,118,1435,68929,Shrimp Ninja Supreme,San Ramon,Family/Community,False,False
+1359,118,1246,69297,Robolabs Curiosity,Dublin,Robolabs Curiosity,False,False
+1360,118,1346,69962,Robolabs Wind,Dublin,Family/Community,False,False
+1250,118,1420,70135,WorkInProgress,Sunnyvale,Family/Community,False,False
+1248,118,1416,70148,TerraKnights,San Jose,Family/Community,False,False
+1418,119,1513,61246,Hedgie Power,Palo Alto,Family/Community,False,False
+1346,119,737,63333,Jaguars,Santa Clara,Family/Community,False,False
+1407,119,1187,65320,DCADS - Cyber Cubs,Santa Clara,Don Callejon Arts and Design School,False,False
+1408,119,1188,65321,DCADS - Astro Cubs,Santa Clara,Don Callejon Arts and Design School,False,False
+1350,119,651,65572,Lego Llamas,Folsom,Family/Community,False,False
+1398,119,844,66066,blue_bobcat,Palo Alto,Family/Community,False,False
+1344,119,845,66137,Build Guild - SBR Team Cupertino,Sunnyvale,Family/Community,False,False
+1414,119,849,66438,Fearsome 5,FOLSOM,Family/Community,False,False
+1411,119,857,66816,Seven Seas,Palo Alto,Herbert Hoover Elementary,False,False
+1461,119,1514,66986,CCDS Krillers,Chico,Chico Country Day,False,False
+1347,119,1446,67086,Any Fling,San Jose,Harker,False,False
+1415,119,1252,67668,Robo Warriors,Fremont,Family/Community,False,False
+1348,119,1145,68659,It's Raining Legos,Walnut Creek,Family/Community,False,False
+1349,119,1292,69207,Depth,San Jose,Family/Community,False,False
+1417,119,1350,69747,Boa Conductors,Hercules,Hercules Middle,False,False
+1402,119,1351,69748,Just Bob,Hercules,Hercules Middle,False,False
+1345,119,1427,70221,BroBots - SBR Team Sunnyvale,Sunnyvale,Family/Community,False,False
+1351,119,1440,70238,Trapped in Union City,Union City,Family/Community,False,False
+1397,120,1118,61692,Blue Bots,Mountain View,Family/Community,False,False
+1357,120,1423,65193,DECT,San Mateo,Family/Community,False,False
+1225,120,832,65801,Pink Potato Chips,Pleasanton,Family/Community,False,False
+1237,120,842,66045,BrickSlayers2.0,alameda,Family/Community,False,False
+1274,120,852,66668,Springer Legonauts,MOUNTAIN VIEW,Family/Community,False,False
+1282,120,1054,66875,Famous Lego Lords,FREMONT,Family/Community,False,False
+1258,120,1129,67430,BayBots,Cupertino,Family/Community,False,False
+1272,120,1266,67557,Sun Valley Challenge,San Rafael,Family/Community,False,False
+1277,120,1268,67841,The Striker Bots,Fremont,Fremont Unified Elementary Schools,False,False
+1403,120,1443,68164,Springer Lego-logists,Mountain View,Springer Elementary,False,False
+1224,120,1121,68221,"20,000 Legos Under the Sea",Palo Alto,Silicon Valley International School,False,False
+1263,120,1123,68412,QuantumBots,Palo Alto,,False,False
+1287,120,1348,69947,Megalobot,Danville,Family/Community,False,False
+1236,120,1418,70178,Crystal Springs Uplands Middle School 1,Belmont,Crystal Springs Uplands School,False,False
+1230,121,687,45629,Dragon Bots,San Francisco,Ecole Notre Dame Des Victoires,False,False
+1235,121,1359,59696,Energizers,Sacramento,Family/Community,False,False
+1229,121,715,60141,Banayays,San Anselmo,St Anselm School,False,False
+1234,121,829,65019,The Ravens,San Jose,Family/Community,False,False
+1232,121,1422,65072,Master Builders,Santa Clara,Stratford School-Santa Clara,False,False
+1238,121,1429,65273,LEGOnardo da Vinci,Folsom,Family/Community,False,False
+1257,121,835,65892,Code Queens,Folsom,Family/Community,False,False
+1241,121,851,66511,Tech Titans,San Jose,Family/Community,False,False
+1256,121,1090,67727,Thunderbolts,Fremont,Family/Community,False,False
+1252,121,1431,68174,Sundrop Robotics - Albany,ALBANY,Sundrop Tutoring And Robotics,False,False
+1423,121,1516,68643,House of Coders,San Jose,Family/Community,False,False
+1290,121,1167,68726,Daedalus Bots,Sunnyvale,Marian A. Peterson Middle,False,False
+1254,121,1345,69571,Hydro-Electric Sharks,FREMONT,Warwick Elementary,False,False
+1404,121,1415,70140,The Infinity Builders 1,Santa Clara,Helios New School,False,False
+1242,122,905,20975,FMS Recreational Spring League Team (20975),Walnut Creek,Foothill Middle School,False,False
+1466,122,914,39742,The Legos,Dublin,Quarry Lane School,False,False
+1467,122,915,47621,Oreo Pandas,Dublin,Quarry Lane School,False,False
+1468,122,1047,47622,The Intellects,Dublin,Quarry Lane School,False,False
+1264,122,945,58665,Lunatics 2 (Wildcats),San Jose,Allstars United Education Foundation,False,False
+1265,122,947,58668,Hyper Technics 2 (Techno Sharks),San Jose,Allstars United Education Foundation,False,False
+1246,122,733,61406,Quantum Robotics,Dublin,Family/Community,False,False
+1469,122,1048,63308,I Want Food,Dublin,Quarry Lane School,False,False
+1420,122,1017,63874,MasterBuilder3,HILLSBOROUGH,Family/Community,False,False
+1260,122,841,66044,Red Raptors,Folsom,Theodore Judah Elementary,False,False
+1222,122,1066,66820,Leadways FBI,Cupertino,Leadways School,False,False
+1226,122,860,66906,SuperAqua,El Dorado Hills,Theodore Judah Elementary,False,False
+1244,122,879,67645,Foothill Spring League Team (67645),Walnut Creek,Foothill Middle,False,False
+1249,122,1189,69015,Quantum Robotics T2,Dublin,Family/Community,False,False
+1266,122,1433,69238,The Commas,Stanford,Family/Community,False,False
+1245,122,1257,69357,Foothill Spring League Team (69357),Walnut Creek,Foothill Middle,False,False
+1354,122,1436,69751,Bubby Rules the World,San Ramon,Family/Community,False,False
+1353,122,1437,69767,Banned in 49 states,Walnut Creek,Family/Community,False,False
+1400,123,1360,44835,Ninja NERDles,Hayward,California Crosspoint Academy,False,False
+1267,123,709,59995,Bricks you step on,Los Altos,Applied computing foundation,False,False
+1284,123,993,61351,RRR Rockets,Lathrop,Family/Community,False,False
+1399,123,1007,61938,ZE Gamers,Fremont,Code Ninjas,False,False
+1289,123,1119,62969,Straw Hat Dragons,Marina,Los Arboles Middle School,False,False
+1240,123,1426,65868,Robotic Sigmas,Mountain View,Family/Community,False,False
+1247,123,1289,66337,IJAVVE,San Jose,Ida Jew Academy Valle Vista Elementary,False,False
+1286,123,1439,66756,Cryptobots,Fremont,,False,False
+1280,123,1153,67946,Sea Sigmas,Folsom,Family/Community,False,False
+1270,123,1424,68226,NinjaRobo$,Fremont,"William Hopkins Junior High, Joshua Chadbourne Elementary, Diablo Vista Middle School",False,False
+1273,123,1425,68861,Technic Pythons,Menlo Park,Family/Community,False,False
+1279,123,1217,68894,Mustang Four'ce,Fremont,Mission San Jose Elementary,False,False
+1275,123,1432,69250,Surfer_Sharks!,Fremont,John M. Horner Middle,False,False
+1269,123,1438,69572,Hydro Hackers,San Ramon,Family/Community,False,False
+1281,123,1430,70000,Bulldog Bots,Fremont,Family/Community,False,False
+1297,124,1028,26136,Treasure Hunterz,San Ramon,Home School,False,False
+1291,124,1315,26185,Building Blocks of Friendship,Concord,Family/Community,False,False
+1298,124,1131,26422,Golden Ninjas,Milpitas,Family/Community,False,False
+1295,124,745,31252,Brick sharks,Folsom,Family/Community,False,False
+1309,124,1240,31466,Westpark Code Commandos,Roseville,Family/Community,False,False
+1294,124,1442,31656,Rocking Creators,Folsom,Family/Community,False,False
+1293,124,1211,31740,Junior RoboRangers,Fremont,Family/Community,False,False
+1292,124,1168,32550,Lego Blasters,Fremont,Family/Community,False,False
+1305,125,1294,28601,Lego Mancers,Saratoga,Home School,False,False
+1299,125,812,28804,Submerged Submarine,San Ramon,Family/Community,False,False
+1303,125,1297,29201,SparkSteam I,Palo Alto,Family/Community,False,False
+1302,125,1298,29660,SparkSteam II,Palo Alto,Family/Community,False,False
+1300,125,744,31094,Lego Legends,Santa Clara,Stratford School - Santa Clara Pomeroy,False,False
+1301,125,1344,31430,Coral Warriors,Folsom,Family/Community,False,False
+1306,125,826,31479,RoboSparks,Pleasanton,Family/Community,False,False
+1307,125,759,31650,LegoLegends,folsom,Family/Community,False,False
+1421,126,1063,21866,Blue Jay Master Builders,San Ramon,Blue Jay STEM Labs,False,False
+1427,126,1082,29097,Lego G.O.A.T.S.,San Jose,"Tom Matsumoto Elem School, Carolyn a Clark Elementary Sch",False,False
+1481,126,1410,30595,SparkSteam III,East Palo Alto,Family/Community,False,False
+1409,126,758,31509,Battle Bears - SBR Team Cupertino,Cupertino,Family/Community,False,False
+1406,126,1479,32970,Ferocious Fish,San Ramon,Family/Community,False,False
+1412,126,1445,33063,LegoCubs1390 - MARS,San Jose,"Carolyn A. Clark Elementary, Norwood Creek Elementary, Tom Matsumoto Elementary",False,False
+1484,126,1362,33312,Waves of Friendship,Livermore,Family/Community,False,False
+1342,127,766,21406,Future Builders,Santa Clara,Family/Community,False,False
+1396,127,1305,28049,Reef Revivers,San Jose,Family/Community,False,False
+1343,127,1480,32010,Champs,San Jose,Carlton Elementary,False,False
+1308,127,1202,32061,Lego Warriors,Milpitas,Family/Community,False,False
+1304,127,1403,32199,Dancing Dolphins,Palo Alto,Family/Community,False,False
+1419,127,1065,32387,Falcon-Submerged,Cupertino,,False,False
+1405,127,1130,32496,Folsom@Autobots,Folsom,"Theodore Judah Elementary, Mangini Ranch Elementary",False,False
+1416,127,1334,32742,Block Builders,San Ramon,Family/Community,False,False
+1422,128,1515,56271,Mechanical Arts,Albany,Family/Community,False,False
+1463,128,1166,61093,Golden Dolphins,Fremont,Code Ninjas,False,False
+1490,128,1419,66603,Fletcher Robotigers,PALO ALTO,Ellen Fletcher Middle School,False,False
+1499,128,1271,66739,Lakshmi Adusumilli,Fremont,Family/Community,False,False
+1243,128,861,66920,SparkleBots1,El Dorado Hills,Theodore Judah Elementary,False,False
+1485,128,1122,67142,Dreamers,Danville,Family/Community,False,False
+1488,128,1553,67407,Robot Thunder X,San Jose,Family/Community,False,False
+1413,128,1444,67440,BayBots,Fremont,Thornton Junior High,False,False
+1401,128,1242,67678,RoboSquad,Fremont,Harvey Green Elementary,False,False
+1425,128,1193,68377,Gemini,Fremont,Family/Community,False,False
+1462,128,1306,68775,Little Scholar ACE,Newark,Little Scholar ACE,False,False
+1424,128,1274,68960,Poseidon Engineers,Milpitas,Family/Community,False,False
+1465,128,1517,69065,Mustang QuadRacers,Fremont,Mission San Jose Elementary,False,False
+1426,128,1278,69253,The Marines,San Jose,Family/Community,False,False
+1410,128,1412,69595,TechnoBots,Fremont,Family/Community,False,False
+1464,128,1307,69653,Robo Legends,Newark,Family/Community,False,False
+1476,128,1552,70153,rickroll,Fremont,Family/Community,False,False
+1460,128,1551,70300,DCADS Exo Cubs,Santa Clara,Don Callejon,False,False
+1477,161,795,28352,Lego_Knights,Santa Clara,Family/Community,False,False
+1482,161,796,28665,Master Builder,Fremont,Code Ninjas Union City,False,False
+1478,161,1031,29038,Creative Crew,Sunnyvale,Family/Community,False,False
+1473,161,1064,29192,LEGO {Coder} Dudes,Fremont,Family/Community,False,False
+1472,161,1020,31611,Cornellians,Albany,Family/Community,False,False
+1474,161,1052,31910,Bot Busters,San Jose,Family/Community,False,False
+1471,161,1358,33308,Shark Masters,Pleasanton,Family/Community,False,False
+1470,161,1417,33557,Serendipitous,San Carlos,Serendipity School,False,False
+1475,162,1357,31646,Epic Robots,Millbrae,Family/Community,False,False
+1483,162,1025,31947,LEGO Boulders,Union City,Code Ninjas,False,False
+1493,162,1352,33079,Mystical Hotdogs,Hercules,Ohlone Elementary,False,False
+1479,162,1353,33080,Banana Fishes,Hercules,Ohlone Elementary,False,False
+1480,162,1354,33081,Lego Bubble Bots,Hercules,Ohlone Elementary,False,False
+1489,162,1349,33298,Brick Masters,Santa Clara,Family/Community,False,False
+1491,162,1356,33306,Banana Maniacs,San Jose,Family/Community,False,False
+1486,162,1347,33321,Lego Empire,Lathrop,Family/Community,False,False
+1498,163,824,29203,Little Masters,Santa Clara,Family/Community,False,False
+1497,163,1034,31469,Super Nova,San Jose,Family/Community,False,False
+1496,163,1203,32598,DCADS- Gizmo Cubs,Santa Clara,Don Callejon Arts and Design School,False,False
+1492,163,1178,32604,Curtner Builders,Milpitas,Curtner Elementary,False,False
+1500,163,1337,33178,Almaden Dolphins,San Jose,Family/Community,False,False
+1495,163,1355,33325,Lego Champs,San Jose,Family/Community,False,False
+1494,163,1401,33417,Five people group,Newark,Family/Community,False,False
+1502,164,1363,30760,Cosmic coders,San Jose,Family/Community,False,False
+1501,164,1053,31011,Robo Rangers,Santa Clara,Family/Community,False,False
+1503,164,1408,31145,Santa Clara Hawks,Mountain View,Family/Community,False,False
+1487,164,1059,31960,Electric Eels,San Jose,Family/Community,False,False
+1867,173,2091,7052,Dynamite Dinosaurs,San Francisco,St. Gabriel School,False,False
+1868,173,2092,7453,ChronoCrafters,San Francisco,St. Gabriel School,False,False
+1656,173,2181,10589,Archybots,Hillsborough,Nueva School,False,False
+1750,173,1694,60152,The Game Changers,Union City,Code Ninjas,False,False
+1669,173,1726,64898,Circuit Breakers,Tracy,Family/Community,True,False
+1701,173,1738,65501,Artifact Masters,Folsom,Family/Community,False,False
+1651,173,2094,66163,Dino Nuggets (Ketchup),Walnut Creek,Family/Community,False,True
+1641,173,1762,66292,CookieBots,Danville,Girl Scouts,True,False
+1759,173,2018,67107,Tech Titans,Los Altos,Family/Community,True,False
+1756,173,2081,68231,Everest,Milpitas,Family/Community,False,False
+1586,173,2209,71343,GoldenBots,San Jose,Family/Community,False,False
+1717,173,2244,71909,League of Lego Legends,Cupertino,Family/Community,False,False
+1567,174,2111,4978,4978,Santa Clara,Cabrillo Middle School,False,True
+1629,174,1641,10585,Code Crackers,Hillsborough,Nueva School,False,False
+1725,174,1894,34265,EagleBots,San Jose,Queen of Apostles School,True,False
+1522,174,1670,52305,Master Oogway,Pleasanton,Family/Community,False,False
+1648,174,2152,52561,Brilliant Beavers,San Carlos,Family/Community,True,False
+1720,174,1695,60296,Stormy Knights,San Jose,Graystone Elementary School,False,False
+1788,174,2187,60433,Sigma Squad,Santa Clara,St Lawrence Elem & Middle Sch,False,False
+1877,174,1707,60956,The Stanlicorns,Campbell,St Martin of Tours School,False,False
+1875,174,1711,60987,The fighting pickles,San Jose,St Martin of Tours School,False,False
+1789,174,1918,61769,Omegas,Santa Clara,St Lawrence Elem & Middle School,False,False
+1722,174,1719,61803,Robosaurs,Saratoga,Foothill Elementary School,True,False
+1699,174,1790,67727,Thunderbolts,Fremont,Family/Community,False,False
+1897,174,2027,68707,The HF Glitch Mob - Syntax Terror,San Jose,Holy Family School,False,False
+1723,174,2029,68894,GyroBots,Fremont,Mission San Jose Elementary,False,False
+1577,174,1588,70487,Circuit Brakers,Tracy,Family/Community,False,False
+1679,174,1899,70538,Shovel Buddies,SAN JOSE,Family/Community,True,False
+1542,174,1620,71538,Dino Diggers,Palo Alto,Oak Avenue Elementary,False,False
+1707,174,1621,71598,WIP,San Jose,Family/Community,True,False
+1702,175,1998,53140,Fin Finders,San Jose,Bret Harte Middle School,False,False
+1710,175,2006,61685,Union Megatrons,San Jose,Family/Community,True,False
+1665,175,2009,61932,BCS Gold Miners,Los Altos,Bullis Charter School N,False,False
+1613,175,1920,66756,Cryptobots,Fremont,William Hopkins Junior High,False,True
+1709,175,1786,67430,BayBots,Cupertino,Family/Community,False,False
+1692,175,1922,67841,The Striker Bots,Fremont,Family/Community,False,False
+1623,175,1923,68216,Circuit Breakers,Fremont,Family/Community,False,False
+1620,175,2028,68726,Daedalus Bots,Sunnyvale,Marian A. Peterson Middle,False,False
+1708,175,1797,68861,Technic Pythons,Menlo Park,Family/Community,True,False
+1696,175,2245,71326,Lightning R7,San Jose,Family/Community,False,False
+1677,175,1972,72257,Lego Benders,Fremont,Family/Community,True,False
+1531,175,2047,72384,Kinetic Bots,San Jose,Family/Community,False,False
+1898,176,1631,445,Mighty Robo Pines,Sacramento,Matsuyama Elementary School,False,False
+1694,176,1992,20710,Our Savior Lions,Livermore,Our Savior Lutheran School,False,False
+1718,176,1916,30497,FBI(Fascinating Bot Intelligence),Dublin,Family/Community,False,False
+1713,176,1682,56489,Gear Girls,San Jose,Family/Community,False,False
+1834,176,1698,60507,Team Prime,Mountain House,Family/Community,True,False
+1729,176,1715,61055,Robotic Athletes,Fremont,Family/Community,True,False
+1825,176,1716,61406,Quantum Bots,Dublin,Family/Community,True,False
+1748,176,2008,61776,Tech Ninja,Rancho Cordova,Family/Community,False,False
+1826,176,1756,66075,TechTitans,Fremont,Family/Community,False,False
+1876,176,1798,68960,Seismic Cyborgs,MILPITAS,"Family/Community, Thomas Russell Middle",False,True
+1764,176,2153,71252,Lions,Modesto,Big Valley Christian,False,False
+1781,176,1890,71435,Servo Dei,Modesto,St Joseph’s,False,False
+1873,176,2372,71804,Astrobot,Mountain House,Family/Community,False,False
+1733,176,2212,72102,The Radical Robots,Dublin,Cottonwood Creek,False,False
+1732,176,1969,72123,Dig Deep Discoverers,San Jose,Family/Community,False,False
+1827,176,1970,72151,Miniona Jones,San Jose,Family/Community,True,False
+1575,176,2213,72905,Argo Robotics Team 251,Saratoga,Argonaut Elementary,True,False
+1633,177,2109,2848,2848,Santa Clara,Cabrillo Middle School,True,False
+1511,177,1634,7434,The Human Computers,San Bruno,Nueva School,False,False
+1534,177,1643,20915,TroBots,Burlingame,Burlingame Intermediate School,False,False
+1621,177,1686,57382,RoboRise,Foster City,Family/Community,True,False
+1828,177,1701,60702,Robochickens,Berkeley,Family/Community,False,False
+1643,177,1728,65020,The Golden Huskies,Palo Alto,Family/Community,False,True
+1528,177,1730,65065,INNO BOTS,Sunnyvale,Family/Community,False,False
+1833,177,1731,65072,Master Builders,Santa Clara,Stratford School-Santa Clara,False,False
+1550,177,1919,65193,Worm Hole,San Mateo,Family/Community,False,False
+1541,177,1779,67092,Flame Bots,Sunnyvale,Family/Community,True,False
+1546,177,1783,67232,Terminators,Burlingame,Burlingame Intermediate,False,False
+1832,177,1791,67840,The Submarine SharkBots,Saratoga,Saratoga Elementary,True,False
+1829,177,2274,69118,The Eggsplorers,Berkeley,Family/Community,False,False
+1830,177,2275,69281,The RoboSnailRabbits,Berkeley,"Tinker Coop, a 501(c)(3) community makerspace",False,False
+1831,177,1622,71606,Lego Legends,Fremont,Family/Community,True,False
+1525,177,1913,72055,Almaden Ninjas,San Jose,Family/Community,False,False
+1556,177,2235,72670,SPHINX,Palo Alto,Imagination Lab School,False,False
+1524,177,2238,74114,LEGONEERS,Palo Alto,Imagination Lab School,False,False
+1603,178,2115,17493,17493,Santa Clara,Cabrillo Middle School,True,False
+1538,178,2119,25573,25573,Santa Clara,Cabrillo Middle School,False,False
+1539,178,2011,61949,Ultraviolet,Cupertino,Family/Community,True,False
+1599,178,1758,66137,Build Guild - SBR,Sunnyvale,Family/Community,False,False
+1552,178,1766,66444,CyberPirates,San Jose,Family/Community,False,False
+1516,178,1594,71128,MidKnight Marvels,Sunnyvale,The King's Academy,True,False
+1600,178,1975,72298,Muir Robotics Gold,Sunnyvale,John Muir Elementary,False,False
+1639,178,1978,72366,Muir Robotics Blue,Sunnyvale,John Muir Elementary,False,False
+1612,178,1979,72371,SBR TEAM RED,Sunnyvale,Family/Community,False,False
+1591,178,1980,72379,SBR TEAM ORANGE,Sunnyvale,Family/Community,False,False
+1595,178,1981,72380,SBR TEAM GREEN,Sunnyvale,Family/Community,False,False
+1557,178,2191,72909,Argo Robotics Team 255,Saratoga,Argonaut Elementary,False,False
+1690,179,2117,25571,2847,Santa Clara,Cabrillo Middle School,False,False
+1672,179,1658,38159,Otterly Awesome,Menlo Park,Family/Community,True,False
+1626,179,1671,52363,TerraBytes,San Jose,Family/Community,False,True
+1627,179,1688,58828,ShortCircuit,Cupertino,Family/Community,True,False
+1614,179,1704,60868,iBots,San Jose,Family/Community,True,False
+1616,179,2005,61611,Electro-Phoenix,Fremont,Family/Community,False,False
+1551,179,1723,64672,MechaBotz,San Jose,Family/Community,False,False
+1658,179,1732,65258,CrypticButterflies,San Jose,Family/Community,True,False
+1572,179,1734,65278,Hydrobots,Cupertino,Family/Community,False,False
+1657,179,1749,65783,AI 4 Future,Los Altos,Family/Community,False,False
+1631,179,1767,66511,Tech Titans,San Jose,Family/Community,True,False
+1606,179,1782,67213,Quail Run Warriors,San Ramon,Quail Run Elementary,False,False
+1647,179,1788,67473,Relic Raiders,San Jose,Bret Harte Middle School,False,False
+1645,179,2023,67745,Dig 4 Future,Sunnyvale,Family/Community,False,False
+1636,179,1892,71799,Codemanders,San Jose,Family/Community,False,False
+1635,179,2100,72627,Brick Explorers,San Jose,Family/Community,False,False
+1662,179,2105,73005,Cougar Bots 2025,San Jose,,False,False
+1609,179,2193,73520,Data Miners,San Jose,Family/Community,False,False
+1674,180,1635,7460,Tiger Robotics 4,San Francisco,Town School for Boys,False,False
+1544,180,1645,29151,Tiger Robotics 3,San Francisco,Town School for Boys,False,True
+1686,180,1657,37489,FLL-C 37489,Piedmont,Piedmont Makers,True,False
+1537,180,1660,40997,Denman Robotics,San Francisco,James Denman Middle School,False,False
+1607,180,1666,45629,Dragon Bots,San Francisco,Ecole Notre Dame Des Victoires,False,False
+1666,180,1995,52090,Canary1,San Francisco,Family/Community,True,False
+1512,180,1996,52943,Digital Dolphins GREEN TEAM,San Francisco,San Francisco Day School,True,False
+1515,180,1997,52944,Digital Dolphins BLUE TEAM,San Francisco,San Francisco Day School,False,False
+1536,180,1677,53592,Tiger Robotics 1,San Francisco,Town School for Boys,False,False
+1510,180,2001,57759,Digital Dolphins GREY TEAM,San Francisco,San Francisco Day School,False,False
+1548,180,1760,66219,CougarBots,San Francisco,Family/Community,True,False
+1652,180,2020,67216,Submersiwolves,San Francisco,Lilienthal (Claire) Elementary,True,False
+1598,180,1795,68218,Tiger Robotics 5,San Francisco,Town School for Boys,False,False
+1513,180,2030,68910,Digital Dolphins - YELLOW TEAM,San Francisco,San Francisco Day School,False,False
+1520,180,1799,69000,King Khai Robotics,Alameda,Family/Community,False,False
+1604,180,1927,69977,FireDragons of CAIS,San Francisco,Chinese American International School,False,False
+1670,180,2165,72833,Mckinely1,Burlingame,Mckinley Elementary,False,False
+1527,180,2200,72904,Tiger Robotics 6,San Francisco,Town School for Boys,False,False
+1578,181,1632,752,Almaden Minors,San Jose,Williams Elementart School,False,False
+1560,181,1674,52522,Heat Hackers,San Ramon,Home School,False,False
+1688,181,1697,60502,CodeBreakerz,San Ramon,Home School,True,False
+1680,181,1699,60514,The Time Travellers,San Ramon,Family/Community,False,False
+1530,181,1700,60533,Crypt Coders,San Ramon,Family/Community,False,False
+1562,181,1705,60869,Techno Troopers,Newark,Family/Community,True,False
+1566,181,1722,64638,Brain Bots,San Jose,Family/Community,True,False
+1676,181,1724,64698,ROAR,San Jose,Basis Independent Silicon Vly,True,False
+1691,181,1778,67086,Any Fling,San Jose,Family/Community,False,False
+1681,181,1784,67289,Electric Eels,San Jose,Family/Community,False,False
+1588,181,1789,67635,Mission LEGO Legends,Fremont,Mission San Jose Elementary,False,False
+1559,181,2199,67813,Gears in Motion,Fremont,Family/Community,False,False
+1529,181,1796,68575,Titan-Botics,San Jose,"Stratford School - San Jose, Santa Teresa Elementary",False,True
+1596,181,1801,69207,Depth,San Jose,Family/Community,False,False
+1637,181,1802,69218,Big Cheezus,San Ramon,Family/Community,False,False
+1673,181,2230,71101,BotSpark,San Jose,Family/Community,False,False
+1660,181,1613,71331,Next Team,Milpitas,Family/Community,True,False
+1630,181,1619,71535,Logic Linked Fox,Dublin,Family/Community,False,False
+1570,181,1897,71616, brick bots,Saratoga,Saratoga Elementary,True,False
+1687,181,2046,71892,Tech Titans,Cupertino,Family/Community,False,False
+1601,181,2163,72717,Robohawks,Fremont,William Hopkins Junior High,False,False
+1581,181,2164,72775,Bayarea Lego-nauts,Cupertino,Family/Community,False,False
+1563,181,2227,72910,Argo Robotics Team 256,Saratoga,Argonaut Elementary,False,False
+1553,181,2177,73480,Tech Titans,San jose,Family/Community,False,False
+2052,182,1693,60141,St. Anselm School Panthers,San Anselmo,St Anselm School,False,False
+2068,182,2122,65158,Tierra Linda,San Carlos,Tierra Linda Middle,False,False
+2237,182,2486,66736,SAN RAMON ROBOS,San Ramon,Family/Community,False,False
+2053,182,1906,71110,RobotiCi,San Francisco,La Scuola International School,False,False
+2092,182,1966,71922,Pixelated Panthers,El Dorado Hills,Family/Community,False,False
+2160,182,2210,72081,INNO BOTS 1,SUNNYVALE,Family/Community,False,False
+2165,182,2231,72482,MWA Robotics Club,"San Pablo, CA",Making Waves Academy,False,False
+2046,182,1987,72592,Fantastic Five,San Jose,Family/Community,False,False
+2163,182,2206,73489,RoboBlachsters,Mountain View,Georgina P. Blach Junior High,False,False
+2161,182,2272,74365,Master4Minds,Novato,Family/Community,False,False
+2070,182,2422,74990,St. Anselm School Rookies,San Anselmo,St Anselm School,False,False
+2125,182,2430,75058,MegaBots,Mountain View,Family/Community,False,False
+1661,183,2113,17491,17491,Santa Clara,Cabrillo Middle School,False,False
+1568,183,2183,37811,OwOls,Danville,Athenian School,False,False
+1590,183,1659,39190,Owls,Danville,Athenian School,False,False
+1663,183,2184,47206,Owlz,Danville,Athenian School,False,False
+1519,183,1669,51095,CreaTech,Fremont,Family/Community,False,True
+1610,183,1964,60418,Hedgedroid,Palo Alto,Jane Lathrop Stanford Middle,True,False
+1533,183,1741,65685,FLL-C 65685,Oakland,Piedmont Makers,False,False
+1640,183,1761,66280,DELTABOTS,Fremont,Family/Community,False,False
+1547,183,2019,67150,Coding Ninjas,Palo Alto,ULEAP,True,False
+1592,183,1785,67422,The Alameda Wild Turkey Gang,Alameda,Family/Community,False,False
+1675,183,2248,70550,BionicPanthers,Palo Alto,Family/Community,False,False
+1624,183,2074,71232,Aura100%,San Jose,Family/Community,True,False
+1619,183,1930,71418,SALADS2025,San Jose,Family/Community,False,False
+1615,183,2232,71713,BuildHers,Fremont,Family/Community,True,False
+1565,183,1625,71755,Avolving_Earthbots,Palo Alto,Family/Community,False,False
+1518,183,2242,71969,HUNTRX,Cupertino,Family/Community,False,False
+1574,183,2156,72068,DVMS Robotics,Danville,Diablo Vista Middle,True,False
+1594,183,2175,72906,Argo Robotics Team 252,Saratoga,Argonaut Elementary,False,False
+1514,185,2180,10586,The Peanut Botters,Hillsborough,Nueva School,True,False
+1726,185,2004,61167,Mighty 'Mine'ons,Saratoga,Foothill Elementary School,False,False
+1752,185,2190,64757,Brain Bot,Union City ,Family/Community,False,False
+1712,185,2246,71805,Robo Crushers,Cupertino,Family/Community,False,True
+1582,185,2157,72207,St. Cecilia Robotics 8th Grade,San Francisco,St Cecilia School,False,False
+1731,185,2160,72610,Lightning Raiders,Cupertino,Family/Community,True,False
+1693,185,2103,72979,St. Cecilia Robotics 2,San Francisco,St Cecilia School,False,False
+1870,185,2290,73342,SiblingsRobotics01,Mill Valley,Family/Community,False,False
+1871,186,1636,8278,Titanium Turtles,San Jose,St Christopher School,False,False
+1655,186,1917,60497,Apollo 6,Fremont,Family/Community,True,False
+1667,186,1736,65319,DCADS Robo Cubs,Santa Clara,Don Callejon,True,False
+1721,186,1752,65885,Ocean Plate Explorers,San Jose,St Christopher School,False,False
+1625,186,1759,66208,Bob the Builders,Cupertino,Family/Community,True,False
+1632,186,1805,70221,BroBots - SBR,Sunnyvale,Family/Community,False,False
+1905,186,2154,71480,Westlake Robotics ,Oakland,Westlake Middle,False,False
+1517,186,2102,72968,robojets,Fremont,Family/Community,False,False
+1597,186,2205,73368,Guardians of the Ground,Fremont,Family/Community,False,False
+1638,186,2202,73699,Cambrian Titans,San Jose,"Union Middle, Dartmouth Middle",False,False
+1902,186,2237,74113,Undecided Team 7-8,San Jose,Holy Family School,False,False
+1689,186,2256,74164,M-A Cubs 5,Menlo Park,La Entrada Middle,False,False
+1747,187,1683,56511,Super Charged,Folsom,Family/Community,False,False
+1742,187,1696,60354,Helios Suns,Los Altos,Helios School,True,False
+1540,187,1712,60996,VortexMasterminds,Folsom,Family/Community,True,False
+1697,187,1718,61610,Argoclucks,Albany,Family/Community,False,False
+1618,187,2007,61718,MechMavericks,Folsom,"Theodore Judah Elem School, Russell Ranch Elem School, Sutter Middle",False,False
+1706,187,1729,65026,Brick Brains,Folsom,Family/Community,False,False
+1642,187,1753,65902,Coding Mavs,ROCKLIN,Family/Community,False,True
+1714,187,1754,66034,Westpark Mech Warriors,Roseville,Family/Community,True,False
+1576,187,1755,66044,Red Raptors,Folsom,Family/Community,False,False
+1719,187,1764,66342,KiloNuggets,El Dorado Hills,"Lakeview Elementary, Family/Community",False,False
+1695,187,1775,66923,H2O Warriors,Saratoga,Family/Community,False,False
+1753,187,1776,67058,Earth Angels,San Jose,Evergreen Elementary,False,False
+1724,187,2021,67290,VXL,Folsom,Family/Community,False,False
+1716,187,1793,68191,Lego Lillies,Fremont,William Hopkins Junior High,False,False
+1730,187,1623,71669,TheCodeBlooded4,Fremont,Thornton Junior High,True,False
+1628,187,1965,71888,Prime Builders,Mountain House,Mountain House Marathi Shala And Community,False,False
+1668,187,2161,72651,Coding Buddies ,San Ramon,Family/Community,True,False
+1569,187,2178,73516,Dino Nuggets (BBQ),Walnut Creek,Family/Community,False,False
+1872,188,1915,5254,Golden Surfers,East Palo Alto,Aspire East Palo Alto Charter School,False,False
+1685,188,2118,25572,25572,Santa Clara,Cabrillo Middle School,False,False
+1554,188,1678,54977,Menlo Park Narleaotters,Menlo Park,Family/Community,True,False
+1682,188,1999,56768,Blue Brickbots,Fremont,Family/Community,True,False
+1611,188,1772,66820,Leadways FBI,Cupertino,Leadways School,True,False
+1583,188,1804,70178,Crystal Springs Uplands Middle School 1,Belmont,Crystal Springs Uplands School,False,False
+1654,188,1591,70849,ML Infinity Bots,San Jose,Family/Community,False,False
+1555,188,1605,71306,Wingin' It,Oakland,Piedmont Makers,False,False
+1906,188,2155,71481,Westlake Robotics Soar,Oakland,Westlake Middle,False,False
+1644,188,1910,71981,Robo-Relics,Menlo Park,Family/Community,False,False
+1664,188,2225,72884,Starlight Scouts,Pleasant Hill,Girl Scouts,False,False
+1684,188,2127,73146,Master Builders,Saratoga,Foothill Elementary,False,False
+1765,189,1652,37484,FLL-C 37484,Piedmont,Piedmont Makers,False,False
+1579,189,1668,48793,Mountain House,Mountain House,Family/Community,True,False
+1727,189,1929,55739,Tech_Bears,San Jose,Family/Community,False,False
+1700,189,1684,57285,Mighty Minds,Cupertino,Family/Community,False,False
+1659,189,1689,59703,brick-o-brainiacs pioneers,Tracy,Family/Community,False,False
+1585,189,1702,60718,Rockin Robos,Rocklin,Family/Community,False,True
+1584,189,1703,60855,GearShift,Fremont,Family/Community,True,False
+1749,189,2003,61139,Lightning Squad,Folsom,Family/Community,True,False
+1766,189,2012,62984,Eagle Bots 2025,Fremont,Family/Community,False,False
+1549,189,1725,64889,Sea Monsters Squad,Folsom,Family/Community,True,False
+1778,189,1733,65273,LEGOnardo da Vinci,Folsom,Family/Community,False,False
+1602,189,1735,65287,RoboWizards7,Folsom,Family/Community,True,False
+1558,189,1751,65868,Robotic Sigmas,Mountain View,Family/Community,False,False
+1646,189,1774,66920,SparkleBots1,El Dorado Hills,Theodore Judah Elementary,False,False
+1698,189,1921,67056,Wavebots,Fremont,Family/Community,False,False
+1728,189,1777,67074,Rad_Robos,Roseville,Rocklin Academy Gateway,False,False
+1608,189,1792,68040,MH Quantum,Mountain House,Family/Community,False,False
+1526,189,1794,68202,Curious Earthlings,Fremont,,True,False
+1703,189,1914,72060,Robo Wizards,Rancho Cordova,Family/Community,False,False
+1769,189,2282,72697,Vortex Dynamics,Saratoga,Family/Community,False,False
+1754,189,2222,72907,Argo Robotics Team 253,Saratoga,Argonaut Elementary,False,False
+1705,189,2192,72908,Argo Robotics Team 254,Saratoga,Argonaut Elementary,False,False
+1704,189,2126,73068,Tracy Tech Titans,Tracy,Family/Community,False,False
+1776,189,2220,73717,Artanators,Sunnyvale,Family/Community,False,False
+1589,190,1639,8560,ProGRAHAMers,Mountain View,Graham Middle School,True,False
+1634,190,1991,9726,Stampede,Santa Clara,Monticello Academy,False,False
+1535,190,1642,12287,Pantherbots JV,Mountain View,Crittenden Middle School,False,False
+1521,190,2114,17492,17492,Santa Clara,Cabrillo Middle School,True,False
+1653,190,2182,18197,Flashfang,San Bruno,Nueva School,False,True
+1587,190,1647,30516,Cheerios FLL-C 30516,Piedmont,Piedmont Makers,False,False
+1650,190,1994,32759,LEGOstangs,Santa Clara,Monticello Academy,False,False
+1571,190,2000,56793,BCS Blue Team: Paleo-Paws,Los Altos,Bullis Charter School N,False,False
+1545,190,1692,60085,Lego Artisans,Cupertino,Family/Community,True,False
+1573,190,2121,61692,Blue Bots,Mountain View,Family/Community,False,False
+1564,190,2080,67149,Imagination Lab School Team,Palo Alto,ULEAP,False,False
+1622,190,2082,68557,M-A Cubs 1,Menlo Park,La Entrada Middle,False,False
+1532,190,2083,68558,M-A Cubs 2,Menlo Park,La Entrada Middle,False,False
+1617,190,2084,68559,M-A Cubs 3,Menlo Park,La Entrada Middle,False,False
+1649,190,2085,68560,M-A Cubs 4,Menlo Park,La Entrada Middle,False,False
+1605,190,2098,70148,TerraKnights,San Jose,Family/Community,True,False
+1593,190,1912,72044,Earth Giants,Saratoga,Foothill Elementary,True,False
+1580,190,2166,72923,Waffle,Saratoga,Foothill Elementary,False,False
+1740,191,1633,2713,CTRL-Xcavators,Mountain View,Crittenden Middle School,False,True
+1523,191,2108,2847,2847,Santa Clara,Cabrillo Middle School,False,False
+1671,191,2110,4416,4416,Santa Clara,Cabrillo Middle School,False,False
+1543,191,2112,4979,4979,Santa Clara,Cabrillo Middle School,True,False
+1678,191,2116,17494,17494,Santa Clara,Cabrillo Middle School,False,False
+1738,191,1676,53591,Tiger Robotics 2,San Francisco,Town School for Boys,False,False
+1879,191,1706,60942,Excavators,Palo Alto,Jane Lathrop Stanford Middle,False,False
+1739,191,2013,64902,TBT,Alamo,Tice Creek School,False,False
+1561,191,1750,65801,Pink Potato Chips,Pleasanton,Family/Community,False,False
+1737,191,1630,71920,RoboWizards,San Jose,Family/Community,True,False
+1735,191,1985,72540,TBD123,San Jose,Family/Community,True,False
+1734,191,2283,74425,Andromeda,Mountain View,Khan Lab School,False,False
+1780,192,1928,56482,Brawl Bros,Sunnyvale,Family/Community,False,False
+1762,192,1717,61600,Allstars Dolphins,San Jose,Allstars United Education Foundation,False,False
+1784,192,1720,62268,Delta Cosmic Coders 2025,San Jose,Family/Community,True,False
+1683,192,2014,65841,Falcon X,Fremont,Basis Independent Fremont,False,False
+1777,192,2211,67186,Diggnation,SARATOGA,Foothill Elementary,False,False
+1755,192,2024,67854,Superstars,fremont,Family/Community,False,False
+1760,192,1806,70238,Trapped in Union City,Union City,Family/Community,True,False
+1757,192,1590,70765,The Paleo Coders,Cupertino,Stevens Creek Elementary,False,True
+1771,192,2249,71907,Quarks,Cupertino,Family/Community,False,False
+1772,192,1983,72421,EarthCreators,Fremont,,True,False
+1741,192,2128,73341, Blitz Bots ,Sunnyvale,Stratford School - Sunnyvale De Anza Park,False,False
+1787,192,2267,73948,Stratford Osgood,Fremont,Stratford School,False,False
+1822,193,1690,60033,Pokémon ,Cupertino,Family/Community,True,False
+1774,193,1713,61016,Mecha Lions FLL A,San Jose,Stratford Preparatory,False,False
+1773,193,1714,61017,Mecha Lions FLL B,San Jose,Stratford Preparatory,False,False
+1775,193,1757,66078,Pleasanton Explorers,Pleasanton,Family/Community,False,True
+1779,193,1770,66764,Celsius and Beyond ,San Francisco,Celsius and Beyond,True,False
+1821,193,1771,66785,"Orange,Peach",San Jose,Family/Community,False,False
+1823,193,2015,66816,Six Stars,Palo Alto,Herbert Hoover Elementary,True,False
+1786,193,2288,73526,Evergreen Mangoes,San Jose,Family/Community,False,False
+1783,193,2197,73527,EV Lutions,San Jose,Family/Community,False,False
+1782,193,2195,73528,Zap Squad,San Jose,Family/Community,False,False
+1785,193,2196,73529,K-Pop LEGO Hunters,San Jose,Family/Community,False,False
+1824,193,2257,74260,Brickaneers,Fremount,Mission San Jose Elementary,False,False
+1768,194,1989,461,Terminatorz,Morgan Hill,Britton Middle School,False,False
+1746,194,1644,24392,Firedragons,San Francisco,Chinese American International School,False,False
+1736,194,1648,30517,Ice Cream Sundays FLL-C 30517,Piedmont,Piedmont Makers,True,False
+1761,194,1687,58666,Allstars Techno Bricks,San Jose,Allstars United Education Foundation,False,False
+1751,194,2010,61938,ZE Gamers,Fremont,Code Ninjas,False,False
+1758,194,1727,65018,Brickbotsfll,Fremont,"Family/Community, Warm Springs Elementary",False,False
+1763,194,1617,71504,Little lego miners,Santa Clara,Family/Community,False,False
+1770,194,1968,72104,Techwiz 2.0,Cupertino,John F. Kennedy Middle,True,False
+1744,194,1984,72433,Blach Unearthed Odyssey,Mountain View,Georgina P. Blach Junior High,True,False
+1745,194,2089,72841,Haripriya Vangara,Santa Clara,Family/Community,False,False
+1767,194,2171,73282,Epsilon Scorpii,Mountain View,Khan Lab School,False,False
+1743,194,2224,73984,PSV C0ders,Los Altos,Family/Community,False,False
+1903,227,2088,32416,Otterbots,Menlo Park,Oak Knoll Elementary,False,False
+1899,227,1889,32858,Duveneck Dragons,Palo Alto,Duveneck Elementary,False,False
+1914,227,1808,33854,The Sigmas,San Jose,"Steindorf STEAM K-8 Magnet, Bagby Elementary",False,False
+1915,227,2417,34023,100 People,Sunnyvale,Family/Community,False,False
+1900,227,1900,34047,Team W.H.A.L.E.,El Cerrito,Family/Community,False,False
+1901,227,1814,34140,GeoBots,Dublin,Family/Community,False,False
+1911,227,2336,34627,Wall-E-Bots,San Jose,Family/Community,False,False
+1910,227,2151,34806,Ice Cream,Fremont,Family/Community,False,False
+1934,265,2125,31094,Lego Legends,Campbell,Stratford School - Santa Clara Pomeroy,False,False
+1930,265,1931,33799,Scribbly Blablablas,Los Altos,,False,False
+1929,265,1926,34204,Diggin' Bots,SANTA CLARA,Family/Community,False,False
+1931,265,2250,34263,ROBOCRAFT,San Jose,Family/Community,False,False
+1932,265,2281,35536,Ancient Ruin Seekers,Fremont,Family/Community,False,False
+1959,266,1907,19689,RoboKids,Folsom,Family/Community,False,False
+1940,266,1901,34042,Six Lego Demon Maniacs (FLL#34042),Folsom,Family/Community,False,False
+1941,266,1818,34168,Folsom Groundhogs,Folsom,Theodore Judah Elementary,False,False
+1933,266,1903,34275,Robot Rockstars,Folsom,Family/Community,False,False
+1939,266,2388,34938,Gomes Go Getters,Fremont,Family/Community,False,False
+1928,266,2173,35041,Robo Explorers,Dublin,Family/Community,False,False
+2009,267,2180,10586,The Peanut Botters,Hillsborough,Nueva School,False,False
+2044,267,1648,30517,Ice Cream Sundays FLL-C 30517,Piedmont,Piedmont Makers,False,False
+2035,267,1657,37489,FLL-C 37489,Piedmont,Piedmont Makers,False,False
+1988,267,1668,48793,Mountain House,Mountain House,Family/Community,False,False
+2093,267,1669,51095,CreaTech,Fremont,Family/Community,False,False
+2081,267,1670,52305,Master Oogway,Pleasanton,Family/Community,False,False
+2096,267,1671,52363,TerraBytes,San Jose,Family/Community,False,False
+1989,267,1698,60507,Team Prime,Mountain House,Family/Community,False,False
+2099,267,1702,60718,Rockin Robos,Rocklin,Family/Community,False,False
+1997,267,2003,61139,Lightning Squad,Folsom,Family/Community,False,False
+1987,267,1716,61406,Quantum Bots,Dublin,Family/Community,False,False
+2010,267,1720,62268,Delta Cosmic Coders 2025,San Jose,Family/Community,False,False
+2039,267,1722,64638,Brain Bots,San Jose,Family/Community,False,False
+2024,267,1725,64889,Sea Monsters Squad,Folsom,Family/Community,False,False
+2003,267,1726,64898,Circuit Breakers,Tracy,Family/Community,False,False
+2042,267,1753,65902,Coding Mavs,ROCKLIN,Family/Community,False,False
+2005,267,1762,66292,CookieBots,Danville,Girl Scouts,False,False
+2077,267,1770,66764,Celsius and Beyond ,San Francisco,Celsius and Beyond,False,False
+2004,267,2015,66816,Six Stars,Palo Alto,Herbert Hoover Elementary,False,False
+2031,267,2020,67216,Submersiwolves,San Francisco,Lilienthal (Claire) Elementary,False,False
+1998,267,1794,68202,Curious Earthlings,Fremont,,False,False
+2037,267,1796,68575,Titan-Botics,San Jose,"Stratford School - San Jose, Santa Teresa Elementary",False,False
+2008,267,1806,70238,Trapped in Union City,Union City,Family/Community,False,False
+2034,267,1590,70765,The Paleo Coders,Cupertino,Stevens Creek Elementary,False,False
+2067,267,1591,70849,ML Infinity Bots,San Jose,Family/Community,False,False
+2075,267,1970,72151,Miniona Jones,San Jose,Family/Community,False,False
+1990,267,1972,72257,Lego Benders,Fremont,Family/Community,False,False
+2015,267,1983,72421,EarthCreators,Fremont,,False,False
+2063,267,2161,72651,Coding Buddies ,San Ramon,Family/Community,False,False
+2036,267,2257,74260,Brickaneers,Fremount,Mission San Jose Elementary,False,False
+2030,268,2109,2848,2848,Santa Clara,Cabrillo Middle School,False,False
+2043,268,2112,4979,4979,Santa Clara,Cabrillo Middle School,False,False
+2022,268,1639,8560,ProGRAHAMers,Mountain View,Graham Middle School,False,False
+2014,268,2114,17492,17492,Santa Clara,Cabrillo Middle School,False,False
+2097,268,2115,17493,17493,Santa Clara,Cabrillo Middle School,False,False
+2098,268,1894,34265,EagleBots,San Jose,Queen of Apostles School,False,False
+2006,268,1658,38159,Otterly Awesome,Menlo Park,Family/Community,False,False
+2111,268,2152,52561,Brilliant Beavers,San Carlos,Family/Community,False,False
+2094,268,1996,52943,Digital Dolphins GREEN TEAM,San Francisco,San Francisco Day School,False,False
+1992,268,1678,54977,Menlo Park Narleaotters,Menlo Park,Family/Community,False,False
+1984,268,1999,56768,Blue Brickbots,Fremont,Family/Community,False,False
+1994,268,1686,57382,RoboRise,Foster City,Family/Community,False,False
+2040,268,1688,58828,ShortCircuit,Cupertino,Family/Community,False,False
+2029,268,1690,60033,Pokémon ,Cupertino,Family/Community,False,False
+2012,268,1692,60085,Lego Artisans,Cupertino,Family/Community,False,False
+2018,268,1696,60354,Helios Suns,Los Altos,Helios School,False,False
+2033,268,1964,60418,Hedgedroid,Palo Alto,Jane Lathrop Stanford Middle,False,False
+2023,268,1917,60497,Apollo 6,Fremont,Family/Community,False,False
+1999,268,1697,60502,CodeBreakerz,San Ramon,Home School,False,False
+2007,268,1703,60855,GearShift,Fremont,Family/Community,False,False
+1996,268,1704,60868,iBots,San Jose,Family/Community,False,False
+2013,268,1705,60869,Techno Troopers,Newark,Family/Community,False,False
+2021,268,1712,60996,VortexMasterminds,Folsom,Family/Community,False,False
+2071,268,2006,61685,Union Megatrons,San Jose,Family/Community,False,False
+2079,268,1719,61803,Robosaurs,Saratoga,Foothill Elementary School,False,False
+2002,268,2011,61949,Ultraviolet,Cupertino,Family/Community,False,False
+2026,268,1724,64698,ROAR,San Jose,Basis Independent Silicon Vly,False,False
+1980,268,1732,65258,CrypticButterflies,San Jose,Family/Community,False,False
+2038,268,1735,65287,RoboWizards7,Folsom,Family/Community,False,False
+2001,268,1736,65319,DCADS Robo Cubs,Santa Clara,Don Callejon,False,False
+1979,268,1759,66208,Bob the Builders,Cupertino,Family/Community,False,False
+2027,268,1767,66511,Tech Titans,San Jose,Family/Community,False,False
+2032,268,1772,66820,Leadways FBI,Cupertino,Leadways School,False,False
+1985,268,1779,67092,Flame Bots,Sunnyvale,Family/Community,False,False
+2017,268,2018,67107,Tech Titans,Los Altos,Family/Community,False,False
+2064,268,2019,67150,Coding Ninjas,Palo Alto,ULEAP,False,False
+1995,268,1791,67840,The Submarine SharkBots,Saratoga,Saratoga Elementary,False,False
+2095,268,1797,68861,Technic Pythons,Menlo Park,Family/Community,False,False
+1991,268,2098,70148,TerraKnights,San Jose,Family/Community,False,False
+1981,268,1899,70538,Shovel Buddies,SAN JOSE,Family/Community,False,False
+2080,268,1594,71128,MidKnight Marvels,Sunnyvale,The King's Academy,False,False
+1993,268,2074,71232,Aura100%,San Jose,Family/Community,False,False
+2041,268,1613,71331,Next Team,Milpitas,Family/Community,False,False
+2066,268,1621,71598,WIP,San Jose,Family/Community,False,False
+1982,268,1622,71606,Lego Legends,Fremont,Family/Community,False,False
+2082,268,1897,71616, brick bots,Saratoga,Saratoga Elementary,False,False
+2086,268,2232,71713,BuildHers,Fremont,Family/Community,False,False
+2065,268,1630,71920,RoboWizards,San Jose,Family/Community,False,False
+1986,268,1912,72044,Earth Giants,Saratoga,Foothill Elementary,False,False
+1983,268,2156,72068,DVMS Robotics,Danville,Diablo Vista Middle,False,False
+2072,268,1968,72104,Techwiz 2.0,Cupertino,John F. Kennedy Middle,False,False
+2016,268,1984,72433,Blach Unearthed Odyssey,Mountain View,Georgina P. Blach Junior High,False,False
+2011,268,1985,72540,TBD123,San Jose,Family/Community,False,False
+2074,268,2213,72905,Argo Robotics Team 251,Saratoga,Argonaut Elementary,False,False
+2088,269,1638,8445,Ray - Prev UMT,San Jose,St Christopher School,False,False
+2069,269,1691,60037,BuilderBots,Fremont,Family/Community,False,False
+2207,269,2188,61351,RRR Rockets,Lathrop,Family/Community,False,False
+2212,269,2016,66894,Dusty Diggers,San Jose,"Family/Community, Bret Harte Middle",False,False
+2216,269,1800,69015,QR Codes,Dublin,Family/Community,False,False
+2087,269,2096,69238,The Commas,Stanford,Family/Community,False,False
+2048,269,2374,69572,Hydro Hackers,San Ramon,Family/Community,False,False
+2089,269,1614,71344,Cheez Puffer Fish,Cupertino,Family/Community,False,False
+2214,269,1626,71771,QR Team 3,Dublin,Family/Community,False,False
+2215,269,1627,71772,Team 4,Dublin,Family/Community,False,False
+2175,269,2285,72699,GearGirls,Fremont,Fred E. Weibel Elementary,False,False
+2084,269,2172,72963,CodeBreakers,Fremont,Family/Community,False,False
+2091,269,2476,72994,Bone Appetit,San Jose,Family/Community,False,False
+2100,269,2104,72999,Eagle Eyes,CUPERTINO,William Faria Elementary,False,False
+2226,269,2462,75124,FKS Robotics,Fremont,Family/Community,False,False
+2101,269,2467,75126,Brain Bot,Union City,Union City Robotics,False,False
+2217,269,2454,75146,Brickbots-spring,Fremont,Family/Community,False,False
+2264,269,2488,75149,EML Tigers,Union City,Guy Jr. Emanuele Elementary,False,False
+2058,270,1710,60981,TechPython,San Jose,Family/Community,False,False
+2045,270,1769,66668,Springer Legonauts,MOUNTAIN VIEW,Family/Community,False,False
+2060,270,2022,67736,The Anonymous Raptors,Sunnyvale,Family/Community,False,False
+2057,270,1592,70885,IJAVVE #2,San Jose,"Ida Jew Academies, Valle Vista Elementary, Family/Community",False,False
+2054,270,1595,71269,Coding Crusaders,San Mateo,Family/Community,False,False
+2083,270,1973,72259,Earthquakers,San Jose,Family/Community,False,False
+2225,270,2480,72342,The 4 Sigmas,Fremont,Family/Community,False,False
+2059,270,2223,73863,TIRO-SV-C03,San Jose,Family/Community,False,False
+2055,270,2234,73864,TIRO-SV-C04,San Jose,Family/Community,False,False
+2085,270,2411,73865,TIRO-SV-C05,San Jose,Family/Community,False,False
+2231,270,2473,74210,Skywalker,Tracy,Family/Community,False,False
+2047,270,2431,75065,Cyber Cats,Cupertino,Leadways School,False,False
+2183,271,2483,56271,Gyraf,Albany,Family/Community,False,False
+2179,271,2002,59278,Quantum Bricks,Palo Alto,Family/Community,False,False
+2177,271,2481,64714,Archtech,San Jose,Allstars United Education Foun,False,False
+2181,271,1765,66438,Fearsome 5,FOLSOM,Family/Community,False,False
+2180,271,2392,67524,Turbo Robos,Fremont,"Harvey Green Elementary, Warm Springs Elementary",False,False
+2186,271,2264,69947,Fossilbot,Danville,Family/Community,False,False
+2176,271,1896,70694,Stocklmeir BrickBots 10,Sunnyvale,Family/Community,False,False
+2178,271,1589,70727,Lego Legends,Folsom,Family/Community,False,False
+2049,271,1628,71826,Robostein,Milpitas,Family/Community,False,False
+2182,271,1977,72365,Block Builders,San Ramon,Family/Community,False,False
+2166,272,2396,60788,Sea Tractor,Saratoga,Saratoga Elementary School,False,False
+2051,272,1768,66522,The Placeholders,San Carlos,Family/Community,False,False
+2073,272,2026,68590,Fremont Wizwards,Fremont,Warwick Elementary,False,False
+2078,272,2032,70153,rickroll,Fremont,Family/Community,False,False
+2159,272,2471,70468,Future Finders,Fremont,Family/Community,False,False
+2122,272,1593,71033,TechnoTigers,Mountain View,Family/Community,False,False
+2158,272,2251,72024,THE CREATORS,Sunnyvale,Cupertino Middle,False,False
+2104,272,2076,72654,lightsaber,Mountain View,Family/Community,False,False
+2050,272,2101,72801,Super Kraken,Alamo,Family/Community,False,False
+2119,272,2265,74193,Gear girls ,San Jose,Family/Community,False,False
+2162,272,2375,74706,Porky Oinks,Newark,Family/Community,False,False
+2164,272,2468,75128,Corrupted Robot,Fremont,Fremont First Robotics,False,False
+2103,273,1737,65321,DCADS Astro Cubs,Santa Clara,Don Callejon,False,False
+2062,273,1803,70000,Bulldog Bots,Fremont,Family/Community,False,False
+2106,273,1905,71017,Alamo 5th Grade Lego Team,Alamo,Alamo Elementary,False,False
+2116,273,2432,71515,Lakeport Robo Runners,Lakeport,Home School,False,False
+2107,273,2449,71706,Sabercats1,San Jose,Family/Community,False,False
+2112,273,1624,71714,RoboStars,Lathrop,Family/Community,False,False
+2061,273,2048,71848,Brainy Bricksters,San Jose,"Bret Harte Middle, Castillero Middle",False,False
+2121,273,2254,72231,Thunderbird,Mountain View,Family/Community,False,False
+2090,273,1974,72279,Team Dory ,San Jose,Holy Family School,False,False
+2118,273,2236,74111,Argon 6-7,San Jose,Holy Family School,False,False
+2076,273,2258,74290,Fossil hunters,Fremont,Warwick Elementary,False,False
+2109,273,2276,74480,WARPSPEEDERS,Cupertino,Family/Community,False,False
+2102,274,2424,59559,Hillviewnauts,Menlo Park,Family/Community,False,False
+2232,274,2391,67678,RoboSquad,Fremont,Harvey Green Elementary,False,False
+2120,274,2381,68174,Sundrop Robotics - Albany,ALBANY,Sundrop Tutoring And Robotics,False,False
+2206,274,1616,71427,Shark Masters,Pleasanton,Family/Community,False,False
+2110,274,1904,71748,Golden Gears,San Jose,Family/Community,False,False
+2208,274,1971,72210,Robotics Masters ,San Jose,Evergreen Elementary,False,False
+2056,274,1982,72400,ANA,Fremont,Family/Community,False,False
+2124,274,2162,72684,ThunderBots,Mountain House,Family/Community,False,False
+2105,274,2168,73127,NextGen Diggers,Fremont,"Warm Springs Elementary, Stratford School",False,False
+2210,274,2410,73862,TIRO-SV-C02,San Jose,Family/Community,False,False
+2224,274,2271,74137,Lego Champions,Fremont,Family/Community,False,False
+2123,274,2394,74190,Vulcan,Mountain View,Family/Community,False,False
+2117,274,2373,74293,ctrl-alt-build,Fremont,Family/Community,False,False
+2235,274,2421,74976,MSJE Robotics,Fremont,Mission San Jose Elementary,False,False
+2213,274,2429,75020,TechTitans#1,Lathrop,,False,False
+2108,274,2423,75025,Pleasanton Panthers,Pleasanton,Family/Community,False,False
+2236,274,2437,75064,Dolphin1,Livermore,"Livermore High, East Avenue Middle",False,False
+2223,274,2463,75165,TVSC Robotics,Livermore,Family/Community,False,False
+2168,275,1845,26136,Excavators,San Ramon,Home School,False,False
+2169,275,2420,28804,Submerged Submarine,San Ramon,Family/Community,False,False
+2171,275,1872,31145,NinjaBot,Mountain View,Family/Community,False,False
+2187,275,2278,32187,Seabotics Squad,Cupertino,Family/Community,False,False
+2174,275,2333,33557,Serendipitous,Belmont,Serendipity School,False,False
+2170,275,1809,34033,Robotic Mochis,Mountain View,Family/Community,False,False
+2173,275,2252,35333,History Builders,Mountain View,Family/Community,False,False
+2172,275,2414,35882,BrainRot,Mountain View,Family/Community,False,False
+2167,275,2419,35916,DiggingBot,San Ramon,Family/Community,False,False
+2191,276,2332,33325,The Lego Champs,San Jose,Family/Community,False,False
+2192,276,2136,33766,Master Builders,San Jose,Family/Community,False,False
+2195,276,1895,34363,The diggers,San Carlos,Heather Elementary,False,False
+2188,276,2408,34418,Incredibots,El Dorado Hills,Family/Community,False,False
+2194,276,2034,34437,Excavation coders ,Santa Clara,Family/Community,False,False
+2196,276,2221,34772,West Valley First Team,Sunnyvale,West Valley Elementary,False,False
+2190,276,2434,35626,Mighty Explorer,San Jose,Family/Community,False,False
+2189,276,2393,35731,Circuit Explorers,Sunnyvale,,False,False
+2193,276,2448,35806,Smart Digital Dinos,El Dorado Hills,Family/Community,False,False
+2202,277,1908,31740,Yetibots,Fremont,Family/Community,False,False
+2199,277,2404,34049,Mini Minds,Fremont,New Horizons School,False,False
+2230,277,2045,34451,Galileo's Mind Set,San Francisco,Family/Community,False,False
+2197,277,2286,34554,Fighting Irish Explorers,San Francisco,St Cecilia School,False,False
+2205,277,2086,34637,Panda Bots,Fremont,Family/Community,False,False
+2203,277,2132,34981,RAK2,Fremont,Family/Community,False,False
+2204,277,2174,35045,RAK5,Fremont,Family/Community,False,False
+2198,277,2380,35530,History Hackers,San Jose,Family/Community,False,False
+2201,277,2370,35612,LegoPups2025,Los Altos,Bullis Charter School,False,False
+2227,277,2412,35702,Gearonauts,Mountain View,Family/Community,False,False
+2200,277,2447,36120,Lego Gadget gang,San Jose,"Evergreen Elementary, Silver Oak Elementary",False,False
+2229,277,2484,36147,RoboCrushers,Union City,Family/Community,False,False
+2233,278,1990,4506,Techno Cavs,Sacramento,Sacramento Country Day School,False,False
+2234,278,2186,59922,Baxter's Builders,Sacramento,Sacramento Country Day School,False,False
+2209,278,1911,71984,Lego Llamas,Folsom,Family/Community,False,False
+2219,278,2337,72039,FLL Folsom Challenge team,FOLSOM,Family/Community,False,False
+2221,278,2078,72683,Team Samurai,Folsom,Family/Community,False,False
+2211,278,2106,73045,Archeo Tech,Folsom,Family/Community,False,False
+2222,278,2247,73217,FLEAS: Fuzzy Little Evil Animals Squadron,Folsom,Family/Community,False,False
+2218,278,2470,73742,Sphere Scavengers,Folsom,Family/Community,False,False
+2220,278,2416,74935,FLL-A3SI,Folsom,Family/Community,False,False
+2265,280,1685,57290,Cyberspace Crusader,Los Altos,Applied computing foundation,False,False
+2266,280,2261,59995,Bricks you step on ,Los Altos,Applied computing foundation,False,False
+2238,280,2159,72419,RoboRangers,Dublin,Family/Community,False,False
+2263,280,2482,73373,The Sigmas,Fremont,"Warwick Elementary, Forest Park Elementary, Ardenwood Elementary",False,False
+2247,280,2451,75134,Muir Spring Team,Sunnyvale,John Muir Elementary,False,False
+2248,280,2452,75135,Robotic Dragons,Sunnyvale,Family/Community,False,False
+2249,280,2453,75136,Dig It,Sunnyvale,Family/Community,False,False
+2250,280,2457,75159,Build Guild (SP),Sunnyvale,Family/Community,False,False
+2251,280,2458,75160,NinjaBots (SP),Sunnyvale,Family/Community,False,False
+2252,280,2459,75161,Energized Smarty Pants (SP),Sunnyvale,Family/Community,False,False
+2253,280,2460,75162,TNT Crew (SP),Sunnyvale,Family/Community,False,False
+2254,280,2461,75163,Master Builders (SP),Sunnyvale,Family/Community,False,False
+2239,281,2442,33079,Golden Retrievers,Hercules,Ohlone Elementary,False,False
+2242,281,2443,33080,Kangaroo Rats,Hercules,Ohlone Elementary,False,False
+2241,281,2444,33081,The 7 Hedgehogs,Hercules,Ohlone Elementary,False,False
+2240,281,2464,33822,Bricksters,Santa Clara,Stratford School - Santa Clara Pomeroy,False,False
+2246,281,1807,33851,Earth Movers,San Jose,Family/Community,False,False
+2245,281,2436,34776,RoboDiggers8,Fremont,Family/Community,False,False
+2243,281,2477,34809,RoboRangers,Fremont,Family/Community,False,False
+2267,281,2487,35185,Lego Slayers,Redwood City,Family/Community,False,False
+2244,281,2280,35380,Yi Fan Robotics,Milpitas,Family/Community,False,False
+2255,282,1870,29038,Creative Crew,Sunnyvale,Family/Community,False,False
+2256,282,1882,31468,The Lego Cougars,GOLD RIVER,Theodore Judah Elementary,False,False
+2258,282,1909,31835,Lego bees ,Fremont,Basis Independent Fremont,False,False
+2261,282,2203,33298,Brick Masters,Santa Clara,Family/Community,False,False
+2268,282,2035,34586,Ustar Tech Titans,Cupertino,Family/Community,False,False
+2262,282,2370,35612,LegoPups2025,Los Altos,Bullis Charter School,False,False
+2260,282,2456,35627,Robotrix,San Jose,Family/Community,False,False
+2259,282,2478,36196,Miners,Mountain View,Family/Community,False,False
+2257,282,2479,36198,Da Cheese,Mountain View,Family/Community,False,False

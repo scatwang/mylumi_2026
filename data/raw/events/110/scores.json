@@ -1,0 +1,1183 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 65125,
+      "name": "Baybots",
+      "judging_lane_name": "Green Pod 3 - 1708",
+      "highest": 440,
+      "highest_display": 440,
+      "rounds": [
+        440,
+        345,
+        435,
+        375
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        440,
+        435,
+        375,
+        345
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 58828,
+      "name": "Cupertino ShortCircuit",
+      "judging_lane_name": "Orange Pod 5 - 1711",
+      "highest": 435,
+      "highest_display": 435,
+      "rounds": [
+        330,
+        290,
+        275,
+        435
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        435,
+        330,
+        290,
+        275
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 60085,
+      "name": "Lego Artisans",
+      "judging_lane_name": "Blue Pod 4 - 1709",
+      "highest": 430,
+      "highest_display": 430,
+      "rounds": [
+        350,
+        430,
+        390,
+        415
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        430,
+        415,
+        390,
+        350
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 61281,
+      "name": "Mustang Rockets",
+      "judging_lane_name": "Orange Pod 5 - 1711",
+      "highest": 410,
+      "highest_display": 410,
+      "rounds": [
+        410,
+        375,
+        320,
+        285
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        410,
+        375,
+        320,
+        285
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 60537,
+      "name": "Mecha Masters",
+      "judging_lane_name": "Yellow Pod 1 - 1706",
+      "highest": 405,
+      "highest_display": 405,
+      "rounds": [
+        240,
+        405,
+        310,
+        360
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Very organized and helpful and polite to ref. More than usual.",
+        "",
+        "Had a cheer"
+      ],
+      "rounds_sorted": [
+        405,
+        360,
+        310,
+        240
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 57382,
+      "name": "RoboRise",
+      "judging_lane_name": "Purple Pod 6 - 1713",
+      "highest": 390,
+      "highest_display": 390,
+      "rounds": [
+        355,
+        340,
+        390,
+        285
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        390,
+        355,
+        340,
+        285
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 64698,
+      "name": "ROAR",
+      "judging_lane_name": "Yellow Pod 1 - 1706",
+      "highest": 380,
+      "highest_display": 380,
+      "rounds": [
+        325,
+        280,
+        275,
+        380
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Did not listen to ref to correct illegal launches",
+        "",
+        "Had a cheer"
+      ],
+      "rounds_sorted": [
+        380,
+        325,
+        280,
+        275
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 65258,
+      "name": "CrypticButterflies",
+      "judging_lane_name": "Orange Pod 5 - 1711",
+      "highest": 370,
+      "highest_display": 370,
+      "rounds": [
+        370,
+        300,
+        350,
+        285
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        370,
+        350,
+        300,
+        285
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 54977,
+      "name": "Menlo Park Narleaotters",
+      "judging_lane_name": "Purple Pod 6 - 1713",
+      "highest": 370,
+      "highest_display": 370,
+      "rounds": [
+        370,
+        320,
+        340,
+        295
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        370,
+        340,
+        320,
+        295
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 60100,
+      "name": "Cobras",
+      "judging_lane_name": "Red Pod 2 - 1707",
+      "highest": 360,
+      "highest_display": 360,
+      "rounds": [
+        190,
+        360,
+        240,
+        230
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        360,
+        240,
+        230,
+        190
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 67395,
+      "name": "Marine Mavericks",
+      "judging_lane_name": "Yellow Pod 1 - 1706",
+      "highest": 345,
+      "highest_display": 345,
+      "rounds": [
+        345,
+        335,
+        280,
+        230
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        345,
+        335,
+        280,
+        230
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 66233,
+      "name": "Galaxy Guardians",
+      "judging_lane_name": "Blue Pod 4 - 1709",
+      "highest": 320,
+      "highest_display": 320,
+      "rounds": [
+        295,
+        235,
+        320,
+        255
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        320,
+        295,
+        255,
+        235
+      ],
+      "ordinal": "12th"
+    },
+    {
+      "ranking": 13,
+      "number": 60496,
+      "name": "Alternative Force",
+      "judging_lane_name": "Orange Pod 5 - 1711",
+      "highest": 315,
+      "highest_display": 315,
+      "rounds": [
+        300,
+        315,
+        285,
+        205
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        315,
+        300,
+        285,
+        205
+      ],
+      "ordinal": "13th"
+    },
+    {
+      "ranking": 14,
+      "number": 65020,
+      "name": "The Golden Huskies",
+      "judging_lane_name": "Blue Pod 4 - 1709",
+      "highest": 315,
+      "highest_display": 315,
+      "rounds": [
+        270,
+        245,
+        230,
+        315
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        315,
+        270,
+        245,
+        230
+      ],
+      "ordinal": "14th"
+    },
+    {
+      "ranking": 15,
+      "number": 2713,
+      "name": "Phat Seals",
+      "judging_lane_name": "Red Pod 2 - 1707",
+      "highest": 300,
+      "highest_display": 300,
+      "rounds": [
+        205,
+        225,
+        300,
+        300
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        300,
+        300,
+        225,
+        205
+      ],
+      "ordinal": "15th"
+    },
+    {
+      "ranking": 16,
+      "number": 60291,
+      "name": "Fusion Vortex",
+      "judging_lane_name": "Purple Pod 6 - 1713",
+      "highest": 300,
+      "highest_display": 300,
+      "rounds": [
+        300,
+        210,
+        260,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        300,
+        260,
+        225,
+        210
+      ],
+      "ordinal": "16th"
+    },
+    {
+      "ranking": 17,
+      "number": 65278,
+      "name": "Hydrobots",
+      "judging_lane_name": "Orange Pod 5 - 1711",
+      "highest": 295,
+      "highest_display": 295,
+      "rounds": [
+        240,
+        215,
+        275,
+        295
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        295,
+        275,
+        240,
+        215
+      ],
+      "ordinal": "17th"
+    },
+    {
+      "ranking": 18,
+      "number": 67865,
+      "name": "HydroHackers",
+      "judging_lane_name": "Red Pod 2 - 1707",
+      "highest": 295,
+      "highest_display": 295,
+      "rounds": [
+        260,
+        190,
+        155,
+        295
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Had a team cheer",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        295,
+        260,
+        190,
+        155
+      ],
+      "ordinal": "18th"
+    },
+    {
+      "ranking": 19,
+      "number": 61205,
+      "name": "Snacktopus",
+      "judging_lane_name": "Blue Pod 4 - 1709",
+      "highest": 295,
+      "highest_display": 295,
+      "rounds": [
+        190,
+        190,
+        295,
+        140
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        295,
+        190,
+        190,
+        140
+      ],
+      "ordinal": "19th"
+    },
+    {
+      "ranking": 20,
+      "number": 67056,
+      "name": "Wavebots",
+      "judging_lane_name": "Green Pod 3 - 1708",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        275,
+        210,
+        225,
+        275
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        275,
+        225,
+        210
+      ],
+      "ordinal": "20th"
+    },
+    {
+      "ranking": 21,
+      "number": 56487,
+      "name": "The Sea Syrens",
+      "judging_lane_name": "Orange Pod 5 - 1711",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        240,
+        95,
+        275,
+        270
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        270,
+        240,
+        95
+      ],
+      "ordinal": "21st"
+    },
+    {
+      "ranking": 22,
+      "number": 61950,
+      "name": "Codettes",
+      "judging_lane_name": "Blue Pod 4 - 1709",
+      "highest": 275,
+      "highest_display": 275,
+      "rounds": [
+        160,
+        205,
+        275,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Team remains calm and make good decisions on the flight.",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        275,
+        205,
+        160,
+        150
+      ],
+      "ordinal": "22nd"
+    },
+    {
+      "ranking": 23,
+      "number": 58043,
+      "name": "Hacking Hornets",
+      "judging_lane_name": "Green Pod 3 - 1708",
+      "highest": 255,
+      "highest_display": 255,
+      "rounds": [
+        180,
+        245,
+        185,
+        255
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Had a cheer",
+        ""
+      ],
+      "rounds_sorted": [
+        255,
+        245,
+        185,
+        180
+      ],
+      "ordinal": "23rd"
+    },
+    {
+      "ranking": 24,
+      "number": 66069,
+      "name": "CuriousDivers",
+      "judging_lane_name": "Yellow Pod 1 - 1706",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        190,
+        250,
+        250,
+        220
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Exceptionally nice to each other.",
+        "",
+        "Had a cheer"
+      ],
+      "rounds_sorted": [
+        250,
+        250,
+        220,
+        190
+      ],
+      "ordinal": "24th"
+    },
+    {
+      "ranking": 25,
+      "number": 67342,
+      "name": "Sharks",
+      "judging_lane_name": "Green Pod 3 - 1708",
+      "highest": 250,
+      "highest_display": 250,
+      "rounds": [
+        250,
+        200,
+        235,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        250,
+        235,
+        200,
+        160
+      ],
+      "ordinal": "25th"
+    },
+    {
+      "ranking": 26,
+      "number": 4416,
+      "name": "O.R.C.A",
+      "judging_lane_name": "Purple Pod 6 - 1713",
+      "highest": 245,
+      "highest_display": 245,
+      "rounds": [
+        175,
+        245,
+        190,
+        235
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        245,
+        235,
+        190,
+        175
+      ],
+      "ordinal": "26th"
+    },
+    {
+      "ranking": 27,
+      "number": 60354,
+      "name": "Paradox",
+      "judging_lane_name": "Red Pod 2 - 1707",
+      "highest": 245,
+      "highest_display": 245,
+      "rounds": [
+        145,
+        185,
+        245,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Great team spirit, listening well and receive feedbacks. Good team dynamic",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        245,
+        225,
+        185,
+        145
+      ],
+      "ordinal": "27th"
+    },
+    {
+      "ranking": 28,
+      "number": 25572,
+      "name": "Octonauts",
+      "judging_lane_name": "Orange Pod 5 - 1711",
+      "highest": 245,
+      "highest_display": 245,
+      "rounds": [
+        185,
+        150,
+        245,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        245,
+        185,
+        150,
+        135
+      ],
+      "ordinal": "28th"
+    },
+    {
+      "ranking": 29,
+      "number": 52363,
+      "name": "Terrabytes",
+      "judging_lane_name": "Red Pod 2 - 1707",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        220,
+        105,
+        235,
+        215
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "Had a cheer, both for team intro and on sidelines",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        220,
+        215,
+        105
+      ],
+      "ordinal": "29th"
+    },
+    {
+      "ranking": 30,
+      "number": 38159,
+      "name": "Otterly Awesome",
+      "judging_lane_name": "Blue Pod 4 - 1709",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        200,
+        195,
+        235,
+        220
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        220,
+        200,
+        195
+      ],
+      "ordinal": "30th"
+    },
+    {
+      "ranking": 31,
+      "number": 61685,
+      "name": "Noddin Dynabots",
+      "judging_lane_name": "Green Pod 3 - 1708",
+      "highest": 235,
+      "highest_display": 235,
+      "rounds": [
+        175,
+        170,
+        180,
+        235
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Had a cheer",
+        ""
+      ],
+      "rounds_sorted": [
+        235,
+        180,
+        175,
+        170
+      ],
+      "ordinal": "31st"
+    },
+    {
+      "ranking": 32,
+      "number": 62681,
+      "name": "Golden Eagles",
+      "judging_lane_name": "Yellow Pod 1 - 1706",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        175,
+        195,
+        225,
+        215
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        "Had a nice cheer, showed enthusiasm"
+      ],
+      "rounds_sorted": [
+        225,
+        215,
+        195,
+        175
+      ],
+      "ordinal": "32nd"
+    },
+    {
+      "ranking": 33,
+      "number": 52508,
+      "name": "Oakland Short Circuits",
+      "judging_lane_name": "Purple Pod 6 - 1713",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        205,
+        105,
+        180,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        205,
+        180,
+        105
+      ],
+      "ordinal": "33rd"
+    },
+    {
+      "ranking": 34,
+      "number": 65285,
+      "name": "Poki Bots",
+      "judging_lane_name": "Yellow Pod 1 - 1706",
+      "highest": 215,
+      "highest_display": 215,
+      "rounds": [
+        195,
+        175,
+        195,
+        215
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        "Had a cheer"
+      ],
+      "rounds_sorted": [
+        215,
+        195,
+        195,
+        175
+      ],
+      "ordinal": "34th"
+    },
+    {
+      "ranking": 35,
+      "number": 56793,
+      "name": "BCS See Sea Blue",
+      "judging_lane_name": "Purple Pod 6 - 1713",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        200,
+        210,
+        140,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Trusting each other, no yelling under pressure",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        200,
+        155,
+        140
+      ],
+      "ordinal": "35th"
+    },
+    {
+      "ranking": 36,
+      "number": 51168,
+      "name": "The Warriors",
+      "judging_lane_name": "Purple Pod 6 - 1713",
+      "highest": 210,
+      "highest_display": 210,
+      "rounds": [
+        210,
+        160,
+        195,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        210,
+        195,
+        170,
+        160
+      ],
+      "ordinal": "36th"
+    },
+    {
+      "ranking": 37,
+      "number": 60152,
+      "name": "The Game Changers",
+      "judging_lane_name": "Green Pod 3 - 1708",
+      "highest": 180,
+      "highest_display": 180,
+      "rounds": [
+        180,
+        150,
+        120,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Had a cheer",
+        ""
+      ],
+      "rounds_sorted": [
+        180,
+        155,
+        150,
+        120
+      ],
+      "ordinal": "37th"
+    },
+    {
+      "ranking": 38,
+      "number": 66292,
+      "name": "CookieBots",
+      "judging_lane_name": "Yellow Pod 1 - 1706",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        150,
+        175,
+        130,
+        170
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        "Had a cheer and a group hug"
+      ],
+      "rounds_sorted": [
+        175,
+        170,
+        150,
+        130
+      ],
+      "ordinal": "38th"
+    },
+    {
+      "ranking": 39,
+      "number": 60533,
+      "name": "Human Microphones",
+      "judging_lane_name": "Red Pod 2 - 1707",
+      "highest": 175,
+      "highest_display": 175,
+      "rounds": [
+        175,
+        80,
+        120,
+        110
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Work well under pressure, team spirit remains high in facing failure",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        175,
+        120,
+        110,
+        80
+      ],
+      "ordinal": "39th"
+    },
+    {
+      "ranking": 40,
+      "number": 66961,
+      "name": "PreposterousPlatypus",
+      "judging_lane_name": "Blue Pod 4 - 1709",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        75,
+        160,
+        150,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        150,
+        105,
+        75
+      ],
+      "ordinal": "40th"
+    },
+    {
+      "ranking": 41,
+      "number": 10585,
+      "name": "Code Crackers",
+      "judging_lane_name": "Green Pod 3 - 1708",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        110,
+        125,
+        135,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        135,
+        125,
+        110
+      ],
+      "ordinal": "41st"
+    },
+    {
+      "ranking": 42,
+      "number": 67287,
+      "name": "Spark Squad",
+      "judging_lane_name": "Red Pod 2 - 1707",
+      "highest": 140,
+      "highest_display": 140,
+      "rounds": [
+        140,
+        90,
+        130,
+        100
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        140,
+        130,
+        100,
+        90
+      ],
+      "ordinal": "42nd"
+    }
+  ],
+  "number_of_rounds": 4,
+  "show_results": true
+}

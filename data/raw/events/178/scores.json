@@ -1,0 +1,307 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 66444,
+      "name": "CyberPirates",
+      "judging_lane_name": "RED POD 2",
+      "highest": 360,
+      "highest_display": 360,
+      "rounds": [
+        270,
+        335,
+        360
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        360,
+        335,
+        270
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 72909,
+      "name": "Argo Robotics Team 255",
+      "judging_lane_name": "RED POD 2",
+      "highest": 340,
+      "highest_display": 340,
+      "rounds": [
+        340,
+        270,
+        330
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        340,
+        330,
+        270
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 71128,
+      "name": "MidKnight Marvels",
+      "judging_lane_name": "RED POD 2",
+      "highest": 280,
+      "highest_display": 280,
+      "rounds": [
+        185,
+        150,
+        280
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        280,
+        185,
+        150
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 61949,
+      "name": "Ultraviolet",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        235,
+        240,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        240,
+        235
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 17493,
+      "name": "17493",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 260,
+      "highest_display": 260,
+      "rounds": [
+        190,
+        140,
+        260
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "He a chant and very energetic cheered on both teams",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        260,
+        190,
+        140
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 72379,
+      "name": "SBR TEAM ORANGE",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 220,
+      "highest_display": 220,
+      "rounds": [
+        220,
+        175,
+        215
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        220,
+        215,
+        175
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 72366,
+      "name": "Muir Robotics Blue",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        155,
+        185,
+        180
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        180,
+        155
+      ],
+      "ordinal": "7th"
+    },
+    {
+      "ranking": 8,
+      "number": 66137,
+      "name": "Build Guild - SBR",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        175,
+        175,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        175,
+        175
+      ],
+      "ordinal": "8th"
+    },
+    {
+      "ranking": 9,
+      "number": 72298,
+      "name": "Muir Robotics Gold",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        105,
+        155,
+        155
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        155,
+        105
+      ],
+      "ordinal": "9th"
+    },
+    {
+      "ranking": 10,
+      "number": 72380,
+      "name": "SBR TEAM GREEN",
+      "judging_lane_name": "RED POD 2",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        115,
+        125,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "Swearing, not optimistic complaining",
+        "",
+        "Complained about score a lot, arguing and bold other team"
+      ],
+      "rounds_sorted": [
+        150,
+        125,
+        115
+      ],
+      "ordinal": "10th"
+    },
+    {
+      "ranking": 11,
+      "number": 25573,
+      "name": "25573",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 145,
+      "highest_display": 145,
+      "rounds": [
+        130,
+        125,
+        145
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        145,
+        130,
+        125
+      ],
+      "ordinal": "11th"
+    },
+    {
+      "ranking": 12,
+      "number": 72371,
+      "name": "SBR TEAM RED",
+      "judging_lane_name": "GREEN POD 3",
+      "highest": 135,
+      "highest_display": 135,
+      "rounds": [
+        80,
+        115,
+        135
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        "Excited through it all good teamwork and had good spirit overall"
+      ],
+      "rounds_sorted": [
+        135,
+        115,
+        80
+      ],
+      "ordinal": "12th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

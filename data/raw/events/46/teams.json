@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 764,
+      "team": {
+        "id": 925,
+        "number": 53086,
+        "name": "Discovery Eagles",
+        "city": "San Jose",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 933,
+      "team": {
+        "id": 938,
+        "number": 57125,
+        "name": "Incredibuilders",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 712,
+      "team": {
+        "id": 939,
+        "number": 57236,
+        "name": "Electric Bricks",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 930,
+      "team": {
+        "id": 953,
+        "number": 60070,
+        "name": "Robo-Sapiens",
+        "city": "Milpitas",
+        "org_name": "Fremont Robotics Academy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 926,
+      "team": {
+        "id": 1265,
+        "number": 60981,
+        "name": "WinsLab",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 862,
+      "team": {
+        "id": 1072,
+        "number": 61016,
+        "name": "Mecha Lions FLL A",
+        "city": "San Jose",
+        "org_name": "Stratford Preparatory"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 858,
+      "team": {
+        "id": 1073,
+        "number": 61017,
+        "name": "Mecha Lions FLL B",
+        "city": "San Jose",
+        "org_name": "Stratford Preparatory"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 867,
+      "team": {
+        "id": 1074,
+        "number": 61018,
+        "name": "Mecha Lions FLL C",
+        "city": "San Jose",
+        "org_name": "Stratford Preparatory"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 914,
+      "team": {
+        "id": 830,
+        "number": 65065,
+        "name": "INNO BOTS",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 928,
+      "team": {
+        "id": 1224,
+        "number": 66285,
+        "name": "Alpha Zeta",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 932,
+      "team": {
+        "id": 1250,
+        "number": 67058,
+        "name": "Coral Keepers",
+        "city": "San Jose",
+        "org_name": ""
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 909,
+      "team": {
+        "id": 1139,
+        "number": 68216,
+        "name": "Circuit Breakers",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

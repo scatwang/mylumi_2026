@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 1780,
+      "team": {
+        "id": 1928,
+        "number": 56482,
+        "name": "Brawl Bros",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1762,
+      "team": {
+        "id": 1717,
+        "number": 61600,
+        "name": "Allstars Dolphins",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1784,
+      "team": {
+        "id": 1720,
+        "number": 62268,
+        "name": "Delta Cosmic Coders 2025",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1683,
+      "team": {
+        "id": 2014,
+        "number": 65841,
+        "name": "Falcon X",
+        "city": "Fremont",
+        "org_name": "Basis Independent Fremont"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1777,
+      "team": {
+        "id": 2211,
+        "number": 67186,
+        "name": "Diggnation",
+        "city": "SARATOGA",
+        "org_name": "Foothill Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1755,
+      "team": {
+        "id": 2024,
+        "number": 67854,
+        "name": "Superstars",
+        "city": "fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1760,
+      "team": {
+        "id": 1806,
+        "number": 70238,
+        "name": "Trapped in Union City",
+        "city": "Union City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1757,
+      "team": {
+        "id": 1590,
+        "number": 70765,
+        "name": "The Paleo Coders",
+        "city": "Cupertino",
+        "org_name": "Stevens Creek Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": true
+    },
+    {
+      "id": 1771,
+      "team": {
+        "id": 2249,
+        "number": 71907,
+        "name": "Quarks",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1772,
+      "team": {
+        "id": 1983,
+        "number": 72421,
+        "name": "EarthCreators",
+        "city": "Fremont",
+        "org_name": ""
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1741,
+      "team": {
+        "id": 2128,
+        "number": 73341,
+        "name": " Blitz Bots ",
+        "city": "Sunnyvale",
+        "org_name": "Stratford School - Sunnyvale De Anza Park"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1787,
+      "team": {
+        "id": 2267,
+        "number": 73948,
+        "name": "Stratford Osgood",
+        "city": "Fremont",
+        "org_name": "Stratford School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

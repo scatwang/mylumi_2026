@@ -1,0 +1,1343 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 56271,
+        "name": "Mechanical Arts",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2025-04-05 10:40:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-04-05 13:05:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2025-04-05 14:20:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2025-04-05 15:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-05 11:40:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61093,
+        "name": "Golden Dolphins",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-05 09:10:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-04-05 11:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-04-05 13:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2025-04-05 15:15:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-05 10:00:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66603,
+        "name": "Fletcher Robotigers",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-04-05 10:05:00-07:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-04-05 11:20:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-04-05 13:25:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 38,
+            "start_time_display": "2025-04-05 16:15:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-04-05 14:40:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66739,
+        "name": "Lakshmi Adusumilli",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-05 09:30:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-04-05 11:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-04-05 13:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2025-04-05 15:25:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-05 10:00:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66920,
+        "name": "SparkleBots1",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2025-04-05 10:20:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-04-05 12:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2025-04-05 14:20:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2025-04-05 15:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-05 11:40:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67142,
+        "name": "Dreamers",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-04-05 10:05:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-04-05 11:10:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2025-04-05 14:50:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 39,
+            "start_time_display": "2025-04-05 16:25:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-04-05 13:50:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67407,
+        "name": "Robot Thunder X",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-05 09:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-04-05 11:10:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-04-05 13:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 40,
+            "start_time_display": "2025-04-05 16:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-04-05 14:40:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67440,
+        "name": "BayBots",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-05 09:20:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-04-05 11:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2025-04-05 13:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2025-04-05 15:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-05 10:00:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67678,
+        "name": "RoboSquad",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-05 09:30:00-07:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-04-05 12:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2025-04-05 13:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2025-04-05 15:15:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-05 10:50:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68377,
+        "name": "Gemini",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2025-04-05 10:20:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-04-05 11:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2025-04-05 14:40:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 37,
+            "start_time_display": "2025-04-05 16:05:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-05 13:00:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68775,
+        "name": "Little Scholar ACE",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2025-04-05 10:30:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-04-05 13:05:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2025-04-05 14:30:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 37,
+            "start_time_display": "2025-04-05 16:05:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-05 11:40:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 68960,
+        "name": "Poseidon Engineers",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-05 09:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-04-05 11:00:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2025-04-05 14:50:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 38,
+            "start_time_display": "2025-04-05 16:15:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-04-05 13:50:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69065,
+        "name": "Mustang QuadRacers",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-05 09:20:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-04-05 12:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2025-04-05 14:05:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2025-04-05 15:25:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-05 10:50:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69253,
+        "name": "The Marines",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-04-05 09:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-04-05 11:20:00-07:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-04-05 13:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 39,
+            "start_time_display": "2025-04-05 16:25:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-04-05 14:40:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69595,
+        "name": "TechnoBots",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-05 09:10:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-04-05 12:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2025-04-05 14:05:00-07:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2025-04-05 15:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-05 10:50:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69653,
+        "name": "Robo Legends",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2025-04-05 10:40:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-04-05 11:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2025-04-05 14:30:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2025-04-05 15:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-05 13:00:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70153,
+        "name": "rickroll",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2025-04-05 10:30:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-04-05 11:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2025-04-05 14:40:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2025-04-05 15:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-05 13:00:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70300,
+        "name": "DCADS Exo Cubs",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-04-05 09:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-04-05 11:00:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-04-05 13:25:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 40,
+            "start_time_display": "2025-04-05 16:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-04-05 13:50:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "Yellow Pod 1"
+          },
+          {
+            "name": "Red Pod 2"
+          },
+          {
+            "name": "Green Pod 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-04-05 10:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "61093",
+              "66739",
+              "67440"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-04-05 10:50:00-07:00",
+            "length": 30,
+            "rooms": [
+              "67678",
+              "69065",
+              "69595"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-04-05 11:40:00-07:00",
+            "length": 30,
+            "rooms": [
+              "66920",
+              "56271",
+              "68775"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-04-05 13:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "69653",
+              "70153",
+              "68377"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2025-04-05 13:50:00-07:00",
+            "length": 30,
+            "rooms": [
+              "68960",
+              "67142",
+              "70300"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2025-04-05 14:40:00-07:00",
+            "length": 30,
+            "rooms": [
+              "66603",
+              "69253",
+              "67407"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 843,
+        "name": "Red Table"
+      },
+      {
+        "id": 844,
+        "name": "Blue Table"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2025-04-05 09:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61093 - Golden Dolphins",
+          "#69595 - TechnoBots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2025-04-05 09:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69065 - Mustang QuadRacers",
+          "#67440 - BayBots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2025-04-05 09:30:00-07:00",
+        "length": 15,
+        "tables": [
+          "#67678 - RoboSquad",
+          "#66739 - Lakshmi Adusumilli"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2025-04-05 09:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#68960 - Poseidon Engineers",
+          "#67407 - Robot Thunder X"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2025-04-05 09:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69253 - The Marines",
+          "#70300 - DCADS Exo Cubs"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2025-04-05 10:05:00-07:00",
+        "length": 15,
+        "tables": [
+          "#66603 - Fletcher Robotigers",
+          "#67142 - Dreamers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2025-04-05 10:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66920 - SparkleBots1",
+          "#68377 - Gemini"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 8,
+        "start_time": "2025-04-05 10:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70153 - rickroll",
+          "#68775 - Little Scholar ACE"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 9,
+        "start_time": "2025-04-05 10:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69653 - Robo Legends",
+          "#56271 - Mechanical Arts"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 10,
+        "start_time": "2025-04-05 10:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2025-04-05 11:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70300 - DCADS Exo Cubs",
+          "#68960 - Poseidon Engineers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2025-04-05 11:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67407 - Robot Thunder X",
+          "#67142 - Dreamers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2025-04-05 11:20:00-07:00",
+        "length": 15,
+        "tables": [
+          "#69253 - The Marines",
+          "#66603 - Fletcher Robotigers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2025-04-05 11:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#68377 - Gemini",
+          "#69653 - Robo Legends"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2025-04-05 11:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70153 - rickroll",
+          "#66739 - Lakshmi Adusumilli"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2025-04-05 11:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67440 - BayBots",
+          "#61093 - Golden Dolphins"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2025-04-05 12:05:00-07:00",
+        "length": 40,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2025-04-05 12:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69065 - Mustang QuadRacers",
+          "#67678 - RoboSquad"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2025-04-05 12:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69595 - TechnoBots",
+          "#66920 - SparkleBots1"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2025-04-05 13:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#68775 - Little Scholar ACE",
+          "#56271 - Mechanical Arts"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2025-04-05 13:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2025-04-05 13:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66603 - Fletcher Robotigers",
+          "#70300 - DCADS Exo Cubs"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2025-04-05 13:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67407 - Robot Thunder X",
+          "#69253 - The Marines"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2025-04-05 13:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66739 - Lakshmi Adusumilli",
+          "#61093 - Golden Dolphins"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2025-04-05 13:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67678 - RoboSquad",
+          "#67440 - BayBots"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2025-04-05 14:05:00-07:00",
+        "length": 15,
+        "tables": [
+          "#69595 - TechnoBots",
+          "#69065 - Mustang QuadRacers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2025-04-05 14:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#56271 - Mechanical Arts",
+          "#66920 - SparkleBots1"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 28,
+        "start_time": "2025-04-05 14:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69653 - Robo Legends",
+          "#68775 - Little Scholar ACE"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 29,
+        "start_time": "2025-04-05 14:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#68377 - Gemini",
+          "#70153 - rickroll"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 30,
+        "start_time": "2025-04-05 14:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67142 - Dreamers",
+          "#68960 - Poseidon Engineers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 31,
+        "start_time": "2025-04-05 15:00:00-07:00",
+        "length": 15,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 32,
+        "start_time": "2025-04-05 15:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61093 - Golden Dolphins",
+          "#67678 - RoboSquad"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 33,
+        "start_time": "2025-04-05 15:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66739 - Lakshmi Adusumilli",
+          "#69065 - Mustang QuadRacers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 34,
+        "start_time": "2025-04-05 15:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67440 - BayBots",
+          "#69595 - TechnoBots"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 35,
+        "start_time": "2025-04-05 15:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66920 - SparkleBots1",
+          "#69653 - Robo Legends"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 36,
+        "start_time": "2025-04-05 15:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#56271 - Mechanical Arts",
+          "#70153 - rickroll"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 37,
+        "start_time": "2025-04-05 16:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#68775 - Little Scholar ACE",
+          "#68377 - Gemini"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 38,
+        "start_time": "2025-04-05 16:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#68960 - Poseidon Engineers",
+          "#66603 - Fletcher Robotigers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 39,
+        "start_time": "2025-04-05 16:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67142 - Dreamers",
+          "#69253 - The Marines"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 40,
+        "start_time": "2025-04-05 16:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70300 - DCADS Exo Cubs",
+          "#67407 - Robot Thunder X"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-03-27 03:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    1410,
+    1476,
+    1413,
+    1465,
+    1485,
+    1422,
+    1424,
+    1488,
+    1426,
+    1490,
+    1425,
+    1243,
+    1499,
+    1460,
+    1462,
+    1463,
+    1464,
+    1401
+  ]
+}

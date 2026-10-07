@@ -1,0 +1,173 @@
+{
+  "count": 14,
+  "results": [
+    {
+      "id": 1230,
+      "team": {
+        "id": 687,
+        "number": 45629,
+        "name": "Dragon Bots",
+        "city": "San Francisco",
+        "org_name": "Ecole Notre Dame Des Victoires"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1235,
+      "team": {
+        "id": 1359,
+        "number": 59696,
+        "name": "Energizers",
+        "city": "Sacramento",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1229,
+      "team": {
+        "id": 715,
+        "number": 60141,
+        "name": "Banayays",
+        "city": "San Anselmo",
+        "org_name": "St Anselm School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1234,
+      "team": {
+        "id": 829,
+        "number": 65019,
+        "name": "The Ravens",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1232,
+      "team": {
+        "id": 1422,
+        "number": 65072,
+        "name": "Master Builders",
+        "city": "Santa Clara",
+        "org_name": "Stratford School-Santa Clara"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1238,
+      "team": {
+        "id": 1429,
+        "number": 65273,
+        "name": "LEGOnardo da Vinci",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1257,
+      "team": {
+        "id": 835,
+        "number": 65892,
+        "name": "Code Queens",
+        "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1241,
+      "team": {
+        "id": 851,
+        "number": 66511,
+        "name": "Tech Titans",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1256,
+      "team": {
+        "id": 1090,
+        "number": 67727,
+        "name": "Thunderbolts",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1252,
+      "team": {
+        "id": 1431,
+        "number": 68174,
+        "name": "Sundrop Robotics - Albany",
+        "city": "ALBANY",
+        "org_name": "Sundrop Tutoring And Robotics"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1423,
+      "team": {
+        "id": 1516,
+        "number": 68643,
+        "name": "House of Coders",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1290,
+      "team": {
+        "id": 1167,
+        "number": 68726,
+        "name": "Daedalus Bots",
+        "city": "Sunnyvale",
+        "org_name": "Marian A. Peterson Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1254,
+      "team": {
+        "id": 1345,
+        "number": 69571,
+        "name": "Hydro-Electric Sharks",
+        "city": "FREMONT",
+        "org_name": "Warwick Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1404,
+      "team": {
+        "id": 1415,
+        "number": 70140,
+        "name": "The Infinity Builders 1",
+        "city": "Santa Clara",
+        "org_name": "Helios New School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

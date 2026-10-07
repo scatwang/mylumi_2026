@@ -1,0 +1,1298 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 8445,
+        "name": "Ray - Prev UMT",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-25 09:10:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-04-25 11:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-04-25 13:50:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2026-04-25 15:15:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-25 10:00:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 60037,
+        "name": "BuilderBots",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-25 09:30:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-04-25 11:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-04-25 13:50:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2026-04-25 15:25:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-25 10:00:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61351,
+        "name": "RRR Rockets",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-25 09:20:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-04-25 11:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-04-25 14:00:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2026-04-25 15:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-25 10:00:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66894,
+        "name": "Dusty Diggers",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-25 09:30:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-04-25 12:05:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-04-25 14:00:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2026-04-25 15:15:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-25 10:45:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69015,
+        "name": "QR Codes",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-25 09:20:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-04-25 12:05:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2026-04-25 14:10:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2026-04-25 15:25:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-25 10:45:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69238,
+        "name": "The Commas",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-04-25 09:10:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-04-25 13:00:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2026-04-25 14:10:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2026-04-25 15:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-04-25 10:45:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69572,
+        "name": "Hydro Hackers",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2026-04-25 10:20:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-04-25 13:00:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-04-25 14:25:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2026-04-25 15:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-25 11:30:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71344,
+        "name": "Cheez Puffer Fish",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2026-04-25 10:40:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-04-25 13:10:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-04-25 14:25:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2026-04-25 15:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-25 11:30:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71771,
+        "name": "QR Team 3",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2026-04-25 10:30:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-04-25 13:10:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2026-04-25 14:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2026-04-25 16:05:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-04-25 11:30:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71772,
+        "name": "Team 4",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2026-04-25 10:40:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-04-25 11:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2026-04-25 14:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 31,
+            "start_time_display": "2026-04-25 15:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-25 13:15:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72699,
+        "name": "GearGirls",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2026-04-25 10:30:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-04-25 11:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2026-04-25 14:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2026-04-25 15:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-25 13:15:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72963,
+        "name": "CodeBreakers",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2026-04-25 10:20:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-04-25 11:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2026-04-25 14:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2026-04-25 16:05:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-25 13:15:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72994,
+        "name": "Bone Appetit",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-25 09:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-04-25 11:00:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2026-04-25 14:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2026-04-25 16:15:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2026-04-25 14:00:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72999,
+        "name": "Eagle Eyes",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-04-25 10:05:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-04-25 11:10:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2026-04-25 14:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2026-04-25 16:25:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2026-04-25 14:00:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75124,
+        "name": "FKS Robotics",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-04-25 09:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-04-25 11:00:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-04-25 13:30:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2026-04-25 16:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2026-04-25 14:00:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75126,
+        "name": "Brain Bot",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-04-25 10:05:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-04-25 11:20:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-04-25 13:30:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2026-04-25 16:15:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2026-04-25 14:45:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75146,
+        "name": "Brickbots-spring",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-04-25 09:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-04-25 11:20:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-04-25 13:40:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2026-04-25 16:25:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2026-04-25 14:45:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 75149,
+        "name": "EML Tigers",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-04-25 09:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-04-25 11:10:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-04-25 13:40:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2026-04-25 16:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2026-04-25 14:45:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "Yellow Pod 1"
+          },
+          {
+            "name": "Red Pod 2"
+          },
+          {
+            "name": "Green Pod 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2026-04-25 10:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "8445",
+              "60037",
+              "61351"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2026-04-25 10:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "66894",
+              "69015",
+              "69238"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2026-04-25 11:30:00-07:00",
+            "length": 30,
+            "rooms": [
+              "69572",
+              "71344",
+              "71771"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2026-04-25 13:15:00-07:00",
+            "length": 30,
+            "rooms": [
+              "71772",
+              "72699",
+              "72963"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2026-04-25 14:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "72994",
+              "72999",
+              "75124"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2026-04-25 14:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "75126",
+              "75146",
+              "75149"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 1192,
+        "name": "Red Table"
+      },
+      {
+        "id": 1193,
+        "name": "Blue Table"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2026-04-25 09:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#8445 - Ray - Prev UMT",
+          "#69238 - The Commas"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2026-04-25 09:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69015 - QR Codes",
+          "#61351 - RRR Rockets"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2026-04-25 09:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66894 - Dusty Diggers",
+          "#60037 - BuilderBots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2026-04-25 09:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72994 - Bone Appetit",
+          "#75149 - EML Tigers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2026-04-25 09:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75146 - Brickbots-spring",
+          "#75124 - FKS Robotics"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2026-04-25 10:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75126 - Brain Bot",
+          "#72999 - Eagle Eyes"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2026-04-25 10:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69572 - Hydro Hackers",
+          "#72963 - CodeBreakers"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 8,
+        "start_time": "2026-04-25 10:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72699 - GearGirls",
+          "#71771 - QR Team 3"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 9,
+        "start_time": "2026-04-25 10:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71772 - Team 4",
+          "#71344 - Cheez Puffer Fish"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 10,
+        "start_time": "2026-04-25 11:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75124 - FKS Robotics",
+          "#72994 - Bone Appetit"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2026-04-25 11:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75149 - EML Tigers",
+          "#72999 - Eagle Eyes"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2026-04-25 11:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75146 - Brickbots-spring",
+          "#75126 - Brain Bot"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2026-04-25 11:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72963 - CodeBreakers",
+          "#71772 - Team 4"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2026-04-25 11:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72699 - GearGirls",
+          "#60037 - BuilderBots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2026-04-25 11:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61351 - RRR Rockets",
+          "#8445 - Ray - Prev UMT"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2026-04-25 12:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69015 - QR Codes",
+          "#66894 - Dusty Diggers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2026-04-25 13:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69238 - The Commas",
+          "#69572 - Hydro Hackers"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2026-04-25 13:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71771 - QR Team 3",
+          "#71344 - Cheez Puffer Fish"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2026-04-25 13:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75126 - Brain Bot",
+          "#75124 - FKS Robotics"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2026-04-25 13:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75149 - EML Tigers",
+          "#75146 - Brickbots-spring"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2026-04-25 13:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#60037 - BuilderBots",
+          "#8445 - Ray - Prev UMT"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2026-04-25 14:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66894 - Dusty Diggers",
+          "#61351 - RRR Rockets"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2026-04-25 14:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69238 - The Commas",
+          "#69015 - QR Codes"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2026-04-25 14:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71344 - Cheez Puffer Fish",
+          "#69572 - Hydro Hackers"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2026-04-25 14:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71772 - Team 4",
+          "#71771 - QR Team 3"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2026-04-25 14:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72963 - CodeBreakers",
+          "#72699 - GearGirls"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2026-04-25 14:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72999 - Eagle Eyes",
+          "#72994 - Bone Appetit"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 28,
+        "start_time": "2026-04-25 15:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#8445 - Ray - Prev UMT",
+          "#66894 - Dusty Diggers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 29,
+        "start_time": "2026-04-25 15:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#60037 - BuilderBots",
+          "#69015 - QR Codes"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 30,
+        "start_time": "2026-04-25 15:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61351 - RRR Rockets",
+          "#69238 - The Commas"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 31,
+        "start_time": "2026-04-25 15:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69572 - Hydro Hackers",
+          "#71772 - Team 4"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 32,
+        "start_time": "2026-04-25 15:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71344 - Cheez Puffer Fish",
+          "#72699 - GearGirls"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 33,
+        "start_time": "2026-04-25 16:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71771 - QR Team 3",
+          "#72963 - CodeBreakers"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 34,
+        "start_time": "2026-04-25 16:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72994 - Bone Appetit",
+          "#75126 - Brain Bot"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 35,
+        "start_time": "2026-04-25 16:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72999 - Eagle Eyes",
+          "#75146 - Brickbots-spring"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 36,
+        "start_time": "2026-04-25 16:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#75124 - FKS Robotics",
+          "#75149 - EML Tigers"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2026-04-24 06:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    2048,
+    2069,
+    2264,
+    2207,
+    2212,
+    2084,
+    2214,
+    2087,
+    2216,
+    2217,
+    2215,
+    2091,
+    2089,
+    2226,
+    2100,
+    2101,
+    2175
+  ]
+}

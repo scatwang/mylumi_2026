@@ -1,0 +1,293 @@
+{
+  "count": 24,
+  "results": [
+    {
+      "id": 3,
+      "team": {
+        "id": 111,
+        "number": 752,
+        "name": "Lego Gagas",
+        "city": "San Jose",
+        "org_name": "Bret Harte Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 143,
+      "team": {
+        "id": 150,
+        "number": 46264,
+        "name": "Nuclear Eagles",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 141,
+      "team": {
+        "id": 89,
+        "number": 51006,
+        "name": "H.E.R.",
+        "city": "Saratoga",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 130,
+      "team": {
+        "id": 159,
+        "number": 52496,
+        "name": "CodeRunners",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 132,
+      "team": {
+        "id": 44,
+        "number": 53854,
+        "name": "RRAVENS",
+        "city": "San Jose",
+        "org_name": "Bret Harte Middle"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 144,
+      "team": {
+        "id": 29,
+        "number": 53890,
+        "name": "Autorun",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 71,
+      "team": {
+        "id": 145,
+        "number": 55494,
+        "name": "Robo Brain",
+        "city": "San Jose",
+        "org_name": ""
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 73,
+      "team": {
+        "id": 328,
+        "number": 55726,
+        "name": "D()lphinS",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 142,
+      "team": {
+        "id": 10,
+        "number": 56375,
+        "name": "Zeal Kids",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 152,
+      "team": {
+        "id": 11,
+        "number": 56459,
+        "name": "Code Warriors",
+        "city": "Fremont",
+        "org_name": "Oliveira Elementary School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 165,
+      "team": {
+        "id": 26,
+        "number": 56768,
+        "name": "Blue Brickbots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 82,
+      "team": {
+        "id": 276,
+        "number": 58665,
+        "name": "Wildcats Allstars",
+        "city": "San Jose",
+        "org_name": "Allstars United Education Foundation"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 174,
+      "team": {
+        "id": 62,
+        "number": 58828,
+        "name": "ShortCircuit",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 75,
+      "team": {
+        "id": 39,
+        "number": 59366,
+        "name": "Robo-JOKKIS",
+        "city": "San Jose",
+        "org_name": "Stratford School Mid-San Jose"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 151,
+      "team": {
+        "id": 191,
+        "number": 60115,
+        "name": "racing robo",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 159,
+      "team": {
+        "id": 229,
+        "number": 60120,
+        "name": "Baoming Yang",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 160,
+      "team": {
+        "id": 255,
+        "number": 61172,
+        "name": "FLL Voyager",
+        "city": "SUNNYVALE",
+        "org_name": "Self"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 99,
+      "team": {
+        "id": 206,
+        "number": 61188,
+        "name": "Cyber Titans@",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 107,
+      "team": {
+        "id": 69,
+        "number": 61281,
+        "name": "Mustang Rockets",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 60,
+      "team": {
+        "id": 309,
+        "number": 61402,
+        "name": "#RoboHackers",
+        "city": "San Jose",
+        "org_name": "Williams Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 137,
+      "team": {
+        "id": 23,
+        "number": 61932,
+        "name": "Bullis Gold Team",
+        "city": "Los Altos",
+        "org_name": "Bullis"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 155,
+      "team": {
+        "id": 22,
+        "number": 61944,
+        "name": "FlyingWheels",
+        "city": "Cupertino",
+        "org_name": "Monta Vista High School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 51,
+      "team": {
+        "id": 169,
+        "number": 62191,
+        "name": "BookWormZ",
+        "city": "CUPERTINO",
+        "org_name": "Personal"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 105,
+      "team": {
+        "id": 243,
+        "number": 62268,
+        "name": "Delta Cosmic Coders",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

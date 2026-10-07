@@ -1,0 +1,889 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 65321,
+        "name": "DCADS Astro Cubs",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-03-29 09:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-03-29 12:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-03-29 13:40:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-03-29 15:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-29 11:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 70000,
+        "name": "Bulldog Bots",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-03-29 10:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-03-29 11:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-03-29 13:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2026-03-29 15:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-29 13:00:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71017,
+        "name": "Alamo 5th Grade Lego Team",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-29 09:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-03-29 11:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-03-29 13:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2026-03-29 15:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-29 10:15:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71515,
+        "name": "Lakeport Robo Runners",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-03-29 10:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-03-29 11:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-03-29 14:05:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2026-03-29 15:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-03-29 11:45:00-07:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71706,
+        "name": "Sabercats1",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2026-03-29 10:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-03-29 11:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2026-03-29 13:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-03-29 15:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-29 13:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71714,
+        "name": "RoboStars",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2026-03-29 10:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2026-03-29 11:10:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-03-29 14:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-03-29 15:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-03-29 11:45:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 71848,
+        "name": "Brainy Bricksters",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-29 09:30:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-03-29 11:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2026-03-29 13:40:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-03-29 15:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-29 11:00:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72231,
+        "name": "Thunderbird",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-29 09:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2026-03-29 12:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 14,
+            "start_time_display": "2026-03-29 13:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-03-29 15:20:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2026-03-29 11:00:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 72279,
+        "name": "Team Dory ",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2026-03-29 09:45:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2026-03-29 11:50:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-03-29 13:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 21,
+            "start_time_display": "2026-03-29 15:20:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-29 10:15:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 74111,
+        "name": "Argon 6-7",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-29 10:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 7,
+            "start_time_display": "2026-03-29 11:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2026-03-29 14:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2026-03-29 15:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2026-03-29 11:45:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 74290,
+        "name": "Fossil hunters",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-29 09:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2026-03-29 11:35:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 13,
+            "start_time_display": "2026-03-29 13:15:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2026-03-29 15:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2026-03-29 10:15:00-07:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 74480,
+        "name": "WARPSPEEDERS",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-29 10:00:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2026-03-29 11:25:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2026-03-29 14:05:00-07:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2026-03-29 15:55:00-07:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2026-03-29 13:00:00-07:00",
+            "room_name": "GREEN POD 3",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          },
+          {
+            "name": "GREEN POD 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2026-03-29 10:15:00-07:00",
+            "length": 30,
+            "rooms": [
+              "74290",
+              "71017",
+              "72279"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2026-03-29 11:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "71848",
+              "65321",
+              "72231"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2026-03-29 11:45:00-07:00",
+            "length": 30,
+            "rooms": [
+              "74111",
+              "71515",
+              "71714"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2026-03-29 13:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "71706",
+              "70000",
+              "74480"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 1164,
+        "name": "TABLE A"
+      },
+      {
+        "id": 1165,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2026-03-29 09:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74290 - Fossil hunters",
+          "#72231 - Thunderbird"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2026-03-29 09:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71848 - Brainy Bricksters",
+          "#71017 - Alamo 5th Grade Lego Team"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2026-03-29 09:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#65321 - DCADS Astro Cubs",
+          "#72279 - Team Dory "
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2026-03-29 10:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74111 - Argon 6-7",
+          "#74480 - WARPSPEEDERS"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2026-03-29 10:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71706 - Sabercats1",
+          "#71515 - Lakeport Robo Runners"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2026-03-29 10:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70000 - Bulldog Bots",
+          "#71714 - RoboStars"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2026-03-29 11:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71515 - Lakeport Robo Runners",
+          "#74111 - Argon 6-7"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2026-03-29 11:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71706 - Sabercats1",
+          "#71714 - RoboStars"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2026-03-29 11:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74480 - WARPSPEEDERS",
+          "#70000 - Bulldog Bots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2026-03-29 11:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71017 - Alamo 5th Grade Lego Team",
+          "#74290 - Fossil hunters"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2026-03-29 11:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71848 - Brainy Bricksters",
+          "#72279 - Team Dory "
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2026-03-29 12:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72231 - Thunderbird",
+          "#65321 - DCADS Astro Cubs"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2026-03-29 13:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72279 - Team Dory ",
+          "#74290 - Fossil hunters"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2026-03-29 13:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72231 - Thunderbird",
+          "#71017 - Alamo 5th Grade Lego Team"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2026-03-29 13:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#65321 - DCADS Astro Cubs",
+          "#71848 - Brainy Bricksters"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2026-03-29 13:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#70000 - Bulldog Bots",
+          "#71706 - Sabercats1"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2026-03-29 14:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74480 - WARPSPEEDERS",
+          "#71515 - Lakeport Robo Runners"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2026-03-29 14:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71714 - RoboStars",
+          "#74111 - Argon 6-7"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2026-03-29 15:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74290 - Fossil hunters",
+          "#71848 - Brainy Bricksters"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2026-03-29 15:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71017 - Alamo 5th Grade Lego Team",
+          "#65321 - DCADS Astro Cubs"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2026-03-29 15:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#72279 - Team Dory ",
+          "#72231 - Thunderbird"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2026-03-29 15:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#74111 - Argon 6-7",
+          "#71706 - Sabercats1"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2026-03-29 15:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71515 - Lakeport Robo Runners",
+          "#70000 - Bulldog Bots"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2026-03-29 15:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#71714 - RoboStars",
+          "#74480 - WARPSPEEDERS"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2026-03-17 04:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    2112,
+    2116,
+    2118,
+    2121,
+    2090,
+    2061,
+    2062,
+    2103,
+    2106,
+    2107,
+    2076,
+    2109
+  ]
+}

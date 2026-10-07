@@ -1,0 +1,77 @@
+{
+  "count": 6,
+  "results": [
+    {
+      "id": 1009,
+      "team": {
+        "id": 1057,
+        "number": 31486,
+        "name": "Dolphins",
+        "city": "Belmont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 959,
+      "team": {
+        "id": 1238,
+        "number": 31566,
+        "name": "Little Lego Masters",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1010,
+      "team": {
+        "id": 1340,
+        "number": 31596,
+        "name": "CV Roblocks",
+        "city": "Castro Valley",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1014,
+      "team": {
+        "id": 1068,
+        "number": 32093,
+        "name": "RoboDivers",
+        "city": "Cupertino",
+        "org_name": ""
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 1003,
+      "team": {
+        "id": 1205,
+        "number": 32630,
+        "name": "HF Cubs",
+        "city": "San Jose",
+        "org_name": "Holy Family School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 989,
+      "team": {
+        "id": 1304,
+        "number": 33016,
+        "name": "Go Bears! ",
+        "city": "San Jose",
+        "org_name": "Holy Family School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

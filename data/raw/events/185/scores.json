@@ -1,0 +1,182 @@
+{
+  "status": "ok",
+  "scores": [
+    {
+      "ranking": 1,
+      "number": 64757,
+      "name": "Brain Bot",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 230,
+      "highest_display": 230,
+      "rounds": [
+        195,
+        200,
+        230
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        230,
+        200,
+        195
+      ],
+      "ordinal": "1st"
+    },
+    {
+      "ranking": 2,
+      "number": 72610,
+      "name": "Lightning Raiders",
+      "judging_lane_name": "RED POD 2",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        215,
+        225,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        225,
+        215
+      ],
+      "ordinal": "2nd"
+    },
+    {
+      "ranking": 3,
+      "number": 61167,
+      "name": "Mighty 'Mine'ons",
+      "judging_lane_name": "RED POD 2",
+      "highest": 225,
+      "highest_display": 225,
+      "rounds": [
+        205,
+        175,
+        225
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        225,
+        205,
+        175
+      ],
+      "ordinal": "3rd"
+    },
+    {
+      "ranking": 4,
+      "number": 72207,
+      "name": "St. Cecilia Robotics 8th Grade",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 185,
+      "highest_display": 185,
+      "rounds": [
+        135,
+        95,
+        185
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        185,
+        135,
+        95
+      ],
+      "ordinal": "4th"
+    },
+    {
+      "ranking": 5,
+      "number": 10586,
+      "name": "The Peanut Botters",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 160,
+      "highest_display": 160,
+      "rounds": [
+        100,
+        160,
+        160
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        160,
+        160,
+        100
+      ],
+      "ordinal": "5th"
+    },
+    {
+      "ranking": 6,
+      "number": 71805,
+      "name": "Robo Crushers",
+      "judging_lane_name": "YELLOW POD 1",
+      "highest": 155,
+      "highest_display": 155,
+      "rounds": [
+        115,
+        155,
+        105
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        155,
+        115,
+        105
+      ],
+      "ordinal": "6th"
+    },
+    {
+      "ranking": 7,
+      "number": 72979,
+      "name": "St. Cecilia Robotics 2",
+      "judging_lane_name": "RED POD 2",
+      "highest": 150,
+      "highest_display": 150,
+      "rounds": [
+        115,
+        135,
+        150
+      ],
+      "has_scores": true,
+      "gp_notes": [
+        "",
+        "",
+        ""
+      ],
+      "rounds_sorted": [
+        150,
+        135,
+        115
+      ],
+      "ordinal": "7th"
+    }
+  ],
+  "number_of_rounds": 3,
+  "show_results": true
+}

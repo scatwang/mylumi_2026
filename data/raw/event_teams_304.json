@@ -1,0 +1,31 @@
+{
+  "event_id": 304,
+  "event_name": "2026 NorCal FLL Challenge BIOGLOW QT- SF Day School",
+  "count": 2,
+  "teams": [
+    {
+      "id": 2379,
+      "team": {
+        "id": 2722,
+        "number": 57382,
+        "name": "RoboRise",
+        "city": "Foster City",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2305,
+      "team": {
+        "id": 2622,
+        "number": 75798,
+        "name": "Shark Bytes",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

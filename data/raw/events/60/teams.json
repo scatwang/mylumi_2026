@@ -1,0 +1,221 @@
+{
+  "count": 18,
+  "results": [
+    {
+      "id": 813,
+      "team": {
+        "id": 894,
+        "number": 8560,
+        "name": "ProGRAHAMers",
+        "city": "Mountain View",
+        "org_name": "Graham Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 668,
+      "team": {
+        "id": 900,
+        "number": 17491,
+        "name": "H2Flow",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 676,
+      "team": {
+        "id": 902,
+        "number": 17493,
+        "name": "Whale Whisperers",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 848,
+      "team": {
+        "id": 1107,
+        "number": 47206,
+        "name": "Owlz",
+        "city": "Danville",
+        "org_name": "Athenian School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 827,
+      "team": {
+        "id": 928,
+        "number": 54977,
+        "name": "Menlo Park Narleaotters",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 859,
+      "team": {
+        "id": 943,
+        "number": 58043,
+        "name": "Hacking Hornets",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 777,
+      "team": {
+        "id": 973,
+        "number": 60759,
+        "name": "Cat-a-Bots",
+        "city": "Santa Clara",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 742,
+      "team": {
+        "id": 1006,
+        "number": 61932,
+        "name": "BCS Golden Oceaneers",
+        "city": "Los Altos",
+        "org_name": "Bullis"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 856,
+      "team": {
+        "id": 1158,
+        "number": 65278,
+        "name": "Hydrobots",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 778,
+      "team": {
+        "id": 1186,
+        "number": 65319,
+        "name": "DCADS Robo Cubs",
+        "city": "Santa Clara",
+        "org_name": "Don Callejon Arts and Design School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 937,
+      "team": {
+        "id": 1237,
+        "number": 65595,
+        "name": "Team Sigma",
+        "city": "Mountain House",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 765,
+      "team": {
+        "id": 654,
+        "number": 65685,
+        "name": "Ocean Engineers",
+        "city": "San Leandro",
+        "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 755,
+      "team": {
+        "id": 1038,
+        "number": 65979,
+        "name": "Notre Dame Robotics - Red Team",
+        "city": "Belmont",
+        "org_name": "Notre Dame Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 745,
+      "team": {
+        "id": 870,
+        "number": 67149,
+        "name": "URB Ultimate Robotic Builders",
+        "city": "Palo Alto",
+        "org_name": "ULEAP"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 810,
+      "team": {
+        "id": 871,
+        "number": 67150,
+        "name": "Coding Ninjas",
+        "city": "Palo Alto",
+        "org_name": "ULEAP"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 812,
+      "team": {
+        "id": 1218,
+        "number": 67289,
+        "name": "Electric Eels",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 771,
+      "team": {
+        "id": 875,
+        "number": 67342,
+        "name": "Sharks",
+        "city": "Palo Alto",
+        "org_name": "Silicon Valley International School"
+      },
+      "advancing_to_next_level": true,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 660,
+      "team": {
+        "id": 1245,
+        "number": 69277,
+        "name": "Oceanic Operators",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

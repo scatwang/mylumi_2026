@@ -1,0 +1,149 @@
+{
+  "count": 12,
+  "results": [
+    {
+      "id": 2103,
+      "team": {
+        "id": 1737,
+        "number": 65321,
+        "name": "DCADS Astro Cubs",
+        "city": "Santa Clara",
+        "org_name": "Don Callejon"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2062,
+      "team": {
+        "id": 1803,
+        "number": 70000,
+        "name": "Bulldog Bots",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2106,
+      "team": {
+        "id": 1905,
+        "number": 71017,
+        "name": "Alamo 5th Grade Lego Team",
+        "city": "Alamo",
+        "org_name": "Alamo Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2116,
+      "team": {
+        "id": 2432,
+        "number": 71515,
+        "name": "Lakeport Robo Runners",
+        "city": "Lakeport",
+        "org_name": "Home School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2107,
+      "team": {
+        "id": 2449,
+        "number": 71706,
+        "name": "Sabercats1",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2112,
+      "team": {
+        "id": 1624,
+        "number": 71714,
+        "name": "RoboStars",
+        "city": "Lathrop",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2061,
+      "team": {
+        "id": 2048,
+        "number": 71848,
+        "name": "Brainy Bricksters",
+        "city": "San Jose",
+        "org_name": "Bret Harte Middle, Castillero Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2121,
+      "team": {
+        "id": 2254,
+        "number": 72231,
+        "name": "Thunderbird",
+        "city": "Mountain View",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2090,
+      "team": {
+        "id": 1974,
+        "number": 72279,
+        "name": "Team Dory ",
+        "city": "San Jose",
+        "org_name": "Holy Family School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2118,
+      "team": {
+        "id": 2236,
+        "number": 74111,
+        "name": "Argon 6-7",
+        "city": "San Jose",
+        "org_name": "Holy Family School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2076,
+      "team": {
+        "id": 2258,
+        "number": 74290,
+        "name": "Fossil hunters",
+        "city": "Fremont",
+        "org_name": "Warwick Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2109,
+      "team": {
+        "id": 2276,
+        "number": 74480,
+        "name": "WARPSPEEDERS",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

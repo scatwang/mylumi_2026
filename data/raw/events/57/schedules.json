@@ -1,0 +1,933 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 30518,
+        "name": "Marine Manatees (#30518)",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 10:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-11-09 11:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-11-09 16:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52363,
+        "name": "Terrabytes",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-09 11:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-09 15:20:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 52522,
+        "name": "Aqua Avatars",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 17,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-09 15:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 58711,
+        "name": "Arctic Wolves",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 10:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-09 13:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-09 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61282,
+        "name": "The Krusty Crab",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 10,
+            "start_time_display": "2024-11-09 11:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 15,
+            "start_time_display": "2024-11-09 13:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-09 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 13:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61803,
+        "name": "Techeon",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-11-09 14:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2024-11-09 16:05:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 62681,
+        "name": "Golden Eagles",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 09:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2024-11-09 11:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-09 13:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-09 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 64706,
+        "name": "Techactrons",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 8,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-09 14:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2024-11-09 15:20:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 11:30:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 65020,
+        "name": "The Golden Huskies",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 10:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2024-11-09 11:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 20,
+            "start_time_display": "2024-11-09 14:30:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2024-11-09 15:45:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 13:00:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66078,
+        "name": "Pleasanton Piranhas",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 09:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-09 12:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 19,
+            "start_time_display": "2024-11-09 14:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2024-11-09 15:10:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67287,
+        "name": "Spark Squad",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2024-11-09 10:15:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 9,
+            "start_time_display": "2024-11-09 11:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 18,
+            "start_time_display": "2024-11-09 14:00:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2024-11-09 15:55:00-08:00",
+            "length": 10,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2024-11-09 13:00:00-08:00",
+            "room_name": "RED POD 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67840,
+        "name": "The Submarine SharkBots",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2024-11-09 09:45:00-08:00",
+            "length": 15,
+            "table_name": "TABLE B",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2024-11-09 12:00:00-08:00",
+            "length": 10,
+            "table_name": "TABLE B",
+            "practice": false
+          },
+          {
+            "number": 16,
+            "start_time_display": "2024-11-09 13:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2024-11-09 15:30:00-08:00",
+            "length": 15,
+            "table_name": "TABLE A",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2024-11-09 10:45:00-08:00",
+            "room_name": "YELLOW POD 1",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "YELLOW POD 1"
+          },
+          {
+            "name": "RED POD 2"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2024-11-09 10:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "62681 - Golden Eagles",
+              "52363 - Terrabytes"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2024-11-09 10:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "67840 - The Submarine SharkBots",
+              "66078 - Pleasanton Piranhas"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2024-11-09 11:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "64706 - Techactrons",
+              "52522 - Aqua Avatars"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2024-11-09 13:00:00-08:00",
+            "length": 30,
+            "rooms": [
+              "65020 - The Golden Huskies",
+              "67287 - Spark Squad"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2024-11-09 13:45:00-08:00",
+            "length": 30,
+            "rooms": [
+              "30518 - Marine Manatees (#30518)",
+              "61282 - The Krusty Crab"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2024-11-09 14:30:00-08:00",
+            "length": 30,
+            "rooms": [
+              "58711 - Arctic Wolves",
+              "61803 - Techeon"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 585,
+        "name": "TABLE A"
+      },
+      {
+        "id": 586,
+        "name": "TABLE B"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2024-11-09 09:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#62681 - Golden Eagles",
+          "#52522 - Aqua Avatars"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2024-11-09 09:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#66078 - Pleasanton Piranhas",
+          "#52363 - Terrabytes"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2024-11-09 09:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#64706 - Techactrons",
+          "#67840 - The Submarine SharkBots"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2024-11-09 10:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#65020 - The Golden Huskies",
+          "#61803 - Techeon"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2024-11-09 10:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61282 - The Krusty Crab",
+          "#67287 - Spark Squad"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2024-11-09 10:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#58711 - Arctic Wolves",
+          "#30518 - Marine Manatees (#30518)"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2024-11-09 10:40:00-08:00",
+        "length": 5,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 8,
+        "start_time": "2024-11-09 10:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#52522 - Aqua Avatars",
+          "#64706 - Techactrons"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 9,
+        "start_time": "2024-11-09 11:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#67287 - Spark Squad",
+          "#65020 - The Golden Huskies"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 10,
+        "start_time": "2024-11-09 11:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61282 - The Krusty Crab",
+          "#30518 - Marine Manatees (#30518)"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2024-11-09 11:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61803 - Techeon",
+          "#58711 - Arctic Wolves"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2024-11-09 11:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#52363 - Terrabytes",
+          "#62681 - Golden Eagles"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2024-11-09 12:00:00-08:00",
+        "length": 10,
+        "tables": [
+          "#66078 - Pleasanton Piranhas",
+          "#67840 - The Submarine SharkBots"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2024-11-09 12:10:00-08:00",
+        "length": 65,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2024-11-09 13:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#58711 - Arctic Wolves",
+          "#61282 - The Krusty Crab"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2024-11-09 13:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#67840 - The Submarine SharkBots",
+          "#62681 - Golden Eagles"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2024-11-09 13:45:00-08:00",
+        "length": 15,
+        "tables": [
+          "#52522 - Aqua Avatars",
+          "#52363 - Terrabytes"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2024-11-09 14:00:00-08:00",
+        "length": 15,
+        "tables": [
+          "#61803 - Techeon",
+          "#67287 - Spark Squad"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2024-11-09 14:15:00-08:00",
+        "length": 15,
+        "tables": [
+          "#64706 - Techactrons",
+          "#66078 - Pleasanton Piranhas"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2024-11-09 14:30:00-08:00",
+        "length": 10,
+        "tables": [
+          "#30518 - Marine Manatees (#30518)",
+          "#65020 - The Golden Huskies"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2024-11-09 14:40:00-08:00",
+        "length": 30,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2024-11-09 15:10:00-08:00",
+        "length": 10,
+        "tables": [
+          "#62681 - Golden Eagles",
+          "#66078 - Pleasanton Piranhas"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2024-11-09 15:20:00-08:00",
+        "length": 10,
+        "tables": [
+          "#52363 - Terrabytes",
+          "#64706 - Techactrons"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2024-11-09 15:30:00-08:00",
+        "length": 15,
+        "tables": [
+          "#67840 - The Submarine SharkBots",
+          "#52522 - Aqua Avatars"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2024-11-09 15:45:00-08:00",
+        "length": 10,
+        "tables": [
+          "#65020 - The Golden Huskies",
+          "#61282 - The Krusty Crab"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2024-11-09 15:55:00-08:00",
+        "length": 10,
+        "tables": [
+          "#67287 - Spark Squad",
+          "#58711 - Arctic Wolves"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2024-11-09 16:05:00-08:00",
+        "length": 10,
+        "tables": [
+          "#30518 - Marine Manatees (#30518)",
+          "#61803 - Techeon"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2024-11-04 02:00:00+00:00",
+    "revision": 2
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    736,
+    645,
+    637,
+    809,
+    879,
+    719,
+    721,
+    786,
+    854,
+    855,
+    793,
+    861
+  ]
+}

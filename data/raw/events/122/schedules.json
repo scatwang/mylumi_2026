@@ -1,0 +1,1343 @@
+{
+  "status": "ok",
+  "schedules": {
+    "match_headers": [
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table",
+      "#",
+      "Time",
+      "Table"
+    ],
+    "judging_area_headers": [
+      "Judging"
+    ],
+    "judging_headers": [
+      "#",
+      "Time",
+      "Room"
+    ],
+    "teams": [
+      {
+        "number": 20975,
+        "name": "FMS Recreational Spring League Team (20975)",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-27 09:10:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-04-27 11:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-04-27 13:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2025-04-27 15:15:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-27 10:00:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 39742,
+        "name": "The Legos",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-27 09:20:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 16,
+            "start_time_display": "2025-04-27 11:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2025-04-27 13:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2025-04-27 15:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-27 10:00:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 47621,
+        "name": "Oreo Pandas",
+        "matches": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-27 09:20:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-04-27 12:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2025-04-27 14:05:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2025-04-27 15:25:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-27 10:50:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 47622,
+        "name": "The Intellects",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-04-27 10:05:00-07:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-04-27 11:20:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-04-27 13:25:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 38,
+            "start_time_display": "2025-04-27 16:15:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-04-27 14:40:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 58665,
+        "name": "Lunatics 2 (Wildcats)",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2025-04-27 10:20:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-04-27 11:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2025-04-27 14:40:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 37,
+            "start_time_display": "2025-04-27 16:05:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-27 13:00:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 58668,
+        "name": "Hyper Technics 2 (Techno Sharks)",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2025-04-27 10:30:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-04-27 13:05:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2025-04-27 14:30:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 37,
+            "start_time_display": "2025-04-27 16:05:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-27 11:40:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 61406,
+        "name": "Quantum Robotics",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-27 09:30:00-07:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 18,
+            "start_time_display": "2025-04-27 12:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 25,
+            "start_time_display": "2025-04-27 13:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 32,
+            "start_time_display": "2025-04-27 15:15:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-27 10:50:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 63308,
+        "name": "I Want Food",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-27 09:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-04-27 11:00:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2025-04-27 14:50:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 38,
+            "start_time_display": "2025-04-27 16:15:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-04-27 13:50:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 63874,
+        "name": "MasterBuilder3",
+        "matches": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-27 09:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-04-27 11:10:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-04-27 13:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 40,
+            "start_time_display": "2025-04-27 16:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-04-27 14:40:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66044,
+        "name": "Red Raptors",
+        "matches": [
+          {
+            "number": 7,
+            "start_time_display": "2025-04-27 10:20:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-04-27 12:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2025-04-27 14:20:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2025-04-27 15:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-27 11:40:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66820,
+        "name": "Leadways FBI",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-04-27 09:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 13,
+            "start_time_display": "2025-04-27 11:20:00-07:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 23,
+            "start_time_display": "2025-04-27 13:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 39,
+            "start_time_display": "2025-04-27 16:25:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 6,
+            "start_time_display": "2025-04-27 14:40:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 66906,
+        "name": "SuperAqua",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2025-04-27 10:40:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 20,
+            "start_time_display": "2025-04-27 13:05:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 27,
+            "start_time_display": "2025-04-27 14:20:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2025-04-27 15:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-27 11:40:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 67645,
+        "name": "Foothill Spring League Team (67645)",
+        "matches": [
+          {
+            "number": 8,
+            "start_time_display": "2025-04-27 10:30:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-04-27 11:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 29,
+            "start_time_display": "2025-04-27 14:40:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 36,
+            "start_time_display": "2025-04-27 15:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-27 13:00:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69015,
+        "name": "Quantum Robotics T2",
+        "matches": [
+          {
+            "number": 9,
+            "start_time_display": "2025-04-27 10:40:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": true
+          },
+          {
+            "number": 14,
+            "start_time_display": "2025-04-27 11:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 28,
+            "start_time_display": "2025-04-27 14:30:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 35,
+            "start_time_display": "2025-04-27 15:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 4,
+            "start_time_display": "2025-04-27 13:00:00-07:00",
+            "room_name": "Yellow Pod 1",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69238,
+        "name": "The Commas",
+        "matches": [
+          {
+            "number": 6,
+            "start_time_display": "2025-04-27 10:05:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 12,
+            "start_time_display": "2025-04-27 11:10:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 30,
+            "start_time_display": "2025-04-27 14:50:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 39,
+            "start_time_display": "2025-04-27 16:25:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-04-27 13:50:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69357,
+        "name": "Foothill Spring League Team (69357)",
+        "matches": [
+          {
+            "number": 3,
+            "start_time_display": "2025-04-27 09:30:00-07:00",
+            "length": 15,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 15,
+            "start_time_display": "2025-04-27 11:45:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 24,
+            "start_time_display": "2025-04-27 13:45:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 33,
+            "start_time_display": "2025-04-27 15:25:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-27 10:00:00-07:00",
+            "room_name": "Red Pod 2",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69751,
+        "name": "Bubby Rules the World",
+        "matches": [
+          {
+            "number": 1,
+            "start_time_display": "2025-04-27 09:10:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 19,
+            "start_time_display": "2025-04-27 12:55:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 26,
+            "start_time_display": "2025-04-27 14:05:00-07:00",
+            "length": 15,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 34,
+            "start_time_display": "2025-04-27 15:35:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 2,
+            "start_time_display": "2025-04-27 10:50:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      },
+      {
+        "number": 69767,
+        "name": "Banned in 49 states",
+        "matches": [
+          {
+            "number": 5,
+            "start_time_display": "2025-04-27 09:55:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": true
+          },
+          {
+            "number": 11,
+            "start_time_display": "2025-04-27 11:00:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          },
+          {
+            "number": 22,
+            "start_time_display": "2025-04-27 13:25:00-07:00",
+            "length": 10,
+            "table_name": "Blue Table",
+            "practice": false
+          },
+          {
+            "number": 40,
+            "start_time_display": "2025-04-27 16:35:00-07:00",
+            "length": 10,
+            "table_name": "Red Table",
+            "practice": false
+          }
+        ],
+        "sessions": [
+          {
+            "number": 5,
+            "start_time_display": "2025-04-27 13:50:00-07:00",
+            "room_name": "Green Pod 3",
+            "length": 30
+          }
+        ]
+      }
+    ],
+    "areas": [
+      {
+        "name": "Judging",
+        "table_header_class": "violet-300",
+        "rooms": [
+          {
+            "name": "Yellow Pod 1"
+          },
+          {
+            "name": "Red Pod 2"
+          },
+          {
+            "name": "Green Pod 3"
+          }
+        ],
+        "sessions": [
+          {
+            "number": 1,
+            "start_time": "2025-04-27 10:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "20975",
+              "69357",
+              "39742"
+            ]
+          },
+          {
+            "number": 2,
+            "start_time": "2025-04-27 10:50:00-07:00",
+            "length": 30,
+            "rooms": [
+              "61406",
+              "47621",
+              "69751"
+            ]
+          },
+          {
+            "number": 3,
+            "start_time": "2025-04-27 11:40:00-07:00",
+            "length": 30,
+            "rooms": [
+              "66044",
+              "66906",
+              "58668"
+            ]
+          },
+          {
+            "number": 4,
+            "start_time": "2025-04-27 13:00:00-07:00",
+            "length": 30,
+            "rooms": [
+              "69015",
+              "67645",
+              "58665"
+            ]
+          },
+          {
+            "number": 5,
+            "start_time": "2025-04-27 13:50:00-07:00",
+            "length": 30,
+            "rooms": [
+              "63308",
+              "69238",
+              "69767"
+            ]
+          },
+          {
+            "number": 6,
+            "start_time": "2025-04-27 14:40:00-07:00",
+            "length": 30,
+            "rooms": [
+              "47622",
+              "66820",
+              "63874"
+            ]
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": 858,
+        "name": "Red Table"
+      },
+      {
+        "id": 859,
+        "name": "Blue Table"
+      }
+    ],
+    "matches": [
+      {
+        "number": 1,
+        "start_time": "2025-04-27 09:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#20975 - FMS Recreational Spring League Team (20975)",
+          "#69751 - Bubby Rules the World"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 2,
+        "start_time": "2025-04-27 09:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#47621 - Oreo Pandas",
+          "#39742 - The Legos"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 3,
+        "start_time": "2025-04-27 09:30:00-07:00",
+        "length": 15,
+        "tables": [
+          "#61406 - Quantum Robotics",
+          "#69357 - Foothill Spring League Team (69357)"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 4,
+        "start_time": "2025-04-27 09:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#63308 - I Want Food",
+          "#63874 - MasterBuilder3"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 5,
+        "start_time": "2025-04-27 09:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66820 - Leadways FBI",
+          "#69767 - Banned in 49 states"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 6,
+        "start_time": "2025-04-27 10:05:00-07:00",
+        "length": 15,
+        "tables": [
+          "#47622 - The Intellects",
+          "#69238 - The Commas"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 7,
+        "start_time": "2025-04-27 10:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66044 - Red Raptors",
+          "#58665 - Lunatics 2 (Wildcats)"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 8,
+        "start_time": "2025-04-27 10:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67645 - Foothill Spring League Team (67645)",
+          "#58668 - Hyper Technics 2 (Techno Sharks)"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 9,
+        "start_time": "2025-04-27 10:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69015 - Quantum Robotics T2",
+          "#66906 - SuperAqua"
+        ],
+        "round": "P",
+        "practice": true
+      },
+      {
+        "number": 10,
+        "start_time": "2025-04-27 10:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 11,
+        "start_time": "2025-04-27 11:00:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69767 - Banned in 49 states",
+          "#63308 - I Want Food"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 12,
+        "start_time": "2025-04-27 11:10:00-07:00",
+        "length": 10,
+        "tables": [
+          "#63874 - MasterBuilder3",
+          "#69238 - The Commas"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 13,
+        "start_time": "2025-04-27 11:20:00-07:00",
+        "length": 15,
+        "tables": [
+          "#66820 - Leadways FBI",
+          "#47622 - The Intellects"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 14,
+        "start_time": "2025-04-27 11:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#58665 - Lunatics 2 (Wildcats)",
+          "#69015 - Quantum Robotics T2"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 15,
+        "start_time": "2025-04-27 11:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#67645 - Foothill Spring League Team (67645)",
+          "#69357 - Foothill Spring League Team (69357)"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 16,
+        "start_time": "2025-04-27 11:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#39742 - The Legos",
+          "#20975 - FMS Recreational Spring League Team (20975)"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 17,
+        "start_time": "2025-04-27 12:05:00-07:00",
+        "length": 40,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 18,
+        "start_time": "2025-04-27 12:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#47621 - Oreo Pandas",
+          "#61406 - Quantum Robotics"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 19,
+        "start_time": "2025-04-27 12:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69751 - Bubby Rules the World",
+          "#66044 - Red Raptors"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 20,
+        "start_time": "2025-04-27 13:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#58668 - Hyper Technics 2 (Techno Sharks)",
+          "#66906 - SuperAqua"
+        ],
+        "round": "1",
+        "practice": false
+      },
+      {
+        "number": 21,
+        "start_time": "2025-04-27 13:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 22,
+        "start_time": "2025-04-27 13:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#47622 - The Intellects",
+          "#69767 - Banned in 49 states"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 23,
+        "start_time": "2025-04-27 13:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#63874 - MasterBuilder3",
+          "#66820 - Leadways FBI"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 24,
+        "start_time": "2025-04-27 13:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69357 - Foothill Spring League Team (69357)",
+          "#20975 - FMS Recreational Spring League Team (20975)"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 25,
+        "start_time": "2025-04-27 13:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#61406 - Quantum Robotics",
+          "#39742 - The Legos"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 26,
+        "start_time": "2025-04-27 14:05:00-07:00",
+        "length": 15,
+        "tables": [
+          "#69751 - Bubby Rules the World",
+          "#47621 - Oreo Pandas"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 27,
+        "start_time": "2025-04-27 14:20:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66906 - SuperAqua",
+          "#66044 - Red Raptors"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 28,
+        "start_time": "2025-04-27 14:30:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69015 - Quantum Robotics T2",
+          "#58668 - Hyper Technics 2 (Techno Sharks)"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 29,
+        "start_time": "2025-04-27 14:40:00-07:00",
+        "length": 10,
+        "tables": [
+          "#58665 - Lunatics 2 (Wildcats)",
+          "#67645 - Foothill Spring League Team (67645)"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 30,
+        "start_time": "2025-04-27 14:50:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69238 - The Commas",
+          "#63308 - I Want Food"
+        ],
+        "round": "2",
+        "practice": false
+      },
+      {
+        "number": 31,
+        "start_time": "2025-04-27 15:00:00-07:00",
+        "length": 15,
+        "tables": [
+          "",
+          ""
+        ],
+        "round": "",
+        "practice": false
+      },
+      {
+        "number": 32,
+        "start_time": "2025-04-27 15:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#20975 - FMS Recreational Spring League Team (20975)",
+          "#61406 - Quantum Robotics"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 33,
+        "start_time": "2025-04-27 15:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69357 - Foothill Spring League Team (69357)",
+          "#47621 - Oreo Pandas"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 34,
+        "start_time": "2025-04-27 15:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#39742 - The Legos",
+          "#69751 - Bubby Rules the World"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 35,
+        "start_time": "2025-04-27 15:45:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66044 - Red Raptors",
+          "#69015 - Quantum Robotics T2"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 36,
+        "start_time": "2025-04-27 15:55:00-07:00",
+        "length": 10,
+        "tables": [
+          "#66906 - SuperAqua",
+          "#67645 - Foothill Spring League Team (67645)"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 37,
+        "start_time": "2025-04-27 16:05:00-07:00",
+        "length": 10,
+        "tables": [
+          "#58668 - Hyper Technics 2 (Techno Sharks)",
+          "#58665 - Lunatics 2 (Wildcats)"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 38,
+        "start_time": "2025-04-27 16:15:00-07:00",
+        "length": 10,
+        "tables": [
+          "#63308 - I Want Food",
+          "#47622 - The Intellects"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 39,
+        "start_time": "2025-04-27 16:25:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69238 - The Commas",
+          "#66820 - Leadways FBI"
+        ],
+        "round": "3",
+        "practice": false
+      },
+      {
+        "number": 40,
+        "start_time": "2025-04-27 16:35:00-07:00",
+        "length": 10,
+        "tables": [
+          "#69767 - Banned in 49 states",
+          "#63874 - MasterBuilder3"
+        ],
+        "round": "3",
+        "practice": false
+      }
+    ]
+  },
+  "schedule_config": {
+    "last_updated": "2025-03-27 03:00:00+00:00",
+    "revision": 1
+  },
+  "season_flags": {
+    "is_fll_challenge": true
+  },
+  "teams_with_results": [
+    1222,
+    1353,
+    1354,
+    1226,
+    1420,
+    1242,
+    1244,
+    1245,
+    1246,
+    1249,
+    1260,
+    1264,
+    1265,
+    1266,
+    1466,
+    1467,
+    1468,
+    1469
+  ]
+}
