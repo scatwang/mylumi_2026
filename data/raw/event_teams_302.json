@@ -1,7 +1,7 @@
 {
   "event_id": 302,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT – The Dorris-Eaton School, San Ramon",
-  "count": 7,
+  "count": 10,
   "teams": [
     {
       "id": 2359,
@@ -52,12 +52,36 @@
       "advancing_wait_list": false
     },
     {
+      "id": 2400,
+      "team": {
+        "id": 2818,
+        "number": 71427,
+        "name": "Shark Masters",
+        "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
       "id": 2351,
       "team": {
         "id": 2828,
         "number": 71771,
         "name": "Quantum Big Macs = Big Backs",
         "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2409,
+      "team": {
+        "id": 2862,
+        "number": 74706,
+        "name": "Hexa-Gears",
+        "city": "Newark",
         "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,
@@ -82,6 +106,18 @@
         "number": 75564,
         "name": "Geometry Dash",
         "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2393,
+      "team": {
+        "id": 2879,
+        "number": 76031,
+        "name": "Builder Bots",
+        "city": "Richmond",
         "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,

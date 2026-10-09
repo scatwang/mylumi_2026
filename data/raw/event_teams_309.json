@@ -1,7 +1,7 @@
 {
   "event_id": 309,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Nueva School, San Mateo",
-  "count": 12,
+  "count": 16,
   "teams": [
     {
       "id": 2273,
@@ -100,6 +100,18 @@
       "advancing_wait_list": false
     },
     {
+      "id": 2404,
+      "team": {
+        "id": 2859,
+        "number": 74094,
+        "name": "Cre8tors",
+        "city": "Milpitas",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
       "id": 2283,
       "team": {
         "id": 2607,
@@ -131,6 +143,42 @@
         "name": "San Mateo Roboteers",
         "city": "San Mateo",
         "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2408,
+      "team": {
+        "id": 2628,
+        "number": 75913,
+        "name": "Technic Tyrants",
+        "city": "San Ramon",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2421,
+      "team": {
+        "id": 2632,
+        "number": 76087,
+        "name": "Photon Forcer",
+        "city": "Los Altos",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2422,
+      "team": {
+        "id": 2954,
+        "number": 76260,
+        "name": "MechaBots",
+        "city": "Sunnyvale",
+        "org_name": "Tessellations School"
       },
       "advancing_to_next_level": false,
       "advancing_wait_list": false

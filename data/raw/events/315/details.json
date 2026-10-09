@@ -1,0 +1,86 @@
+{
+  "id": 315,
+  "name": "2026 NorCal FLL FUTURE BIOGLOW Event - NOV 22 The Play Space, San Jose",
+  "season": "2026 - BIOGLOW (Future 6-8)",
+  "program": "FIRST LEGO League: Future Edition 6-8",
+  "program_abbreviation": "fll68",
+  "description": "",
+  "capacity": 12,
+  "total_registered": 5,
+  "level": {
+    "id": 173,
+    "name": "NorCal FLL Future 6-8 Edition 2026 Event Level",
+    "next_level": null,
+    "previous_levels": [],
+    "registration_opens": "2026-10-08T19:00:00-07:00",
+    "preference_registration_enable": false,
+    "preference_registration_opens": null,
+    "preference_registration_closes": null,
+    "standard_model": true,
+    "season": 115
+  },
+  "event_status": "open",
+  "event_status_display": "Open",
+  "status_v2": "open",
+  "event_day_phase": "check_in",
+  "get_event_day_phase_display": "Check-in / Pre-start",
+  "registered": 5,
+  "total_reserved": 0,
+  "start_time": "2026-11-22T08:00:00-08:00",
+  "end_time": "2026-11-22T18:00:00-08:00",
+  "all_details": [],
+  "downloads": [],
+  "web_links": [],
+  "agenda_group": null,
+  "agenda_items": [],
+  "public_agenda_items": [],
+  "venue": {
+    "name": "The Play Space",
+    "city": "San Jose",
+    "state": "CA",
+    "zip_code": "95131",
+    "website": "https://www.theplayspace.org"
+  },
+  "website": "https://mylumi.playingatlearning.org/en/event/315/",
+  "website_uri": "/en/event/315/",
+  "volunteer_website": "https://mylumi.playingatlearning.org/en/event/315/#volunteer",
+  "team_stats": {
+    "teams": 5,
+    "students": 33,
+    "cities": [
+      "santa clara",
+      "fremont",
+      "san jose",
+      "sunnyvale"
+    ],
+    "rookies": 5
+  },
+  "event_day_visible": false,
+  "season_public": {
+    "id": 115,
+    "info": {
+      "name": "BIOGLOW (Future 6-8)",
+      "year": 2026,
+      "release": "2026-08-01T09:00:00-07:00",
+      "program": {
+        "id": 40,
+        "abbreviation": "fll68",
+        "previous_program": null,
+        "get_abbreviation_display": "FIRST LEGO League: Future Edition 6-8",
+        "get_logo_path": "images/program_logos/fll68_logo.png",
+        "enable_team_profile": true
+      },
+      "season_begins": "2026-04-10",
+      "get_logo_path": "images/season_logos/2026_fll68.png"
+    },
+    "tableau_import_start": "2026-08-24T10:17:00-07:00",
+    "active": true,
+    "jotform": "link",
+    "jotform_url": "https://form.jotform.com/262436936125965?fllTeam={team_number}",
+    "has_team_profile": false
+  },
+  "role_template": null,
+  "timezone": "America/Los_Angeles",
+  "needs_volunteers": false,
+  "is_complete": false
+}

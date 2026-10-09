@@ -1,8 +1,20 @@
 {
   "event_id": 304,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT- SF Day School",
-  "count": 2,
+  "count": 6,
   "teams": [
+    {
+      "id": 2426,
+      "team": {
+        "id": 2719,
+        "number": 56271,
+        "name": "BioClucks",
+        "city": "Albany",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
     {
       "id": 2379,
       "team": {
@@ -11,6 +23,42 @@
         "name": "RoboRise",
         "city": "Foster City",
         "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2399,
+      "team": {
+        "id": 2820,
+        "number": 71480,
+        "name": "Westlake Robotics ",
+        "city": "Oakland",
+        "org_name": "Westlake Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2403,
+      "team": {
+        "id": 2821,
+        "number": 71481,
+        "name": "Westlake Robotics Soar",
+        "city": "Oakland",
+        "org_name": "Westlake Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2425,
+      "team": {
+        "id": 2606,
+        "number": 75446,
+        "name": "St Thomas More",
+        "city": "San Francisco",
+        "org_name": "St Thomas More Elementary School"
       },
       "advancing_to_next_level": false,
       "advancing_wait_list": false

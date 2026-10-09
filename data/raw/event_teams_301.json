@@ -1,7 +1,7 @@
 {
   "event_id": 301,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT – St. Martin of Tours, San Jose",
-  "count": 8,
+  "count": 10,
   "teams": [
     {
       "id": 2290,
@@ -11,6 +11,18 @@
         "name": "Creative Cookies",
         "city": "Hillsborough",
         "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2395,
+      "team": {
+        "id": 2674,
+        "number": 17493,
+        "name": "17493",
+        "city": "Santa Clara",
+        "org_name": "Cabrillo Middle School"
       },
       "advancing_to_next_level": false,
       "advancing_wait_list": false
@@ -95,6 +107,18 @@
         "name": "Team 5@McKinley ",
         "city": "Burlingame",
         "org_name": "Mckinley Elementary"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2419,
+      "team": {
+        "id": 3036,
+        "number": 77162,
+        "name": "Cool Cougars",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,
       "advancing_wait_list": false

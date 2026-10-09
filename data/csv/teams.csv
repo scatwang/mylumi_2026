@@ -1824,3 +1824,12 @@ id,event_id,team_id,team_number,team_name,city,org_name,advancing_to_next_level,
 2260,282,2456,35627,Robotrix,San Jose,Family/Community,False,False
 2259,282,2478,36196,Miners,Mountain View,Family/Community,False,False
 2257,282,2479,36198,Da Cheese,Mountain View,Family/Community,False,False
+2392,315,2926,600072,Master Builders,Santa Clara,"Stratford Middle School, Harker",False,False
+2415,315,2915,600331,RoboNova,Fremont,Family/Community,False,False
+2423,315,2919,600480,Relic Raiders,San Jose,Bret Harte Middle,False,False
+2405,315,2921,600599,Megabytes,San Jose,Family/Community,False,False
+2413,315,2929,600622,WEBBS,Sunnyvale,Family/Community,False,False
+2424,316,2903,600033,CodeBreakerz,San Ramon,Home School,False,False
+2416,316,2912,600225,brick-o-brainiacs pioneers,Tracy,Family/Community,False,False
+2410,316,2991,600367,Brickheads019,Half Moon Bay,Boys & Girls Clubs of America,False,False
+2406,316,2917,600421,Milpitas MechaMinds,Milpitas,"Marshall Pomeroy Elementary, Curtner Elementary",False,False

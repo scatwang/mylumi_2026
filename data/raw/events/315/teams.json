@@ -1,0 +1,65 @@
+{
+  "count": 5,
+  "results": [
+    {
+      "id": 2392,
+      "team": {
+        "id": 2926,
+        "number": 600072,
+        "name": "Master Builders",
+        "city": "Santa Clara",
+        "org_name": "Stratford Middle School, Harker"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2415,
+      "team": {
+        "id": 2915,
+        "number": 600331,
+        "name": "RoboNova",
+        "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2423,
+      "team": {
+        "id": 2919,
+        "number": 600480,
+        "name": "Relic Raiders",
+        "city": "San Jose",
+        "org_name": "Bret Harte Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2405,
+      "team": {
+        "id": 2921,
+        "number": 600599,
+        "name": "Megabytes",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2413,
+      "team": {
+        "id": 2929,
+        "number": 600622,
+        "name": "WEBBS",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    }
+  ]
+}

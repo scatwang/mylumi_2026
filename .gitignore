@@ -24,3 +24,4 @@ ENV/
 *.log
 scratch/
 .system_generated/
+backups/

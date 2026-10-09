@@ -1,7 +1,7 @@
 {
   "event_id": 313,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - BASIS Independent School, Dublin",
-  "count": 8,
+  "count": 9,
   "teams": [
     {
       "id": 2308,
@@ -35,6 +35,18 @@
         "name": "Existential BREAD (65685)",
         "city": "San Leandro",
         "org_name": "Piedmont Makers"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2420,
+      "team": {
+        "id": 2764,
+        "number": 66163,
+        "name": "Dino Nuggets (Ketchup)",
+        "city": "Walnut Creek",
+        "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,
       "advancing_wait_list": false

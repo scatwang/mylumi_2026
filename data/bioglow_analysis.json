@@ -10,7 +10,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 10,
       "start_time": "2026-11-07T08:00:00-08:00",
       "date": "2026-11-07",
       "weekend": 1,
@@ -552,7 +552,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 12,
-      "total_registered": 0,
+      "total_registered": 10,
       "start_time": "2026-11-07T08:00:00-08:00",
       "date": "2026-11-07",
       "weekend": 1,
@@ -833,7 +833,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 5,
       "start_time": "2026-11-14T08:00:00-08:00",
       "date": "2026-11-14",
       "weekend": 2,
@@ -1297,7 +1297,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 9,
       "start_time": "2026-11-14T08:00:00-08:00",
       "date": "2026-11-14",
       "weekend": 2,
@@ -1736,7 +1736,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 15,
       "start_time": "2026-11-14T08:00:00-08:00",
       "date": "2026-11-14",
       "weekend": 2,
@@ -1797,7 +1797,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 16,
       "start_time": "2026-11-14T08:00:00-08:00",
       "date": "2026-11-14",
       "weekend": 2,
@@ -2072,7 +2072,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 6,
       "start_time": "2026-11-14T08:00:00-08:00",
       "date": "2026-11-14",
       "weekend": 2,
@@ -2685,7 +2685,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 12,
-      "total_registered": 0,
+      "total_registered": 11,
       "start_time": "2026-11-15T08:00:00-08:00",
       "date": "2026-11-15",
       "weekend": 2,
@@ -3552,7 +3552,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 16,
       "start_time": "2026-11-15T08:00:00-08:00",
       "date": "2026-11-15",
       "weekend": 2,
@@ -4233,7 +4233,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 5,
       "start_time": "2026-11-15T08:00:00-08:00",
       "date": "2026-11-15",
       "weekend": 2,
@@ -4842,7 +4842,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 6,
       "start_time": "2026-11-15T08:00:00-08:00",
       "date": "2026-11-15",
       "weekend": 2,
@@ -4903,7 +4903,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 6,
       "start_time": "2026-11-21T08:00:00-08:00",
       "date": "2026-11-21",
       "weekend": 3,
@@ -5301,7 +5301,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 17,
       "start_time": "2026-11-21T08:00:00-08:00",
       "date": "2026-11-21",
       "weekend": 3,
@@ -5969,6 +5969,227 @@
       }
     },
     {
+      "id": 316,
+      "name": "2026 NorCal FLL FUTURE BIOGLOW Tournament- St Ignatius College Prep HS",
+      "season": "2026 - BIOGLOW (Future 6-8)",
+      "season_year": 2026,
+      "program_abbreviation": "fll68",
+      "event_status": "open",
+      "capacity": 12,
+      "total_registered": 4,
+      "start_time": "2026-11-21T08:00:00-08:00",
+      "date": "2026-11-21",
+      "weekend": 3,
+      "weekend_label": "Week 3",
+      "venue_id": null,
+      "city": "San Francisco",
+      "region": "San Francisco (旧金山)",
+      "venue_name": "St. Ignatius College Prep",
+      "venue_key": "other_st_ignatius_college_",
+      "address": null,
+      "website_uri": "/en/event/316/",
+      "metrics": {
+        "scored_teams": 0,
+        "max_score": null,
+        "top_team": null,
+        "top3_avg": null,
+        "top5_avg": null,
+        "median_score": null,
+        "mean_score": null,
+        "std_dev": null,
+        "p75_score": null,
+        "p25_score": null,
+        "min_score": null,
+        "advancement_cutoff": null,
+        "advancement_count": 0,
+        "round_averages": [
+          null,
+          null,
+          null
+        ],
+        "distribution": {
+          "<200": 0,
+          "200-299": 0,
+          "300-399": 0,
+          "400+": 0
+        },
+        "scores_list": [],
+        "awards_list": []
+      },
+      "venue_history": {
+        "venue_key": "other_st_ignatius_college_",
+        "historical_event_count": 1,
+        "past_events": [
+          {
+            "id": 185,
+            "name": "2025 NorCal FLL-C:  San Francisco QT at SI Golden Gate",
+            "season": "2025 - UNEARTHED (Challenge)",
+            "season_year": 2025,
+            "date": "2025-11-01",
+            "weekend": 1,
+            "weekend_label": "Week 1",
+            "metrics": {
+              "scored_teams": 7,
+              "max_score": 230.0,
+              "top_team": "#64757 Brain Bot",
+              "top3_avg": 226.7,
+              "top5_avg": 205.0,
+              "median_score": 185.0,
+              "mean_score": 190.0,
+              "std_dev": 36.1,
+              "p75_score": 225.0,
+              "p25_score": 155.0,
+              "min_score": 150.0,
+              "advancement_cutoff": 160.0,
+              "advancement_count": 2,
+              "round_averages": [
+                154.3,
+                163.6,
+                182.9
+              ],
+              "distribution": {
+                "<200": 4,
+                "200-299": 3,
+                "300-399": 0,
+                "400+": 0
+              },
+              "scores_list": [
+                {
+                  "ranking": 1,
+                  "ordinal": "1st",
+                  "team_number": 64757,
+                  "team_name": "Brain Bot",
+                  "highest_score": 230.0,
+                  "round_1": 195.0,
+                  "round_2": 200.0,
+                  "round_3": 230.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 2,
+                  "ordinal": "2nd",
+                  "team_number": 72610,
+                  "team_name": "Lightning Raiders",
+                  "highest_score": 225.0,
+                  "round_1": 215.0,
+                  "round_2": 225.0,
+                  "round_3": 225.0,
+                  "advancing": true,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 3,
+                  "ordinal": "3rd",
+                  "team_number": 61167,
+                  "team_name": "Mighty 'Mine'ons",
+                  "highest_score": 225.0,
+                  "round_1": 205.0,
+                  "round_2": 175.0,
+                  "round_3": 225.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 4,
+                  "ordinal": "4th",
+                  "team_number": 72207,
+                  "team_name": "St. Cecilia Robotics 8th Grade",
+                  "highest_score": 185.0,
+                  "round_1": 135.0,
+                  "round_2": 95.0,
+                  "round_3": 185.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 5,
+                  "ordinal": "5th",
+                  "team_number": 10586,
+                  "team_name": "The Peanut Botters",
+                  "highest_score": 160.0,
+                  "round_1": 100.0,
+                  "round_2": 160.0,
+                  "round_3": 160.0,
+                  "advancing": true,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 6,
+                  "ordinal": "6th",
+                  "team_number": 71805,
+                  "team_name": "Robo Crushers",
+                  "highest_score": 155.0,
+                  "round_1": 115.0,
+                  "round_2": 155.0,
+                  "round_3": 105.0,
+                  "advancing": false,
+                  "waitlist": true
+                },
+                {
+                  "ranking": 7,
+                  "ordinal": "7th",
+                  "team_number": 72979,
+                  "team_name": "St. Cecilia Robotics 2",
+                  "highest_score": 150.0,
+                  "round_1": 115.0,
+                  "round_2": 135.0,
+                  "round_3": 150.0,
+                  "advancing": false,
+                  "waitlist": false
+                }
+              ],
+              "awards_list": [
+                {
+                  "name": "Coach/Mentor Award",
+                  "category": "core",
+                  "team_number": 72207,
+                  "team_name": "St. Cecilia Robotics 8th Grade"
+                },
+                {
+                  "name": "Core Values Award",
+                  "category": "core",
+                  "team_number": 71805,
+                  "team_name": "Robo Crushers"
+                },
+                {
+                  "name": "Innovation Project Award",
+                  "category": "core",
+                  "team_number": 10586,
+                  "team_name": "The Peanut Botters"
+                },
+                {
+                  "name": "Robot Design Award",
+                  "category": "core",
+                  "team_number": 64757,
+                  "team_name": "Brain Bot"
+                },
+                {
+                  "name": "Robot Performance Award",
+                  "category": "core",
+                  "team_number": 64757,
+                  "team_name": "Brain Bot"
+                },
+                {
+                  "name": "Champion's Award",
+                  "category": "core",
+                  "team_number": 72610,
+                  "team_name": "Lightning Raiders"
+                }
+              ]
+            }
+          }
+        ],
+        "benchmark": {
+          "all_time_venue_max": 230.0,
+          "avg_venue_top3": 226.7,
+          "avg_venue_median": 185.0,
+          "avg_advancement_cutoff": 160.0,
+          "last_year_event_id": 185
+        }
+      }
+    },
+    {
       "id": 311,
       "name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
       "season": "2026 - BIOGLOW (Challenge)",
@@ -5976,7 +6197,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 14,
       "start_time": "2026-11-22T08:00:00-08:00",
       "date": "2026-11-22",
       "weekend": 3,
@@ -6246,6 +6467,873 @@
           "avg_venue_median": 275.0,
           "avg_advancement_cutoff": 310.0,
           "last_year_event_id": 188
+        }
+      }
+    },
+    {
+      "id": 315,
+      "name": "2026 NorCal FLL FUTURE BIOGLOW Event - NOV 22 The Play Space, San Jose",
+      "season": "2026 - BIOGLOW (Future 6-8)",
+      "season_year": 2026,
+      "program_abbreviation": "fll68",
+      "event_status": "open",
+      "capacity": 12,
+      "total_registered": 5,
+      "start_time": "2026-11-22T08:00:00-08:00",
+      "date": "2026-11-22",
+      "weekend": 3,
+      "weekend_label": "Week 3",
+      "venue_id": null,
+      "city": "San Jose",
+      "region": "South Bay (南湾)",
+      "venue_name": "The Play Space",
+      "venue_key": "play_space",
+      "address": null,
+      "website_uri": "/en/event/315/",
+      "metrics": {
+        "scored_teams": 0,
+        "max_score": null,
+        "top_team": null,
+        "top3_avg": null,
+        "top5_avg": null,
+        "median_score": null,
+        "mean_score": null,
+        "std_dev": null,
+        "p75_score": null,
+        "p25_score": null,
+        "min_score": null,
+        "advancement_cutoff": null,
+        "advancement_count": 0,
+        "round_averages": [
+          null,
+          null,
+          null
+        ],
+        "distribution": {
+          "<200": 0,
+          "200-299": 0,
+          "300-399": 0,
+          "400+": 0
+        },
+        "scores_list": [],
+        "awards_list": []
+      },
+      "venue_history": {
+        "venue_key": "play_space",
+        "historical_event_count": 6,
+        "past_events": [
+          {
+            "id": 194,
+            "name": "2025 NorCal FLL-C:  San Jose QT at The Play Space 11/9",
+            "season": "2025 - UNEARTHED (Challenge)",
+            "season_year": 2025,
+            "date": "2025-11-09",
+            "weekend": 2,
+            "weekend_label": "Week 2",
+            "metrics": {
+              "scored_teams": 12,
+              "max_score": 330.0,
+              "top_team": "#72433 Blach Unearthed Odyssey",
+              "top3_avg": 291.7,
+              "top5_avg": 279.0,
+              "median_score": 230.0,
+              "mean_score": 222.5,
+              "std_dev": 61.6,
+              "p75_score": 267.5,
+              "p25_score": 167.5,
+              "min_score": 110.0,
+              "advancement_cutoff": 260.0,
+              "advancement_count": 3,
+              "round_averages": [
+                180.8,
+                182.1,
+                202.1
+              ],
+              "distribution": {
+                "<200": 5,
+                "200-299": 6,
+                "300-399": 1,
+                "400+": 0
+              },
+              "scores_list": [
+                {
+                  "ranking": 1,
+                  "ordinal": "1st",
+                  "team_number": 72433,
+                  "team_name": "Blach Unearthed Odyssey",
+                  "highest_score": 330.0,
+                  "round_1": 230.0,
+                  "round_2": 250.0,
+                  "round_3": 330.0,
+                  "advancing": true,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 2,
+                  "ordinal": "2nd",
+                  "team_number": 65018,
+                  "team_name": "Brickbotsfll",
+                  "highest_score": 275.0,
+                  "round_1": 255.0,
+                  "round_2": 245.0,
+                  "round_3": 275.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 3,
+                  "ordinal": "3rd",
+                  "team_number": 30517,
+                  "team_name": "Ice Cream Sundays FLL-C 30517",
+                  "highest_score": 270.0,
+                  "round_1": 270.0,
+                  "round_2": 150.0,
+                  "round_3": 185.0,
+                  "advancing": true,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 4,
+                  "ordinal": "4th",
+                  "team_number": 72104,
+                  "team_name": "Techwiz 2.0",
+                  "highest_score": 260.0,
+                  "round_1": 210.0,
+                  "round_2": 260.0,
+                  "round_3": 245.0,
+                  "advancing": true,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 5,
+                  "ordinal": "5th",
+                  "team_number": 72841,
+                  "team_name": "Haripriya Vangara",
+                  "highest_score": 260.0,
+                  "round_1": 215.0,
+                  "round_2": 175.0,
+                  "round_3": 260.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 6,
+                  "ordinal": "6th",
+                  "team_number": 73984,
+                  "team_name": "PSV C0ders",
+                  "highest_score": 230.0,
+                  "round_1": 145.0,
+                  "round_2": 230.0,
+                  "round_3": 205.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 7,
+                  "ordinal": "7th",
+                  "team_number": 58666,
+                  "team_name": "Allstars Techno Bricks",
+                  "highest_score": 230.0,
+                  "round_1": 170.0,
+                  "round_2": 230.0,
+                  "round_3": 145.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 8,
+                  "ordinal": "8th",
+                  "team_number": 461,
+                  "team_name": "Terminatorz",
+                  "highest_score": 195.0,
+                  "round_1": 160.0,
+                  "round_2": 190.0,
+                  "round_3": 195.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 9,
+                  "ordinal": "9th",
+                  "team_number": 61938,
+                  "team_name": "ZE Gamers",
+                  "highest_score": 190.0,
+                  "round_1": 190.0,
+                  "round_2": 175.0,
+                  "round_3": 190.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 10,
+                  "ordinal": "10th",
+                  "team_number": 73282,
+                  "team_name": "Epsilon Scorpii",
+                  "highest_score": 160.0,
+                  "round_1": 120.0,
+                  "round_2": 160.0,
+                  "round_3": 160.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 11,
+                  "ordinal": "11th",
+                  "team_number": 24392,
+                  "team_name": "Firedragons",
+                  "highest_score": 160.0,
+                  "round_1": 95.0,
+                  "round_2": 30.0,
+                  "round_3": 160.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 12,
+                  "ordinal": "12th",
+                  "team_number": 71504,
+                  "team_name": "Little lego miners",
+                  "highest_score": 110.0,
+                  "round_1": 110.0,
+                  "round_2": 90.0,
+                  "round_3": 75.0,
+                  "advancing": false,
+                  "waitlist": false
+                }
+              ],
+              "awards_list": [
+                {
+                  "name": "Coach/Mentor Award",
+                  "category": "core",
+                  "team_number": 72104,
+                  "team_name": "Techwiz 2.0"
+                },
+                {
+                  "name": "Core Values Award",
+                  "category": "core",
+                  "team_number": 72104,
+                  "team_name": "Techwiz 2.0"
+                },
+                {
+                  "name": "Innovation Project Award",
+                  "category": "core",
+                  "team_number": 30517,
+                  "team_name": "Ice Cream Sundays FLL-C 30517"
+                },
+                {
+                  "name": "Robot Design Award",
+                  "category": "core",
+                  "team_number": 72841,
+                  "team_name": "Haripriya Vangara"
+                },
+                {
+                  "name": "Robot Performance Award",
+                  "category": "core",
+                  "team_number": 72433,
+                  "team_name": "Blach Unearthed Odyssey"
+                },
+                {
+                  "name": "Champion's Award",
+                  "category": "core",
+                  "team_number": 72433,
+                  "team_name": "Blach Unearthed Odyssey"
+                }
+              ]
+            }
+          },
+          {
+            "id": 175,
+            "name": "2025 NorCal FLL-C:  San Jose QT at The Play Space 11/8",
+            "season": "2025 - UNEARTHED (Challenge)",
+            "season_year": 2025,
+            "date": "2025-11-08",
+            "weekend": 2,
+            "weekend_label": "Week 2",
+            "metrics": {
+              "scored_teams": 12,
+              "max_score": 455.0,
+              "top_team": "#68861 Technic Pythons",
+              "top3_avg": 371.7,
+              "top5_avg": 347.0,
+              "median_score": 282.5,
+              "mean_score": 284.2,
+              "std_dev": 83.0,
+              "p75_score": 310.0,
+              "p25_score": 252.5,
+              "min_score": 95.0,
+              "advancement_cutoff": 310.0,
+              "advancement_count": 3,
+              "round_averages": [
+                252.5,
+                229.6,
+                263.3
+              ],
+              "distribution": {
+                "<200": 1,
+                "200-299": 6,
+                "300-399": 4,
+                "400+": 1
+              },
+              "scores_list": [
+                {
+                  "ranking": 1,
+                  "ordinal": "1st",
+                  "team_number": 68861,
+                  "team_name": "Technic Pythons",
+                  "highest_score": 455.0,
+                  "round_1": 445.0,
+                  "round_2": 365.0,
+                  "round_3": 455.0,
+                  "advancing": true,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 2,
+                  "ordinal": "2nd",
+                  "team_number": 72257,
+                  "team_name": "Lego Benders",
+                  "highest_score": 350.0,
+                  "round_1": 350.0,
+                  "round_2": 310.0,
+                  "round_3": 325.0,
+                  "advancing": true,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 3,
+                  "ordinal": "3rd",
+                  "team_number": 71326,
+                  "team_name": "Lightning R7",
+                  "highest_score": 310.0,
+                  "round_1": 285.0,
+                  "round_2": 310.0,
+                  "round_3": 270.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 4,
+                  "ordinal": "4th",
+                  "team_number": 61685,
+                  "team_name": "Union Megatrons",
+                  "highest_score": 310.0,
+                  "round_1": 255.0,
+                  "round_2": 175.0,
+                  "round_3": 310.0,
+                  "advancing": true,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 5,
+                  "ordinal": "5th",
+                  "team_number": 53140,
+                  "team_name": "Fin Finders",
+                  "highest_score": 310.0,
+                  "round_1": 155.0,
+                  "round_2": 165.0,
+                  "round_3": 310.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 6,
+                  "ordinal": "6th",
+                  "team_number": 67841,
+                  "team_name": "The Striker Bots",
+                  "highest_score": 295.0,
+                  "round_1": 295.0,
+                  "round_2": 185.0,
+                  "round_3": 295.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 7,
+                  "ordinal": "7th",
+                  "team_number": 72384,
+                  "team_name": "Kinetic Bots",
+                  "highest_score": 270.0,
+                  "round_1": 270.0,
+                  "round_2": 175.0,
+                  "round_3": 215.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 8,
+                  "ordinal": "8th",
+                  "team_number": 66756,
+                  "team_name": "Cryptobots",
+                  "highest_score": 265.0,
+                  "round_1": 205.0,
+                  "round_2": 235.0,
+                  "round_3": 265.0,
+                  "advancing": false,
+                  "waitlist": true
+                },
+                {
+                  "ranking": 9,
+                  "ordinal": "9th",
+                  "team_number": 68216,
+                  "team_name": "Circuit Breakers",
+                  "highest_score": 260.0,
+                  "round_1": 250.0,
+                  "round_2": 260.0,
+                  "round_3": 165.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 10,
+                  "ordinal": "10th",
+                  "team_number": 67430,
+                  "team_name": "BayBots",
+                  "highest_score": 250.0,
+                  "round_1": 220.0,
+                  "round_2": 250.0,
+                  "round_3": 235.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 11,
+                  "ordinal": "11th",
+                  "team_number": 68726,
+                  "team_name": "Daedalus Bots",
+                  "highest_score": 240.0,
+                  "round_1": 220.0,
+                  "round_2": 230.0,
+                  "round_3": 240.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 12,
+                  "ordinal": "12th",
+                  "team_number": 61932,
+                  "team_name": "BCS Gold Miners",
+                  "highest_score": 95.0,
+                  "round_1": 80.0,
+                  "round_2": 95.0,
+                  "round_3": 75.0,
+                  "advancing": false,
+                  "waitlist": false
+                }
+              ],
+              "awards_list": []
+            }
+          },
+          {
+            "id": 48,
+            "name": "2024 NorCal FLL-C:  San Jose QT at The Play Space 11/9",
+            "season": "2024 - SUBMERGED (Challenge)",
+            "season_year": 2024,
+            "date": "2024-11-09",
+            "weekend": 2,
+            "weekend_label": "Week 2",
+            "metrics": {
+              "scored_teams": 12,
+              "max_score": 365.0,
+              "top_team": "#60069 NINDROIDS",
+              "top3_avg": 311.7,
+              "top5_avg": 289.0,
+              "median_score": 250.0,
+              "mean_score": 234.1,
+              "std_dev": 69.4,
+              "p75_score": 270.0,
+              "p25_score": 195.0,
+              "min_score": 105.0,
+              "advancement_cutoff": 250.0,
+              "advancement_count": 4,
+              "round_averages": [
+                180.5,
+                187.7,
+                209.1
+              ],
+              "distribution": {
+                "<200": 4,
+                "200-299": 5,
+                "300-399": 2,
+                "400+": 0
+              },
+              "scores_list": [
+                {
+                  "ranking": 1,
+                  "ordinal": "1st",
+                  "team_number": 60069,
+                  "team_name": "NINDROIDS",
+                  "highest_score": 365.0,
+                  "round_1": 345.0,
+                  "round_2": 190.0,
+                  "round_3": 365.0,
+                  "advancing": true,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 2,
+                  "ordinal": "2nd",
+                  "team_number": 52305,
+                  "team_name": "Master Oogway",
+                  "highest_score": 300.0,
+                  "round_1": 195.0,
+                  "round_2": 225.0,
+                  "round_3": 300.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 3,
+                  "ordinal": "3rd",
+                  "team_number": 62005,
+                  "team_name": "Lego Legends",
+                  "highest_score": 270.0,
+                  "round_1": 215.0,
+                  "round_2": 250.0,
+                  "round_3": 270.0,
+                  "advancing": true,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 4,
+                  "ordinal": "4th",
+                  "team_number": 66759,
+                  "team_name": "BA Tigers",
+                  "highest_score": 260.0,
+                  "round_1": 160.0,
+                  "round_2": 220.0,
+                  "round_3": 260.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 5,
+                  "ordinal": "5th",
+                  "team_number": 60868,
+                  "team_name": "iBots",
+                  "highest_score": 250.0,
+                  "round_1": 250.0,
+                  "round_2": 250.0,
+                  "round_3": 220.0,
+                  "advancing": true,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 6,
+                  "ordinal": "6th",
+                  "team_number": 65018,
+                  "team_name": "Brickbots",
+                  "highest_score": 250.0,
+                  "round_1": 185.0,
+                  "round_2": 135.0,
+                  "round_3": 250.0,
+                  "advancing": true,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 7,
+                  "ordinal": "7th",
+                  "team_number": 66894,
+                  "team_name": "Oceanic Explorers",
+                  "highest_score": 215.0,
+                  "round_1": 215.0,
+                  "round_2": 185.0,
+                  "round_3": 175.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 8,
+                  "ordinal": "8th",
+                  "team_number": 64757,
+                  "team_name": "Greater Than One",
+                  "highest_score": 195.0,
+                  "round_1": 165.0,
+                  "round_2": 140.0,
+                  "round_3": 195.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 9,
+                  "ordinal": "9th",
+                  "team_number": 66965,
+                  "team_name": "QuestBots",
+                  "highest_score": 195.0,
+                  "round_1": 120.0,
+                  "round_2": 195.0,
+                  "round_3": 155.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 10,
+                  "ordinal": "10th",
+                  "team_number": 66827,
+                  "team_name": "CircuitBreakers",
+                  "highest_score": 170.0,
+                  "round_1": 65.0,
+                  "round_2": 170.0,
+                  "round_3": 50.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 11,
+                  "ordinal": "11th",
+                  "team_number": 461,
+                  "team_name": "Terminatorz",
+                  "highest_score": 105.0,
+                  "round_1": 70.0,
+                  "round_2": 105.0,
+                  "round_3": 60.0,
+                  "advancing": false,
+                  "waitlist": false
+                },
+                {
+                  "ranking": 12,
+                  "ordinal": "12th",
+                  "team_number": 61951,
+                  "team_name": "Lords of the Legos",
+                  "highest_score": 0.0,
+                  "round_1": 0.0,
+                  "round_2": 0.0,
+                  "round_3": 0.0,
+                  "advancing": false,
+                  "waitlist": false
+                }
+              ],
+              "awards_list": [
+                {
+                  "name": "Champion's Award",
+                  "category": "core",
+                  "team_number": 60069,
+                  "team_name": "NINDROIDS"
+                },
+                {
+                  "name": "Robot Performance Award",
+                  "category": "core",
+                  "team_number": 60069,
+                  "team_name": "NINDROIDS"
+                },
+                {
+                  "name": "Robot Design Award",
+                  "category": "core",
+                  "team_number": 65018,
+                  "team_name": "Brickbots"
+                },
+                {
+                  "name": "Innovation Project Award",
+                  "category": "core",
+                  "team_number": 66894,
+                  "team_name": "Oceanic Explorers"
+                },
+                {
+                  "name": "Core Values Award",
+                  "category": "core",
+                  "team_number": 60868,
+                  "team_name": "iBots"
+                },
+                {
+                  "name": "Coach/Mentor Award",
+                  "category": "core",
+                  "team_number": 64757,
+                  "team_name": "Greater Than One"
+                }
+              ]
+            }
+          },
+          {
+            "id": 45,
+            "name": "2024 NorCal FLL-C:  San Jose QT at The Play Space 11/3",
+            "season": "2024 - SUBMERGED (Challenge)",
+            "season_year": 2024,
+            "date": "2024-11-03",
+            "weekend": 1,
+            "weekend_label": "Week 1",
+            "metrics": {
+              "scored_teams": 0,
+              "max_score": null,
+              "top_team": null,
+              "top3_avg": null,
+              "top5_avg": null,
+              "median_score": null,
+              "mean_score": null,
+              "std_dev": null,
+              "p75_score": null,
+              "p25_score": null,
+              "min_score": null,
+              "advancement_cutoff": null,
+              "advancement_count": 0,
+              "round_averages": [
+                null,
+                null,
+                null
+              ],
+              "distribution": {
+                "<200": 0,
+                "200-299": 0,
+                "300-399": 0,
+                "400+": 0
+              },
+              "scores_list": [],
+              "awards_list": []
+            }
+          },
+          {
+            "id": 21,
+            "name": "2023 The Play Space #2",
+            "season": "2023 - MASTERPIECE (Challenge)",
+            "season_year": 2023,
+            "date": "2023-11-19",
+            "weekend": 3,
+            "weekend_label": "Week 3",
+            "metrics": {
+              "scored_teams": 0,
+              "max_score": null,
+              "top_team": null,
+              "top3_avg": null,
+              "top5_avg": null,
+              "median_score": null,
+              "mean_score": null,
+              "std_dev": null,
+              "p75_score": null,
+              "p25_score": null,
+              "min_score": null,
+              "advancement_cutoff": null,
+              "advancement_count": 0,
+              "round_averages": [
+                null,
+                null,
+                null
+              ],
+              "distribution": {
+                "<200": 0,
+                "200-299": 0,
+                "300-399": 0,
+                "400+": 0
+              },
+              "scores_list": [],
+              "awards_list": [
+                {
+                  "name": "Champion's Award",
+                  "category": "core",
+                  "team_number": 61055,
+                  "team_name": "Silent Builders"
+                },
+                {
+                  "name": "Robot Performance Award",
+                  "category": "core",
+                  "team_number": 60914,
+                  "team_name": "TechnoMasters"
+                },
+                {
+                  "name": "Core Values Award",
+                  "category": "core",
+                  "team_number": 62005,
+                  "team_name": "Lego Legends"
+                },
+                {
+                  "name": "Innovation Project Award",
+                  "category": "core",
+                  "team_number": 60914,
+                  "team_name": "TechnoMasters"
+                },
+                {
+                  "name": "Robot Design Award",
+                  "category": "core",
+                  "team_number": 60929,
+                  "team_name": "Chips 'n' Bots"
+                },
+                {
+                  "name": "Coach/Mentor Award",
+                  "category": "core",
+                  "team_number": 62140,
+                  "team_name": "Team St.Anne"
+                }
+              ]
+            }
+          },
+          {
+            "id": 17,
+            "name": "2023 The Play Space #1",
+            "season": "2023 - MASTERPIECE (Challenge)",
+            "season_year": 2023,
+            "date": "2023-11-18",
+            "weekend": 3,
+            "weekend_label": "Week 3",
+            "metrics": {
+              "scored_teams": 0,
+              "max_score": null,
+              "top_team": null,
+              "top3_avg": null,
+              "top5_avg": null,
+              "median_score": null,
+              "mean_score": null,
+              "std_dev": null,
+              "p75_score": null,
+              "p25_score": null,
+              "min_score": null,
+              "advancement_cutoff": null,
+              "advancement_count": 0,
+              "round_averages": [
+                null,
+                null,
+                null
+              ],
+              "distribution": {
+                "<200": 0,
+                "200-299": 0,
+                "300-399": 0,
+                "400+": 0
+              },
+              "scores_list": [],
+              "awards_list": [
+                {
+                  "name": "Champion's Award",
+                  "category": "core",
+                  "team_number": 62296,
+                  "team_name": "In-Vinci-Bots"
+                },
+                {
+                  "name": "Robot Performance Award",
+                  "category": "core",
+                  "team_number": 61333,
+                  "team_name": "DaVinci Coders"
+                },
+                {
+                  "name": "Robot Design Award",
+                  "category": "core",
+                  "team_number": 61333,
+                  "team_name": "DaVinci Coders"
+                },
+                {
+                  "name": "Innovation Project Award",
+                  "category": "core",
+                  "team_number": 61138,
+                  "team_name": "Golden Musicians"
+                },
+                {
+                  "name": "Core Values Award",
+                  "category": "core",
+                  "team_number": 62229,
+                  "team_name": "LegoLegends"
+                },
+                {
+                  "name": "Coach/Mentor Award",
+                  "category": "core",
+                  "team_number": 61334,
+                  "team_name": "Manu Srinivasan"
+                }
+              ]
+            }
+          }
+        ],
+        "benchmark": {
+          "all_time_venue_max": 455.0,
+          "avg_venue_top3": 325.0,
+          "avg_venue_median": 254.2,
+          "avg_advancement_cutoff": 273.3,
+          "last_year_event_id": 194
         }
       }
     }
@@ -41815,7 +42903,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 10,
       "start_time": "2026-11-07T08:00:00-08:00",
       "date": "2026-11-07",
       "weekend": 1,
@@ -42357,7 +43445,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 12,
-      "total_registered": 0,
+      "total_registered": 10,
       "start_time": "2026-11-07T08:00:00-08:00",
       "date": "2026-11-07",
       "weekend": 1,
@@ -42638,7 +43726,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 5,
       "start_time": "2026-11-14T08:00:00-08:00",
       "date": "2026-11-14",
       "weekend": 2,
@@ -43102,7 +44190,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 6,
       "start_time": "2026-11-14T08:00:00-08:00",
       "date": "2026-11-14",
       "weekend": 2,
@@ -43715,7 +44803,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 16,
       "start_time": "2026-11-14T08:00:00-08:00",
       "date": "2026-11-14",
       "weekend": 2,
@@ -43990,7 +45078,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 15,
       "start_time": "2026-11-14T08:00:00-08:00",
       "date": "2026-11-14",
       "weekend": 2,
@@ -44051,7 +45139,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 9,
       "start_time": "2026-11-14T08:00:00-08:00",
       "date": "2026-11-14",
       "weekend": 2,
@@ -44490,7 +45578,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 6,
       "start_time": "2026-11-15T08:00:00-08:00",
       "date": "2026-11-15",
       "weekend": 2,
@@ -44551,7 +45639,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 12,
-      "total_registered": 0,
+      "total_registered": 11,
       "start_time": "2026-11-15T08:00:00-08:00",
       "date": "2026-11-15",
       "weekend": 2,
@@ -45418,7 +46506,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 16,
       "start_time": "2026-11-15T08:00:00-08:00",
       "date": "2026-11-15",
       "weekend": 2,
@@ -46099,7 +47187,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 5,
       "start_time": "2026-11-15T08:00:00-08:00",
       "date": "2026-11-15",
       "weekend": 2,
@@ -46708,7 +47796,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 17,
       "start_time": "2026-11-21T08:00:00-08:00",
       "date": "2026-11-21",
       "weekend": 3,
@@ -47383,7 +48471,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 6,
       "start_time": "2026-11-21T08:00:00-08:00",
       "date": "2026-11-21",
       "weekend": 3,
@@ -47781,7 +48869,7 @@
       "program_abbreviation": "fll_challenge",
       "event_status": "open",
       "capacity": 18,
-      "total_registered": 0,
+      "total_registered": 14,
       "start_time": "2026-11-22T08:00:00-08:00",
       "date": "2026-11-22",
       "weekend": 3,

@@ -1,15 +1,47 @@
 [
   {
+    "id": 315,
+    "name": "2026 NorCal FLL FUTURE BIOGLOW Event - NOV 22 The Play Space, San Jose",
+    "season": "2026 - BIOGLOW (Future 6-8)",
+    "program": "FIRST LEGO League: Future Edition 6-8",
+    "program_abbreviation": "fll68",
+    "capacity": 12,
+    "total_registered": 5,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "open",
+    "start_time": "2026-11-22T08:00:00-08:00",
+    "end_time": "2026-11-22T18:00:00-08:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/315/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Future 6-8)",
+        "get_logo_path": "images/season_logos/2026_fll68.png",
+        "program": {
+          "abbreviation": "fll68",
+          "get_logo_path": "images/program_logos/fll68_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
     "id": 311,
-    "name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
     "season": "2026 - BIOGLOW (Challenge)",
     "program": "FIRST LEGO League: Challenge",
     "program_abbreviation": "fll_challenge",
     "capacity": 18,
-    "total_registered": 0,
+    "total_registered": 15,
     "event_status": "open",
     "event_status_display": "Open",
-    "status_v2": "preference-open",
+    "status_v2": "open",
     "start_time": "2026-11-22T08:00:00-08:00",
     "end_time": "2026-11-22T18:00:00-08:00",
     "venue": {
@@ -32,16 +64,48 @@
     "timezone": "America/Los_Angeles"
   },
   {
+    "id": 316,
+    "name": "2026 NorCal FLL FUTURE BIOGLOW Tournament- St Ignatius College Prep HS",
+    "season": "2026 - BIOGLOW (Future 6-8)",
+    "program": "FIRST LEGO League: Future Edition 6-8",
+    "program_abbreviation": "fll68",
+    "capacity": 12,
+    "total_registered": 4,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "open",
+    "start_time": "2026-11-21T08:00:00-08:00",
+    "end_time": "2026-11-21T18:00:00-08:00",
+    "venue": {
+      "id": 81,
+      "city": "San Francisco"
+    },
+    "website_uri": "/en/event/316/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Future 6-8)",
+        "get_logo_path": "images/season_logos/2026_fll68.png",
+        "program": {
+          "abbreviation": "fll68",
+          "get_logo_path": "images/program_logos/fll68_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
     "id": 312,
     "name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
     "season": "2026 - BIOGLOW (Challenge)",
     "program": "FIRST LEGO League: Challenge",
     "program_abbreviation": "fll_challenge",
     "capacity": 18,
-    "total_registered": 0,
+    "total_registered": 9,
     "event_status": "open",
     "event_status_display": "Open",
-    "status_v2": "preference-open",
+    "status_v2": "open",
     "start_time": "2026-11-21T08:00:00-08:00",
     "end_time": "2026-11-21T18:00:00-08:00",
     "venue": {
@@ -70,10 +134,10 @@
     "program": "FIRST LEGO League: Challenge",
     "program_abbreviation": "fll_challenge",
     "capacity": 18,
-    "total_registered": 0,
+    "total_registered": 17,
     "event_status": "open",
     "event_status_display": "Open",
-    "status_v2": "preference-open",
+    "status_v2": "open",
     "start_time": "2026-11-21T08:00:00-08:00",
     "end_time": "2026-11-21T18:00:00-08:00",
     "venue": {
@@ -102,10 +166,10 @@
     "program": "FIRST LEGO League: Challenge",
     "program_abbreviation": "fll_challenge",
     "capacity": 18,
-    "total_registered": 0,
+    "total_registered": 6,
     "event_status": "open",
     "event_status_display": "Open",
-    "status_v2": "preference-open",
+    "status_v2": "open",
     "start_time": "2026-11-15T08:00:00-08:00",
     "end_time": "2026-11-15T18:00:00-08:00",
     "venue": {
@@ -128,48 +192,16 @@
     "timezone": "America/Los_Angeles"
   },
   {
-    "id": 308,
-    "name": "2026 NorCal FLL Challenge BIOGLOW QT - NOV 15 The Play Space, San Jose",
-    "season": "2026 - BIOGLOW (Challenge)",
-    "program": "FIRST LEGO League: Challenge",
-    "program_abbreviation": "fll_challenge",
-    "capacity": 12,
-    "total_registered": 0,
-    "event_status": "open",
-    "event_status_display": "Open",
-    "status_v2": "preference-open",
-    "start_time": "2026-11-15T08:00:00-08:00",
-    "end_time": "2026-11-15T18:00:00-08:00",
-    "venue": {
-      "id": 17,
-      "city": "San Jose"
-    },
-    "website_uri": "/en/event/308/",
-    "event_day_visible": false,
-    "season_public": {
-      "info": {
-        "year": 2026,
-        "name": "BIOGLOW (Challenge)",
-        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
-        "program": {
-          "abbreviation": "fll_challenge",
-          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
-        }
-      }
-    },
-    "timezone": "America/Los_Angeles"
-  },
-  {
     "id": 307,
     "name": "2026 NorCal FLL Challenge BIOGLOW QT- SF Town School for Boys",
     "season": "2026 - BIOGLOW (Challenge)",
     "program": "FIRST LEGO League: Challenge",
     "program_abbreviation": "fll_challenge",
     "capacity": 18,
-    "total_registered": 0,
+    "total_registered": 12,
     "event_status": "open",
     "event_status_display": "Open",
-    "status_v2": "preference-open",
+    "status_v2": "open",
     "start_time": "2026-11-15T08:00:00-08:00",
     "end_time": "2026-11-15T18:00:00-08:00",
     "venue": null,
@@ -195,14 +227,46 @@
     "program": "FIRST LEGO League: Challenge",
     "program_abbreviation": "fll_challenge",
     "capacity": 18,
-    "total_registered": 0,
+    "total_registered": 16,
     "event_status": "open",
     "event_status_display": "Open",
-    "status_v2": "preference-open",
+    "status_v2": "open",
     "start_time": "2026-11-15T08:00:00-08:00",
     "end_time": "2026-11-15T18:00:00-08:00",
     "venue": null,
     "website_uri": "/en/event/309/",
+    "event_day_visible": false,
+    "season_public": {
+      "info": {
+        "year": 2026,
+        "name": "BIOGLOW (Challenge)",
+        "get_logo_path": "images/season_logos/2026_fll_challenge.png",
+        "program": {
+          "abbreviation": "fll_challenge",
+          "get_logo_path": "images/program_logos/fll_challenge_logo.png"
+        }
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": 308,
+    "name": "2026 NorCal FLL Challenge BIOGLOW QT - NOV 15 The Play Space, San Jose",
+    "season": "2026 - BIOGLOW (Challenge)",
+    "program": "FIRST LEGO League: Challenge",
+    "program_abbreviation": "fll_challenge",
+    "capacity": 12,
+    "total_registered": 12,
+    "event_status": "open",
+    "event_status_display": "Open",
+    "status_v2": "open",
+    "start_time": "2026-11-15T08:00:00-08:00",
+    "end_time": "2026-11-15T18:00:00-08:00",
+    "venue": {
+      "id": 17,
+      "city": "San Jose"
+    },
+    "website_uri": "/en/event/308/",
     "event_day_visible": false,
     "season_public": {
       "info": {
@@ -224,10 +288,10 @@
     "program": "FIRST LEGO League: Challenge",
     "program_abbreviation": "fll_challenge",
     "capacity": 18,
-    "total_registered": 0,
+    "total_registered": 9,
     "event_status": "open",
     "event_status_display": "Open",
-    "status_v2": "preference-open",
+    "status_v2": "open",
     "start_time": "2026-11-14T08:00:00-08:00",
     "end_time": "2026-11-14T18:00:00-08:00",
     "venue": null,
@@ -253,10 +317,10 @@
     "program": "FIRST LEGO League: Challenge",
     "program_abbreviation": "fll_challenge",
     "capacity": 18,
-    "total_registered": 0,
+    "total_registered": 5,
     "event_status": "open",
     "event_status_display": "Open",
-    "status_v2": "preference-open",
+    "status_v2": "open",
     "start_time": "2026-11-14T08:00:00-08:00",
     "end_time": "2026-11-14T18:00:00-08:00",
     "venue": {
@@ -285,10 +349,10 @@
     "program": "FIRST LEGO League: Challenge",
     "program_abbreviation": "fll_challenge",
     "capacity": 18,
-    "total_registered": 0,
+    "total_registered": 18,
     "event_status": "open",
     "event_status_display": "Open",
-    "status_v2": "preference-open",
+    "status_v2": "open",
     "start_time": "2026-11-14T08:00:00-08:00",
     "end_time": "2026-11-14T18:00:00-08:00",
     "venue": {
@@ -317,10 +381,10 @@
     "program": "FIRST LEGO League: Challenge",
     "program_abbreviation": "fll_challenge",
     "capacity": 18,
-    "total_registered": 0,
+    "total_registered": 15,
     "event_status": "open",
     "event_status_display": "Open",
-    "status_v2": "preference-open",
+    "status_v2": "open",
     "start_time": "2026-11-14T08:00:00-08:00",
     "end_time": "2026-11-14T18:00:00-08:00",
     "venue": null,
@@ -346,10 +410,10 @@
     "program": "FIRST LEGO League: Challenge",
     "program_abbreviation": "fll_challenge",
     "capacity": 18,
-    "total_registered": 0,
+    "total_registered": 13,
     "event_status": "open",
     "event_status_display": "Open",
-    "status_v2": "preference-open",
+    "status_v2": "open",
     "start_time": "2026-11-14T08:00:00-08:00",
     "end_time": "2026-11-14T18:00:00-08:00",
     "venue": {
@@ -378,10 +442,10 @@
     "program": "FIRST LEGO League: Challenge",
     "program_abbreviation": "fll_challenge",
     "capacity": 18,
-    "total_registered": 0,
+    "total_registered": 12,
     "event_status": "open",
     "event_status_display": "Open",
-    "status_v2": "preference-open",
+    "status_v2": "open",
     "start_time": "2026-11-07T08:00:00-08:00",
     "end_time": "2026-11-07T18:00:00-08:00",
     "venue": {
@@ -410,10 +474,10 @@
     "program": "FIRST LEGO League: Challenge",
     "program_abbreviation": "fll_challenge",
     "capacity": 12,
-    "total_registered": 0,
+    "total_registered": 10,
     "event_status": "open",
     "event_status_display": "Open",
-    "status_v2": "preference-open",
+    "status_v2": "open",
     "start_time": "2026-11-07T08:00:00-08:00",
     "end_time": "2026-11-07T18:00:00-08:00",
     "venue": {

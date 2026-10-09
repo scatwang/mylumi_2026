@@ -1,7 +1,7 @@
 {
   "event_id": 303,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT -  Beyer High School, Modesto",
-  "count": 4,
+  "count": 5,
   "teams": [
     {
       "id": 2378,
@@ -34,6 +34,18 @@
         "number": 61139,
         "name": "Lightning Squad",
         "city": "Folsom",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2414,
+      "team": {
+        "id": 2781,
+        "number": 68040,
+        "name": "MH Quantum",
+        "city": "Mountain House",
         "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,

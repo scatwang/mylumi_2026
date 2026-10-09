@@ -1,7 +1,7 @@
 {
   "event_id": 310,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Gunn High School, Palo Alto",
-  "count": 12,
+  "count": 17,
   "teams": [
     {
       "id": 2353,
@@ -40,6 +40,18 @@
       "advancing_wait_list": false
     },
     {
+      "id": 2417,
+      "team": {
+        "id": 2783,
+        "number": 68575,
+        "name": "Titan-Botics",
+        "city": "San Jose",
+        "org_name": "Santa Teresa Elementary, Stratford School - San Jose, Thornton Middle School, Patterson Elementary School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
       "id": 2312,
       "team": {
         "id": 2789,
@@ -70,6 +82,18 @@
         "number": 71606,
         "name": "Lego Legends",
         "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2427,
+      "team": {
+        "id": 2837,
+        "number": 72540,
+        "name": "Brickers",
+        "city": "San Jose",
         "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,
@@ -143,6 +167,42 @@
         "name": "PentaBotz1",
         "city": "El Dorado Hills",
         "org_name": "Sutter Middle, Winston Churchill Middle"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2407,
+      "team": {
+        "id": 3028,
+        "number": 76254,
+        "name": "Chocolate Frogs",
+        "city": "Cupertino",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2401,
+      "team": {
+        "id": 2654,
+        "number": 76717,
+        "name": "Sapphire",
+        "city": "Santa Clara",
+        "org_name": "Stratford School - Santa Clara Pomeroy"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2396,
+      "team": {
+        "id": 2964,
+        "number": 77156,
+        "name": "Gear Grinders",
+        "city": "Sunnyvale",
+        "org_name": "Stratford Middle School"
       },
       "advancing_to_next_level": false,
       "advancing_wait_list": false

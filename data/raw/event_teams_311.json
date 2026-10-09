@@ -1,7 +1,7 @@
 {
   "event_id": 311,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
-  "count": 12,
+  "count": 14,
   "teams": [
     {
       "id": 2361,
@@ -35,6 +35,18 @@
         "name": "W Robotics",
         "city": "Cupertino",
         "org_name": "Leadways School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2397,
+      "team": {
+        "id": 2798,
+        "number": 71232,
+        "name": "Aura100%",
+        "city": "San Jose",
+        "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,
       "advancing_wait_list": false
@@ -129,6 +141,18 @@
         "id": 2625,
         "number": 75834,
         "name": "HexForge",
+        "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2402,
+      "team": {
+        "id": 2646,
+        "number": 76308,
+        "name": "Eco Explorers",
         "city": "San Jose",
         "org_name": "Family/Community"
       },
