@@ -188,7 +188,7 @@
 
 > **数据整合来源**: 关联以往官方赛事库 (`data/mylumi.db` 中 `events`, `scores`, `awards`, `event_teams` 表)
 
-- **历史参赛战队覆盖率**: **227 支 / 519 支 (43.74%)** 拥有官方参赛记录。
+- **历史参赛战队覆盖率**: **256 支 / 519 支 (49.33%)** 拥有官方参赛记录。
 
 - **机器人比赛得分记录**: **204 支 (39.31%)** 记录有真实对战最高分。
 
@@ -203,9 +203,9 @@
 
 | 资历梯队 (Tier) | 队伍数量 | 占比 | 梯队特征描述 |
 | :--- | :---: | :---: | :--- |
-| **Rookie (新队伍)** | 292 队 | **56.26%** | 今年新注册或首次加入 MyLumi 系统的初生战队 |
-| **Veteran (老牌强队)** | 145 队 | **27.94%** | 跨多赛季参赛、晋级过 Championship 或斩获多项大奖的老牌王者 |
-| **Experienced (有参赛经验)** | 82 队 | **15.8%** | 参加过往届赛事，具备完整正赛与机器人调试经验 |
+| **Rookie (新队伍)** | 263 队 | **50.67%** | 今年新注册或首次加入 MyLumi 系统的初生战队 |
+| **Veteran (老牌强队)** | 167 队 | **32.18%** | 跨多赛季参赛、晋级过 Championship 或斩获多项大奖的老牌王者 |
+| **Experienced (有参赛经验)** | 89 队 | **17.15%** | 参加过往届赛事，具备完整正赛与机器人调试经验 |
 
 
 ### 8.2 历史战绩得分实力梯队 (Score Tier)
@@ -223,20 +223,20 @@
 
 | 排名 | 队号 | 队伍名称 | 城市 (大区域) | 生涯最高分 | 历史平均分 | 历史最佳排名 | 累计奖项 | 晋级次数 | 参赛赛季 |
 | :---: | :---: | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| 1 | `#64638` | **Brain Bots** | San Jose (南湾) | **540.0** | 480.0 | 第 1 名 | 🏆 11 | 🚀 2 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge) |
-| 2 | `#60085` | **Lego Artisans** | Cupertino (南湾) | **515.0** | 420.0 | 第 1 名 | 🏆 6 | 🚀 2 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge) |
-| 3 | `#60868` | **iBots** | San Jose (南湾) | **515.0** | 379.0 | 第 1 名 | 🏆 14 | 🚀 3 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge) |
-| 4 | `#17494` | **17494** | Santa Clara (南湾) | **505.0** | 395.0 | 第 1 名 | 🏆 1 | 🚀 0 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge) |
-| 5 | `#65258` | **CrypticButterflies** | San Jose (南湾) | **485.0** | 417.5 | 第 1 名 | 🏆 2 | 🚀 1 | 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge) |
-| 6 | `#71606` | **Lego Legends** | Fremont (东湾) | **480.0** | 450.0 | 第 2 名 | 🏆 0 | 🚀 1 | 2025 - UNEARTHED (Challenge) |
-| 7 | `#72905` | **Argo Cosmos** | Saratoga (南湾) | **470.0** | 435.0 | 第 3 名 | 🏆 1 | 🚀 1 | 2025 - UNEARTHED (Challenge) |
+| 1 | `#64638` | **Brain Bots** | San Jose (南湾) | **540.0** | 480.0 | 第 1 名 | 🏆 11 | 🚀 2 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
+| 2 | `#60085` | **Lego Artisans** | Cupertino (南湾) | **515.0** | 420.0 | 第 1 名 | 🏆 6 | 🚀 2 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
+| 3 | `#60868` | **iBots** | San Jose (南湾) | **515.0** | 379.0 | 第 1 名 | 🏆 14 | 🚀 3 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
+| 4 | `#17494` | **17494** | Santa Clara (南湾) | **505.0** | 395.0 | 第 1 名 | 🏆 1 | 🚀 0 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
+| 5 | `#65258` | **CrypticButterflies** | San Jose (南湾) | **485.0** | 417.5 | 第 1 名 | 🏆 2 | 🚀 1 | 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
+| 6 | `#71606` | **Lego Legends** | Fremont (东湾) | **480.0** | 450.0 | 第 2 名 | 🏆 0 | 🚀 1 | 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
+| 7 | `#72905` | **Argo Cosmos** | Saratoga (南湾) | **470.0** | 435.0 | 第 3 名 | 🏆 1 | 🚀 1 | 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
 | 8 | `#52561` | **Brilliant Beavers** | San Carlos (半岛与旧金山) | **465.0** | 295.0 | 第 1 名 | 🏆 1 | 🚀 1 | 2023 - MASTERPIECE (Challenge), 2025 - UNEARTHED (Challenge) |
 | 9 | `#68040` | **MH Quantum** | Mountain House (首府圈与中谷) | **465.0** | 232.5 | 第 1 名 | 🏆 1 | 🚀 0 | 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge) |
-| 10 | `#48793` | **Mountain House** | Mountain House (首府圈与中谷) | **455.0** | 319.0 | 第 2 名 | 🏆 4 | 🚀 3 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge) |
-| 11 | `#52363` | **TerraBytes** | San Jose (南湾) | **450.0** | 306.2 | 第 4 名 | 🏆 2 | 🚀 1 | 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge) |
+| 10 | `#48793` | **Mountain House** | Mountain House (首府圈与中谷) | **455.0** | 319.0 | 第 2 名 | 🏆 4 | 🚀 3 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
+| 11 | `#52363` | **TerraBytes** | San Jose (南湾) | **450.0** | 306.2 | 第 4 名 | 🏆 2 | 🚀 1 | 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
 | 12 | `#71232` | **Aura100%** | San Jose (南湾) | **440.0** | 410.0 | 第 1 名 | 🏆 1 | 🚀 1 | 2025 - UNEARTHED (Challenge) |
 | 13 | `#71804` | **Astrobot** | Mountain House (首府圈与中谷) | **440.0** | 440.0 | 第 1 名 | 🏆 0 | 🚀 0 | 2025 - UNEARTHED (Challenge) |
-| 14 | `#57382` | **RoboRise** | Foster City (半岛与旧金山) | **435.0** | 365.0 | 第 5 名 | 🏆 3 | 🚀 2 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge) |
+| 14 | `#57382` | **RoboRise** | Foster City (半岛与旧金山) | **435.0** | 365.0 | 第 5 名 | 🏆 3 | 🚀 2 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
 | 15 | `#44532` | **FLL-C 44532** | Piedmont (东湾) | **430.0** | 305.0 | 第 4 名 | 🏆 4 | 🚀 1 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge) |
 
 
@@ -260,9 +260,9 @@
 
 | 队伍资历梯队 | 队伍总数 | 全部就绪队伍 (Good) | 完全就绪率 (Readiness) | 深度洞察 |
 | :--- | :---: | :---: | :---: | :--- |
-| **Veteran (老牌强队)** | 145 | 88 | **60.69%** | 老牌队伍流程轻车熟路，教练指纹背景常驻有效，就绪率显著高于平均 |
-| **Experienced (有经验)** | 82 | 40 | **48.78%** | 中坚队伍就绪度平稳 |
-| **Rookie (新队伍)** | 292 | 50 | **17.12%** | 新手队伍大幅拖累整体就绪率，主要卡在加州指纹预约与队员邀请 |
+| **Veteran (老牌强队)** | 167 | 110 | **65.87%** | 老牌队伍流程轻车熟路，教练指纹背景常驻有效，就绪率显著高于平均 |
+| **Experienced (有经验)** | 89 | 44 | **49.44%** | 中坚队伍就绪度平稳 |
+| **Rookie (新队伍)** | 263 | 24 | **9.13%** | 新手队伍大幅拖累整体就绪率，主要卡在加州指纹预约与队员邀请 |
 
 
 ## 9. 给参赛队伍与组委会的行动建议 (Actionable Insights)

@@ -179,7 +179,32 @@ def build_team_history(team_num, current_name, events_map, scores_by_team, award
     # Sort events by date desc
     event_history_details.sort(key=lambda x: x["date"], reverse=True)
 
-    # Classifications
+    # Classifications & Power Score
+    champions_count = sum(1 for a in aw_list if "champion" in (a.get("award_name") or "").lower())
+    core_awards_count = sum(1 for a in aw_list if a.get("category") == "core" and "champion" not in (a.get("award_name") or "").lower())
+    other_awards_count = sum(1 for a in aw_list if a.get("category") != "core" and "champion" not in (a.get("award_name") or "").lower())
+
+    # Power score calculation (0 to 100)
+    score_component = min(35.0, (max_score / 540.0) * 35.0) if max_score else 0.0
+    avg_component = min(15.0, (avg_score / 450.0) * 15.0) if avg_score else 0.0
+    champ_component = min(25.0, champions_count * 12.5)
+    award_component = min(12.0, (core_awards_count * 3.5) + (other_awards_count * 1.0))
+    adv_component = min(8.0, adv_count * 3.0) + (2.0 if has_champ else 0.0)
+    exp_component = min(3.0, (len(seasons) * 0.8) + (len(event_ids) * 0.3))
+    power_score = round(min(100.0, score_component + avg_component + champ_component + award_component + adv_component + exp_component), 1)
+
+    # Tier assignment
+    if power_score >= 65 or champions_count >= 2 or (champions_count >= 1 and (max_score or 0) >= 420) or ((max_score or 0) >= 500 and adv_count >= 2):
+        tier = "Tier S (霸主/夺冠热门)"
+    elif power_score >= 45 or champions_count >= 1 or (max_score or 0) >= 380 or adv_count >= 2 or ((max_score or 0) >= 320 and len(seasons) >= 2):
+        tier = "Tier A (种子强队/劲旅)"
+    elif power_score >= 25 or (max_score or 0) >= 240 or len(seasons) >= 2 or adv_count >= 1:
+        tier = "Tier B (中坚力量/资深)"
+    elif power_score > 0 or max_score is not None:
+        tier = "Tier C (成长中队伍/新锐)"
+    else:
+        tier = "Rookie (新队伍/待赛)"
+
     if not has_history:
         exp_tier = "Rookie (新队伍)"
         score_tier = "暂无历史成绩"
@@ -233,6 +258,10 @@ def build_team_history(team_num, current_name, events_map, scores_by_team, award
         "best_ranking": best_rank,
         "score_records_count": len(sc_list),
         "awards_count": len(aw_list),
+        "champions_count": champions_count,
+        "core_awards_count": core_awards_count,
+        "power_score": power_score,
+        "tier": tier,
         "awards": awards_details,
         "advancements_count": adv_count,
         "has_championship": has_champ,
@@ -264,6 +293,8 @@ def update_database_and_files():
         hist = build_team_history(num, name, events_map, scores_by_team, awards_by_team, event_teams_by_team, historical_names_by_team)
         t["history"] = hist
         t["past_names"] = hist["past_names"]
+        t["power_score"] = hist["power_score"]
+        t["tier"] = hist["tier"]
         if hist["has_history"]:
             matched_teams_count += 1
         if hist["max_score"] is not None:
@@ -299,6 +330,8 @@ def update_database_and_files():
         ("history_has_championship", "INTEGER DEFAULT 0"),
         ("history_experience_tier", "TEXT"),
         ("history_score_tier", "TEXT"),
+        ("power_score", "REAL DEFAULT 0"),
+        ("tier", "TEXT"),
         ("history_json", "TEXT"),
     ]
 
@@ -326,6 +359,8 @@ def update_database_and_files():
                 history_has_championship = ?,
                 history_experience_tier = ?,
                 history_score_tier = ?,
+                power_score = ?,
+                tier = ?,
                 history_json = ?
             WHERE number = ?
         """, (
@@ -341,6 +376,8 @@ def update_database_and_files():
             1 if h["has_championship"] else 0,
             h["experience_tier"],
             h["score_tier"],
+            h["power_score"],
+            h["tier"],
             json.dumps(h, ensure_ascii=False),
             t["number"]
         ))
@@ -350,6 +387,24 @@ def update_database_and_files():
 
     # 3. Update CSV
     update_csv(teams)
+
+    # 4. Refresh web/teams_data.js
+    web_dir = ROOT_DIR / "web"
+    if web_dir.exists():
+        teams_js_path = web_dir / "teams_data.js"
+        # Load existing analysis if available
+        analysis_data = {}
+        analysis_json = ROOT_DIR / "data" / "public_teams_analysis.json"
+        if analysis_json.exists():
+            try:
+                with open(analysis_json, "r", encoding="utf-8") as f:
+                    analysis_data = json.load(f)
+            except Exception:
+                pass
+        with open(teams_js_path, "w", encoding="utf-8") as f:
+            f.write("window.PUBLIC_TEAMS_ANALYSIS = " + json.dumps(analysis_data, ensure_ascii=False) + ";\n")
+            f.write("window.PUBLIC_TEAMS_LIST = " + json.dumps(teams, ensure_ascii=False) + ";\n")
+        logger.info("Updated frontend dataset: %s", teams_js_path)
 
     return teams
 

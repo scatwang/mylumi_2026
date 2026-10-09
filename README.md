@@ -127,13 +127,21 @@ df_scores = pd.read_sql_query("""
 """, conn)
 print(df_scores)
 
-# 示例 2: 查询获 Champions Award 最多的队伍
-df_champions = pd.read_sql_query("""
-    SELECT team_number, team_name, count(*) as champions_count
-    FROM awards
-    WHERE award_name LIKE "%Champion%"
-    GROUP BY team_number
-    ORDER BY champions_count DESC;
-""", conn)
-print(df_champions)
+---
+
+## 🏆 队伍历史战力排行榜与未报名追踪看板
+
+新增了全量队伍历史战力排行榜与 2026 BIOGLOW 赛季未报名强队洞察雷达：
+
+```bash
+# 运行历史全景排行榜 ETL 与未报名深度分析
+python3 analyze_historical_leaderboard.py
 ```
+
+- **数据产出**:
+  - `data/historical_leaderboard.json` (1,337 支历史战队全量档案与战力指标)
+  - `web/leaderboard_data.js` (前端毫秒级交互数据集)
+  - `HISTORICAL_LEADERBOARD_REPORT.md` (详实的可视化数据分析报告)
+- **Web 可视化面板**:
+  - 打开 `http://localhost:8088/leaderboard.html`，支持一键筛选未报名顶尖强队 (Tier S & A)、未报名历史冠军、生涯 500+/400+ 高分神队，并可展开查看每支队伍的历年战绩、各轮得分、奖项与曾用名演进！
+

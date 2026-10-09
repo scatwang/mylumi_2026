@@ -66,6 +66,22 @@ def load_data():
         teams_list = json.load(f)
     teams_map = {t["number"]: t for t in teams_list if t.get("number")}
 
+    # Fallback to historical leaderboard if available
+    hist_json = ROOT_DIR / "data" / "historical_leaderboard.json"
+    if hist_json.exists():
+        try:
+            with open(hist_json, "r", encoding="utf-8") as f:
+                hist_data = json.load(f)
+            for ht in hist_data.get("leaderboard", []):
+                num = ht.get("team_number")
+                if num and num in teams_map:
+                    if not teams_map[num].get("power_score"):
+                        teams_map[num]["power_score"] = ht.get("power_score", 0.0)
+                    if not teams_map[num].get("tier"):
+                        teams_map[num]["tier"] = ht.get("tier", "Rookie (新队伍/待赛)")
+        except Exception:
+            pass
+
     # 2. Load events metadata from DB or raw json
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
@@ -116,6 +132,13 @@ def analyze_single_event(eid, ev_info, teams_raw, teams_map):
         "暂无得分记录": 0
     }
 
+    power_scores = []
+    tier_s_count = 0
+    tier_a_count = 0
+    tier_b_count = 0
+    tier_c_count = 0
+    tier_rookie_count = 0
+
     for item in reg_items:
         raw_t = item.get("team") or {}
         num = raw_t.get("number")
@@ -130,6 +153,20 @@ def analyze_single_event(eid, ev_info, teams_raw, teams_map):
         history = full_t.get("history") or {}
         past_names = full_t.get("past_names") or history.get("past_names") or []
         past_names_details = history.get("past_names_details") or []
+
+        p_score = full_t.get("power_score") or history.get("power_score") or 0.0
+        t_tier = full_t.get("tier") or history.get("tier") or "Rookie (新队伍/待赛)"
+        power_scores.append(p_score)
+        if "Tier S" in t_tier:
+            tier_s_count += 1
+        elif "Tier A" in t_tier:
+            tier_a_count += 1
+        elif "Tier B" in t_tier:
+            tier_b_count += 1
+        elif "Tier C" in t_tier:
+            tier_c_count += 1
+        else:
+            tier_rookie_count += 1
 
         is_ready = status_v2 == "good"
         if is_ready:
@@ -183,13 +220,16 @@ def analyze_single_event(eid, ev_info, teams_raw, teams_map):
             "past_names": past_names,
             "past_names_details": past_names_details,
             "history": history,
+            "power_score": p_score,
+            "tier": t_tier,
             "advancing_to_next_level": item.get("advancing_to_next_level", False),
             "advancing_wait_list": item.get("advancing_wait_list", False),
         }
         enriched_teams.append(enriched_team)
 
-    # Sort registered teams by career max score desc, then by number
+    # Sort registered teams by power_score desc, career max score desc, then by number
     enriched_teams.sort(key=lambda t: (
+        t.get("power_score") or 0.0,
         t["history"].get("max_score") or -1,
         t["history"].get("awards_count") or 0,
         -t["number"]
@@ -198,6 +238,7 @@ def analyze_single_event(eid, ev_info, teams_raw, teams_map):
     top_career_score = max(career_scores) if career_scores else None
     top_scoring_team = next((t for t in enriched_teams if t["history"].get("max_score") == top_career_score), None) if top_career_score is not None else None
     avg_career_score = round(sum(career_scores) / len(career_scores), 1) if career_scores else None
+    avg_power_score = round(sum(power_scores) / len(power_scores), 1) if power_scores else 0.0
 
     # Format distributions
     cities_dist = sorted([{"city": c, "count": cnt, "pct": round(cnt / total_reg * 100, 1)} for c, cnt in city_counts.items()], key=lambda x: x["count"], reverse=True)
@@ -233,6 +274,12 @@ def analyze_single_event(eid, ev_info, teams_raw, teams_map):
             "top_team_number": top_scoring_team["number"] if top_scoring_team else None,
             "top_team_name": top_scoring_team["name"] if top_scoring_team else None,
             "avg_career_score": avg_career_score,
+            "avg_power_score": avg_power_score,
+            "tier_s_count": tier_s_count,
+            "tier_a_count": tier_a_count,
+            "tier_b_count": tier_b_count,
+            "tier_c_count": tier_c_count,
+            "tier_rookie_count": tier_rookie_count,
             "teams_with_awards": teams_with_awards,
             "total_career_awards": total_career_awards,
             "teams_with_advancement": teams_with_advancement,

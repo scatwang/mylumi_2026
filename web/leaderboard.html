@@ -1,0 +1,1442 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NorCal FLL 历史全部队伍战力排行榜 & 2026未报名强队雷达 (Historical Leaderboard & Unregistered Tracker)</title>
+  <meta name="description" content="NorCal FLL 历史全量 1,337 支队伍战力排行榜，多维评分与生涯档案，实时透视 2026 BIOGLOW 赛季哪些老牌强队与夺冠热门尚未报名。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="auth.js"></script>
+  <script src="leaderboard_data.js?v=20261008_power_v4"></script>
+  <style>
+    /* Leaderboard Special Enhancements */
+    .nav-tabs-global {
+      display: flex;
+      gap: 10px;
+      margin-left: 20px;
+      flex-wrap: wrap;
+    }
+    .nav-tab-item {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 0.88rem;
+      padding: 6px 14px;
+      border-radius: 999px;
+      border: 1px solid var(--border-subtle);
+      transition: all var(--transition-fast);
+      background: rgba(255, 255, 255, 0.03);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .nav-tab-item:hover {
+      color: var(--text-main);
+      border-color: var(--cyan-neon);
+      background: rgba(0, 242, 254, 0.08);
+    }
+    .nav-tab-item.active {
+      color: #0a0d17;
+      background: var(--cyan-neon);
+      font-weight: 700;
+      border-color: var(--cyan-neon);
+      box-shadow: 0 0 16px var(--cyan-glow);
+    }
+
+    /* Radar Banner Alert */
+    .radar-alert-banner {
+      background: linear-gradient(135deg, rgba(244, 63, 94, 0.16) 0%, rgba(168, 85, 247, 0.18) 50%, rgba(0, 242, 254, 0.12) 100%);
+      border: 1px solid rgba(244, 63, 94, 0.4);
+      border-radius: 16px;
+      padding: 18px 24px;
+      margin-bottom: 28px;
+      box-shadow: 0 8px 32px rgba(244, 63, 94, 0.2);
+      backdrop-filter: var(--glass-blur);
+      position: relative;
+      overflow: hidden;
+    }
+    .radar-alert-banner::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; width: 4px; height: 100%;
+      background: linear-gradient(to bottom, #f43f5e, #a855f7);
+    }
+    .radar-alert-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+    .radar-alert-title {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-family: var(--font-heading);
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #fff;
+    }
+    .radar-pulse-dot {
+      width: 12px;
+      height: 12px;
+      background: #f43f5e;
+      border-radius: 50%;
+      box-shadow: 0 0 12px #f43f5e;
+      animation: alertPulse 1.5s infinite;
+    }
+    @keyframes alertPulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.35); opacity: 0.5; }
+    }
+
+    /* Radar Powerhouse Showcase Cards */
+    .powerhouse-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 14px;
+      margin-top: 14px;
+    }
+    .powerhouse-card {
+      background: rgba(18, 24, 42, 0.85);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 12px;
+      padding: 14px 16px;
+      cursor: pointer;
+      transition: all var(--transition-smooth);
+      position: relative;
+    }
+    .powerhouse-card:hover {
+      border-color: #f43f5e;
+      transform: translateY(-3px);
+      box-shadow: 0 8px 24px rgba(244, 63, 94, 0.25);
+      background: rgba(26, 36, 62, 0.95);
+    }
+    .powerhouse-card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 8px;
+    }
+    .powerhouse-team-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: var(--cyan-neon);
+    }
+    .powerhouse-tier-tag {
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: linear-gradient(135deg, #a855f7, #f43f5e);
+      color: #fff;
+      box-shadow: 0 0 10px rgba(168, 85, 247, 0.4);
+    }
+    .powerhouse-name {
+      font-size: 0.96rem;
+      font-weight: 700;
+      color: var(--text-main);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      margin-bottom: 6px;
+    }
+    .powerhouse-meta {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      display: flex;
+      gap: 10px;
+      margin-bottom: 10px;
+    }
+    .powerhouse-stats {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-top: 1px solid rgba(255, 255, 255, 0.08);
+      padding-top: 8px;
+      font-size: 0.8rem;
+    }
+    .powerhouse-score {
+      font-family: 'JetBrains Mono', monospace;
+      color: #f59e0b;
+      font-weight: 700;
+    }
+    .powerhouse-unreg-badge {
+      font-size: 0.72rem;
+      color: #f43f5e;
+      background: rgba(244, 63, 94, 0.12);
+      border: 1px solid rgba(244, 63, 94, 0.3);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 600;
+    }
+
+    /* Filter Toolbar */
+    .filter-panel {
+      background: rgba(18, 24, 42, 0.85);
+      border: 1px solid rgba(0, 242, 254, 0.2);
+      border-radius: 16px;
+      padding: 18px 22px;
+      margin-bottom: 24px;
+      backdrop-filter: var(--glass-blur);
+      box-shadow: 0 4px 24px rgba(0, 0, 0, 0.35);
+    }
+    .filter-main-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 16px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    }
+    .filter-tab-btn {
+      background: rgba(255, 255, 255, 0.04);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-muted);
+      padding: 8px 16px;
+      border-radius: 10px;
+      font-size: 0.88rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .filter-tab-btn:hover {
+      color: var(--text-main);
+      background: rgba(255, 255, 255, 0.08);
+      border-color: rgba(255, 255, 255, 0.2);
+    }
+    .filter-tab-btn.active-tab {
+      background: var(--cyan-neon);
+      color: #0a0d17;
+      border-color: var(--cyan-neon);
+      box-shadow: 0 0 16px var(--cyan-glow);
+    }
+    .filter-tab-btn.tab-alert.active-tab {
+      background: linear-gradient(135deg, #f43f5e, #a855f7);
+      color: #fff;
+      border-color: #f43f5e;
+      box-shadow: 0 0 16px rgba(244, 63, 94, 0.4);
+    }
+
+    .filter-sub-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+    }
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+    .select-custom {
+      background: rgba(10, 13, 23, 0.8);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      color: var(--text-main);
+      padding: 8px 14px;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      outline: none;
+      cursor: pointer;
+      transition: border-color var(--transition-fast);
+    }
+    .select-custom:focus {
+      border-color: var(--cyan-neon);
+    }
+    .search-input-wrap {
+      position: relative;
+      min-width: 280px;
+      flex: 1;
+      max-width: 420px;
+    }
+    .search-input-wrap input {
+      width: 100%;
+      background: rgba(10, 13, 23, 0.8);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      border-radius: 8px;
+      padding: 9px 14px 9px 36px;
+      color: #fff;
+      font-size: 0.88rem;
+      outline: none;
+      transition: all var(--transition-fast);
+    }
+    .search-input-wrap input:focus {
+      border-color: var(--cyan-neon);
+      box-shadow: 0 0 12px rgba(0, 242, 254, 0.25);
+    }
+    .search-icon-svg {
+      position: absolute;
+      left: 12px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-muted);
+      pointer-events: none;
+    }
+
+    /* Table Styling */
+    .table-container {
+      background: rgba(18, 24, 42, 0.7);
+      border: 1px solid var(--border-subtle);
+      border-radius: 16px;
+      overflow-x: auto;
+      backdrop-filter: var(--glass-blur);
+      box-shadow: var(--shadow-card);
+      margin-bottom: 24px;
+    }
+    .lb-table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+      font-size: 0.88rem;
+      white-space: nowrap;
+    }
+    .lb-table th {
+      background: rgba(26, 34, 56, 0.85);
+      color: var(--text-muted);
+      font-family: var(--font-heading);
+      font-weight: 600;
+      font-size: 0.82rem;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      padding: 14px 16px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      cursor: pointer;
+      user-select: none;
+      transition: color var(--transition-fast);
+    }
+    .lb-table th:hover {
+      color: var(--cyan-neon);
+    }
+    .lb-table th.sorted-asc::after { content: ' ▲'; color: var(--cyan-neon); }
+    .lb-table th.sorted-desc::after { content: ' ▼'; color: var(--cyan-neon); }
+
+    .lb-table td {
+      padding: 12px 16px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      vertical-align: middle;
+      transition: background-color var(--transition-fast);
+    }
+    .lb-table tr:hover td {
+      background-color: rgba(0, 242, 254, 0.035);
+    }
+    .lb-table tr.row-unregistered-powerhouse {
+      background: rgba(244, 63, 94, 0.03);
+    }
+    .lb-table tr.row-unregistered-powerhouse:hover td {
+      background: rgba(244, 63, 94, 0.07);
+    }
+
+    /* Rank Badges */
+    .rank-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 700;
+      font-size: 0.84rem;
+    }
+    .rank-1 { background: linear-gradient(135deg, #ffd700, #ffae00); color: #000; box-shadow: 0 0 12px rgba(255, 215, 0, 0.5); }
+    .rank-2 { background: linear-gradient(135deg, #e0e0e0, #a0a0a0); color: #000; box-shadow: 0 0 12px rgba(200, 200, 200, 0.4); }
+    .rank-3 { background: linear-gradient(135deg, #cd7f32, #a0522d); color: #fff; box-shadow: 0 0 12px rgba(205, 127, 50, 0.4); }
+    .rank-other { color: var(--text-muted); font-size: 0.85rem; }
+
+    /* Team Info Block */
+    .team-cell {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+    .team-header-line {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .team-num-link {
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 700;
+      font-size: 0.95rem;
+      color: var(--cyan-neon);
+      text-decoration: none;
+    }
+    .team-name-title {
+      font-weight: 600;
+      color: var(--text-main);
+      cursor: pointer;
+    }
+    .team-name-title:hover {
+      color: var(--cyan-neon);
+      text-decoration: underline;
+    }
+    .team-past-tag {
+      font-size: 0.72rem;
+      color: var(--text-dim);
+      background: rgba(255, 255, 255, 0.05);
+      padding: 1px 6px;
+      border-radius: 4px;
+      display: inline-block;
+      max-width: 240px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .team-sub-loc {
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    /* Status Badges */
+    .status-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 0.76rem;
+      font-weight: 600;
+      padding: 4px 10px;
+      border-radius: 999px;
+    }
+    .status-reg {
+      background: rgba(16, 185, 129, 0.12);
+      border: 1px solid rgba(16, 185, 129, 0.35);
+      color: #34d399;
+    }
+    .status-unreg-active {
+      background: rgba(245, 158, 11, 0.12);
+      border: 1px solid rgba(245, 158, 11, 0.35);
+      color: #fbbf24;
+    }
+    .status-unreg-hist {
+      background: rgba(244, 63, 94, 0.12);
+      border: 1px solid rgba(244, 63, 94, 0.35);
+      color: #fb7185;
+    }
+
+    /* Tier Badges */
+    .tier-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 0.76rem;
+      font-weight: 700;
+      padding: 3px 9px;
+      border-radius: 6px;
+    }
+    .tier-s {
+      background: linear-gradient(135deg, rgba(168, 85, 247, 0.25), rgba(244, 63, 94, 0.25));
+      border: 1px solid rgba(244, 63, 94, 0.45);
+      color: #ff7ebb;
+      box-shadow: 0 0 10px rgba(244, 63, 94, 0.25);
+    }
+    .tier-a {
+      background: rgba(0, 242, 254, 0.12);
+      border: 1px solid rgba(0, 242, 254, 0.4);
+      color: #38bdf8;
+    }
+    .tier-b {
+      background: rgba(16, 185, 129, 0.12);
+      border: 1px solid rgba(16, 185, 129, 0.3);
+      color: #34d399;
+    }
+    .tier-c {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      color: var(--text-muted);
+    }
+    .tier-rookie {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px dashed rgba(255, 255, 255, 0.15);
+      color: var(--text-dim);
+    }
+
+    /* Score Bar */
+    .score-bar-wrap {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      min-width: 110px;
+    }
+    .score-val {
+      font-family: 'JetBrains Mono', monospace;
+      font-weight: 700;
+      font-size: 0.92rem;
+      color: #fff;
+    }
+    .score-progress-bg {
+      width: 100%;
+      height: 5px;
+      background: rgba(255, 255, 255, 0.08);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+    .score-progress-fill {
+      height: 100%;
+      background: linear-gradient(90deg, #00f2fe, #a855f7);
+      border-radius: 3px;
+    }
+
+    /* Honors Cell */
+    .honors-wrap {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      max-width: 220px;
+    }
+    .honor-pill {
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding: 2px 7px;
+      border-radius: 4px;
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+    }
+    .honor-champ { background: rgba(255, 215, 0, 0.15); border: 1px solid rgba(255, 215, 0, 0.4); color: #ffd700; }
+    .honor-adv { background: rgba(168, 85, 247, 0.15); border: 1px solid rgba(168, 85, 247, 0.35); color: #c084fc; }
+    .honor-award { background: rgba(0, 242, 254, 0.1); border: 1px solid rgba(0, 242, 254, 0.25); color: #38bdf8; }
+
+    /* Pagination */
+    .pagination-bar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+      padding: 14px 20px;
+      background: rgba(18, 24, 42, 0.8);
+      border: 1px solid var(--border-subtle);
+      border-radius: 12px;
+    }
+    .pagination-info {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+    .pagination-controls {
+      display: flex;
+      gap: 6px;
+    }
+    .page-btn {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid var(--border-subtle);
+      color: var(--text-main);
+      padding: 5px 12px;
+      border-radius: 6px;
+      font-size: 0.82rem;
+      cursor: pointer;
+      transition: all var(--transition-fast);
+    }
+    .page-btn:hover:not(:disabled) {
+      background: var(--cyan-neon);
+      color: #0a0d17;
+      border-color: var(--cyan-neon);
+    }
+    .page-btn:disabled {
+      opacity: 0.4;
+      cursor: not-allowed;
+    }
+    .page-btn.active-page {
+      background: var(--cyan-neon);
+      color: #0a0d17;
+      font-weight: 700;
+      border-color: var(--cyan-neon);
+    }
+
+    /* Modal / Drawer */
+    .modal-overlay {
+      position: fixed;
+      top: 0; left: 0; width: 100%; height: 100%;
+      background: rgba(0, 0, 0, 0.75);
+      backdrop-filter: blur(8px);
+      z-index: 1000;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    .modal-overlay.open {
+      display: flex;
+    }
+    .modal-box {
+      background: #121829;
+      border: 1px solid rgba(0, 242, 254, 0.35);
+      border-radius: 20px;
+      width: 100%;
+      max-width: 860px;
+      max-height: 90vh;
+      overflow-y: auto;
+      padding: 28px;
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.8);
+      position: relative;
+    }
+    .modal-close-btn {
+      position: absolute;
+      top: 20px; right: 20px;
+      background: rgba(255, 255, 255, 0.08);
+      border: none;
+      color: var(--text-muted);
+      width: 32px; height: 32px;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: 1.2rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all var(--transition-fast);
+    }
+    .modal-close-btn:hover {
+      background: #f43f5e;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <!-- Ambient background glow elements -->
+  <div class="glow-orb orb-1"></div>
+  <div class="glow-orb orb-2"></div>
+
+  <!-- Header -->
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand">
+        <div class="logo-badge">FLL</div>
+        <div class="title-group">
+          <h1>NorCal FLL BIOGLOW 2026</h1>
+          <p class="subtitle">历史全部队伍战力排行榜 & 2026 未报名强队洞察雷达</p>
+        </div>
+      </div>
+      <!-- Global Nav Tabs -->
+      <nav class="nav-tabs-global">
+        <a href="index.html" class="nav-tab-item">🏟️ 预选赛横向对比</a>
+        <a href="leaderboard.html" class="nav-tab-item active">🏆 历史战力榜 & 未报名追踪</a>
+        <a href="teams.html" class="nav-tab-item">👥 全部队伍全景看板</a>
+        <a href="event_teams.html" class="nav-tab-item">⚔️ 各场参赛队分析</a>
+      </nav>
+
+      <div class="header-season-tag">
+        <span class="live-dot"></span>
+        <span>2026 BIOGLOW 席位进行中</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero & KPIs -->
+  <section class="hero-section">
+    <div class="hero-content">
+      <div class="hero-badge" style="background: rgba(244, 63, 94, 0.15); border-color: rgba(244, 63, 94, 0.4); color: #fb7185;">
+        ⚡ 深度洞察：未报名老牌强队实时雷达
+      </div>
+      <h2>全量队伍历史战力排行榜 & 未报名强队雷达</h2>
+      <p class="hero-desc">
+        汇聚 2023 ~ 2026 赛季共 <strong>1,337 支历史队伍</strong> 的全量赛场成绩。独家打造综合战力评分模型（机器人巅峰得分、均分、Champions Award 冠军大奖、四大核心奖项、总决赛晋级资格与赛季底蕴），<strong>全面透视哪些往年霸主与争冠强队尚未报名 2026 BIOGLOW 预选赛！</strong>
+      </p>
+
+      <!-- KPI Grid -->
+      <div class="kpi-grid">
+        <div class="kpi-card">
+          <div class="kpi-label">历史全部战队</div>
+          <div class="kpi-value text-cyan" id="kpi-total-teams">1,337 队</div>
+          <div class="kpi-sub">覆盖 2023~2026 赛季</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-label">2026 已经报名</div>
+          <div class="kpi-value text-emerald" id="kpi-registered">119 队</div>
+          <div class="kpi-sub">占 240 席位中的 49.6%</div>
+        </div>
+        <div class="kpi-card" style="border-color: rgba(244, 63, 94, 0.35);">
+          <div class="kpi-label">2026 尚未报名</div>
+          <div class="kpi-value" style="color: #fb7185;" id="kpi-unregistered">1,218 队</div>
+          <div class="kpi-sub">含在册未报与往年未激活</div>
+        </div>
+        <div class="kpi-card" style="border-color: rgba(244, 63, 94, 0.45); background: rgba(244, 63, 94, 0.08);">
+          <div class="kpi-label">🚨 未报名顶尖强队 (S & A)</div>
+          <div class="kpi-value" style="color: #ff5277;" id="kpi-unreg-power">149 队</div>
+          <div class="kpi-sub">29 霸主 + 120 劲旅</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-label">🏆 未报名的冠军奖得主</div>
+          <div class="kpi-value text-amber" id="kpi-unreg-champs">52 队</div>
+          <div class="kpi-sub">占所有冠军队伍的 76.5%</div>
+        </div>
+        <div class="kpi-card">
+          <div class="kpi-label">⚡ 未报名 400+ 分神队</div>
+          <div class="kpi-value text-purple" id="kpi-unreg-400">60 队</div>
+          <div class="kpi-sub">含 7 支 500+ 分霸主</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Container (Full width matching index.html and other pages) -->
+  <main class="main-container" style="padding-bottom: 60px;">
+
+    <!-- Unregistered Powerhouse Radar Banner -->
+    <div class="radar-alert-banner">
+      <div class="radar-alert-header">
+        <div class="radar-alert-title">
+          <div class="radar-pulse-dot"></div>
+          <span>🚨 重点未报名顶级强队雷达 (Unregistered Powerhouse Radar)</span>
+        </div>
+        <div style="font-size: 0.85rem; color: #fda4af;">
+          提示：以下顶级豪门曾斩获冠军大奖或创下 500+ 神级得分，但<strong>截至目前尚未报名 2026 任何分站赛</strong>！点击可查看其历史档案。
+        </div>
+      </div>
+
+      <!-- Quick Showcase Cards -->
+      <div class="powerhouse-grid" id="powerhouse-showcase">
+        <!-- Rendered by JavaScript -->
+      </div>
+    </div>
+
+    <!-- Filter & Control Console -->
+    <div class="filter-panel">
+      <!-- Quick Filter Tabs -->
+      <div class="filter-main-tabs" id="quick-filter-tabs">
+        <button class="filter-tab-btn tab-alert active-tab" data-filter="unregistered_powerhouse">
+          🔥 未报名强队 (Tier S & A) <span style="background: rgba(0,0,0,0.3); padding: 1px 7px; border-radius: 999px; font-size: 0.78rem;" id="badge-unreg-power">149</span>
+        </button>
+        <button class="filter-tab-btn" data-filter="unregistered_all">
+          🔴 所有未报名队伍 <span style="background: rgba(255,255,255,0.15); padding: 1px 7px; border-radius: 999px; font-size: 0.78rem;" id="badge-unreg-all">1218</span>
+        </button>
+        <button class="filter-tab-btn" data-filter="unregistered_champions">
+          🏆 未报名冠军奖得主 <span style="background: rgba(255,255,255,0.15); padding: 1px 7px; border-radius: 999px; font-size: 0.78rem;" id="badge-unreg-champs">52</span>
+        </button>
+        <button class="filter-tab-btn" data-filter="registered_only">
+          🟢 2026 已报名队伍 <span style="background: rgba(255,255,255,0.15); padding: 1px 7px; border-radius: 999px; font-size: 0.78rem;" id="badge-reg-all">119</span>
+        </button>
+        <button class="filter-tab-btn" data-filter="club_400">
+          ⚡ 400+ 分俱乐部 <span style="background: rgba(255,255,255,0.15); padding: 1px 7px; border-radius: 999px; font-size: 0.78rem;" id="badge-club-400">75</span>
+        </button>
+        <button class="filter-tab-btn" data-filter="all">
+          🌐 显示全部 1,337 支战队
+        </button>
+      </div>
+
+      <!-- Secondary Controls Row -->
+      <div class="filter-sub-row">
+        <div class="filter-group">
+          <!-- Tier Filter -->
+          <select id="select-tier" class="select-custom">
+            <option value="all">梯队等级: 全部</option>
+            <option value="Tier S">Tier S (霸主/夺冠热门)</option>
+            <option value="Tier A">Tier A (种子强队/劲旅)</option>
+            <option value="Tier B">Tier B (中坚力量/资深)</option>
+            <option value="Tier C">Tier C (成长中队伍/新锐)</option>
+            <option value="Rookie">Rookie (新队伍/待赛)</option>
+          </select>
+
+          <!-- Region Filter -->
+          <select id="select-region" class="select-custom">
+            <option value="all">所属区域: 全部</option>
+            <option value="南湾 (South Bay)">南湾 (South Bay)</option>
+            <option value="东湾 (East Bay)">东湾 (East Bay)</option>
+            <option value="半岛 (Peninsula)">半岛 (Peninsula)</option>
+            <option value="中央谷/萨克拉门托 (Central Valley)">中央谷/萨克拉门托</option>
+            <option value="旧金山 (San Francisco)">旧金山 (San Francisco)</option>
+            <option value="北湾 (North Bay)">北湾 (North Bay)</option>
+            <option value="圣克鲁兹/蒙特雷 (Santa Cruz)">圣克鲁兹/蒙特雷</option>
+            <option value="其他地区 (Other)">其他地区</option>
+          </select>
+
+          <!-- Sort Order -->
+          <select id="select-sort" class="select-custom">
+            <option value="power_score">排序: 综合战力分 (从高到低)</option>
+            <option value="career_max_score">排序: 生涯最高分 (从高到低)</option>
+            <option value="awards_count">排序: 获奖总数 (从多到少)</option>
+            <option value="champions_count">排序: 冠军大奖数 (从多到少)</option>
+            <option value="advancements_count">排序: 晋级总决赛数 (从多到少)</option>
+            <option value="seasons_count">排序: 参赛赛季数 (从多到少)</option>
+            <option value="team_number">排序: 队伍编号 (升序)</option>
+          </select>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="search-input-wrap">
+          <svg class="search-icon-svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input type="text" id="input-search" placeholder="搜索队号、队名、曾用名、城市、机构学校...">
+        </div>
+
+        <!-- Export CSV Button -->
+        <div>
+          <button id="btn-export-csv" class="select-custom" style="background: rgba(0, 242, 254, 0.1); border-color: var(--cyan-neon); color: var(--cyan-neon); font-weight: 600; display: flex; align-items: center; gap: 6px;">
+            📥 导出当前筛选表格 CSV
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Results Count Bar -->
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; font-size: 0.88rem; color: var(--text-muted);">
+      <div>
+        当前呈现队伍: <strong style="color: var(--cyan-neon);" id="current-display-count">0</strong> 支
+      </div>
+      <div>
+        点击任意行可展开查看该队伍的<strong>逐年得分、历史奖项与曾用名演进</strong>
+      </div>
+    </div>
+
+    <!-- Table Container -->
+    <div class="table-container">
+      <table class="lb-table" id="leaderboard-table">
+        <thead>
+          <tr>
+            <th data-sort="overall_rank" style="width: 60px;">战力榜</th>
+            <th data-sort="team_number" style="min-width: 200px;">队伍档案 / 曾用名</th>
+            <th data-sort="city" style="min-width: 140px;">城市 / 区域</th>
+            <th data-sort="is_registered_2026" style="min-width: 170px;">2026 报名状态</th>
+            <th data-sort="tier" style="min-width: 120px;">实力梯队</th>
+            <th data-sort="power_score" style="min-width: 110px;">战力评分</th>
+            <th data-sort="career_max_score" style="min-width: 130px;">生涯最高分</th>
+            <th data-sort="career_avg_score" style="min-width: 90px;">平均分</th>
+            <th data-sort="awards_count" style="min-width: 150px;">历史荣誉底蕴</th>
+            <th data-sort="seasons_count" style="min-width: 100px;">参赛赛季</th>
+            <th style="min-width: 90px;">操作</th>
+          </tr>
+        </thead>
+        <tbody id="leaderboard-tbody">
+          <!-- Populated by JavaScript -->
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Pagination -->
+    <div class="pagination-bar">
+      <div class="pagination-info" id="pagination-info">
+        正在显示第 1 至 50 项，共 149 项
+      </div>
+      <div class="pagination-controls" id="pagination-controls">
+        <!-- Rendered by JS -->
+      </div>
+    </div>
+  </main>
+
+  <!-- Team Detail Modal / Drawer -->
+  <div class="modal-overlay" id="team-modal">
+    <div class="modal-box">
+      <button class="modal-close-btn" id="modal-close-btn">&times;</button>
+      <div id="modal-content">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Interactive JavaScript Logic -->
+  <script>
+    (function() {
+      // Global Data
+      const dataset = window.LEADERBOARD_DATA || { summary: {}, teams: [] };
+      const allTeams = dataset.teams || [];
+      const summary = dataset.summary || {};
+
+      // State
+      let activeFilterTab = 'unregistered_powerhouse';
+      let selectedTier = 'all';
+      let selectedRegion = 'all';
+      let selectedSort = 'power_score';
+      let sortDirection = 'desc'; // 'desc' or 'asc'
+      let searchQuery = '';
+      let currentPage = 1;
+      const pageSize = 50;
+
+      // Populate KPIs
+      if (document.getElementById('kpi-total-teams')) {
+        document.getElementById('kpi-total-teams').textContent = (summary.total_teams || 1337) + ' 队';
+        document.getElementById('kpi-registered').textContent = (summary.registered_2026_count || 119) + ' 队';
+        document.getElementById('kpi-unregistered').textContent = (summary.unregistered_2026_count || 1218) + ' 队';
+        document.getElementById('kpi-unreg-power').textContent = (summary.unregistered_powerhouses_count || 149) + ' 队';
+        document.getElementById('kpi-unreg-champs').textContent = (summary.unregistered_champions_count || 52) + ' 队';
+        document.getElementById('kpi-unreg-400').textContent = (summary.unregistered_400_plus_count || 60) + ' 队';
+
+        document.getElementById('badge-unreg-power').textContent = summary.unregistered_powerhouses_count || 149;
+        document.getElementById('badge-unreg-all').textContent = summary.unregistered_2026_count || 1218;
+        document.getElementById('badge-unreg-champs').textContent = summary.unregistered_champions_count || 52;
+        document.getElementById('badge-reg-all').textContent = summary.registered_2026_count || 119;
+      }
+
+      // Render Showcase Cards for Top Unregistered Powerhouses
+      function renderShowcase() {
+        const showcaseEl = document.getElementById('powerhouse-showcase');
+        if (!showcaseEl) return;
+
+        // Top 6 unregistered teams
+        const topUnreg = allTeams.filter(t => !t.is_registered_2026 && (t.power_score >= 65 || t.champions_count >= 2 || (t.career_max_score || 0) >= 500)).slice(0, 6);
+
+        showcaseEl.innerHTML = topUnreg.map(t => `
+          <div class="powerhouse-card" onclick="openTeamModal(${t.team_number})">
+            <div class="powerhouse-card-top">
+              <span class="powerhouse-team-num">#${t.team_number}</span>
+              <span class="powerhouse-tier-tag">${t.tier.split(' ')[0]} 霸主</span>
+            </div>
+            <div class="powerhouse-name" title="${t.team_name}">${t.team_name}</div>
+            <div class="powerhouse-meta">
+              <span>📍 ${t.city}</span>
+              <span>📅 ${t.seasons_count}届参赛</span>
+            </div>
+            <div class="powerhouse-stats">
+              <span class="powerhouse-score">⚡ 巅峰: ${t.career_max_score ? t.career_max_score + '分' : '暂无'}</span>
+              <span class="powerhouse-unreg-badge">🚨 尚未报名</span>
+            </div>
+          </div>
+        `).join('');
+      }
+
+      // Filtering Logic
+      function getFilteredTeams() {
+        return allTeams.filter(team => {
+          // 1. Main Tab Filter
+          if (activeFilterTab === 'unregistered_powerhouse') {
+            if (team.is_registered_2026) return false;
+            if (!team.tier.includes('Tier S') && !team.tier.includes('Tier A')) return false;
+          } else if (activeFilterTab === 'unregistered_all') {
+            if (team.is_registered_2026) return false;
+          } else if (activeFilterTab === 'unregistered_champions') {
+            if (team.is_registered_2026) return false;
+            if (team.champions_count === 0) return false;
+          } else if (activeFilterTab === 'registered_only') {
+            if (!team.is_registered_2026) return false;
+          } else if (activeFilterTab === 'club_400') {
+            if ((team.career_max_score || 0) < 400) return false;
+          }
+
+          // 2. Tier Dropdown Filter
+          if (selectedTier !== 'all') {
+            if (!team.tier.includes(selectedTier)) return false;
+          }
+
+          // 3. Region Filter
+          if (selectedRegion !== 'all') {
+            if (team.region !== selectedRegion) return false;
+          }
+
+          // 4. Search Filter
+          if (searchQuery.trim()) {
+            const q = searchQuery.toLowerCase().trim();
+            const numStr = String(team.team_number);
+            const nameStr = (team.team_name || '').toLowerCase();
+            const cityStr = (team.city || '').toLowerCase();
+            const orgStr = (team.org_name || '').toLowerCase();
+            const pastStr = (team.past_names || []).map(p => p.name.toLowerCase()).join(' ');
+
+            if (!numStr.includes(q) && !nameStr.includes(q) && !cityStr.includes(q) && !orgStr.includes(q) && !pastStr.includes(q)) {
+              return false;
+            }
+          }
+
+          return true;
+        });
+      }
+
+      // Sorting Logic
+      function sortTeams(teams) {
+        return teams.sort((a, b) => {
+          let valA = a[selectedSort];
+          let valB = b[selectedSort];
+
+          if (selectedSort === 'career_max_score') {
+            valA = a.career_max_score || 0;
+            valB = b.career_max_score || 0;
+          } else if (selectedSort === 'career_avg_score') {
+            valA = a.career_avg_score || 0;
+            valB = b.career_avg_score || 0;
+          } else if (selectedSort === 'team_number' || selectedSort === 'overall_rank') {
+            valA = Number(valA);
+            valB = Number(valB);
+          }
+
+          if (valA < valB) return sortDirection === 'asc' ? -1 : 1;
+          if (valA > valB) return sortDirection === 'asc' ? 1 : -1;
+          return 0;
+        });
+      }
+
+      // Render Table
+      function renderTable() {
+        const filtered = getFilteredTeams();
+        const sorted = sortTeams(filtered);
+        const totalItems = sorted.length;
+
+        // Update count badge
+        document.getElementById('current-display-count').textContent = totalItems;
+
+        // Pagination slice
+        const totalPages = Math.ceil(totalItems / pageSize) || 1;
+        if (currentPage > totalPages) currentPage = 1;
+        const startIdx = (currentPage - 1) * pageSize;
+        const endIdx = Math.min(startIdx + pageSize, totalItems);
+        const pageTeams = sorted.slice(startIdx, endIdx);
+
+        const tbody = document.getElementById('leaderboard-tbody');
+        if (!pageTeams.length) {
+          tbody.innerHTML = `
+            <tr>
+              <td colspan="11" style="text-align: center; padding: 40px; color: var(--text-muted);">
+                未找到匹配条件的队伍，请尝试重置或调整筛选器。
+              </td>
+            </tr>
+          `;
+          renderPagination(0, 0, 0, 1);
+          return;
+        }
+
+        tbody.innerHTML = pageTeams.map((team, idx) => {
+          const rank = team.overall_rank;
+          let rankBadge = `<span class="rank-badge rank-other">${rank}</span>`;
+          if (rank === 1) rankBadge = `<span class="rank-badge rank-1">1</span>`;
+          else if (rank === 2) rankBadge = `<span class="rank-badge rank-2">2</span>`;
+          else if (rank === 3) rankBadge = `<span class="rank-badge rank-3">3</span>`;
+
+          // Status Badge
+          let statusBadge = '';
+          if (team.is_registered_2026) {
+            const ev = team.registered_events_2026[0];
+            const loc = ev ? `${ev.city} (${ev.date})` : '已报名';
+            statusBadge = `<span class="status-badge status-reg" title="${team.status_desc}">🟢 已报: ${loc}</span>`;
+          } else if (team.in_public_teams) {
+            statusBadge = `<span class="status-badge status-unreg-active" title="${team.status_desc}">🟡 在册未报名</span>`;
+          } else {
+            statusBadge = `<span class="status-badge status-unreg-hist" title="${team.status_desc}">🔴 往届未激活</span>`;
+          }
+
+          // Tier Badge
+          let tierClass = 'tier-rookie';
+          if (team.tier.includes('Tier S')) tierClass = 'tier-s';
+          else if (team.tier.includes('Tier A')) tierClass = 'tier-a';
+          else if (team.tier.includes('Tier B')) tierClass = 'tier-b';
+          else if (team.tier.includes('Tier C')) tierClass = 'tier-c';
+
+          const tierDisp = team.tier.startsWith('Tier') ? (team.tier.split(' ')[0] + ' ' + (team.tier.split(' ')[1] || '')) : 'Rookie';
+
+          // Past names
+          const pastNameStr = (team.past_names && team.past_names.length)
+            ? `<div class="team-past-tag" title="曾用名: ${team.past_names.map(p=>p.name).join(', ')}">曾用名: ${team.past_names[0].name}</div>`
+            : '';
+
+          // Score bar
+          const maxScore = team.career_max_score || 0;
+          const scorePercent = Math.min(100, Math.round((maxScore / 540) * 100));
+
+          // Honors tags
+          let honorsHtml = '';
+          if (team.champions_count > 0) {
+            honorsHtml += `<span class="honor-pill honor-champ">🏆 冠军 x${team.champions_count}</span>`;
+          }
+          if (team.advancements_count > 0) {
+            honorsHtml += `<span class="honor-pill honor-adv">🚀 晋级 x${team.advancements_count}</span>`;
+          }
+          if (team.core_awards_count > 0) {
+            honorsHtml += `<span class="honor-pill honor-award">🎖️ 核心奖 x${team.core_awards_count}</span>`;
+          }
+          if (!honorsHtml) honorsHtml = `<span style="color: var(--text-dim); font-size: 0.76rem;">-</span>`;
+
+          // Roster badge
+          const rosterCount = team.roster_count;
+          let rosterBadge = '';
+          if (rosterCount != null && rosterCount > 0) {
+            rosterBadge = `<span class="team-roster-tag" style="background: rgba(56, 189, 248, 0.16); border: 1px solid rgba(56, 189, 248, 0.4); color: #38bdf8; font-size: 0.72rem; padding: 1px 7px; border-radius: 999px; font-weight: 600; margin-left: 6px; display: inline-flex; align-items: center; gap: 3px;" title="当前花名册参赛队员人数: ${rosterCount} 人">👥 ${rosterCount}人</span>`;
+          } else if (rosterCount === 0) {
+            rosterBadge = `<span class="team-roster-tag" style="background: rgba(245, 158, 11, 0.14); border: 1px solid rgba(245, 158, 11, 0.4); color: #fbbf24; font-size: 0.72rem; padding: 1px 7px; border-radius: 999px; font-weight: 600; margin-left: 6px; display: inline-flex; align-items: center; gap: 3px;" title="花名册暂未录入队员 (0人)">👥 0人(未录入)</span>`;
+          } else {
+            rosterBadge = `<span class="team-roster-tag" style="background: rgba(255, 255, 255, 0.05); color: var(--text-dim); font-size: 0.72rem; padding: 1px 6px; border-radius: 999px; margin-left: 6px;" title="往届队伍暂无今年名册数据">👥 -</span>`;
+          }
+
+          const isUnregPower = !team.is_registered_2026 && (team.tier.includes('Tier S') || team.tier.includes('Tier A'));
+          const rowClass = isUnregPower ? 'row-unregistered-powerhouse' : '';
+
+          return `
+            <tr class="${rowClass}">
+              <td>${rankBadge}</td>
+              <td>
+                <div class="team-cell">
+                  <div class="team-header-line">
+                    <span class="team-num-link">#${team.team_number}</span>
+                    <span class="team-name-title" onclick="openTeamModal(${team.team_number})">${team.team_name}</span>
+                    ${rosterBadge}
+                  </div>
+                  ${pastNameStr}
+                  <div class="team-sub-loc" title="${team.org_name}">
+                    🏢 ${team.org_name ? team.org_name.substring(0, 24) : 'Family/Community'}
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div style="font-weight: 500; color: #e2e8f0;">${team.city}</div>
+                <div style="font-size: 0.74rem; color: var(--text-dim);">${team.region}</div>
+              </td>
+              <td>${statusBadge}</td>
+              <td><span class="tier-badge ${tierClass}">${tierDisp}</span></td>
+              <td>
+                <div style="font-family: 'JetBrains Mono', monospace; font-size: 0.95rem; font-weight: 700; color: var(--cyan-neon);">
+                  ${team.power_score}
+                </div>
+              </td>
+              <td>
+                <div class="score-bar-wrap">
+                  <div class="score-val">${team.career_max_score ? team.career_max_score + ' 分' : '-'}</div>
+                  ${team.career_max_score ? `<div class="score-progress-bg"><div class="score-progress-fill" style="width: ${scorePercent}%"></div></div>` : ''}
+                </div>
+              </td>
+              <td>
+                <span style="font-family: 'JetBrains Mono', monospace; color: var(--text-muted);">
+                  ${team.career_avg_score ? team.career_avg_score + ' 分' : '-'}
+                </span>
+              </td>
+              <td>
+                <div class="honors-wrap">${honorsHtml}</div>
+              </td>
+              <td>
+                <span style="font-size: 0.8rem; color: var(--text-muted);">
+                  ${team.seasons_count > 0 ? team.seasons_count + ' 届' : '新队伍'}
+                </span>
+              </td>
+              <td>
+                <button onclick="openTeamModal(${team.team_number})" style="background: rgba(0, 242, 254, 0.08); border: 1px solid rgba(0, 242, 254, 0.3); color: var(--cyan-neon); padding: 4px 10px; border-radius: 6px; font-size: 0.78rem; cursor: pointer; transition: all 0.2s;">
+                  档案
+                </button>
+              </td>
+            </tr>
+          `;
+        }).join('');
+
+        renderPagination(startIdx + 1, endIdx, totalItems, totalPages);
+      }
+
+      // Render Pagination Buttons
+      function renderPagination(start, end, total, totalPages) {
+        const infoEl = document.getElementById('pagination-info');
+        const controlsEl = document.getElementById('pagination-controls');
+
+        if (total === 0) {
+          infoEl.textContent = '暂无匹配数据';
+          controlsEl.innerHTML = '';
+          return;
+        }
+
+        infoEl.textContent = `显示第 ${start} 至 ${end} 项，共 ${total} 支队伍`;
+
+        let btnsHtml = `
+          <button class="page-btn" ${currentPage === 1 ? 'disabled' : ''} onclick="changePage(1)">首页</button>
+          <button class="page-btn" ${currentPage === 1 ? 'disabled' : ''} onclick="changePage(${currentPage - 1})">上一页</button>
+        `;
+
+        const maxButtons = 5;
+        let startPage = Math.max(1, currentPage - 2);
+        let endPage = Math.min(totalPages, startPage + maxButtons - 1);
+        if (endPage - startPage < maxButtons - 1) {
+          startPage = Math.max(1, endPage - maxButtons + 1);
+        }
+
+        for (let p = startPage; p <= endPage; p++) {
+          btnsHtml += `<button class="page-btn ${p === currentPage ? 'active-page' : ''}" onclick="changePage(${p})">${p}</button>`;
+        }
+
+        btnsHtml += `
+          <button class="page-btn" ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage(${currentPage + 1})">下一页</button>
+          <button class="page-btn" ${currentPage === totalPages ? 'disabled' : ''} onclick="changePage(${totalPages})">末页 (${totalPages})</button>
+        `;
+
+        controlsEl.innerHTML = btnsHtml;
+      }
+
+      // Window functions for modal and pagination
+      window.changePage = function(page) {
+        currentPage = page;
+        renderTable();
+        window.scrollTo({ top: 500, behavior: 'smooth' });
+      };
+
+      // Modal Drawer Open
+      window.openTeamModal = function(teamNum) {
+        const team = allTeams.find(t => t.team_number === teamNum);
+        if (!team) return;
+
+        const modalOverlay = document.getElementById('team-modal');
+        const modalContent = document.getElementById('modal-content');
+
+        // Past names
+        const pastNamesHtml = (team.past_names && team.past_names.length)
+          ? `<div style="margin-top: 6px; font-size: 0.85rem; color: var(--text-muted);">
+              <strong>历史曾用名:</strong> ${team.past_names.map(p => `<span style="background: rgba(255,255,255,0.06); padding: 2px 8px; border-radius: 4px; margin-right: 6px;">${p.name} (${p.seasons.join(', ')})</span>`).join('')}
+             </div>`
+          : '';
+
+        // Status Card
+        let regInfoHtml = '';
+        if (team.is_registered_2026) {
+          regInfoHtml = `
+            <div style="background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(16, 185, 129, 0.35); border-radius: 10px; padding: 14px; margin-bottom: 20px;">
+              <div style="font-weight: 700; color: #34d399; margin-bottom: 6px;">🟢 2026 BIOGLOW 赛季已报名</div>
+              ${team.registered_events_2026.map(ev => `
+                <div style="font-size: 0.88rem; color: #e2e8f0;">
+                  📅 比赛: <strong>#${ev.event_id} ${ev.event_name}</strong><br>
+                  📍 地点: ${ev.venue_name || ''} (${ev.city}) | 日期: ${ev.date}
+                </div>
+              `).join('')}
+            </div>
+          `;
+        } else if (team.in_public_teams) {
+          regInfoHtml = `
+            <div style="background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.35); border-radius: 10px; padding: 14px; margin-bottom: 20px;">
+              <div style="font-weight: 700; color: #fbbf24; margin-bottom: 6px;">🟡 在 2026 Public Teams 库中，但尚未选报任何预选赛！</div>
+              <div style="font-size: 0.85rem; color: var(--text-muted);">
+                合规审查状态: ${team.compliance_status} | 教练: ${team.compliance_checks.coaches ? '✅' : '❌'} | 背景审查: ${team.compliance_checks.screening ? '✅' : '❌'} | 指纹: ${team.compliance_checks.fingerprinting ? '✅' : '❌'}
+              </div>
+            </div>
+          `;
+        } else {
+          regInfoHtml = `
+            <div style="background: rgba(244, 63, 94, 0.1); border: 1px solid rgba(244, 63, 94, 0.35); border-radius: 10px; padding: 14px; margin-bottom: 20px;">
+              <div style="font-weight: 700; color: #fb7185; margin-bottom: 6px;">🔴 往届参赛老牌强队，目前尚未在 2026 赛季名册中激活！</div>
+              <div style="font-size: 0.85rem; color: var(--text-muted);">
+                该队伍是往年活跃的竞赛队伍，今年暂未在公开队伍列表登记或报名，请留意其是否会在后续阶段压哨注册。
+              </div>
+            </div>
+          `;
+        }
+
+        // Scores List Table
+        let scoresRows = '';
+        if (team.scores_list && team.scores_list.length) {
+          scoresRows = team.scores_list.map(s => `
+            <tr>
+              <td style="padding: 8px 12px; border-bottom: 1px solid rgba(255,255,255,0.06);">${s.season || ''}</td>
+              <td style="padding: 8px 12px; border-bottom: 1px solid rgba(255,255,255,0.06);">${s.event_name || ('Event #' + s.event_id)}</td>
+              <td style="padding: 8px 12px; border-bottom: 1px solid rgba(255,255,255,0.06); font-family: monospace; font-weight: 700; color: var(--cyan-neon);">${s.highest_score || '-'}</td>
+              <td style="padding: 8px 12px; border-bottom: 1px solid rgba(255,255,255,0.06); font-family: monospace;">${s.round_1 ?? '-'} / ${s.round_2 ?? '-'} / ${s.round_3 ?? '-'}</td>
+              <td style="padding: 8px 12px; border-bottom: 1px solid rgba(255,255,255,0.06);">${s.ranking ? '#' + s.ranking : '-'}</td>
+            </tr>
+          `).join('');
+        }
+
+        // Awards List
+        let awardsListHtml = '';
+        if (team.awards_list && team.awards_list.length) {
+          awardsListHtml = team.awards_list.map(a => `
+            <div style="background: rgba(255,255,255,0.04); border-radius: 8px; padding: 10px 14px; margin-bottom: 8px; display: flex; justify-content: space-between; align-items: center;">
+              <div>
+                <strong style="color: ${a.award_name.includes('Champion') ? '#ffd700' : '#fff'};">🏆 ${a.award_name}</strong>
+                <div style="font-size: 0.78rem; color: var(--text-muted); margin-top: 2px;">
+                  ${a.event_name || ''} | ${a.season || ''}
+                </div>
+              </div>
+              <div style="font-size: 0.8rem; color: var(--cyan-neon);">
+                ${a.place_number ? '第 ' + a.place_number + ' 名' : ''}
+              </div>
+            </div>
+          `).join('');
+        } else {
+          awardsListHtml = `<div style="color: var(--text-dim); font-size: 0.85rem;">暂无历史获奖官方记录</div>`;
+        }
+
+        modalContent.innerHTML = `
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px;">
+            <div>
+              <div style="display: flex; align-items: center; gap: 12px;">
+                <span style="font-family: monospace; font-size: 1.6rem; font-weight: 800; color: var(--cyan-neon);">#${team.team_number}</span>
+                <h2 style="font-size: 1.5rem; margin: 0; color: #fff;">${team.team_name}</h2>
+              </div>
+              ${pastNamesHtml}
+              <div style="margin-top: 8px; font-size: 0.88rem; color: var(--text-muted);">
+                📍 城市: ${team.city} (${team.region}) | 🏢 机构: ${team.org_name}
+              </div>
+            </div>
+            <div style="text-align: right;">
+              <div style="font-size: 0.8rem; color: var(--text-muted);">综合战力指数</div>
+              <div style="font-size: 2rem; font-weight: 800; color: var(--cyan-neon); font-family: monospace;">${team.power_score}</div>
+              <div style="font-size: 0.85rem; font-weight: 700; color: #ff7ebb;">${team.tier}</div>
+            </div>
+          </div>
+
+          ${regInfoHtml}
+
+          <!-- Career Stat Grid -->
+          <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 24px;">
+            <div style="background: rgba(255,255,255,0.03); padding: 12px; border-radius: 8px; text-align: center;">
+              <div style="font-size: 0.75rem; color: var(--text-muted);">生涯最高得分</div>
+              <div style="font-size: 1.25rem; font-weight: 700; color: #f59e0b; font-family: monospace;">${team.career_max_score ? team.career_max_score + ' 分' : '-'}</div>
+            </div>
+            <div style="background: rgba(255,255,255,0.03); padding: 12px; border-radius: 8px; text-align: center;">
+              <div style="font-size: 0.75rem; color: var(--text-muted);">历史单场均分</div>
+              <div style="font-size: 1.25rem; font-weight: 700; color: #fff; font-family: monospace;">${team.career_avg_score ? team.career_avg_score + ' 分' : '-'}</div>
+            </div>
+            <div style="background: rgba(255,255,255,0.03); padding: 12px; border-radius: 8px; text-align: center;">
+              <div style="font-size: 0.75rem; color: var(--text-muted);">冠军大奖次数</div>
+              <div style="font-size: 1.25rem; font-weight: 700; color: #ffd700;">🏆 x${team.champions_count}</div>
+            </div>
+            <div style="background: rgba(255,255,255,0.03); padding: 12px; border-radius: 8px; text-align: center;">
+              <div style="font-size: 0.75rem; color: var(--text-muted);">晋级总决赛资格</div>
+              <div style="font-size: 1.25rem; font-weight: 700; color: #c084fc;">🚀 x${team.advancements_count}</div>
+            </div>
+          </div>
+
+          <!-- Scores History -->
+          <h3 style="font-size: 1.1rem; margin-bottom: 12px; color: #fff;">📊 历届机器人比赛成绩记录</h3>
+          ${scoresRows ? `
+            <div style="overflow-x: auto; margin-bottom: 24px; border: 1px solid rgba(255,255,255,0.08); border-radius: 8px;">
+              <table style="width: 100%; border-collapse: collapse; font-size: 0.85rem; text-align: left;">
+                <thead>
+                  <tr style="background: rgba(255,255,255,0.05); color: var(--text-muted);">
+                    <th style="padding: 8px 12px;">赛季</th>
+                    <th style="padding: 8px 12px;">比赛名称</th>
+                    <th style="padding: 8px 12px;">最高分</th>
+                    <th style="padding: 8px 12px;">各轮次 (R1 / R2 / R3)</th>
+                    <th style="padding: 8px 12px;">排名</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  ${scoresRows}
+                </tbody>
+              </table>
+            </div>
+          ` : `<div style="color: var(--text-dim); font-size: 0.85rem; margin-bottom: 24px;">暂无往届机器人单轮跑分记录</div>`}
+
+          <!-- Awards History -->
+          <h3 style="font-size: 1.1rem; margin-bottom: 12px; color: #fff;">🏅 历史所获官方大奖履历</h3>
+          ${awardsListHtml}
+        `;
+
+        modalOverlay.classList.add('open');
+      };
+
+      // Close Modal
+      document.getElementById('modal-close-btn').addEventListener('click', () => {
+        document.getElementById('team-modal').classList.remove('open');
+      });
+      document.getElementById('team-modal').addEventListener('click', (e) => {
+        if (e.target.id === 'team-modal') {
+          document.getElementById('team-modal').classList.remove('open');
+        }
+      });
+
+      // Tab Buttons Listener
+      document.querySelectorAll('#quick-filter-tabs .filter-tab-btn').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+          document.querySelectorAll('#quick-filter-tabs .filter-tab-btn').forEach(b => b.classList.remove('active-tab'));
+          btn.classList.add('active-tab');
+          activeFilterTab = btn.getAttribute('data-filter');
+          currentPage = 1;
+          renderTable();
+        });
+      });
+
+      // Select Listeners
+      document.getElementById('select-tier').addEventListener('change', (e) => {
+        selectedTier = e.target.value;
+        currentPage = 1;
+        renderTable();
+      });
+
+      document.getElementById('select-region').addEventListener('change', (e) => {
+        selectedRegion = e.target.value;
+        currentPage = 1;
+        renderTable();
+      });
+
+      document.getElementById('select-sort').addEventListener('change', (e) => {
+        selectedSort = e.target.value;
+        sortDirection = selectedSort === 'team_number' ? 'asc' : 'desc';
+        currentPage = 1;
+        renderTable();
+      });
+
+      // Search Listener with debounce
+      let searchTimeout = null;
+      document.getElementById('input-search').addEventListener('input', (e) => {
+        clearTimeout(searchTimeout);
+        searchTimeout = setTimeout(() => {
+          searchQuery = e.target.value;
+          currentPage = 1;
+          renderTable();
+        }, 150);
+      });
+
+      // Header sorting on table th
+      document.querySelectorAll('#leaderboard-table th[data-sort]').forEach(th => {
+        th.addEventListener('click', () => {
+          const col = th.getAttribute('data-sort');
+          if (selectedSort === col) {
+            sortDirection = sortDirection === 'desc' ? 'asc' : 'desc';
+          } else {
+            selectedSort = col;
+            sortDirection = col === 'team_number' || col === 'overall_rank' ? 'asc' : 'desc';
+          }
+
+          // Update header classes
+          document.querySelectorAll('#leaderboard-table th').forEach(h => {
+            h.classList.remove('sorted-asc', 'sorted-desc');
+          });
+          th.classList.add(sortDirection === 'asc' ? 'sorted-asc' : 'sorted-desc');
+
+          // Sync select
+          const sortSelect = document.getElementById('select-sort');
+          if ([...sortSelect.options].some(o => o.value === col)) {
+            sortSelect.value = col;
+          }
+
+          renderTable();
+        });
+      });
+
+      // CSV Export
+      document.getElementById('btn-export-csv').addEventListener('click', () => {
+        const filtered = getFilteredTeams();
+        const sorted = sortTeams(filtered);
+
+        let csvContent = '\uFEFF'; // UTF-8 BOM
+        csvContent += '战力榜,队伍编号,队伍名称,曾用名,城市,区域,学校机构,2026报名状态,已报比赛,实力梯队,综合战力分,生涯最高分,生涯均分,冠军奖数,总决赛晋级数,核心大奖数,参赛赛季数\n';
+
+        sorted.forEach(t => {
+          const pastStr = (t.past_names || []).map(p => p.name).join('; ');
+          const regEvents = (t.registered_events_2026 || []).map(e => `#${e.event_id} ${e.city}`).join('; ');
+          const row = [
+            t.overall_rank,
+            t.team_number,
+            `"${(t.team_name || '').replace(/"/g, '""')}"`,
+            `"${pastStr.replace(/"/g, '""')}"`,
+            `"${(t.city || '').replace(/"/g, '""')}"`,
+            `"${(t.region || '').replace(/"/g, '""')}"`,
+            `"${(t.org_name || '').replace(/"/g, '""')}"`,
+            `"${t.status_label}"`,
+            `"${regEvents.replace(/"/g, '""')}"`,
+            `"${t.tier}"`,
+            t.power_score,
+            t.career_max_score || '',
+            t.career_avg_score || '',
+            t.champions_count,
+            t.advancements_count,
+            t.core_awards_count,
+            t.seasons_count
+          ];
+          csvContent += row.join(',') + '\n';
+        });
+
+        const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `norcal_fll_historical_leaderboard_${activeFilterTab}.csv`;
+        a.click();
+        URL.revokeObjectURL(url);
+      });
+
+      // Initial Render
+      renderShowcase();
+      renderTable();
+    })();
+  </script>
+</body>
+</html>

@@ -773,6 +773,7 @@
       <!-- Nav Tabs -->
       <nav class="nav-tabs">
         <a href="index.html" class="nav-link">🏟️ 预选赛横向对比</a>
+        <a href="leaderboard.html" class="nav-link">🏆 历史战力榜 & 未报名追踪</a>
         <a href="teams.html" class="nav-link active">👥 全部队伍全景看板</a>
         <a href="event_teams.html" class="nav-link">⚔️ 各场参赛队分析</a>
       </nav>
@@ -975,14 +976,22 @@
 
           <!-- History Filter Dropdown -->
           <select id="filterHistory" class="filter-select">
-            <option value="ALL">全部历史资历 (All History)</option>
-            <option value="veteran">👑 Veteran 老牌强队 (145)</option>
-            <option value="experienced">🎖️ Experienced 有参赛经验 (82)</option>
-            <option value="rookie">🌱 Rookie 新生战队 (292)</option>
-            <option value="has_awards">🏆 曾斩获官方奖项 (86)</option>
-            <option value="tier_500">🔥 生涯 500+ 争冠顶尖 (4)</option>
-            <option value="tier_400">⚡ 生涯 400+ 一档强队 (19)</option>
-            <option value="advanced">🚀 曾获赛事晋级 (70)</option>
+            <option value="ALL">全部实力梯队与资历 (All Tiers & History)</option>
+            <optgroup label="⚡ 综合战力梯队 (Power Tier)">
+              <option value="tier_s">👑 Tier S 霸主/争冠热门 (11)</option>
+              <option value="tier_a">⚡ Tier A 种子强队/劲旅 (52)</option>
+              <option value="tier_b">💪 Tier B 中坚力量/资深 (122)</option>
+              <option value="tier_c">🌱 Tier C 成长中队伍/新锐 (71)</option>
+              <option value="tier_rookie">🆕 Rookie 初生战队/待赛 (263)</option>
+            </optgroup>
+            <optgroup label="📜 传统资历与荣誉">
+              <option value="veteran">👑 Veteran 老牌强队 (145)</option>
+              <option value="experienced">🎖️ Experienced 有参赛经验 (82)</option>
+              <option value="has_awards">🏆 曾斩获官方奖项 (86)</option>
+              <option value="tier_500">🔥 生涯 500+ 争冠顶尖 (4)</option>
+              <option value="tier_400">⚡ 生涯 400+ 一档强队 (19)</option>
+              <option value="advanced">🚀 曾获赛事晋级 (70)</option>
+            </optgroup>
           </select>
 
           <select id="filterProgram" class="filter-select">
@@ -1025,6 +1034,9 @@
               </th>
               <th class="sortable" onclick="handleSort('city')" style="width: 110px;" data-col="city" title="点击按城市排序">
                 城市 (City) <span class="sort-icon" id="sort-icon-city">↕</span>
+              </th>
+              <th class="sortable" onclick="handleSort('power_score')" style="min-width: 135px;" data-col="power_score" title="点击按综合历史战力打分排序">
+                战力评分 / 梯队 <span class="sort-icon" id="sort-icon-power_score">↕</span>
               </th>
               <th class="sortable" onclick="handleSort('s2025')" style="min-width: 145px;" data-col="s2025" title="点击按2025-26赛季最高分与荣誉排序">
                 2025-26 战绩 <span class="sort-icon" id="sort-icon-s2025">↕</span><br><span style="font-size:0.7rem;font-weight:normal;color:var(--text-dim);">UNEARTHED</span>
@@ -1077,7 +1089,7 @@
   </div>
 
   <!-- Data Script -->
-  <script src="teams_data.js?v=20261006_history_v2"></script>
+  <script src="teams_data.js?v=20261008_power_v4"></script>
   <script>
     // State
     const allTeams = window.PUBLIC_TEAMS_LIST || [];
@@ -1129,6 +1141,25 @@
       if (regShort.includes('半岛')) return 'badge-good';
       if (regShort.includes('首府')) return 'badge-danger';
       return 'badge-info';
+    }
+
+    // Helper: Render accurate power tier badge
+    function renderTierBadge(tier) {
+      const t = tier || 'Rookie (新队伍/待赛)';
+      if (t.includes('Tier S')) return `<span class="tier-badge tier-s" title="${escapeHtml(t)}">Tier S</span>`;
+      if (t.includes('Tier A')) return `<span class="tier-badge tier-a" title="${escapeHtml(t)}">Tier A</span>`;
+      if (t.includes('Tier B')) return `<span class="tier-badge tier-b" title="${escapeHtml(t)}">Tier B</span>`;
+      if (t.includes('Tier C')) return `<span class="tier-badge tier-c" title="${escapeHtml(t)}">Tier C</span>`;
+      return `<span class="tier-badge tier-rookie" title="${escapeHtml(t)}">Rookie</span>`;
+    }
+
+    // Helper: Render power score
+    function formatPowerScore(score) {
+      const num = parseFloat(score);
+      if (!isNaN(num) && num > 0) {
+        return `<span class="power-score-val" title="综合历史战力打分: ${num.toFixed(1)}分 (0-100分制)">${num.toFixed(1)}</span>`;
+      }
+      return `<span class="power-score-val" style="color: var(--text-dim);" title="初生队伍或暂无得分记录">-</span>`;
     }
 
     // Helper: Compute full analytics metrics on any team subset
@@ -1965,6 +1996,11 @@
           case "city":
             diff = (a.city || "").localeCompare(b.city || "", "zh-CN");
             break;
+          case "power_score":
+            const psA = a.power_score != null ? a.power_score : (a.history?.power_score || 0);
+            const psB = b.power_score != null ? b.power_score : (b.history?.power_score || 0);
+            diff = psA - psB;
+            break;
           case "s2025":
             diff = getSeasonSortValue(a, "2025") - getSeasonSortValue(b, "2025");
             break;
@@ -1998,7 +2034,7 @@
         currentSortDirection = currentSortDirection === "asc" ? "desc" : "asc";
       } else {
         currentSortColumn = col;
-        if (["s2025", "s2024", "s2023", "status", "compliance"].includes(col)) {
+        if (["power_score", "s2025", "s2024", "s2023", "status", "compliance"].includes(col)) {
           currentSortDirection = "desc";
         } else {
           currentSortDirection = "asc";
@@ -2009,7 +2045,7 @@
     }
 
     function updateSortUI() {
-      const cols = ["number", "name", "program", "city", "s2025", "s2024", "s2023", "status", "compliance"];
+      const cols = ["number", "name", "program", "city", "power_score", "s2025", "s2024", "s2023", "status", "compliance"];
       cols.forEach(c => {
         const icon = document.getElementById(`sort-icon-${c}`);
         const th = document.querySelector(`th[data-col="${c}"]`);
@@ -2051,10 +2087,16 @@
         // Region filter
         if (reg !== "ALL" && getTeamRegion(t.city) !== reg) return false;
 
-        // History filter
+        // History & Power Tier filter
         if (onlyVeteran && (t.history || {}).experience_tier !== "Veteran (老牌强队)") return false;
         if (hist !== "ALL") {
           const h = t.history || {};
+          const tTier = t.tier || h.tier || "";
+          if (hist === "tier_s" && !tTier.includes("Tier S")) return false;
+          if (hist === "tier_a" && !tTier.includes("Tier A")) return false;
+          if (hist === "tier_b" && !tTier.includes("Tier B")) return false;
+          if (hist === "tier_c" && !tTier.includes("Tier C")) return false;
+          if (hist === "tier_rookie" && !tTier.includes("Rookie")) return false;
           if (hist === "veteran" && h.experience_tier !== "Veteran (老牌强队)") return false;
           if (hist === "experienced" && h.experience_tier !== "Experienced (有参赛经验)") return false;
           if (hist === "rookie" && h.experience_tier !== "Rookie (新队伍)") return false;
@@ -2204,12 +2246,24 @@
           ? `<div class="team-past-name-sub" title="历届曾用名: ${escapeHtml(pastNames.join('、'))}">🏷️ 曾用: ${escapeHtml(pastNames.join('、'))}</div>` 
           : '';
 
+        // Roster count badge
+        const rosterCount = sq.roster_status?.count;
+        let rosterBadge = '';
+        if (rosterCount != null && rosterCount > 0) {
+          rosterBadge = `<span class="team-roster-tag" style="background: rgba(56, 189, 248, 0.16); border: 1px solid rgba(56, 189, 248, 0.4); color: #38bdf8; font-size: 0.72rem; padding: 1px 7px; border-radius: 999px; font-weight: 600; margin-left: 6px; display: inline-flex; align-items: center; gap: 3px;" title="当前花名册参赛队员人数: ${rosterCount} 人">👥 ${rosterCount}人</span>`;
+        } else if (rosterCount === 0) {
+          rosterBadge = `<span class="team-roster-tag" style="background: rgba(245, 158, 11, 0.14); border: 1px solid rgba(245, 158, 11, 0.4); color: #fbbf24; font-size: 0.72rem; padding: 1px 7px; border-radius: 999px; font-weight: 600; margin-left: 6px; display: inline-flex; align-items: center; gap: 3px;" title="花名册暂未录入队员 (0人)">👥 0人(未录入)</span>`;
+        } else {
+          rosterBadge = `<span class="team-roster-tag" style="background: rgba(255, 255, 255, 0.05); color: var(--text-dim); font-size: 0.72rem; padding: 1px 6px; border-radius: 999px; margin-left: 6px;" title="花名册人数未知">👥 -</span>`;
+        }
+
         return `
           <tr>
             <td><span class="team-num-badge">#${t.number}</span></td>
             <td>
               <div class="team-name-cell">
                 <span style="cursor: pointer;" onclick="showTeamHistory(${t.number})" title="点击查看战绩档案">${escapeHtml(t.name || '未命名')}</span>
+                ${rosterBadge}
                 <span class="btn-history-detail" style="margin-left: 6px; vertical-align: middle;" onclick="showTeamHistory(${t.number})" title="查看历年完整档案">详情 ↗</span>
               </div>
               ${pastNameHtml}
@@ -2220,6 +2274,12 @@
               <div style="font-weight: 500;">${escapeHtml(t.city || '-')}</div>
               <div style="margin-top: 3px;">
                 <span class="badge ${regBadgeCls}" style="font-size: 0.7rem; cursor: pointer;" title="点击按此区域筛选" onclick="filterByRegion('${teamReg}')">${regShort}</span>
+              </div>
+            </td>
+            <td>
+              <div style="display: flex; align-items: center; gap: 6px;">
+                ${formatPowerScore(t.power_score != null ? t.power_score : (t.history?.power_score || 0))}
+                ${renderTierBadge(t.tier || t.history?.tier)}
               </div>
             </td>
             <td>${s2025}</td>
@@ -2335,8 +2395,9 @@
               组别：<strong style="color: var(--cyan-neon);">${escapeHtml(team.program_label || '')}</strong>
             </div>
           </div>
-          <div>
-            <span class="badge ${h.experience_tier?.includes('Veteran') ? 'badge-veteran' : 'badge-experienced'}" style="font-size: 0.82rem;">
+          <div style="display: flex; gap: 8px; align-items: center;">
+            ${renderTierBadge(team.tier || h.tier)}
+            <span class="badge ${h.experience_tier?.includes('Veteran') ? 'badge-veteran' : (h.experience_tier?.includes('Experienced') ? 'badge-experienced' : 'badge-rookie')}" style="font-size: 0.82rem;">
               ${h.experience_tier || 'Rookie (新队伍)'}
             </span>
           </div>
@@ -2344,7 +2405,11 @@
 
         ${pastNamesHtml}
 
-        <div class="modal-kpi-row">
+        <div class="modal-kpi-row" style="grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));">
+          <div class="modal-kpi-box" style="border-color: rgba(0, 242, 254, 0.4); background: rgba(0, 242, 254, 0.08);">
+            <div class="val text-cyan" style="font-size: 1.45rem;">${team.power_score != null ? team.power_score : (h.power_score || '-')}</div>
+            <div class="lbl">综合历史战力分</div>
+          </div>
           <div class="modal-kpi-box">
             <div class="val text-amber">${h.max_score != null ? h.max_score : '-'}</div>
             <div class="lbl">生涯最高分</div>
