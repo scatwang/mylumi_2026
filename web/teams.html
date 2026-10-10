@@ -766,7 +766,7 @@
         <div class="logo-badge">FLL</div>
         <div class="title-group">
           <h1>NorCal FLL 全部参赛队伍全景看板</h1>
-          <p class="subtitle">MyLumi Public Teams 519 支注册队伍深度统计与资质诊断</p>
+          <p class="subtitle">MyLumi Public Teams 530 支注册队伍深度统计与资质诊断</p>
         </div>
       </div>
       
@@ -780,7 +780,7 @@
 
       <div class="header-season-tag">
         <span class="live-dot"></span>
-        <span id="data-updated-label">519 支已爬取队伍</span>
+        <span id="data-updated-label">530 支已爬取队伍</span>
       </div>
     </div>
   </header>
@@ -790,9 +790,9 @@
     <section class="hero-section" style="padding-top: 20px;">
       <div class="hero-content">
         <div class="hero-badge">2026 NorCal FIRST LEGO League 官方注册队伍</div>
-        <h2>519 支参赛队伍全景数据分析与合规诊断</h2>
+        <h2>530 支参赛队伍全景数据分析与合规诊断</h2>
         <p class="hero-desc">
-          涵盖北加州 70 个城市、106 个学校与机构的全部注册队伍数据。多维透视项目组别结构、合规审核瓶颈（指纹审查、花名册达标、全美筛查）、区域集中度与教练配置。
+          涵盖北加州 72 个城市、108 个学校与机构的全部注册队伍数据。多维透视项目组别结构、合规审核瓶颈（指纹审查、花名册达标、全美筛查）、区域集中度与教练配置。
         </p>
 
         <!-- Board Filter Bar (Only show FLL Challenge or other programs) -->
@@ -803,7 +803,7 @@
           </div>
           <div class="board-filter-pills" id="boardFilterPills">
             <button class="board-pill active" data-program="ALL">
-              <span>🌐 全部项目组别 (519)</span>
+              <span>🌐 全部项目组别 (530)</span>
             </button>
             <button class="board-pill highlight" data-program="FIRST LEGO League: Challenge" id="btnFilterChallenge">
               <span>🏆 只看 FLL-Challenge (349)</span>
@@ -827,7 +827,7 @@
         <div class="kpi-grid">
           <div class="kpi-card">
             <div class="kpi-label" id="kpi-label-total">队伍总数 (Total Teams)</div>
-            <div class="kpi-value text-cyan" id="kpi-total">519</div>
+            <div class="kpi-value text-cyan" id="kpi-total">530</div>
             <div class="kpi-sub" id="kpi-sub-total">北加州各级别注册队伍</div>
           </div>
           <div class="kpi-card">
@@ -1089,7 +1089,7 @@
   </div>
 
   <!-- Data Script -->
-  <script src="teams_data.js?v=20261008_power_v4"></script>
+  <script src="teams_data.js?v=20261009_sync_v5"></script>
   <script>
     // State
     const allTeams = window.PUBLIC_TEAMS_LIST || [];
@@ -1362,6 +1362,12 @@
       updatePillsActiveUI(currentBoardProgram);
       updateReadyUI();
       updateVeteranUI();
+
+      // Sync header data label
+      const updatedLabel = document.getElementById("data-updated-label");
+      if (updatedLabel && allTeams.length > 0) {
+        updatedLabel.textContent = `${allTeams.length} 支已爬取队伍`;
+      }
 
       // Render Board & Filter Table
       renderBoardAndSync();

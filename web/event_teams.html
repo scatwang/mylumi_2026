@@ -963,7 +963,7 @@
 
       <div class="header-season-tag">
         <span class="live-dot"></span>
-        <span id="data-updated-label">14 场分站赛 · 119 支已报队伍</span>
+        <span id="data-updated-label">16 场分站赛 · 169 支已报队伍</span>
       </div>
     </div>
   </header>
@@ -978,7 +978,7 @@
             <span style="font-size: 0.8rem; font-weight: normal; color: var(--text-dim);">（点击表格任意行即可即时钻取该场比赛专属参赛队与阵容）</span>
           </h2>
           <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 3px;" id="matrixSubSummary">
-            当前涵盖全部 14 场分站赛 · 实时对比比赛日期、参赛队数量、队伍构成、历史高分与获奖荣誉
+            当前涵盖全部 16 场分站赛 · 实时对比比赛日期、参赛队数量、队伍构成、历史高分与获奖荣誉
           </div>
         </div>
         <div style="display: flex; gap: 10px; align-items: center;">
@@ -1156,7 +1156,7 @@
             </p>
           </div>
           <div style="font-size: 0.84rem; color: var(--cyan-neon); font-weight: 600;" id="overviewSummaryText">
-            共 14 场分站赛
+            共 16 场分站赛 (总报名 169 支队伍)
           </div>
         </div>
 
@@ -1201,8 +1201,8 @@
   </div>
 
   <!-- Data Scripts -->
-  <script src="event_teams_data.js?v=20261008_power_v4"></script>
-  <script src="teams_data.js?v=20261008_power_v4"></script>
+  <script src="event_teams_data.js?v=20261009_sync_v5"></script>
+  <script src="teams_data.js?v=20261009_sync_v5"></script>
 
   <script>
     // State
@@ -1269,6 +1269,28 @@
       return `<span class="power-score-val" style="color: var(--text-dim);" title="初生队伍或暂无得分记录">-</span>`;
     }
 
+    function initHeaderAndMeta() {
+      const evCount = (allEventData.events || []).length;
+      const regCount = allEventData.total_registered || 0;
+      const cap = allEventData.total_capacity || 0;
+      const fillPct = allEventData.overall_fill_rate || 0;
+
+      const dataUpdatedLabel = document.getElementById("data-updated-label");
+      if (dataUpdatedLabel && evCount > 0) {
+        dataUpdatedLabel.textContent = `${evCount} 场分站赛 · ${regCount} 支已报队伍`;
+      }
+
+      const matrixSub = document.getElementById("matrixSubSummary");
+      if (matrixSub && evCount > 0) {
+        matrixSub.textContent = `当前涵盖全部 ${evCount} 场分站赛 · 已报 ${regCount}/${cap} 席位 (${fillPct}%) · 实时对比比赛日期、参赛队数量、队伍构成、历史高分与获奖荣誉`;
+      }
+
+      const overviewText = document.getElementById("overviewSummaryText");
+      if (overviewText && evCount > 0) {
+        overviewText.textContent = `共 ${evCount} 场分站赛 (总报名 ${regCount} 支队伍)`;
+      }
+    }
+
     document.addEventListener("DOMContentLoaded", () => {
       // 1. Check URL parameters (e.g. ?event=311)
       const urlParams = new URLSearchParams(window.location.search);
@@ -1280,6 +1302,7 @@
         currentEventId = allEventData.events.length > 0 ? allEventData.events[0].event_id : "ALL";
       }
 
+      initHeaderAndMeta();
       initSwitcher();
       renderEventsMatrixTable();
       renderCurrentView();
@@ -1289,7 +1312,7 @@
       // Legacy pill/dropdown support if present
       const dropdown = document.getElementById("eventDropdownSelect");
       if (dropdown) {
-        dropdown.innerHTML = `<option value="ALL">🌐 全部分站赛横向对比 (14 站一览)</option>`;
+        dropdown.innerHTML = `<option value="ALL">🌐 全部分站赛横向对比 (${(allEventData.events || []).length} 站一览)</option>`;
         allEventData.events.forEach(ev => {
           const opt = document.createElement("option");
           opt.value = ev.event_id;
