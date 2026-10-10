@@ -1,7 +1,7 @@
 {
   "event_id": 315,
   "event_name": "2026 NorCal FLL FUTURE BIOGLOW Event - NOV 22 The Play Space, San Jose",
-  "count": 5,
+  "count": 6,
   "teams": [
     {
       "id": 2392,
@@ -11,6 +11,18 @@
         "name": "Master Builders",
         "city": "Santa Clara",
         "org_name": "Stratford Middle School, Harker"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2433,
+      "team": {
+        "id": 2908,
+        "number": 600121,
+        "name": "DCADS Robo Cubs",
+        "city": "Santa Clara",
+        "org_name": "Don Callejon"
       },
       "advancing_to_next_level": false,
       "advancing_wait_list": false
@@ -32,7 +44,7 @@
       "team": {
         "id": 2919,
         "number": 600480,
-        "name": "Relic Raiders",
+        "name": "Mike Wazowskis",
         "city": "San Jose",
         "org_name": "Bret Harte Middle"
       },

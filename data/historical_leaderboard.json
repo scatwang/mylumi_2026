@@ -1,24 +1,24 @@
 {
   "summary": {
     "generated_at": "2026-10-08",
-    "total_teams": 1346,
-    "registered_2026_count": 155,
-    "unregistered_2026_count": 1191,
-    "unregistered_tier_s_count": 29,
-    "unregistered_tier_a_count": 114,
-    "unregistered_powerhouses_count": 143,
-    "unregistered_champions_count": 51,
+    "total_teams": 1347,
+    "registered_2026_count": 169,
+    "unregistered_2026_count": 1178,
+    "unregistered_tier_s_count": 28,
+    "unregistered_tier_a_count": 113,
+    "unregistered_powerhouses_count": 141,
+    "unregistered_champions_count": 50,
     "unregistered_500_plus_count": 7,
-    "unregistered_400_plus_count": 58,
+    "unregistered_400_plus_count": 56,
     "total_champions_teams": 68,
     "total_tier_s_teams": 39,
-    "total_tier_a_teams": 156,
+    "total_tier_a_teams": 157,
     "region_powerhouse_distribution": {
       "东湾 (East Bay)": 43,
-      "半岛 (Peninsula)": 21,
       "南湾 (South Bay)": 57,
       "旧金山 (San Francisco)": 3,
-      "中央谷/萨克拉门托 (Central Valley)": 17,
+      "中央谷/萨克拉门托 (Central Valley)": 16,
+      "半岛 (Peninsula)": 20,
       "北湾 (North Bay)": 1,
       "其他地区 (Other)": 1
     }
@@ -822,12 +822,20 @@
         "👑 曾战锦标赛",
         "🛡️ 三朝元老队伍"
       ],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 309,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Nueva School, San Mateo",
+          "city": null,
+          "venue_name": null,
+          "date": "2026-11-15"
+        }
+      ],
       "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: TBD (2026-11-15)",
       "compliance_status": "good",
       "compliance_checks": {
         "screening": true,
@@ -845,13 +853,14 @@
         "2025": 425.0
       },
       "best_ranking": 2,
-      "seasons_count": 3,
+      "seasons_count": 4,
       "seasons_played": [
         "2023 - MASTERPIECE (Challenge)",
         "2024 - SUBMERGED (Challenge)",
-        "2025 - UNEARTHED (Challenge)"
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
       ],
-      "events_count": 6,
+      "events_count": 7,
       "awards_count": 6,
       "champions_count": 4,
       "core_awards_count": 2,
@@ -4653,7 +4662,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -5911,7 +5920,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -8123,11 +8132,11 @@
       "status_code": "registered",
       "status_label": "🟢 已报名 2026",
       "status_desc": "已报名: Sunnyvale (2026-11-14)",
-      "compliance_status": "good",
+      "compliance_status": "pending_fingerprinting",
       "compliance_checks": {
         "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
+        "fingerprinting": false,
+        "coaches": false,
         "roster": true,
         "agreements": true
       },
@@ -9179,11 +9188,11 @@
       "status_code": "registered",
       "status_label": "🟢 已报名 2026",
       "status_desc": "已报名: Palo Alto (2026-11-21)",
-      "compliance_status": "good",
+      "compliance_status": "pending_fingerprinting",
       "compliance_checks": {
         "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
+        "fingerprinting": false,
+        "coaches": false,
         "roster": true,
         "agreements": true
       },
@@ -11232,7 +11241,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -11242,7 +11251,7 @@
       "status_code": "registered",
       "status_label": "🟢 已报名 2026",
       "status_desc": "已报名: East Palo Alto (2026-11-22)",
-      "compliance_status": "good",
+      "compliance_status": "roster_overload",
       "compliance_checks": {
         "screening": true,
         "fingerprinting": true,
@@ -13537,7 +13546,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -14317,11 +14326,11 @@
       "status_code": "registered",
       "status_label": "🟢 已报名 2026",
       "status_desc": "已报名: Sunnyvale (2026-11-14)",
-      "compliance_status": "good",
+      "compliance_status": "roster_overload",
       "compliance_checks": {
         "screening": true,
         "fingerprinting": true,
-        "coaches": true,
+        "coaches": false,
         "roster": true,
         "agreements": true
       },
@@ -16332,6 +16341,76 @@
       "overall_rank": 125
     },
     {
+      "team_number": 71804,
+      "team_name": "Astrobot",
+      "past_names": [],
+      "city": "Mountain House",
+      "region": "中央谷/萨克拉门托 (Central Valley)",
+      "org_name": "Family/Community",
+      "power_score": 45.4,
+      "tier": "Tier A (种子强队/劲旅)",
+      "tags": [
+        "⚡ 400+ 顶尖得分"
+      ],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 302,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT – The Dorris-Eaton School, San Ramon",
+          "city": "San Ramon",
+          "venue_name": "The Dorris-Eaton School",
+          "date": "2026-11-07"
+        }
+      ],
+      "in_public_teams": true,
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: San Ramon (2026-11-07)",
+      "compliance_status": "good",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": true,
+        "coaches": true,
+        "roster": true,
+        "agreements": true
+      },
+      "roster_count": 2,
+      "career_max_score": 440.0,
+      "career_avg_score": 440.0,
+      "season_max_scores": {
+        "2025": 440.0
+      },
+      "best_ranking": 1,
+      "seasons_count": 2,
+      "seasons_played": [
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
+      ],
+      "events_count": 2,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [],
+      "scores_list": [
+        {
+          "event_id": 176,
+          "event_name": "2025 NorCal FLL-C:  Modesto QT at Beyer HS",
+          "season": "2025 - UNEARTHED (Challenge)",
+          "date": "2025-11-08",
+          "highest_score": 440.0,
+          "round_1": 400.0,
+          "round_2": 440.0,
+          "round_3": 380.0,
+          "round_4": null,
+          "ranking": 1
+        }
+      ],
+      "overall_rank": 126
+    },
+    {
       "team_number": 17492,
       "team_name": "17492",
       "past_names": [
@@ -16481,7 +16560,7 @@
           "ranking": 53
         }
       ],
-      "overall_rank": 126
+      "overall_rank": 127
     },
     {
       "team_number": 70178,
@@ -16571,7 +16650,7 @@
           "ranking": 1
         }
       ],
-      "overall_rank": 127
+      "overall_rank": 128
     },
     {
       "team_number": 2847,
@@ -16713,7 +16792,7 @@
           "ranking": 4
         }
       ],
-      "overall_rank": 128
+      "overall_rank": 129
     },
     {
       "team_number": 30517,
@@ -16829,7 +16908,7 @@
           "ranking": 24
         }
       ],
-      "overall_rank": 129
+      "overall_rank": 130
     },
     {
       "team_number": 72257,
@@ -16927,7 +17006,7 @@
           "ranking": 18
         }
       ],
-      "overall_rank": 130
+      "overall_rank": 131
     },
     {
       "team_number": 62296,
@@ -17015,7 +17094,7 @@
           "ranking": 33
         }
       ],
-      "overall_rank": 131
+      "overall_rank": 132
     },
     {
       "team_number": 71598,
@@ -17105,7 +17184,7 @@
           "ranking": 32
         }
       ],
-      "overall_rank": 132
+      "overall_rank": 133
     },
     {
       "team_number": 61301,
@@ -17196,7 +17275,7 @@
           "ranking": 19
         }
       ],
-      "overall_rank": 133
+      "overall_rank": 134
     },
     {
       "team_number": 66233,
@@ -17299,7 +17378,7 @@
           "ranking": 12
         }
       ],
-      "overall_rank": 134
+      "overall_rank": 135
     },
     {
       "team_number": 417,
@@ -17397,67 +17476,6 @@
           "round_3": 235.0,
           "round_4": 225.0,
           "ranking": 18
-        }
-      ],
-      "overall_rank": 135
-    },
-    {
-      "team_number": 71804,
-      "team_name": "Astrobot",
-      "past_names": [],
-      "city": "Mountain House",
-      "region": "中央谷/萨克拉门托 (Central Valley)",
-      "org_name": "Family/Community",
-      "power_score": 44.3,
-      "tier": "Tier A (种子强队/劲旅)",
-      "tags": [
-        "⚡ 400+ 顶尖得分"
-      ],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "good",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
-        "roster": true,
-        "agreements": true
-      },
-      "roster_count": 2,
-      "career_max_score": 440.0,
-      "career_avg_score": 440.0,
-      "season_max_scores": {
-        "2025": 440.0
-      },
-      "best_ranking": 1,
-      "seasons_count": 1,
-      "seasons_played": [
-        "2025 - UNEARTHED (Challenge)"
-      ],
-      "events_count": 1,
-      "awards_count": 0,
-      "champions_count": 0,
-      "core_awards_count": 0,
-      "advancements_count": 0,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [],
-      "scores_list": [
-        {
-          "event_id": 176,
-          "event_name": "2025 NorCal FLL-C:  Modesto QT at Beyer HS",
-          "season": "2025 - UNEARTHED (Challenge)",
-          "date": "2025-11-08",
-          "highest_score": 440.0,
-          "round_1": 400.0,
-          "round_2": 440.0,
-          "round_3": 380.0,
-          "round_4": null,
-          "ranking": 1
         }
       ],
       "overall_rank": 136
@@ -22585,6 +22603,119 @@
       "overall_rank": 186
     },
     {
+      "team_number": 67854,
+      "team_name": "Superstars",
+      "past_names": [],
+      "city": "fremont",
+      "region": "东湾 (East Bay)",
+      "org_name": "Family/Community",
+      "power_score": 39.5,
+      "tier": "Tier B (中坚力量/资深)",
+      "tags": [
+        "🚀 晋级总决赛 x1",
+        "🛡️ 三朝元老队伍"
+      ],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 306,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - San Francisco Bay University, Fremont",
+          "city": null,
+          "venue_name": null,
+          "date": "2026-11-14"
+        }
+      ],
+      "in_public_teams": true,
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: TBD (2026-11-14)",
+      "compliance_status": "good",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": true,
+        "coaches": true,
+        "roster": true,
+        "agreements": true
+      },
+      "roster_count": 2,
+      "career_max_score": 270.0,
+      "career_avg_score": 270.0,
+      "season_max_scores": {
+        "2025": 270.0
+      },
+      "best_ranking": 6,
+      "seasons_count": 3,
+      "seasons_played": [
+        "2024 - SUBMERGED (Challenge)",
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
+      ],
+      "events_count": 3,
+      "awards_count": 2,
+      "champions_count": 0,
+      "core_awards_count": 2,
+      "advancements_count": 1,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [
+        {
+          "event_id": 47,
+          "team_number": 67854,
+          "team_name": "Superstars",
+          "award_name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "place_number": 0,
+          "city": "fremont",
+          "team_org": "Family/Community",
+          "season": "2024 - SUBMERGED (Challenge)",
+          "event_name": "2024 NorCal FLL-C:  San Francisco QT at Lowell HS",
+          "start_time": "2024-11-09T08:00:00-08:00"
+        },
+        {
+          "event_id": 47,
+          "team_number": 67854,
+          "team_name": "Superstars",
+          "award_name": "Coach/Mentor Award",
+          "display_name": "Coach/Mentor Award",
+          "category": "core",
+          "place_number": 0,
+          "city": "fremont",
+          "team_org": "Family/Community",
+          "season": "2024 - SUBMERGED (Challenge)",
+          "event_name": "2024 NorCal FLL-C:  San Francisco QT at Lowell HS",
+          "start_time": "2024-11-09T08:00:00-08:00"
+        }
+      ],
+      "scores_list": [
+        {
+          "event_id": 47,
+          "event_name": "2024 NorCal FLL-C:  San Francisco QT at Lowell HS",
+          "season": "2024 - SUBMERGED (Challenge)",
+          "date": "2024-11-09",
+          "highest_score": null,
+          "round_1": null,
+          "round_2": null,
+          "round_3": null,
+          "round_4": null,
+          "ranking": null
+        },
+        {
+          "event_id": 192,
+          "event_name": "2025 NorCal FLL-C:  Fremont QT at Gomes",
+          "season": "2025 - UNEARTHED (Challenge)",
+          "date": "2025-11-08",
+          "highest_score": 270.0,
+          "round_1": 145.0,
+          "round_2": 230.0,
+          "round_3": 270.0,
+          "round_4": null,
+          "ranking": 6
+        }
+      ],
+      "overall_rank": 187
+    },
+    {
       "team_number": 70135,
       "team_name": "WorkInProgress",
       "past_names": [],
@@ -22656,7 +22787,7 @@
           "ranking": 1
         }
       ],
-      "overall_rank": 187
+      "overall_rank": 188
     },
     {
       "team_number": 69207,
@@ -22746,7 +22877,7 @@
           "ranking": 3
         }
       ],
-      "overall_rank": 188
+      "overall_rank": 189
     },
     {
       "team_number": 69947,
@@ -22855,7 +22986,7 @@
           "ranking": 1
         }
       ],
-      "overall_rank": 189
+      "overall_rank": 190
     },
     {
       "team_number": 65902,
@@ -22956,7 +23087,7 @@
           "ranking": 19
         }
       ],
-      "overall_rank": 190
+      "overall_rank": 191
     },
     {
       "team_number": 60623,
@@ -23033,7 +23164,7 @@
           "ranking": 18
         }
       ],
-      "overall_rank": 191
+      "overall_rank": 192
     },
     {
       "team_number": 70000,
@@ -23130,109 +23261,6 @@
           "round_3": 350.0,
           "round_4": null,
           "ranking": 2
-        }
-      ],
-      "overall_rank": 192
-    },
-    {
-      "team_number": 67854,
-      "team_name": "Superstars",
-      "past_names": [],
-      "city": "fremont",
-      "region": "东湾 (East Bay)",
-      "org_name": "Family/Community",
-      "power_score": 38.7,
-      "tier": "Tier B (中坚力量/资深)",
-      "tags": [
-        "🚀 晋级总决赛 x1"
-      ],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "good",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
-        "roster": true,
-        "agreements": true
-      },
-      "roster_count": 2,
-      "career_max_score": 270.0,
-      "career_avg_score": 270.0,
-      "season_max_scores": {
-        "2025": 270.0
-      },
-      "best_ranking": 6,
-      "seasons_count": 2,
-      "seasons_played": [
-        "2024 - SUBMERGED (Challenge)",
-        "2025 - UNEARTHED (Challenge)"
-      ],
-      "events_count": 2,
-      "awards_count": 2,
-      "champions_count": 0,
-      "core_awards_count": 2,
-      "advancements_count": 1,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [
-        {
-          "event_id": 47,
-          "team_number": 67854,
-          "team_name": "Superstars",
-          "award_name": "Robot Design Award",
-          "display_name": "Robot Design Award",
-          "category": "core",
-          "place_number": 0,
-          "city": "fremont",
-          "team_org": "Family/Community",
-          "season": "2024 - SUBMERGED (Challenge)",
-          "event_name": "2024 NorCal FLL-C:  San Francisco QT at Lowell HS",
-          "start_time": "2024-11-09T08:00:00-08:00"
-        },
-        {
-          "event_id": 47,
-          "team_number": 67854,
-          "team_name": "Superstars",
-          "award_name": "Coach/Mentor Award",
-          "display_name": "Coach/Mentor Award",
-          "category": "core",
-          "place_number": 0,
-          "city": "fremont",
-          "team_org": "Family/Community",
-          "season": "2024 - SUBMERGED (Challenge)",
-          "event_name": "2024 NorCal FLL-C:  San Francisco QT at Lowell HS",
-          "start_time": "2024-11-09T08:00:00-08:00"
-        }
-      ],
-      "scores_list": [
-        {
-          "event_id": 47,
-          "event_name": "2024 NorCal FLL-C:  San Francisco QT at Lowell HS",
-          "season": "2024 - SUBMERGED (Challenge)",
-          "date": "2024-11-09",
-          "highest_score": null,
-          "round_1": null,
-          "round_2": null,
-          "round_3": null,
-          "round_4": null,
-          "ranking": null
-        },
-        {
-          "event_id": 192,
-          "event_name": "2025 NorCal FLL-C:  Fremont QT at Gomes",
-          "season": "2025 - UNEARTHED (Challenge)",
-          "date": "2025-11-08",
-          "highest_score": 270.0,
-          "round_1": 145.0,
-          "round_2": 230.0,
-          "round_3": 270.0,
-          "round_4": null,
-          "ranking": 6
         }
       ],
       "overall_rank": 193
@@ -27275,6 +27303,81 @@
       "overall_rank": 239
     },
     {
+      "team_number": 71748,
+      "team_name": "Volt Vipers",
+      "past_names": [
+        {
+          "name": "Golden Gears",
+          "seasons": [
+            "2025"
+          ]
+        }
+      ],
+      "city": "San Jose",
+      "region": "南湾 (South Bay)",
+      "org_name": "Family/Community",
+      "power_score": 35.1,
+      "tier": "Tier A (种子强队/劲旅)",
+      "tags": [],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 313,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - BASIS Independent School, Dublin",
+          "city": null,
+          "venue_name": null,
+          "date": "2026-11-14"
+        }
+      ],
+      "in_public_teams": true,
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: TBD (2026-11-14)",
+      "compliance_status": "good",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": true,
+        "coaches": true,
+        "roster": true,
+        "agreements": true
+      },
+      "roster_count": 8,
+      "career_max_score": 335.0,
+      "career_avg_score": 335.0,
+      "season_max_scores": {
+        "2025": 335.0
+      },
+      "best_ranking": 3,
+      "seasons_count": 2,
+      "seasons_played": [
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
+      ],
+      "events_count": 2,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [],
+      "scores_list": [
+        {
+          "event_id": 274,
+          "event_name": "2026 NorCal FLL-C:  Livermore Spring League at East Avenue Middle School",
+          "season": "2025 - UNEARTHED (Challenge)",
+          "date": "2026-05-02",
+          "highest_score": 335.0,
+          "round_1": 275.0,
+          "round_2": 335.0,
+          "round_3": 300.0,
+          "round_4": null,
+          "ranking": 3
+        }
+      ],
+      "overall_rank": 240
+    },
+    {
       "team_number": 71669,
       "team_name": "TheCodeBlooded4",
       "past_names": [],
@@ -27348,7 +27451,7 @@
           "ranking": 7
         }
       ],
-      "overall_rank": 240
+      "overall_rank": 241
     },
     {
       "team_number": 55971,
@@ -27445,7 +27548,7 @@
           "ranking": 24
         }
       ],
-      "overall_rank": 241
+      "overall_rank": 242
     },
     {
       "team_number": 4506,
@@ -27573,7 +27676,7 @@
           "ranking": 6
         }
       ],
-      "overall_rank": 242
+      "overall_rank": 243
     },
     {
       "team_number": 75128,
@@ -27641,7 +27744,7 @@
           "ranking": 2
         }
       ],
-      "overall_rank": 243
+      "overall_rank": 244
     },
     {
       "team_number": 60070,
@@ -27732,7 +27835,7 @@
           "ranking": 7
         }
       ],
-      "overall_rank": 244
+      "overall_rank": 245
     },
     {
       "team_number": 65783,
@@ -27791,7 +27894,7 @@
           "ranking": 6
         }
       ],
-      "overall_rank": 245
+      "overall_rank": 246
     },
     {
       "team_number": 70487,
@@ -27850,7 +27953,7 @@
           "ranking": 6
         }
       ],
-      "overall_rank": 246
+      "overall_rank": 247
     },
     {
       "team_number": 71969,
@@ -27909,7 +28012,7 @@
           "ranking": 4
         }
       ],
-      "overall_rank": 247
+      "overall_rank": 248
     },
     {
       "team_number": 55976,
@@ -27999,7 +28102,7 @@
           "ranking": 29
         }
       ],
-      "overall_rank": 248
+      "overall_rank": 249
     },
     {
       "team_number": 65841,
@@ -28072,7 +28175,7 @@
           "ranking": 2
         }
       ],
-      "overall_rank": 249
+      "overall_rank": 250
     },
     {
       "team_number": 66280,
@@ -28156,7 +28259,7 @@
           "ranking": 6
         }
       ],
-      "overall_rank": 250
+      "overall_rank": 251
     },
     {
       "team_number": 66923,
@@ -28244,7 +28347,7 @@
           "ranking": 5
         }
       ],
-      "overall_rank": 251
+      "overall_rank": 252
     },
     {
       "team_number": 52305,
@@ -28333,7 +28436,7 @@
           "ranking": 25
         }
       ],
-      "overall_rank": 252
+      "overall_rank": 253
     },
     {
       "team_number": 65978,
@@ -28421,7 +28524,7 @@
           "ranking": 17
         }
       ],
-      "overall_rank": 253
+      "overall_rank": 254
     },
     {
       "team_number": 73699,
@@ -28504,7 +28607,7 @@
           "ranking": 5
         }
       ],
-      "overall_rank": 254
+      "overall_rank": 255
     },
     {
       "team_number": 65892,
@@ -28590,7 +28693,7 @@
           "ranking": 3
         }
       ],
-      "overall_rank": 255
+      "overall_rank": 256
     },
     {
       "team_number": 72683,
@@ -28658,7 +28761,7 @@
           "ranking": 1
         }
       ],
-      "overall_rank": 256
+      "overall_rank": 257
     },
     {
       "team_number": 68960,
@@ -28736,72 +28839,6 @@
           "round_3": 330.0,
           "round_4": null,
           "ranking": 6
-        }
-      ],
-      "overall_rank": 257
-    },
-    {
-      "team_number": 71748,
-      "team_name": "Volt Vipers",
-      "past_names": [
-        {
-          "name": "Golden Gears",
-          "seasons": [
-            "2025"
-          ]
-        }
-      ],
-      "city": "San Jose",
-      "region": "南湾 (South Bay)",
-      "org_name": "Family/Community",
-      "power_score": 34.0,
-      "tier": "Tier B (中坚力量/资深)",
-      "tags": [],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "good",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
-        "roster": true,
-        "agreements": true
-      },
-      "roster_count": 8,
-      "career_max_score": 335.0,
-      "career_avg_score": 335.0,
-      "season_max_scores": {
-        "2025": 335.0
-      },
-      "best_ranking": 3,
-      "seasons_count": 1,
-      "seasons_played": [
-        "2025 - UNEARTHED (Challenge)"
-      ],
-      "events_count": 1,
-      "awards_count": 0,
-      "champions_count": 0,
-      "core_awards_count": 0,
-      "advancements_count": 0,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [],
-      "scores_list": [
-        {
-          "event_id": 274,
-          "event_name": "2026 NorCal FLL-C:  Livermore Spring League at East Avenue Middle School",
-          "season": "2025 - UNEARTHED (Challenge)",
-          "date": "2026-05-02",
-          "highest_score": 335.0,
-          "round_1": 275.0,
-          "round_2": 335.0,
-          "round_3": 300.0,
-          "round_4": null,
-          "ranking": 3
         }
       ],
       "overall_rank": 258
@@ -29134,7 +29171,7 @@
       "status_code": "unregistered_active",
       "status_label": "🟡 在册未报名 (Active Unregistered)",
       "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "good",
+      "compliance_status": "roster_overload",
       "compliance_checks": {
         "screening": true,
         "fingerprinting": true,
@@ -30674,13 +30711,13 @@
       "status_code": "unregistered_active",
       "status_label": "🟡 在册未报名 (Active Unregistered)",
       "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "waiting_jotform",
+      "compliance_status": "good",
       "compliance_checks": {
         "screening": true,
         "fingerprinting": true,
         "coaches": true,
         "roster": true,
-        "agreements": false
+        "agreements": true
       },
       "roster_count": 5,
       "career_max_score": 320.0,
@@ -31406,7 +31443,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -34166,7 +34203,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -35615,7 +35652,7 @@
         "roster": true,
         "agreements": true
       },
-      "roster_count": 5,
+      "roster_count": 6,
       "career_max_score": 220.0,
       "career_avg_score": 203.3,
       "season_max_scores": {
@@ -37664,7 +37701,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -42320,6 +42357,103 @@
       "overall_rank": 431
     },
     {
+      "team_number": 70221,
+      "team_name": "Hydrobots - SBR",
+      "past_names": [
+        {
+          "name": "BroBots - SBR Team Sunnyvale",
+          "seasons": [
+            "2024"
+          ]
+        },
+        {
+          "name": "BroBots - SBR",
+          "seasons": [
+            "2025"
+          ]
+        }
+      ],
+      "city": "Sunnyvale",
+      "region": "南湾 (South Bay)",
+      "org_name": "Family/Community",
+      "power_score": 24.4,
+      "tier": "Tier B (中坚力量/资深)",
+      "tags": [
+        "🛡️ 三朝元老队伍"
+      ],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 312,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+          "city": "San Francisco",
+          "venue_name": "Lowell High School",
+          "date": "2026-11-21"
+        }
+      ],
+      "in_public_teams": true,
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: San Francisco (2026-11-21)",
+      "compliance_status": "good",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": true,
+        "coaches": true,
+        "roster": true,
+        "agreements": true
+      },
+      "roster_count": 2,
+      "career_max_score": 220.0,
+      "career_avg_score": 215.0,
+      "season_max_scores": {
+        "2024": 210.0,
+        "2025": 220.0
+      },
+      "best_ranking": 5,
+      "seasons_count": 3,
+      "seasons_played": [
+        "2024 - SUBMERGED (Challenge)",
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
+      ],
+      "events_count": 3,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [],
+      "scores_list": [
+        {
+          "event_id": 119,
+          "event_name": "2025 NorCal FLL-C : Sunnyvale Spring League - 4/26",
+          "season": "2024 - SUBMERGED (Challenge)",
+          "date": "2025-04-26",
+          "highest_score": 210.0,
+          "round_1": 150.0,
+          "round_2": 210.0,
+          "round_3": 125.0,
+          "round_4": null,
+          "ranking": 5
+        },
+        {
+          "event_id": 186,
+          "event_name": "2025 NorCal FLL-C:  San Jose QT at St Christopher",
+          "season": "2025 - UNEARTHED (Challenge)",
+          "date": "2025-11-15",
+          "highest_score": 220.0,
+          "round_1": 165.0,
+          "round_2": 195.0,
+          "round_3": 220.0,
+          "round_4": null,
+          "ranking": 9
+        }
+      ],
+      "overall_rank": 432
+    },
+    {
       "team_number": 60913,
       "team_name": "Basement Bots",
       "past_names": [],
@@ -42377,7 +42511,7 @@
           "ranking": 8
         }
       ],
-      "overall_rank": 432
+      "overall_rank": 433
     },
     {
       "team_number": 61397,
@@ -42444,7 +42578,7 @@
           "ranking": 4
         }
       ],
-      "overall_rank": 433
+      "overall_rank": 434
     },
     {
       "team_number": 65350,
@@ -42503,7 +42637,7 @@
           "ranking": 4
         }
       ],
-      "overall_rank": 434
+      "overall_rank": 435
     },
     {
       "team_number": 67524,
@@ -42562,7 +42696,7 @@
           "ranking": 7
         }
       ],
-      "overall_rank": 435
+      "overall_rank": 436
     },
     {
       "team_number": 72801,
@@ -42636,7 +42770,7 @@
           "ranking": 9
         }
       ],
-      "overall_rank": 436
+      "overall_rank": 437
     },
     {
       "team_number": 68910,
@@ -42722,7 +42856,7 @@
           "ranking": 9
         }
       ],
-      "overall_rank": 437
+      "overall_rank": 438
     },
     {
       "team_number": 61017,
@@ -42820,7 +42954,7 @@
           "ranking": 8
         }
       ],
-      "overall_rank": 438
+      "overall_rank": 439
     },
     {
       "team_number": 61334,
@@ -42902,7 +43036,7 @@
           "ranking": 15
         }
       ],
-      "overall_rank": 439
+      "overall_rank": 440
     },
     {
       "team_number": 57344,
@@ -42962,7 +43096,82 @@
           "ranking": 5
         }
       ],
-      "overall_rank": 440
+      "overall_rank": 441
+    },
+    {
+      "team_number": 72379,
+      "team_name": "Bamboo Bots - SBR",
+      "past_names": [
+        {
+          "name": "SBR TEAM ORANGE",
+          "seasons": [
+            "2025"
+          ]
+        }
+      ],
+      "city": "Sunnyvale",
+      "region": "南湾 (South Bay)",
+      "org_name": "Family/Community",
+      "power_score": 23.8,
+      "tier": "Tier B (中坚力量/资深)",
+      "tags": [],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 312,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+          "city": "San Francisco",
+          "venue_name": "Lowell High School",
+          "date": "2026-11-21"
+        }
+      ],
+      "in_public_teams": true,
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: San Francisco (2026-11-21)",
+      "compliance_status": "good",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": true,
+        "coaches": true,
+        "roster": true,
+        "agreements": true
+      },
+      "roster_count": 5,
+      "career_max_score": 220.0,
+      "career_avg_score": 220.0,
+      "season_max_scores": {
+        "2025": 220.0
+      },
+      "best_ranking": 6,
+      "seasons_count": 2,
+      "seasons_played": [
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
+      ],
+      "events_count": 2,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [],
+      "scores_list": [
+        {
+          "event_id": 178,
+          "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
+          "season": "2025 - UNEARTHED (Challenge)",
+          "date": "2025-11-15",
+          "highest_score": 220.0,
+          "round_1": 220.0,
+          "round_2": 175.0,
+          "round_3": 215.0,
+          "round_4": null,
+          "ranking": 6
+        }
+      ],
+      "overall_rank": 442
     },
     {
       "team_number": 66066,
@@ -43021,7 +43230,7 @@
           "ranking": 3
         }
       ],
-      "overall_rank": 441
+      "overall_rank": 443
     },
     {
       "team_number": 71907,
@@ -43080,7 +43289,7 @@
           "ranking": 8
         }
       ],
-      "overall_rank": 442
+      "overall_rank": 444
     },
     {
       "team_number": 72904,
@@ -43139,7 +43348,7 @@
           "ranking": 8
         }
       ],
-      "overall_rank": 443
+      "overall_rank": 445
     },
     {
       "team_number": 73526,
@@ -43198,7 +43407,7 @@
           "ranking": 6
         }
       ],
-      "overall_rank": 444
+      "overall_rank": 446
     },
     {
       "team_number": 61600,
@@ -43272,93 +43481,7 @@
           "ranking": 11
         }
       ],
-      "overall_rank": 445
-    },
-    {
-      "team_number": 70221,
-      "team_name": "Hydrobots - SBR",
-      "past_names": [
-        {
-          "name": "BroBots - SBR Team Sunnyvale",
-          "seasons": [
-            "2024"
-          ]
-        },
-        {
-          "name": "BroBots - SBR",
-          "seasons": [
-            "2025"
-          ]
-        }
-      ],
-      "city": "Sunnyvale",
-      "region": "南湾 (South Bay)",
-      "org_name": "Family/Community",
-      "power_score": 23.6,
-      "tier": "Tier B (中坚力量/资深)",
-      "tags": [],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "good",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
-        "roster": true,
-        "agreements": true
-      },
-      "roster_count": 2,
-      "career_max_score": 220.0,
-      "career_avg_score": 215.0,
-      "season_max_scores": {
-        "2024": 210.0,
-        "2025": 220.0
-      },
-      "best_ranking": 5,
-      "seasons_count": 2,
-      "seasons_played": [
-        "2024 - SUBMERGED (Challenge)",
-        "2025 - UNEARTHED (Challenge)"
-      ],
-      "events_count": 2,
-      "awards_count": 0,
-      "champions_count": 0,
-      "core_awards_count": 0,
-      "advancements_count": 0,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [],
-      "scores_list": [
-        {
-          "event_id": 119,
-          "event_name": "2025 NorCal FLL-C : Sunnyvale Spring League - 4/26",
-          "season": "2024 - SUBMERGED (Challenge)",
-          "date": "2025-04-26",
-          "highest_score": 210.0,
-          "round_1": 150.0,
-          "round_2": 210.0,
-          "round_3": 125.0,
-          "round_4": null,
-          "ranking": 5
-        },
-        {
-          "event_id": 186,
-          "event_name": "2025 NorCal FLL-C:  San Jose QT at St Christopher",
-          "season": "2025 - UNEARTHED (Challenge)",
-          "date": "2025-11-15",
-          "highest_score": 220.0,
-          "round_1": 165.0,
-          "round_2": 195.0,
-          "round_3": 220.0,
-          "round_4": null,
-          "ranking": 9
-        }
-      ],
-      "overall_rank": 446
+      "overall_rank": 447
     },
     {
       "team_number": 7453,
@@ -43455,7 +43578,119 @@
           "ranking": 12
         }
       ],
-      "overall_rank": 447
+      "overall_rank": 448
+    },
+    {
+      "team_number": 66137,
+      "team_name": "Robo Pets - SBR",
+      "past_names": [
+        {
+          "name": "Build Guild - SBR Team Cupertino",
+          "seasons": [
+            "2024"
+          ]
+        },
+        {
+          "name": "Build Guild - SBR",
+          "seasons": [
+            "2025"
+          ]
+        }
+      ],
+      "city": "Sunnyvale",
+      "region": "南湾 (South Bay)",
+      "org_name": "Family/Community",
+      "power_score": 23.6,
+      "tier": "Tier B (中坚力量/资深)",
+      "tags": [
+        "🛡️ 三朝元老队伍"
+      ],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 312,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+          "city": "San Francisco",
+          "venue_name": "Lowell High School",
+          "date": "2026-11-21"
+        }
+      ],
+      "in_public_teams": true,
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: San Francisco (2026-11-21)",
+      "compliance_status": "good",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": true,
+        "coaches": true,
+        "roster": true,
+        "agreements": true
+      },
+      "roster_count": 4,
+      "career_max_score": 185.0,
+      "career_avg_score": 152.5,
+      "season_max_scores": {
+        "2024": 120.0,
+        "2025": 185.0
+      },
+      "best_ranking": 8,
+      "seasons_count": 3,
+      "seasons_played": [
+        "2024 - SUBMERGED (Challenge)",
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
+      ],
+      "events_count": 3,
+      "awards_count": 1,
+      "champions_count": 0,
+      "core_awards_count": 1,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [
+        {
+          "event_id": 178,
+          "team_number": 66137,
+          "team_name": "Build Guild - SBR",
+          "award_name": "Robot Design Award",
+          "display_name": "Robot Design Award",
+          "category": "core",
+          "place_number": 0,
+          "city": "Sunnyvale",
+          "team_org": "Family/Community",
+          "season": "2025 - UNEARTHED (Challenge)",
+          "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
+          "start_time": "2025-11-15T08:00:00-08:00"
+        }
+      ],
+      "scores_list": [
+        {
+          "event_id": 119,
+          "event_name": "2025 NorCal FLL-C : Sunnyvale Spring League - 4/26",
+          "season": "2024 - SUBMERGED (Challenge)",
+          "date": "2025-04-26",
+          "highest_score": 120.0,
+          "round_1": 120.0,
+          "round_2": 105.0,
+          "round_3": 75.0,
+          "round_4": null,
+          "ranking": 17
+        },
+        {
+          "event_id": 178,
+          "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
+          "season": "2025 - UNEARTHED (Challenge)",
+          "date": "2025-11-15",
+          "highest_score": 185.0,
+          "round_1": 175.0,
+          "round_2": 175.0,
+          "round_3": 185.0,
+          "round_4": null,
+          "ranking": 8
+        }
+      ],
+      "overall_rank": 449
     },
     {
       "team_number": 60362,
@@ -43517,7 +43752,7 @@
           "ranking": 33
         }
       ],
-      "overall_rank": 448
+      "overall_rank": 450
     },
     {
       "team_number": 60514,
@@ -43621,7 +43856,7 @@
           "ranking": 18
         }
       ],
-      "overall_rank": 449
+      "overall_rank": 451
     },
     {
       "team_number": 67186,
@@ -43701,7 +43936,7 @@
           "ranking": 10
         }
       ],
-      "overall_rank": 450
+      "overall_rank": 452
     },
     {
       "team_number": 60297,
@@ -43776,7 +44011,7 @@
           "ranking": 10
         }
       ],
-      "overall_rank": 451
+      "overall_rank": 453
     },
     {
       "team_number": 71771,
@@ -43851,7 +44086,7 @@
           "ranking": 14
         }
       ],
-      "overall_rank": 452
+      "overall_rank": 454
     },
     {
       "team_number": 67289,
@@ -43924,7 +44159,7 @@
           "ranking": 19
         }
       ],
-      "overall_rank": 453
+      "overall_rank": 455
     },
     {
       "team_number": 68558,
@@ -43997,7 +44232,7 @@
           "ranking": 15
         }
       ],
-      "overall_rank": 454
+      "overall_rank": 456
     },
     {
       "team_number": 10589,
@@ -44101,7 +44336,7 @@
           "ranking": 11
         }
       ],
-      "overall_rank": 455
+      "overall_rank": 457
     },
     {
       "team_number": 67149,
@@ -44196,7 +44431,7 @@
           "ranking": 13
         }
       ],
-      "overall_rank": 456
+      "overall_rank": 458
     },
     {
       "team_number": 61932,
@@ -44329,7 +44564,7 @@
           "ranking": 12
         }
       ],
-      "overall_rank": 457
+      "overall_rank": 459
     },
     {
       "team_number": 7434,
@@ -44433,108 +44668,7 @@
           "ranking": 12
         }
       ],
-      "overall_rank": 458
-    },
-    {
-      "team_number": 66137,
-      "team_name": "Robo Pets - SBR",
-      "past_names": [
-        {
-          "name": "Build Guild - SBR Team Cupertino",
-          "seasons": [
-            "2024"
-          ]
-        },
-        {
-          "name": "Build Guild - SBR",
-          "seasons": [
-            "2025"
-          ]
-        }
-      ],
-      "city": "Sunnyvale",
-      "region": "南湾 (South Bay)",
-      "org_name": "Family/Community",
-      "power_score": 22.8,
-      "tier": "Tier B (中坚力量/资深)",
-      "tags": [],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "good",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
-        "roster": true,
-        "agreements": true
-      },
-      "roster_count": 4,
-      "career_max_score": 185.0,
-      "career_avg_score": 152.5,
-      "season_max_scores": {
-        "2024": 120.0,
-        "2025": 185.0
-      },
-      "best_ranking": 8,
-      "seasons_count": 2,
-      "seasons_played": [
-        "2024 - SUBMERGED (Challenge)",
-        "2025 - UNEARTHED (Challenge)"
-      ],
-      "events_count": 2,
-      "awards_count": 1,
-      "champions_count": 0,
-      "core_awards_count": 1,
-      "advancements_count": 0,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [
-        {
-          "event_id": 178,
-          "team_number": 66137,
-          "team_name": "Build Guild - SBR",
-          "award_name": "Robot Design Award",
-          "display_name": "Robot Design Award",
-          "category": "core",
-          "place_number": 0,
-          "city": "Sunnyvale",
-          "team_org": "Family/Community",
-          "season": "2025 - UNEARTHED (Challenge)",
-          "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
-          "start_time": "2025-11-15T08:00:00-08:00"
-        }
-      ],
-      "scores_list": [
-        {
-          "event_id": 119,
-          "event_name": "2025 NorCal FLL-C : Sunnyvale Spring League - 4/26",
-          "season": "2024 - SUBMERGED (Challenge)",
-          "date": "2025-04-26",
-          "highest_score": 120.0,
-          "round_1": 120.0,
-          "round_2": 105.0,
-          "round_3": 75.0,
-          "round_4": null,
-          "ranking": 17
-        },
-        {
-          "event_id": 178,
-          "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
-          "season": "2025 - UNEARTHED (Challenge)",
-          "date": "2025-11-15",
-          "highest_score": 185.0,
-          "round_1": 175.0,
-          "round_2": 175.0,
-          "round_3": 185.0,
-          "round_4": null,
-          "ranking": 8
-        }
-      ],
-      "overall_rank": 459
+      "overall_rank": 460
     },
     {
       "team_number": 68226,
@@ -44608,7 +44742,7 @@
           "ranking": 7
         }
       ],
-      "overall_rank": 460
+      "overall_rank": 461
     },
     {
       "team_number": 72207,
@@ -44689,7 +44823,7 @@
           "ranking": 4
         }
       ],
-      "overall_rank": 461
+      "overall_rank": 462
     },
     {
       "team_number": 67458,
@@ -44748,7 +44882,7 @@
           "ranking": 5
         }
       ],
-      "overall_rank": 462
+      "overall_rank": 463
     },
     {
       "team_number": 69653,
@@ -44807,7 +44941,7 @@
           "ranking": 2
         }
       ],
-      "overall_rank": 463
+      "overall_rank": 464
     },
     {
       "team_number": 72081,
@@ -44864,72 +44998,6 @@
           "round_3": 220.0,
           "round_4": null,
           "ranking": 4
-        }
-      ],
-      "overall_rank": 464
-    },
-    {
-      "team_number": 72379,
-      "team_name": "Bamboo Bots - SBR",
-      "past_names": [
-        {
-          "name": "SBR TEAM ORANGE",
-          "seasons": [
-            "2025"
-          ]
-        }
-      ],
-      "city": "Sunnyvale",
-      "region": "南湾 (South Bay)",
-      "org_name": "Family/Community",
-      "power_score": 22.7,
-      "tier": "Tier C (成长中队伍/新锐)",
-      "tags": [],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "good",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
-        "roster": true,
-        "agreements": true
-      },
-      "roster_count": 5,
-      "career_max_score": 220.0,
-      "career_avg_score": 220.0,
-      "season_max_scores": {
-        "2025": 220.0
-      },
-      "best_ranking": 6,
-      "seasons_count": 1,
-      "seasons_played": [
-        "2025 - UNEARTHED (Challenge)"
-      ],
-      "events_count": 1,
-      "awards_count": 0,
-      "champions_count": 0,
-      "core_awards_count": 0,
-      "advancements_count": 0,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [],
-      "scores_list": [
-        {
-          "event_id": 178,
-          "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
-          "season": "2025 - UNEARTHED (Challenge)",
-          "date": "2025-11-15",
-          "highest_score": 220.0,
-          "round_1": 220.0,
-          "round_2": 175.0,
-          "round_3": 215.0,
-          "round_4": null,
-          "ranking": 6
         }
       ],
       "overall_rank": 465
@@ -45326,11 +45394,11 @@
       "status_code": "unregistered_active",
       "status_label": "🟡 在册未报名 (Active Unregistered)",
       "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "pending_fingerprinting",
+      "compliance_status": "waiting_invites",
       "compliance_checks": {
         "screening": false,
         "fingerprinting": false,
-        "coaches": true,
+        "coaches": false,
         "roster": false,
         "agreements": false
       },
@@ -51100,7 +51168,7 @@
         "roster": true,
         "agreements": true
       },
-      "roster_count": 6,
+      "roster_count": 8,
       "career_max_score": 155.0,
       "career_avg_score": 155.0,
       "season_max_scores": {
@@ -51406,6 +51474,74 @@
       "overall_rank": 562
     },
     {
+      "team_number": 73742,
+      "team_name": "Sphere Scavengers",
+      "past_names": [],
+      "city": "Folsom",
+      "region": "中央谷/萨克拉门托 (Central Valley)",
+      "org_name": "Family/Community",
+      "power_score": 17.9,
+      "tier": "Tier B (中坚力量/资深)",
+      "tags": [],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 314,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Pleasant Grove High School, Elk Grove",
+          "city": "Elk Grove",
+          "venue_name": "Pleasant Grove High School",
+          "date": "2026-11-15"
+        }
+      ],
+      "in_public_teams": true,
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: Elk Grove (2026-11-15)",
+      "compliance_status": "good",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": true,
+        "coaches": true,
+        "roster": true,
+        "agreements": true
+      },
+      "roster_count": 4,
+      "career_max_score": 160.0,
+      "career_avg_score": 160.0,
+      "season_max_scores": {
+        "2025": 160.0
+      },
+      "best_ranking": 8,
+      "seasons_count": 2,
+      "seasons_played": [
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
+      ],
+      "events_count": 2,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [],
+      "scores_list": [
+        {
+          "event_id": 278,
+          "event_name": "2026 NorCal FLL-C:  Spring League at Jessup University  Rocklin",
+          "season": "2025 - UNEARTHED (Challenge)",
+          "date": "2026-04-26",
+          "highest_score": 160.0,
+          "round_1": 140.0,
+          "round_2": 140.0,
+          "round_3": 160.0,
+          "round_4": null,
+          "ranking": 8
+        }
+      ],
+      "overall_rank": 563
+    },
+    {
       "team_number": 65800,
       "team_name": "The Tech Titans",
       "past_names": [],
@@ -51462,7 +51598,7 @@
           "ranking": 12
         }
       ],
-      "overall_rank": 563
+      "overall_rank": 564
     },
     {
       "team_number": 66286,
@@ -51521,7 +51657,7 @@
           "ranking": 11
         }
       ],
-      "overall_rank": 564
+      "overall_rank": 565
     },
     {
       "team_number": 66827,
@@ -51580,7 +51716,7 @@
           "ranking": 10
         }
       ],
-      "overall_rank": 565
+      "overall_rank": 566
     },
     {
       "team_number": 66956,
@@ -51639,7 +51775,7 @@
           "ranking": 13
         }
       ],
-      "overall_rank": 566
+      "overall_rank": 567
     },
     {
       "team_number": 71269,
@@ -51698,7 +51834,7 @@
           "ranking": 11
         }
       ],
-      "overall_rank": 567
+      "overall_rank": 568
     },
     {
       "team_number": 72419,
@@ -51757,7 +51893,7 @@
           "ranking": 5
         }
       ],
-      "overall_rank": 568
+      "overall_rank": 569
     },
     {
       "team_number": 73864,
@@ -51816,7 +51952,7 @@
           "ranking": 10
         }
       ],
-      "overall_rank": 569
+      "overall_rank": 570
     },
     {
       "team_number": 58668,
@@ -51883,7 +52019,7 @@
           "ranking": 15
         }
       ],
-      "overall_rank": 570
+      "overall_rank": 571
     },
     {
       "team_number": 60967,
@@ -51950,7 +52086,7 @@
           "ranking": 13
         }
       ],
-      "overall_rank": 571
+      "overall_rank": 572
     },
     {
       "team_number": 62969,
@@ -52023,7 +52159,7 @@
           "ranking": 11
         }
       ],
-      "overall_rank": 572
+      "overall_rank": 573
     },
     {
       "team_number": 63333,
@@ -52083,7 +52219,7 @@
           "ranking": 12
         }
       ],
-      "overall_rank": 573
+      "overall_rank": 574
     },
     {
       "team_number": 65979,
@@ -52142,7 +52278,7 @@
           "ranking": 13
         }
       ],
-      "overall_rank": 574
+      "overall_rank": 575
     },
     {
       "team_number": 75020,
@@ -52201,7 +52337,7 @@
           "ranking": 15
         }
       ],
-      "overall_rank": 575
+      "overall_rank": 576
     },
     {
       "team_number": 65320,
@@ -52275,7 +52411,7 @@
           "ranking": 13
         }
       ],
-      "overall_rank": 576
+      "overall_rank": 577
     },
     {
       "team_number": 59995,
@@ -52358,7 +52494,7 @@
           "ranking": 12
         }
       ],
-      "overall_rank": 577
+      "overall_rank": 578
     },
     {
       "team_number": 47621,
@@ -52383,11 +52519,11 @@
       "status_code": "unregistered_active",
       "status_label": "🟡 在册未报名 (Active Unregistered)",
       "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "pending_fingerprinting",
+      "compliance_status": "waiting_invites",
       "compliance_checks": {
         "screening": false,
         "fingerprinting": false,
-        "coaches": true,
+        "coaches": false,
         "roster": false,
         "agreements": false
       },
@@ -52425,7 +52561,7 @@
           "ranking": 16
         }
       ],
-      "overall_rank": 578
+      "overall_rank": 579
     },
     {
       "team_number": 61166,
@@ -52492,7 +52628,7 @@
           "ranking": 8
         }
       ],
-      "overall_rank": 579
+      "overall_rank": 580
     },
     {
       "team_number": 65691,
@@ -52558,7 +52694,7 @@
           "ranking": 15
         }
       ],
-      "overall_rank": 580
+      "overall_rank": 581
     },
     {
       "team_number": 67280,
@@ -52617,7 +52753,7 @@
           "ranking": 18
         }
       ],
-      "overall_rank": 581
+      "overall_rank": 582
     },
     {
       "team_number": 67557,
@@ -52676,7 +52812,7 @@
           "ranking": 9
         }
       ],
-      "overall_rank": 582
+      "overall_rank": 583
     },
     {
       "team_number": 71418,
@@ -52735,7 +52871,7 @@
           "ranking": 15
         }
       ],
-      "overall_rank": 583
+      "overall_rank": 584
     },
     {
       "team_number": 73282,
@@ -52792,65 +52928,6 @@
           "round_3": 160.0,
           "round_4": null,
           "ranking": 10
-        }
-      ],
-      "overall_rank": 584
-    },
-    {
-      "team_number": 73742,
-      "team_name": "Sphere Scavengers",
-      "past_names": [],
-      "city": "Folsom",
-      "region": "中央谷/萨克拉门托 (Central Valley)",
-      "org_name": "Family/Community",
-      "power_score": 16.8,
-      "tier": "Tier C (成长中队伍/新锐)",
-      "tags": [],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "good",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
-        "roster": true,
-        "agreements": true
-      },
-      "roster_count": 3,
-      "career_max_score": 160.0,
-      "career_avg_score": 160.0,
-      "season_max_scores": {
-        "2025": 160.0
-      },
-      "best_ranking": 8,
-      "seasons_count": 1,
-      "seasons_played": [
-        "2025 - UNEARTHED (Challenge)"
-      ],
-      "events_count": 1,
-      "awards_count": 0,
-      "champions_count": 0,
-      "core_awards_count": 0,
-      "advancements_count": 0,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [],
-      "scores_list": [
-        {
-          "event_id": 278,
-          "event_name": "2026 NorCal FLL-C:  Spring League at Jessup University  Rocklin",
-          "season": "2025 - UNEARTHED (Challenge)",
-          "date": "2026-04-26",
-          "highest_score": 160.0,
-          "round_1": 140.0,
-          "round_2": 140.0,
-          "round_3": 160.0,
-          "round_4": null,
-          "ranking": 8
         }
       ],
       "overall_rank": 585
@@ -54732,6 +54809,81 @@
       "overall_rank": 614
     },
     {
+      "team_number": 72371,
+      "team_name": "Blue Macaws - SBR",
+      "past_names": [
+        {
+          "name": "SBR TEAM RED",
+          "seasons": [
+            "2025"
+          ]
+        }
+      ],
+      "city": "Sunnyvale",
+      "region": "南湾 (South Bay)",
+      "org_name": "Family/Community",
+      "power_score": 15.4,
+      "tier": "Tier B (中坚力量/资深)",
+      "tags": [],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 312,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+          "city": "San Francisco",
+          "venue_name": "Lowell High School",
+          "date": "2026-11-21"
+        }
+      ],
+      "in_public_teams": true,
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: San Francisco (2026-11-21)",
+      "compliance_status": "good",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": true,
+        "coaches": true,
+        "roster": true,
+        "agreements": true
+      },
+      "roster_count": 3,
+      "career_max_score": 135.0,
+      "career_avg_score": 135.0,
+      "season_max_scores": {
+        "2025": 135.0
+      },
+      "best_ranking": 12,
+      "seasons_count": 2,
+      "seasons_played": [
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
+      ],
+      "events_count": 2,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [],
+      "scores_list": [
+        {
+          "event_id": 178,
+          "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
+          "season": "2025 - UNEARTHED (Challenge)",
+          "date": "2025-11-15",
+          "highest_score": 135.0,
+          "round_1": 80.0,
+          "round_2": 115.0,
+          "round_3": 135.0,
+          "round_4": null,
+          "ranking": 12
+        }
+      ],
+      "overall_rank": 615
+    },
+    {
       "team_number": 61246,
       "team_name": "Hedgie Power",
       "past_names": [],
@@ -54788,7 +54940,7 @@
           "ranking": 14
         }
       ],
-      "overall_rank": 615
+      "overall_rank": 616
     },
     {
       "team_number": 65848,
@@ -54847,7 +54999,7 @@
           "ranking": 16
         }
       ],
-      "overall_rank": 616
+      "overall_rank": 617
     },
     {
       "team_number": 67407,
@@ -54906,7 +55058,7 @@
           "ranking": 10
         }
       ],
-      "overall_rank": 617
+      "overall_rank": 618
     },
     {
       "team_number": 67837,
@@ -54965,7 +55117,7 @@
           "ranking": 13
         }
       ],
-      "overall_rank": 618
+      "overall_rank": 619
     },
     {
       "team_number": 68164,
@@ -55024,7 +55176,7 @@
           "ranking": 11
         }
       ],
-      "overall_rank": 619
+      "overall_rank": 620
     },
     {
       "team_number": 73527,
@@ -55083,7 +55235,7 @@
           "ranking": 10
         }
       ],
-      "overall_rank": 620
+      "overall_rank": 621
     },
     {
       "team_number": 73862,
@@ -55142,7 +55294,7 @@
           "ranking": 17
         }
       ],
-      "overall_rank": 621
+      "overall_rank": 622
     },
     {
       "team_number": 75163,
@@ -55201,7 +55353,7 @@
           "ranking": 9
         }
       ],
-      "overall_rank": 622
+      "overall_rank": 623
     },
     {
       "team_number": 5254,
@@ -55285,7 +55437,7 @@
           "ranking": 11
         }
       ],
-      "overall_rank": 623
+      "overall_rank": 624
     },
     {
       "team_number": 37482,
@@ -55358,7 +55510,7 @@
           "ranking": 17
         }
       ],
-      "overall_rank": 624
+      "overall_rank": 625
     },
     {
       "team_number": 60028,
@@ -55426,7 +55578,7 @@
           "ranking": 14
         }
       ],
-      "overall_rank": 625
+      "overall_rank": 626
     },
     {
       "team_number": 47206,
@@ -55510,7 +55662,7 @@
           "ranking": 18
         }
       ],
-      "overall_rank": 626
+      "overall_rank": 627
     },
     {
       "team_number": 64706,
@@ -55569,7 +55721,7 @@
           "ranking": 12
         }
       ],
-      "overall_rank": 627
+      "overall_rank": 628
     },
     {
       "team_number": 70300,
@@ -55628,7 +55780,7 @@
           "ranking": 12
         }
       ],
-      "overall_rank": 628
+      "overall_rank": 629
     },
     {
       "team_number": 59696,
@@ -55688,7 +55840,7 @@
           "ranking": 10
         }
       ],
-      "overall_rank": 629
+      "overall_rank": 630
     },
     {
       "team_number": 61699,
@@ -55755,7 +55907,7 @@
           "ranking": 9
         }
       ],
-      "overall_rank": 630
+      "overall_rank": 631
     },
     {
       "team_number": 71481,
@@ -55823,7 +55975,82 @@
           "ranking": 12
         }
       ],
-      "overall_rank": 631
+      "overall_rank": 632
+    },
+    {
+      "team_number": 75135,
+      "team_name": "Robotic Dragons - SBR",
+      "past_names": [
+        {
+          "name": "Robotic Dragons",
+          "seasons": [
+            "2025"
+          ]
+        }
+      ],
+      "city": "Sunnyvale",
+      "region": "南湾 (South Bay)",
+      "org_name": "Family/Community",
+      "power_score": 14.5,
+      "tier": "Tier B (中坚力量/资深)",
+      "tags": [],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 312,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+          "city": "San Francisco",
+          "venue_name": "Lowell High School",
+          "date": "2026-11-21"
+        }
+      ],
+      "in_public_teams": true,
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: San Francisco (2026-11-21)",
+      "compliance_status": "good",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": true,
+        "coaches": true,
+        "roster": true,
+        "agreements": true
+      },
+      "roster_count": 5,
+      "career_max_score": 125.0,
+      "career_avg_score": 125.0,
+      "season_max_scores": {
+        "2025": 125.0
+      },
+      "best_ranking": 10,
+      "seasons_count": 2,
+      "seasons_played": [
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
+      ],
+      "events_count": 2,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [],
+      "scores_list": [
+        {
+          "event_id": 280,
+          "event_name": "2026 NorCal FLL-C: San Jose Spring League at The Play Space 5/3",
+          "season": "2025 - UNEARTHED (Challenge)",
+          "date": "2026-05-03",
+          "highest_score": 125.0,
+          "round_1": 125.0,
+          "round_2": 65.0,
+          "round_3": 105.0,
+          "round_4": null,
+          "ranking": 10
+        }
+      ],
+      "overall_rank": 633
     },
     {
       "team_number": 66875,
@@ -55897,73 +56124,7 @@
           "ranking": 14
         }
       ],
-      "overall_rank": 632
-    },
-    {
-      "team_number": 72371,
-      "team_name": "Blue Macaws - SBR",
-      "past_names": [
-        {
-          "name": "SBR TEAM RED",
-          "seasons": [
-            "2025"
-          ]
-        }
-      ],
-      "city": "Sunnyvale",
-      "region": "南湾 (South Bay)",
-      "org_name": "Family/Community",
-      "power_score": 14.3,
-      "tier": "Tier C (成长中队伍/新锐)",
-      "tags": [],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "good",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
-        "roster": true,
-        "agreements": true
-      },
-      "roster_count": 3,
-      "career_max_score": 135.0,
-      "career_avg_score": 135.0,
-      "season_max_scores": {
-        "2025": 135.0
-      },
-      "best_ranking": 12,
-      "seasons_count": 1,
-      "seasons_played": [
-        "2025 - UNEARTHED (Challenge)"
-      ],
-      "events_count": 1,
-      "awards_count": 0,
-      "champions_count": 0,
-      "core_awards_count": 0,
-      "advancements_count": 0,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [],
-      "scores_list": [
-        {
-          "event_id": 178,
-          "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
-          "season": "2025 - UNEARTHED (Challenge)",
-          "date": "2025-11-15",
-          "highest_score": 135.0,
-          "round_1": 80.0,
-          "round_2": 115.0,
-          "round_3": 135.0,
-          "round_4": null,
-          "ranking": 12
-        }
-      ],
-      "overall_rank": 633
+      "overall_rank": 634
     },
     {
       "team_number": 74111,
@@ -56022,7 +56183,7 @@
           "ranking": 11
         }
       ],
-      "overall_rank": 634
+      "overall_rank": 635
     },
     {
       "team_number": 20710,
@@ -56097,7 +56258,7 @@
           "ranking": 17
         }
       ],
-      "overall_rank": 635
+      "overall_rank": 636
     },
     {
       "team_number": 68557,
@@ -56185,7 +56346,7 @@
           "ranking": 18
         }
       ],
-      "overall_rank": 636
+      "overall_rank": 637
     },
     {
       "team_number": 67117,
@@ -56244,7 +56405,7 @@
           "ranking": 17
         }
       ],
-      "overall_rank": 637
+      "overall_rank": 638
     },
     {
       "team_number": 69571,
@@ -56303,7 +56464,7 @@
           "ranking": 9
         }
       ],
-      "overall_rank": 638
+      "overall_rank": 639
     },
     {
       "team_number": 74480,
@@ -56362,7 +56523,7 @@
           "ranking": 12
         }
       ],
-      "overall_rank": 639
+      "overall_rank": 640
     },
     {
       "team_number": 66817,
@@ -56430,7 +56591,7 @@
           "ranking": 23
         }
       ],
-      "overall_rank": 640
+      "overall_rank": 641
     },
     {
       "team_number": 65169,
@@ -56489,7 +56650,7 @@
           "ranking": 24
         }
       ],
-      "overall_rank": 641
+      "overall_rank": 642
     },
     {
       "team_number": 72482,
@@ -56548,7 +56709,7 @@
           "ranking": 10
         }
       ],
-      "overall_rank": 642
+      "overall_rank": 643
     },
     {
       "team_number": 74210,
@@ -56605,72 +56766,6 @@
           "round_3": 125.0,
           "round_4": null,
           "ranking": 12
-        }
-      ],
-      "overall_rank": 643
-    },
-    {
-      "team_number": 75135,
-      "team_name": "Robotic Dragons - SBR",
-      "past_names": [
-        {
-          "name": "Robotic Dragons",
-          "seasons": [
-            "2025"
-          ]
-        }
-      ],
-      "city": "Sunnyvale",
-      "region": "南湾 (South Bay)",
-      "org_name": "Family/Community",
-      "power_score": 13.4,
-      "tier": "Tier C (成长中队伍/新锐)",
-      "tags": [],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "good",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
-        "roster": true,
-        "agreements": true
-      },
-      "roster_count": 5,
-      "career_max_score": 125.0,
-      "career_avg_score": 125.0,
-      "season_max_scores": {
-        "2025": 125.0
-      },
-      "best_ranking": 10,
-      "seasons_count": 1,
-      "seasons_played": [
-        "2025 - UNEARTHED (Challenge)"
-      ],
-      "events_count": 1,
-      "awards_count": 0,
-      "champions_count": 0,
-      "core_awards_count": 0,
-      "advancements_count": 0,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [],
-      "scores_list": [
-        {
-          "event_id": 280,
-          "event_name": "2026 NorCal FLL-C: San Jose Spring League at The Play Space 5/3",
-          "season": "2025 - UNEARTHED (Challenge)",
-          "date": "2026-05-03",
-          "highest_score": 125.0,
-          "round_1": 125.0,
-          "round_2": 65.0,
-          "round_3": 105.0,
-          "round_4": null,
-          "ranking": 10
         }
       ],
       "overall_rank": 644
@@ -75925,7 +76020,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -76185,7 +76280,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -76307,7 +76402,7 @@
         "roster": true,
         "agreements": true
       },
-      "roster_count": 3,
+      "roster_count": 4,
       "career_max_score": null,
       "career_avg_score": null,
       "season_max_scores": {},
@@ -76393,7 +76488,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -76432,6 +76527,58 @@
       "overall_rank": 1057
     },
     {
+      "team_number": 75632,
+      "team_name": "F1FIFA",
+      "past_names": [],
+      "city": "San Jose",
+      "region": "南湾 (South Bay)",
+      "org_name": "Family/Community",
+      "power_score": 1.1,
+      "tier": "Tier C (成长中队伍/新锐)",
+      "tags": [],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 311,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
+          "city": "East Palo Alto",
+          "venue_name": "EPA Center",
+          "date": "2026-11-22"
+        }
+      ],
+      "in_public_teams": true,
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: East Palo Alto (2026-11-22)",
+      "compliance_status": "good",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": true,
+        "coaches": true,
+        "roster": true,
+        "agreements": true
+      },
+      "roster_count": 6,
+      "career_max_score": null,
+      "career_avg_score": null,
+      "season_max_scores": {},
+      "best_ranking": null,
+      "seasons_count": 1,
+      "seasons_played": [
+        "2026 - BIOGLOW (Challenge)"
+      ],
+      "events_count": 1,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [],
+      "scores_list": [],
+      "overall_rank": 1058
+    },
+    {
       "team_number": 75703,
       "team_name": "BioBots",
       "past_names": [],
@@ -76445,7 +76592,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -76481,7 +76628,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1058
+      "overall_rank": 1059
     },
     {
       "team_number": 75778,
@@ -76533,7 +76680,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1059
+      "overall_rank": 1060
     },
     {
       "team_number": 75798,
@@ -76585,7 +76732,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1060
+      "overall_rank": 1061
     },
     {
       "team_number": 75803,
@@ -76637,7 +76784,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1061
+      "overall_rank": 1062
     },
     {
       "team_number": 75809,
@@ -76689,7 +76836,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1062
+      "overall_rank": 1063
     },
     {
       "team_number": 75834,
@@ -76705,7 +76852,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -76741,7 +76888,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1063
+      "overall_rank": 1064
     },
     {
       "team_number": 75887,
@@ -76793,7 +76940,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1064
+      "overall_rank": 1065
     },
     {
       "team_number": 75913,
@@ -76845,7 +76992,59 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1065
+      "overall_rank": 1066
+    },
+    {
+      "team_number": 75933,
+      "team_name": "The Square Roots",
+      "past_names": [],
+      "city": "Los Gatos",
+      "region": "南湾 (South Bay)",
+      "org_name": "Family/Community",
+      "power_score": 1.1,
+      "tier": "Tier C (成长中队伍/新锐)",
+      "tags": [],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 310,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Gunn High School, Palo Alto",
+          "city": "Palo Alto",
+          "venue_name": "Gunn High School",
+          "date": "2026-11-21"
+        }
+      ],
+      "in_public_teams": true,
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: Palo Alto (2026-11-21)",
+      "compliance_status": "good",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": true,
+        "coaches": true,
+        "roster": true,
+        "agreements": true
+      },
+      "roster_count": 7,
+      "career_max_score": null,
+      "career_avg_score": null,
+      "season_max_scores": {},
+      "best_ranking": null,
+      "seasons_count": 1,
+      "seasons_played": [
+        "2026 - BIOGLOW (Challenge)"
+      ],
+      "events_count": 1,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [],
+      "scores_list": [],
+      "overall_rank": 1067
     },
     {
       "team_number": 76031,
@@ -76897,7 +77096,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1066
+      "overall_rank": 1068
     },
     {
       "team_number": 76053,
@@ -76949,7 +77148,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1067
+      "overall_rank": 1069
     },
     {
       "team_number": 76087,
@@ -77001,7 +77200,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1068
+      "overall_rank": 1070
     },
     {
       "team_number": 76109,
@@ -77053,7 +77252,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1069
+      "overall_rank": 1071
     },
     {
       "team_number": 76187,
@@ -77105,7 +77304,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1070
+      "overall_rank": 1072
     },
     {
       "team_number": 76208,
@@ -77157,7 +77356,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1071
+      "overall_rank": 1073
     },
     {
       "team_number": 76237,
@@ -77209,7 +77408,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1072
+      "overall_rank": 1074
     },
     {
       "team_number": 76254,
@@ -77261,7 +77460,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1073
+      "overall_rank": 1075
     },
     {
       "team_number": 76258,
@@ -77313,7 +77512,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1074
+      "overall_rank": 1076
     },
     {
       "team_number": 76260,
@@ -77365,7 +77564,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1075
+      "overall_rank": 1077
     },
     {
       "team_number": 76308,
@@ -77381,7 +77580,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -77417,7 +77616,59 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1076
+      "overall_rank": 1078
+    },
+    {
+      "team_number": 76441,
+      "team_name": "The Legends Foothill",
+      "past_names": [],
+      "city": "Saratoga",
+      "region": "南湾 (South Bay)",
+      "org_name": "Foothill Elementary",
+      "power_score": 1.1,
+      "tier": "Tier C (成长中队伍/新锐)",
+      "tags": [],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 304,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT- SF Day School",
+          "city": "San Francisco",
+          "venue_name": "San Francisco Day School",
+          "date": "2026-11-14"
+        }
+      ],
+      "in_public_teams": true,
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: San Francisco (2026-11-14)",
+      "compliance_status": "good",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": true,
+        "coaches": true,
+        "roster": true,
+        "agreements": true
+      },
+      "roster_count": 5,
+      "career_max_score": null,
+      "career_avg_score": null,
+      "season_max_scores": {},
+      "best_ranking": null,
+      "seasons_count": 1,
+      "seasons_played": [
+        "2026 - BIOGLOW (Challenge)"
+      ],
+      "events_count": 1,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [],
+      "scores_list": [],
+      "overall_rank": 1079
     },
     {
       "team_number": 76468,
@@ -77469,7 +77720,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1077
+      "overall_rank": 1080
     },
     {
       "team_number": 76476,
@@ -77485,7 +77736,7 @@
       "registered_events_2026": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "city": "East Palo Alto",
           "venue_name": "EPA Center",
           "date": "2026-11-22"
@@ -77521,7 +77772,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1078
+      "overall_rank": 1081
     },
     {
       "team_number": 76524,
@@ -77573,7 +77824,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1079
+      "overall_rank": 1082
     },
     {
       "team_number": 76623,
@@ -77625,7 +77876,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1080
+      "overall_rank": 1083
     },
     {
       "team_number": 76624,
@@ -77684,7 +77935,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1081
+      "overall_rank": 1084
     },
     {
       "team_number": 76717,
@@ -77736,7 +77987,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1082
+      "overall_rank": 1085
     },
     {
       "team_number": 76762,
@@ -77788,7 +78039,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1083
+      "overall_rank": 1086
     },
     {
       "team_number": 77091,
@@ -77840,7 +78091,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1084
+      "overall_rank": 1087
     },
     {
       "team_number": 77135,
@@ -77899,7 +78150,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1085
+      "overall_rank": 1088
     },
     {
       "team_number": 77156,
@@ -77951,7 +78202,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1086
+      "overall_rank": 1089
     },
     {
       "team_number": 77162,
@@ -78003,7 +78254,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1087
+      "overall_rank": 1090
     },
     {
       "team_number": 600033,
@@ -78055,7 +78306,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1088
+      "overall_rank": 1091
     },
     {
       "team_number": 600072,
@@ -78107,7 +78358,59 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1089
+      "overall_rank": 1092
+    },
+    {
+      "team_number": 600121,
+      "team_name": "DCADS Robo Cubs",
+      "past_names": [],
+      "city": "Santa Clara",
+      "region": "南湾 (South Bay)",
+      "org_name": "Don Callejon",
+      "power_score": 1.1,
+      "tier": "Tier C (成长中队伍/新锐)",
+      "tags": [],
+      "is_registered_2026": true,
+      "registered_events_2026": [
+        {
+          "event_id": 315,
+          "event_name": "2026 NorCal FLL FUTURE BIOGLOW Event - NOV 22 The Play Space, San Jose",
+          "city": "San Jose",
+          "venue_name": "The Play Space",
+          "date": "2026-11-22"
+        }
+      ],
+      "in_public_teams": true,
+      "status_code": "registered",
+      "status_label": "🟢 已报名 2026",
+      "status_desc": "已报名: San Jose (2026-11-22)",
+      "compliance_status": "good",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": true,
+        "coaches": true,
+        "roster": true,
+        "agreements": true
+      },
+      "roster_count": 8,
+      "career_max_score": null,
+      "career_avg_score": null,
+      "season_max_scores": {},
+      "best_ranking": null,
+      "seasons_count": 1,
+      "seasons_played": [
+        "2026 - BIOGLOW (Future 6-8)"
+      ],
+      "events_count": 1,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [],
+      "scores_list": [],
+      "overall_rank": 1093
     },
     {
       "team_number": 600225,
@@ -78159,7 +78462,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1090
+      "overall_rank": 1094
     },
     {
       "team_number": 600331,
@@ -78211,7 +78514,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1091
+      "overall_rank": 1095
     },
     {
       "team_number": 600367,
@@ -78263,7 +78566,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1092
+      "overall_rank": 1096
     },
     {
       "team_number": 600421,
@@ -78315,11 +78618,11 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1093
+      "overall_rank": 1097
     },
     {
       "team_number": 600480,
-      "team_name": "Relic Raiders",
+      "team_name": "Mike Wazowskis",
       "past_names": [],
       "city": "San Jose",
       "region": "南湾 (South Bay)",
@@ -78367,7 +78670,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1094
+      "overall_rank": 1098
     },
     {
       "team_number": 600599,
@@ -78419,7 +78722,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1095
+      "overall_rank": 1099
     },
     {
       "team_number": 600622,
@@ -78471,7 +78774,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1096
+      "overall_rank": 1100
     },
     {
       "team_number": 4622,
@@ -78497,7 +78800,7 @@
         "roster": true,
         "agreements": false
       },
-      "roster_count": 6,
+      "roster_count": 7,
       "career_max_score": null,
       "career_avg_score": null,
       "season_max_scores": {},
@@ -78513,7 +78816,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1097
+      "overall_rank": 1101
     },
     {
       "team_number": 19283,
@@ -78555,7 +78858,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1098
+      "overall_rank": 1102
     },
     {
       "team_number": 19285,
@@ -78597,7 +78900,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1099
+      "overall_rank": 1103
     },
     {
       "team_number": 19292,
@@ -78639,7 +78942,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1100
+      "overall_rank": 1104
     },
     {
       "team_number": 19293,
@@ -78681,7 +78984,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1101
+      "overall_rank": 1105
     },
     {
       "team_number": 19294,
@@ -78723,7 +79026,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1102
+      "overall_rank": 1106
     },
     {
       "team_number": 19493,
@@ -78765,7 +79068,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1103
+      "overall_rank": 1107
     },
     {
       "team_number": 23430,
@@ -78807,7 +79110,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1104
+      "overall_rank": 1108
     },
     {
       "team_number": 23431,
@@ -78849,7 +79152,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1105
+      "overall_rank": 1109
     },
     {
       "team_number": 23432,
@@ -78891,7 +79194,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1106
+      "overall_rank": 1110
     },
     {
       "team_number": 23433,
@@ -78933,7 +79236,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1107
+      "overall_rank": 1111
     },
     {
       "team_number": 23437,
@@ -78975,7 +79278,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1108
+      "overall_rank": 1112
     },
     {
       "team_number": 24342,
@@ -79017,7 +79320,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1109
+      "overall_rank": 1113
     },
     {
       "team_number": 24343,
@@ -79059,7 +79362,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1110
+      "overall_rank": 1114
     },
     {
       "team_number": 24344,
@@ -79101,7 +79404,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1111
+      "overall_rank": 1115
     },
     {
       "team_number": 24345,
@@ -79143,7 +79446,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1112
+      "overall_rank": 1116
     },
     {
       "team_number": 24346,
@@ -79185,7 +79488,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1113
+      "overall_rank": 1117
     },
     {
       "team_number": 24347,
@@ -79227,7 +79530,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1114
+      "overall_rank": 1118
     },
     {
       "team_number": 24348,
@@ -79269,7 +79572,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1115
+      "overall_rank": 1119
     },
     {
       "team_number": 24349,
@@ -79311,7 +79614,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1116
+      "overall_rank": 1120
     },
     {
       "team_number": 24350,
@@ -79353,7 +79656,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1117
+      "overall_rank": 1121
     },
     {
       "team_number": 26134,
@@ -79395,7 +79698,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1118
+      "overall_rank": 1122
     },
     {
       "team_number": 26137,
@@ -79437,7 +79740,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1119
+      "overall_rank": 1123
     },
     {
       "team_number": 26138,
@@ -79479,7 +79782,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1120
+      "overall_rank": 1124
     },
     {
       "team_number": 26139,
@@ -79521,7 +79824,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1121
+      "overall_rank": 1125
     },
     {
       "team_number": 26140,
@@ -79563,7 +79866,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1122
+      "overall_rank": 1126
     },
     {
       "team_number": 26141,
@@ -79605,7 +79908,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1123
+      "overall_rank": 1127
     },
     {
       "team_number": 26142,
@@ -79647,7 +79950,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1124
+      "overall_rank": 1128
     },
     {
       "team_number": 26143,
@@ -79689,7 +79992,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1125
+      "overall_rank": 1129
     },
     {
       "team_number": 26144,
@@ -79731,7 +80034,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1126
+      "overall_rank": 1130
     },
     {
       "team_number": 26367,
@@ -79773,7 +80076,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1127
+      "overall_rank": 1131
     },
     {
       "team_number": 28743,
@@ -79815,7 +80118,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1128
+      "overall_rank": 1132
     },
     {
       "team_number": 28744,
@@ -79857,7 +80160,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1129
+      "overall_rank": 1133
     },
     {
       "team_number": 28745,
@@ -79899,7 +80202,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1130
+      "overall_rank": 1134
     },
     {
       "team_number": 28746,
@@ -79941,7 +80244,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1131
+      "overall_rank": 1135
     },
     {
       "team_number": 28747,
@@ -79983,7 +80286,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1132
+      "overall_rank": 1136
     },
     {
       "team_number": 28748,
@@ -80025,7 +80328,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1133
+      "overall_rank": 1137
     },
     {
       "team_number": 28749,
@@ -80067,7 +80370,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1134
+      "overall_rank": 1138
     },
     {
       "team_number": 28750,
@@ -80109,7 +80412,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1135
+      "overall_rank": 1139
     },
     {
       "team_number": 28751,
@@ -80151,7 +80454,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1136
+      "overall_rank": 1140
     },
     {
       "team_number": 28752,
@@ -80193,7 +80496,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1137
+      "overall_rank": 1141
     },
     {
       "team_number": 28753,
@@ -80235,7 +80538,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1138
+      "overall_rank": 1142
     },
     {
       "team_number": 28754,
@@ -80277,7 +80580,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1139
+      "overall_rank": 1143
     },
     {
       "team_number": 28755,
@@ -80319,7 +80622,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1140
+      "overall_rank": 1144
     },
     {
       "team_number": 28756,
@@ -80361,7 +80664,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1141
+      "overall_rank": 1145
     },
     {
       "team_number": 28757,
@@ -80403,7 +80706,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1142
+      "overall_rank": 1146
     },
     {
       "team_number": 29462,
@@ -80445,7 +80748,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1143
+      "overall_rank": 1147
     },
     {
       "team_number": 30862,
@@ -80487,7 +80790,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1144
+      "overall_rank": 1148
     },
     {
       "team_number": 31269,
@@ -80529,7 +80832,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1145
+      "overall_rank": 1149
     },
     {
       "team_number": 31287,
@@ -80571,7 +80874,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1146
+      "overall_rank": 1150
     },
     {
       "team_number": 31288,
@@ -80613,7 +80916,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1147
+      "overall_rank": 1151
     },
     {
       "team_number": 31289,
@@ -80655,7 +80958,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1148
+      "overall_rank": 1152
     },
     {
       "team_number": 31290,
@@ -80697,7 +81000,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1149
+      "overall_rank": 1153
     },
     {
       "team_number": 31291,
@@ -80739,7 +81042,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1150
+      "overall_rank": 1154
     },
     {
       "team_number": 31292,
@@ -80781,7 +81084,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1151
+      "overall_rank": 1155
     },
     {
       "team_number": 31293,
@@ -80823,7 +81126,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1152
+      "overall_rank": 1156
     },
     {
       "team_number": 31350,
@@ -80865,7 +81168,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1153
+      "overall_rank": 1157
     },
     {
       "team_number": 31749,
@@ -80907,7 +81210,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1154
+      "overall_rank": 1158
     },
     {
       "team_number": 31889,
@@ -80949,7 +81252,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1155
+      "overall_rank": 1159
     },
     {
       "team_number": 31971,
@@ -80991,7 +81294,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1156
+      "overall_rank": 1160
     },
     {
       "team_number": 32032,
@@ -81033,7 +81336,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1157
+      "overall_rank": 1161
     },
     {
       "team_number": 34091,
@@ -81075,7 +81378,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1158
+      "overall_rank": 1162
     },
     {
       "team_number": 34092,
@@ -81117,7 +81420,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1159
+      "overall_rank": 1163
     },
     {
       "team_number": 34093,
@@ -81135,7 +81438,7 @@
       "status_code": "unregistered_active",
       "status_label": "🟡 在册未报名 (Active Unregistered)",
       "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "waiting_invites",
+      "compliance_status": "pending_fingerprinting",
       "compliance_checks": {
         "screening": false,
         "fingerprinting": false,
@@ -81159,7 +81462,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1160
+      "overall_rank": 1164
     },
     {
       "team_number": 34094,
@@ -81201,7 +81504,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1161
+      "overall_rank": 1165
     },
     {
       "team_number": 34152,
@@ -81243,7 +81546,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1162
+      "overall_rank": 1166
     },
     {
       "team_number": 34153,
@@ -81285,7 +81588,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1163
+      "overall_rank": 1167
     },
     {
       "team_number": 34167,
@@ -81327,7 +81630,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1164
+      "overall_rank": 1168
     },
     {
       "team_number": 34198,
@@ -81369,7 +81672,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1165
+      "overall_rank": 1169
     },
     {
       "team_number": 34223,
@@ -81411,7 +81714,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1166
+      "overall_rank": 1170
     },
     {
       "team_number": 34224,
@@ -81453,7 +81756,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1167
+      "overall_rank": 1171
     },
     {
       "team_number": 34269,
@@ -81495,7 +81798,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1168
+      "overall_rank": 1172
     },
     {
       "team_number": 34974,
@@ -81537,7 +81840,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1169
+      "overall_rank": 1173
     },
     {
       "team_number": 36385,
@@ -81579,7 +81882,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1170
+      "overall_rank": 1174
     },
     {
       "team_number": 36464,
@@ -81621,7 +81924,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1171
+      "overall_rank": 1175
     },
     {
       "team_number": 36473,
@@ -81663,7 +81966,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1172
+      "overall_rank": 1176
     },
     {
       "team_number": 36475,
@@ -81705,7 +82008,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1173
+      "overall_rank": 1177
     },
     {
       "team_number": 36476,
@@ -81747,7 +82050,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1174
+      "overall_rank": 1178
     },
     {
       "team_number": 36477,
@@ -81789,7 +82092,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1175
+      "overall_rank": 1179
     },
     {
       "team_number": 36478,
@@ -81831,7 +82134,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1176
+      "overall_rank": 1180
     },
     {
       "team_number": 36479,
@@ -81873,7 +82176,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1177
+      "overall_rank": 1181
     },
     {
       "team_number": 36480,
@@ -81915,7 +82218,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1178
+      "overall_rank": 1182
     },
     {
       "team_number": 36481,
@@ -81957,7 +82260,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1179
+      "overall_rank": 1183
     },
     {
       "team_number": 36483,
@@ -81999,7 +82302,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1180
+      "overall_rank": 1184
     },
     {
       "team_number": 36484,
@@ -82041,7 +82344,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1181
+      "overall_rank": 1185
     },
     {
       "team_number": 36485,
@@ -82083,7 +82386,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1182
+      "overall_rank": 1186
     },
     {
       "team_number": 36486,
@@ -82125,7 +82428,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1183
+      "overall_rank": 1187
     },
     {
       "team_number": 36487,
@@ -82167,7 +82470,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1184
+      "overall_rank": 1188
     },
     {
       "team_number": 36488,
@@ -82209,7 +82512,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1185
+      "overall_rank": 1189
     },
     {
       "team_number": 36489,
@@ -82251,7 +82554,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1186
+      "overall_rank": 1190
     },
     {
       "team_number": 36490,
@@ -82293,7 +82596,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1187
+      "overall_rank": 1191
     },
     {
       "team_number": 36491,
@@ -82335,7 +82638,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1188
+      "overall_rank": 1192
     },
     {
       "team_number": 36492,
@@ -82377,7 +82680,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1189
+      "overall_rank": 1193
     },
     {
       "team_number": 36493,
@@ -82419,7 +82722,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1190
+      "overall_rank": 1194
     },
     {
       "team_number": 36494,
@@ -82461,7 +82764,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1191
+      "overall_rank": 1195
     },
     {
       "team_number": 36495,
@@ -82503,7 +82806,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1192
+      "overall_rank": 1196
     },
     {
       "team_number": 36596,
@@ -82545,7 +82848,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1193
+      "overall_rank": 1197
     },
     {
       "team_number": 36703,
@@ -82587,7 +82890,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1194
+      "overall_rank": 1198
     },
     {
       "team_number": 36757,
@@ -82629,7 +82932,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1195
+      "overall_rank": 1199
     },
     {
       "team_number": 36810,
@@ -82671,7 +82974,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1196
+      "overall_rank": 1200
     },
     {
       "team_number": 36814,
@@ -82713,7 +83016,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1197
+      "overall_rank": 1201
     },
     {
       "team_number": 36815,
@@ -82755,7 +83058,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1198
+      "overall_rank": 1202
     },
     {
       "team_number": 36816,
@@ -82797,7 +83100,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1199
+      "overall_rank": 1203
     },
     {
       "team_number": 36825,
@@ -82839,7 +83142,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1200
+      "overall_rank": 1204
     },
     {
       "team_number": 36880,
@@ -82881,7 +83184,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1201
+      "overall_rank": 1205
     },
     {
       "team_number": 36902,
@@ -82923,7 +83226,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1202
+      "overall_rank": 1206
     },
     {
       "team_number": 36985,
@@ -82965,7 +83268,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1203
+      "overall_rank": 1207
     },
     {
       "team_number": 37028,
@@ -83007,7 +83310,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1204
+      "overall_rank": 1208
     },
     {
       "team_number": 37156,
@@ -83049,7 +83352,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1205
+      "overall_rank": 1209
     },
     {
       "team_number": 65683,
@@ -83091,7 +83394,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1206
+      "overall_rank": 1210
     },
     {
       "team_number": 65684,
@@ -83133,7 +83436,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1207
+      "overall_rank": 1211
     },
     {
       "team_number": 65686,
@@ -83175,7 +83478,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1208
+      "overall_rank": 1212
     },
     {
       "team_number": 65687,
@@ -83217,7 +83520,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1209
+      "overall_rank": 1213
     },
     {
       "team_number": 65688,
@@ -83259,7 +83562,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1210
+      "overall_rank": 1214
     },
     {
       "team_number": 65689,
@@ -83301,7 +83604,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1211
+      "overall_rank": 1215
     },
     {
       "team_number": 65692,
@@ -83343,7 +83646,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1212
+      "overall_rank": 1216
     },
     {
       "team_number": 66883,
@@ -83385,7 +83688,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1213
+      "overall_rank": 1217
     },
     {
       "team_number": 67050,
@@ -83427,7 +83730,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1214
+      "overall_rank": 1218
     },
     {
       "team_number": 68833,
@@ -83469,7 +83772,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1215
+      "overall_rank": 1219
     },
     {
       "team_number": 69324,
@@ -83511,7 +83814,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1216
+      "overall_rank": 1220
     },
     {
       "team_number": 70191,
@@ -83553,7 +83856,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1217
+      "overall_rank": 1221
     },
     {
       "team_number": 70590,
@@ -83595,7 +83898,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1218
+      "overall_rank": 1222
     },
     {
       "team_number": 70837,
@@ -83637,7 +83940,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1219
+      "overall_rank": 1223
     },
     {
       "team_number": 71294,
@@ -83679,7 +83982,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1220
+      "overall_rank": 1224
     },
     {
       "team_number": 71295,
@@ -83721,7 +84024,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1221
+      "overall_rank": 1225
     },
     {
       "team_number": 71297,
@@ -83763,7 +84066,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1222
+      "overall_rank": 1226
     },
     {
       "team_number": 71298,
@@ -83805,7 +84108,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1223
+      "overall_rank": 1227
     },
     {
       "team_number": 71299,
@@ -83847,7 +84150,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1224
+      "overall_rank": 1228
     },
     {
       "team_number": 71301,
@@ -83889,7 +84192,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1225
+      "overall_rank": 1229
     },
     {
       "team_number": 71302,
@@ -83931,7 +84234,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1226
+      "overall_rank": 1230
     },
     {
       "team_number": 71304,
@@ -83973,7 +84276,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1227
+      "overall_rank": 1231
     },
     {
       "team_number": 71305,
@@ -84015,7 +84318,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1228
+      "overall_rank": 1232
     },
     {
       "team_number": 71307,
@@ -84057,7 +84360,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1229
+      "overall_rank": 1233
     },
     {
       "team_number": 71308,
@@ -84099,7 +84402,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1230
+      "overall_rank": 1234
     },
     {
       "team_number": 71309,
@@ -84141,7 +84444,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1231
+      "overall_rank": 1235
     },
     {
       "team_number": 71310,
@@ -84183,7 +84486,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1232
+      "overall_rank": 1236
     },
     {
       "team_number": 71311,
@@ -84225,7 +84528,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1233
+      "overall_rank": 1237
     },
     {
       "team_number": 71312,
@@ -84267,7 +84570,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1234
+      "overall_rank": 1238
     },
     {
       "team_number": 71313,
@@ -84309,7 +84612,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1235
+      "overall_rank": 1239
     },
     {
       "team_number": 71523,
@@ -84351,7 +84654,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1236
+      "overall_rank": 1240
     },
     {
       "team_number": 71918,
@@ -84393,7 +84696,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1237
+      "overall_rank": 1241
     },
     {
       "team_number": 73059,
@@ -84435,7 +84738,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1238
+      "overall_rank": 1242
     },
     {
       "team_number": 73441,
@@ -84477,7 +84780,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1239
+      "overall_rank": 1243
     },
     {
       "team_number": 73583,
@@ -84519,7 +84822,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1240
+      "overall_rank": 1244
     },
     {
       "team_number": 75317,
@@ -84561,7 +84864,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1241
+      "overall_rank": 1245
     },
     {
       "team_number": 75461,
@@ -84603,7 +84906,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1242
+      "overall_rank": 1246
     },
     {
       "team_number": 75531,
@@ -84645,7 +84948,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1243
+      "overall_rank": 1247
     },
     {
       "team_number": 75556,
@@ -84687,49 +84990,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1244
-    },
-    {
-      "team_number": 75632,
-      "team_name": "F1FIFA",
-      "past_names": [],
-      "city": "San Jose",
-      "region": "南湾 (South Bay)",
-      "org_name": "Family/Community",
-      "power_score": 0.0,
-      "tier": "Rookie (新队伍/待赛)",
-      "tags": [],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "good",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
-        "roster": true,
-        "agreements": true
-      },
-      "roster_count": 6,
-      "career_max_score": null,
-      "career_avg_score": null,
-      "season_max_scores": {},
-      "best_ranking": null,
-      "seasons_count": 0,
-      "seasons_played": [],
-      "events_count": 0,
-      "awards_count": 0,
-      "champions_count": 0,
-      "core_awards_count": 0,
-      "advancements_count": 0,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [],
-      "scores_list": [],
-      "overall_rank": 1245
+      "overall_rank": 1248
     },
     {
       "team_number": 75661,
@@ -84771,7 +85032,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1246
+      "overall_rank": 1249
     },
     {
       "team_number": 75663,
@@ -84813,7 +85074,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1247
+      "overall_rank": 1250
     },
     {
       "team_number": 75664,
@@ -84855,7 +85116,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1248
+      "overall_rank": 1251
     },
     {
       "team_number": 75665,
@@ -84897,7 +85158,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1249
+      "overall_rank": 1252
     },
     {
       "team_number": 75685,
@@ -84939,7 +85200,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1250
+      "overall_rank": 1253
     },
     {
       "team_number": 75865,
@@ -84981,7 +85242,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1251
+      "overall_rank": 1254
     },
     {
       "team_number": 75874,
@@ -85023,7 +85284,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1252
+      "overall_rank": 1255
     },
     {
       "team_number": 75882,
@@ -85065,49 +85326,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1253
-    },
-    {
-      "team_number": 75933,
-      "team_name": "The Square Roots",
-      "past_names": [],
-      "city": "Los Gatos",
-      "region": "南湾 (South Bay)",
-      "org_name": "Family/Community",
-      "power_score": 0.0,
-      "tier": "Rookie (新队伍/待赛)",
-      "tags": [],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "good",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
-        "roster": true,
-        "agreements": true
-      },
-      "roster_count": 7,
-      "career_max_score": null,
-      "career_avg_score": null,
-      "season_max_scores": {},
-      "best_ranking": null,
-      "seasons_count": 0,
-      "seasons_played": [],
-      "events_count": 0,
-      "awards_count": 0,
-      "champions_count": 0,
-      "core_awards_count": 0,
-      "advancements_count": 0,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [],
-      "scores_list": [],
-      "overall_rank": 1254
+      "overall_rank": 1256
     },
     {
       "team_number": 76014,
@@ -85149,7 +85368,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1255
+      "overall_rank": 1257
     },
     {
       "team_number": 76064,
@@ -85191,7 +85410,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1256
+      "overall_rank": 1258
     },
     {
       "team_number": 76108,
@@ -85233,7 +85452,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1257
+      "overall_rank": 1259
     },
     {
       "team_number": 76122,
@@ -85275,7 +85494,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1258
+      "overall_rank": 1260
     },
     {
       "team_number": 76167,
@@ -85317,7 +85536,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1259
+      "overall_rank": 1261
     },
     {
       "team_number": 76170,
@@ -85359,7 +85578,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1260
+      "overall_rank": 1262
     },
     {
       "team_number": 76173,
@@ -85401,7 +85620,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1261
+      "overall_rank": 1263
     },
     {
       "team_number": 76197,
@@ -85443,7 +85662,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1262
+      "overall_rank": 1264
     },
     {
       "team_number": 76238,
@@ -85485,7 +85704,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1263
+      "overall_rank": 1265
     },
     {
       "team_number": 76248,
@@ -85527,7 +85746,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1264
+      "overall_rank": 1266
     },
     {
       "team_number": 76253,
@@ -85545,11 +85764,11 @@
       "status_code": "unregistered_active",
       "status_label": "🟡 在册未报名 (Active Unregistered)",
       "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "pending_fingerprinting",
+      "compliance_status": "waiting_invites",
       "compliance_checks": {
         "screening": false,
         "fingerprinting": false,
-        "coaches": false,
+        "coaches": true,
         "roster": false,
         "agreements": false
       },
@@ -85569,7 +85788,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1265
+      "overall_rank": 1267
     },
     {
       "team_number": 76306,
@@ -85611,7 +85830,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1266
+      "overall_rank": 1268
     },
     {
       "team_number": 76373,
@@ -85653,95 +85872,11 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1267
-    },
-    {
-      "team_number": 76441,
-      "team_name": "The Legends Foothill",
-      "past_names": [],
-      "city": "Saratoga",
-      "region": "南湾 (South Bay)",
-      "org_name": "Foothill Elementary",
-      "power_score": 0.0,
-      "tier": "Rookie (新队伍/待赛)",
-      "tags": [],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "waiting_invites",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": false,
-        "coaches": true,
-        "roster": true,
-        "agreements": true
-      },
-      "roster_count": 5,
-      "career_max_score": null,
-      "career_avg_score": null,
-      "season_max_scores": {},
-      "best_ranking": null,
-      "seasons_count": 0,
-      "seasons_played": [],
-      "events_count": 0,
-      "awards_count": 0,
-      "champions_count": 0,
-      "core_awards_count": 0,
-      "advancements_count": 0,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [],
-      "scores_list": [],
-      "overall_rank": 1268
-    },
-    {
-      "team_number": 76444,
-      "team_name": "Foothill Team 3 (Founder's)",
-      "past_names": [],
-      "city": "Saratoga",
-      "region": "南湾 (South Bay)",
-      "org_name": "Foothill Elementary",
-      "power_score": 0.0,
-      "tier": "Rookie (新队伍/待赛)",
-      "tags": [],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "waiting_invites",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": false,
-        "coaches": true,
-        "roster": true,
-        "agreements": false
-      },
-      "roster_count": 4,
-      "career_max_score": null,
-      "career_avg_score": null,
-      "season_max_scores": {},
-      "best_ranking": null,
-      "seasons_count": 0,
-      "seasons_played": [],
-      "events_count": 0,
-      "awards_count": 0,
-      "champions_count": 0,
-      "core_awards_count": 0,
-      "advancements_count": 0,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [],
-      "scores_list": [],
       "overall_rank": 1269
     },
     {
-      "team_number": 76445,
-      "team_name": "Team BIOBOTS ",
+      "team_number": 76443,
+      "team_name": "Robox",
       "past_names": [],
       "city": "Saratoga",
       "region": "南湾 (South Bay)",
@@ -85780,6 +85915,90 @@
       "awards_list": [],
       "scores_list": [],
       "overall_rank": 1270
+    },
+    {
+      "team_number": 76444,
+      "team_name": "Foothill Team 3 (Founder's)",
+      "past_names": [],
+      "city": "Saratoga",
+      "region": "南湾 (South Bay)",
+      "org_name": "Foothill Elementary",
+      "power_score": 0.0,
+      "tier": "Rookie (新队伍/待赛)",
+      "tags": [],
+      "is_registered_2026": false,
+      "registered_events_2026": [],
+      "in_public_teams": true,
+      "status_code": "unregistered_active",
+      "status_label": "🟡 在册未报名 (Active Unregistered)",
+      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
+      "compliance_status": "pending_fingerprinting",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": false,
+        "coaches": true,
+        "roster": true,
+        "agreements": false
+      },
+      "roster_count": 4,
+      "career_max_score": null,
+      "career_avg_score": null,
+      "season_max_scores": {},
+      "best_ranking": null,
+      "seasons_count": 0,
+      "seasons_played": [],
+      "events_count": 0,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [],
+      "scores_list": [],
+      "overall_rank": 1271
+    },
+    {
+      "team_number": 76445,
+      "team_name": "Team BIOBOTS ",
+      "past_names": [],
+      "city": "Saratoga",
+      "region": "南湾 (South Bay)",
+      "org_name": "Foothill Elementary",
+      "power_score": 0.0,
+      "tier": "Rookie (新队伍/待赛)",
+      "tags": [],
+      "is_registered_2026": false,
+      "registered_events_2026": [],
+      "in_public_teams": true,
+      "status_code": "unregistered_active",
+      "status_label": "🟡 在册未报名 (Active Unregistered)",
+      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
+      "compliance_status": "pending_fingerprinting",
+      "compliance_checks": {
+        "screening": true,
+        "fingerprinting": false,
+        "coaches": true,
+        "roster": true,
+        "agreements": false
+      },
+      "roster_count": 5,
+      "career_max_score": null,
+      "career_avg_score": null,
+      "season_max_scores": {},
+      "best_ranking": null,
+      "seasons_count": 0,
+      "seasons_played": [],
+      "events_count": 0,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "advancements_count": 0,
+      "has_championship": false,
+      "champions_awards": [],
+      "awards_list": [],
+      "scores_list": [],
+      "overall_rank": 1272
     },
     {
       "team_number": 76485,
@@ -85821,7 +86040,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1271
+      "overall_rank": 1273
     },
     {
       "team_number": 76488,
@@ -85863,7 +86082,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1272
+      "overall_rank": 1274
     },
     {
       "team_number": 76496,
@@ -85905,7 +86124,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1273
+      "overall_rank": 1275
     },
     {
       "team_number": 76497,
@@ -85947,7 +86166,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1274
+      "overall_rank": 1276
     },
     {
       "team_number": 76518,
@@ -85989,7 +86208,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1275
+      "overall_rank": 1277
     },
     {
       "team_number": 76646,
@@ -86031,7 +86250,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1276
+      "overall_rank": 1278
     },
     {
       "team_number": 76718,
@@ -86073,7 +86292,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1277
+      "overall_rank": 1279
     },
     {
       "team_number": 76763,
@@ -86115,7 +86334,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1278
+      "overall_rank": 1280
     },
     {
       "team_number": 76867,
@@ -86157,7 +86376,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1279
+      "overall_rank": 1281
     },
     {
       "team_number": 76958,
@@ -86199,7 +86418,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1280
+      "overall_rank": 1282
     },
     {
       "team_number": 76986,
@@ -86241,7 +86460,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1281
+      "overall_rank": 1283
     },
     {
       "team_number": 76990,
@@ -86283,7 +86502,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1282
+      "overall_rank": 1284
     },
     {
       "team_number": 76991,
@@ -86325,7 +86544,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1283
+      "overall_rank": 1285
     },
     {
       "team_number": 77062,
@@ -86367,7 +86586,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1284
+      "overall_rank": 1286
     },
     {
       "team_number": 77075,
@@ -86409,7 +86628,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1285
+      "overall_rank": 1287
     },
     {
       "team_number": 77089,
@@ -86451,7 +86670,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1286
+      "overall_rank": 1288
     },
     {
       "team_number": 77139,
@@ -86493,7 +86712,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1287
+      "overall_rank": 1289
     },
     {
       "team_number": 77145,
@@ -86535,7 +86754,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1288
+      "overall_rank": 1290
     },
     {
       "team_number": 77151,
@@ -86577,7 +86796,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1289
+      "overall_rank": 1291
     },
     {
       "team_number": 77152,
@@ -86619,7 +86838,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1290
+      "overall_rank": 1292
     },
     {
       "team_number": 77153,
@@ -86661,7 +86880,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1291
+      "overall_rank": 1293
     },
     {
       "team_number": 77154,
@@ -86703,7 +86922,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1292
+      "overall_rank": 1294
     },
     {
       "team_number": 77183,
@@ -86745,7 +86964,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1293
+      "overall_rank": 1295
     },
     {
       "team_number": 77241,
@@ -86787,7 +87006,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1294
+      "overall_rank": 1296
     },
     {
       "team_number": 77242,
@@ -86829,7 +87048,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1295
+      "overall_rank": 1297
     },
     {
       "team_number": 77261,
@@ -86871,7 +87090,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1296
+      "overall_rank": 1298
     },
     {
       "team_number": 77320,
@@ -86913,7 +87132,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1297
+      "overall_rank": 1299
     },
     {
       "team_number": 77608,
@@ -86955,7 +87174,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1298
+      "overall_rank": 1300
     },
     {
       "team_number": 77755,
@@ -86997,7 +87216,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1299
+      "overall_rank": 1301
     },
     {
       "team_number": 100034,
@@ -87039,7 +87258,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1300
+      "overall_rank": 1302
     },
     {
       "team_number": 100057,
@@ -87081,7 +87300,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1301
+      "overall_rank": 1303
     },
     {
       "team_number": 100180,
@@ -87123,7 +87342,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1302
+      "overall_rank": 1304
     },
     {
       "team_number": 300019,
@@ -87165,7 +87384,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1303
+      "overall_rank": 1305
     },
     {
       "team_number": 300041,
@@ -87207,7 +87426,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1304
+      "overall_rank": 1306
     },
     {
       "team_number": 300162,
@@ -87249,7 +87468,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1305
+      "overall_rank": 1307
     },
     {
       "team_number": 300212,
@@ -87291,7 +87510,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1306
+      "overall_rank": 1308
     },
     {
       "team_number": 300227,
@@ -87333,7 +87552,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1307
+      "overall_rank": 1309
     },
     {
       "team_number": 300244,
@@ -87375,7 +87594,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1308
+      "overall_rank": 1310
     },
     {
       "team_number": 300285,
@@ -87417,7 +87636,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1309
+      "overall_rank": 1311
     },
     {
       "team_number": 300307,
@@ -87459,7 +87678,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1310
+      "overall_rank": 1312
     },
     {
       "team_number": 300424,
@@ -87501,7 +87720,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1311
+      "overall_rank": 1313
     },
     {
       "team_number": 300429,
@@ -87543,7 +87762,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1312
+      "overall_rank": 1314
     },
     {
       "team_number": 300430,
@@ -87585,7 +87804,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1313
+      "overall_rank": 1315
     },
     {
       "team_number": 300437,
@@ -87627,7 +87846,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1314
+      "overall_rank": 1316
     },
     {
       "team_number": 300448,
@@ -87669,7 +87888,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1315
+      "overall_rank": 1317
     },
     {
       "team_number": 300701,
@@ -87711,7 +87930,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1316
+      "overall_rank": 1318
     },
     {
       "team_number": 300717,
@@ -87753,7 +87972,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1317
+      "overall_rank": 1319
     },
     {
       "team_number": 300746,
@@ -87795,7 +88014,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1318
+      "overall_rank": 1320
     },
     {
       "team_number": 300774,
@@ -87837,7 +88056,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1319
+      "overall_rank": 1321
     },
     {
       "team_number": 300786,
@@ -87879,7 +88098,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1320
+      "overall_rank": 1322
     },
     {
       "team_number": 300834,
@@ -87921,7 +88140,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1321
+      "overall_rank": 1323
     },
     {
       "team_number": 300835,
@@ -87963,7 +88182,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1322
+      "overall_rank": 1324
     },
     {
       "team_number": 300845,
@@ -88005,7 +88224,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1323
+      "overall_rank": 1325
     },
     {
       "team_number": 300849,
@@ -88047,7 +88266,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1324
+      "overall_rank": 1326
     },
     {
       "team_number": 300889,
@@ -88089,7 +88308,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1325
+      "overall_rank": 1327
     },
     {
       "team_number": 300918,
@@ -88131,7 +88350,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1326
+      "overall_rank": 1328
     },
     {
       "team_number": 300932,
@@ -88173,7 +88392,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1327
+      "overall_rank": 1329
     },
     {
       "team_number": 300940,
@@ -88215,7 +88434,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1328
+      "overall_rank": 1330
     },
     {
       "team_number": 300964,
@@ -88257,7 +88476,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1329
+      "overall_rank": 1331
     },
     {
       "team_number": 301018,
@@ -88275,13 +88494,13 @@
       "status_code": "unregistered_active",
       "status_label": "🟡 在册未报名 (Active Unregistered)",
       "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "waiting_jotform",
+      "compliance_status": "good",
       "compliance_checks": {
         "screening": true,
         "fingerprinting": true,
         "coaches": true,
         "roster": true,
-        "agreements": false
+        "agreements": true
       },
       "roster_count": 4,
       "career_max_score": null,
@@ -88299,7 +88518,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1330
+      "overall_rank": 1332
     },
     {
       "team_number": 600029,
@@ -88341,7 +88560,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1331
+      "overall_rank": 1333
     },
     {
       "team_number": 600037,
@@ -88383,7 +88602,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1332
+      "overall_rank": 1334
     },
     {
       "team_number": 600057,
@@ -88401,10 +88620,10 @@
       "status_code": "unregistered_active",
       "status_label": "🟡 在册未报名 (Active Unregistered)",
       "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "pending_fingerprinting",
+      "compliance_status": "good",
       "compliance_checks": {
         "screening": true,
-        "fingerprinting": false,
+        "fingerprinting": true,
         "coaches": true,
         "roster": true,
         "agreements": true
@@ -88425,7 +88644,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1333
+      "overall_rank": 1335
     },
     {
       "team_number": 600061,
@@ -88467,49 +88686,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1334
-    },
-    {
-      "team_number": 600121,
-      "team_name": "DCADS Robo Cubs",
-      "past_names": [],
-      "city": "Santa Clara",
-      "region": "南湾 (South Bay)",
-      "org_name": "Don Callejon",
-      "power_score": 0.0,
-      "tier": "Rookie (新队伍/待赛)",
-      "tags": [],
-      "is_registered_2026": false,
-      "registered_events_2026": [],
-      "in_public_teams": true,
-      "status_code": "unregistered_active",
-      "status_label": "🟡 在册未报名 (Active Unregistered)",
-      "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "good",
-      "compliance_checks": {
-        "screening": true,
-        "fingerprinting": true,
-        "coaches": true,
-        "roster": true,
-        "agreements": true
-      },
-      "roster_count": 7,
-      "career_max_score": null,
-      "career_avg_score": null,
-      "season_max_scores": {},
-      "best_ranking": null,
-      "seasons_count": 0,
-      "seasons_played": [],
-      "events_count": 0,
-      "awards_count": 0,
-      "champions_count": 0,
-      "core_awards_count": 0,
-      "advancements_count": 0,
-      "has_championship": false,
-      "champions_awards": [],
-      "awards_list": [],
-      "scores_list": [],
-      "overall_rank": 1335
+      "overall_rank": 1336
     },
     {
       "team_number": 600165,
@@ -88551,7 +88728,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1336
+      "overall_rank": 1337
     },
     {
       "team_number": 600178,
@@ -88569,7 +88746,7 @@
       "status_code": "unregistered_active",
       "status_label": "🟡 在册未报名 (Active Unregistered)",
       "status_desc": "在 2026 Public Teams 库中，但尚未锁定任何预选赛席位",
-      "compliance_status": "waiting_invites",
+      "compliance_status": "pending_fingerprinting",
       "compliance_checks": {
         "screening": true,
         "fingerprinting": false,
@@ -88593,7 +88770,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1337
+      "overall_rank": 1338
     },
     {
       "team_number": 600217,
@@ -88635,7 +88812,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1338
+      "overall_rank": 1339
     },
     {
       "team_number": 600229,
@@ -88677,7 +88854,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1339
+      "overall_rank": 1340
     },
     {
       "team_number": 600293,
@@ -88719,7 +88896,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1340
+      "overall_rank": 1341
     },
     {
       "team_number": 600336,
@@ -88761,7 +88938,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1341
+      "overall_rank": 1342
     },
     {
       "team_number": 600344,
@@ -88803,7 +88980,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1342
+      "overall_rank": 1343
     },
     {
       "team_number": 600346,
@@ -88845,7 +89022,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1343
+      "overall_rank": 1344
     },
     {
       "team_number": 600444,
@@ -88887,7 +89064,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1344
+      "overall_rank": 1345
     },
     {
       "team_number": 600445,
@@ -88909,7 +89086,7 @@
       "compliance_checks": {
         "screening": true,
         "fingerprinting": false,
-        "coaches": false,
+        "coaches": true,
         "roster": true,
         "agreements": true
       },
@@ -88929,7 +89106,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1345
+      "overall_rank": 1346
     },
     {
       "team_number": 600743,
@@ -88971,7 +89148,7 @@
       "champions_awards": [],
       "awards_list": [],
       "scores_list": [],
-      "overall_rank": 1346
+      "overall_rank": 1347
     }
   ]
 }

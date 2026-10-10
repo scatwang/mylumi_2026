@@ -1,7 +1,7 @@
 {
   "event_id": 311,
-  "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
-  "count": 14,
+  "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
+  "count": 15,
   "teams": [
     {
       "id": 2361,
@@ -118,6 +118,18 @@
         "number": 75631,
         "name": "Master Oogway",
         "city": "Pleasanton",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2429,
+      "team": {
+        "id": 3014,
+        "number": 75632,
+        "name": "F1FIFA",
+        "city": "San Jose",
         "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,

@@ -1,27 +1,27 @@
 {
-  "total_teams": 529,
+  "total_teams": 530,
   "total_unique_cities": 72,
   "total_unique_orgs": 108,
   "program_stats": [
     {
       "program": "FIRST LEGO League: Challenge",
-      "count": 353,
-      "pct": 66.73
+      "count": 354,
+      "pct": 66.79
     },
     {
       "program": "FIRST LEGO League: Explore",
       "count": 120,
-      "pct": 22.68
+      "pct": 22.64
     },
     {
       "program": "FIRST LEGO League: Future Edition 3-5",
       "count": 28,
-      "pct": 5.29
+      "pct": 5.28
     },
     {
       "program": "FIRST LEGO League: Future Edition 6-8",
       "count": 25,
-      "pct": 4.73
+      "pct": 4.72
     },
     {
       "program": "FIRST LEGO League: Future Edition K-2",
@@ -32,74 +32,74 @@
   "status_stats": [
     {
       "status": "good",
-      "count": 204,
-      "pct": 38.56
+      "count": 203,
+      "pct": 38.3
     },
     {
       "status": "waiting_invites",
-      "count": 176,
-      "pct": 33.27
+      "count": 175,
+      "pct": 33.02
     },
     {
       "status": "pending_fingerprinting",
-      "count": 82,
-      "pct": 15.5
+      "count": 84,
+      "pct": 15.85
     },
     {
       "status": "waiting_members",
       "count": 30,
-      "pct": 5.67
+      "pct": 5.66
     },
     {
       "status": "pending_national_screening",
       "count": 21,
-      "pct": 3.97
+      "pct": 3.96
     },
     {
       "status": "waiting_jotform",
-      "count": 13,
-      "pct": 2.46
+      "count": 11,
+      "pct": 2.08
     },
     {
       "status": "roster_overload",
-      "count": 3,
-      "pct": 0.57
+      "count": 6,
+      "pct": 1.13
     }
   ],
   "compliance_stats": {
     "screening": {
-      "good_count": 332,
-      "good_pct": 62.76,
+      "good_count": 333,
+      "good_pct": 62.83,
       "fail_count": 197,
-      "fail_pct": 37.24,
+      "fail_pct": 37.17,
       "other_count": 0
     },
     "fingerprinting": {
       "good_count": 286,
-      "good_pct": 54.06,
-      "fail_count": 243,
-      "fail_pct": 45.94,
+      "good_pct": 53.96,
+      "fail_count": 244,
+      "fail_pct": 46.04,
       "other_count": 0
     },
     "coaches": {
-      "good_count": 425,
-      "good_pct": 80.34,
-      "fail_count": 104,
-      "fail_pct": 19.66,
+      "good_count": 423,
+      "good_pct": 79.81,
+      "fail_count": 107,
+      "fail_pct": 20.19,
       "other_count": 0
     },
     "roster_status": {
-      "good_count": 259,
-      "good_pct": 48.96,
+      "good_count": 260,
+      "good_pct": 49.06,
       "fail_count": 270,
-      "fail_pct": 51.04,
+      "fail_pct": 50.94,
       "other_count": 0
     },
     "agreements": {
-      "good_count": 346,
-      "good_pct": 65.41,
-      "fail_count": 183,
-      "fail_pct": 34.59,
+      "good_count": 348,
+      "good_pct": 65.66,
+      "fail_count": 182,
+      "fail_pct": 34.34,
       "other_count": 0
     }
   },
@@ -107,37 +107,37 @@
     {
       "city": "Oakland",
       "count": 84,
-      "pct": 15.88
+      "pct": 15.85
     },
     {
       "city": "Piedmont",
       "count": 70,
-      "pct": 13.23
+      "pct": 13.21
     },
     {
       "city": "San Jose",
       "count": 54,
-      "pct": 10.21
+      "pct": 10.19
     },
     {
       "city": "Fremont",
       "count": 44,
-      "pct": 8.32
+      "pct": 8.3
     },
     {
       "city": "Santa Clara",
       "count": 27,
-      "pct": 5.1
+      "pct": 5.09
     },
     {
       "city": "San Francisco",
       "count": 23,
-      "pct": 4.35
+      "pct": 4.34
     },
     {
       "city": "Mountain View",
       "count": 22,
-      "pct": 4.16
+      "pct": 4.15
     },
     {
       "city": "Dublin",
@@ -151,13 +151,13 @@
     },
     {
       "city": "Saratoga",
-      "count": 15,
-      "pct": 2.84
+      "count": 16,
+      "pct": 3.02
     },
     {
       "city": "Cupertino",
       "count": 14,
-      "pct": 2.65
+      "pct": 2.64
     },
     {
       "city": "Folsom",
@@ -187,44 +187,44 @@
     {
       "city": "Sacramento",
       "count": 5,
-      "pct": 0.95
+      "pct": 0.94
     },
     {
       "city": "El Dorado Hills",
       "count": 5,
-      "pct": 0.95
+      "pct": 0.94
     },
     {
       "city": "Milpitas",
       "count": 5,
-      "pct": 0.95
+      "pct": 0.94
     },
     {
       "city": "Palo Alto",
       "count": 5,
-      "pct": 0.95
+      "pct": 0.94
     }
   ],
   "region_summary": [
     {
       "region": "东湾 (East Bay)",
       "count": 263,
-      "pct": 49.72
+      "pct": 49.62
     },
     {
       "region": "南湾 / 硅谷 (South Bay)",
-      "count": 178,
-      "pct": 33.65
+      "count": 179,
+      "pct": 33.77
     },
     {
       "region": "半岛与旧金山 (Peninsula & SF)",
       "count": 47,
-      "pct": 8.88
+      "pct": 8.87
     },
     {
       "region": "首府圈与中谷 (Sacramento & Valley)",
       "count": 39,
-      "pct": 7.37
+      "pct": 7.36
     },
     {
       "region": "北湾 (North Bay)",
@@ -240,23 +240,23 @@
   "challenge_region_summary": [
     {
       "region": "南湾 / 硅谷 (South Bay)",
-      "count": 143,
-      "pct": 40.51
+      "count": 144,
+      "pct": 40.68
     },
     {
       "region": "东湾 (East Bay)",
       "count": 140,
-      "pct": 39.66
+      "pct": 39.55
     },
     {
       "region": "半岛与旧金山 (Peninsula & SF)",
       "count": 39,
-      "pct": 11.05
+      "pct": 11.02
     },
     {
       "region": "首府圈与中谷 (Sacramento & Valley)",
       "count": 30,
-      "pct": 8.5
+      "pct": 8.47
     },
     {
       "region": "北湾 (North Bay)",
@@ -268,17 +268,17 @@
     {
       "org_name": "Family/Community",
       "count": 207,
-      "pct": 39.13
+      "pct": 39.06
     },
     {
       "org_name": "Piedmont Makers",
       "count": 136,
-      "pct": 25.71
+      "pct": 25.66
     },
     {
       "org_name": "Cabrillo Middle School",
       "count": 12,
-      "pct": 2.27
+      "pct": 2.26
     },
     {
       "org_name": "Town School for Boys",
@@ -303,22 +303,22 @@
     {
       "org_name": "San Francisco Day School",
       "count": 5,
-      "pct": 0.95
+      "pct": 0.94
+    },
+    {
+      "org_name": "Foothill Elementary",
+      "count": 5,
+      "pct": 0.94
     },
     {
       "org_name": "Nueva School",
       "count": 4,
-      "pct": 0.76
+      "pct": 0.75
     },
     {
       "org_name": "Piedmont makers",
       "count": 4,
-      "pct": 0.76
-    },
-    {
-      "org_name": "Foothill Elementary",
-      "count": 4,
-      "pct": 0.76
+      "pct": 0.75
     },
     {
       "org_name": "Ohlone Elementary",
@@ -370,17 +370,17 @@
     {
       "category": "Family/Community",
       "count": 215,
-      "pct": 40.64
+      "pct": 40.57
     },
     {
       "category": "Piedmont Makers",
       "count": 146,
-      "pct": 27.6
+      "pct": 27.55
     },
     {
       "category": "School / Academic Institution",
-      "count": 142,
-      "pct": 26.84
+      "count": 143,
+      "pct": 26.98
     },
     {
       "category": "Other / Private Org",
@@ -392,29 +392,29 @@
     {
       "coaches_count": 0,
       "teams": 19,
-      "pct": 3.59
+      "pct": 3.58
     },
     {
       "coaches_count": 1,
-      "teams": 71,
-      "pct": 13.42
+      "teams": 70,
+      "pct": 13.21
     },
     {
       "coaches_count": 2,
-      "teams": 428,
-      "pct": 80.91
+      "teams": 426,
+      "pct": 80.38
     },
     {
       "coaches_count": 3,
-      "teams": 11,
-      "pct": 2.08
+      "teams": 15,
+      "pct": 2.83
     }
   ],
   "number_stats": {
     "min": 445,
     "max": 600743,
-    "median": 67854,
-    "mean": 93952.9
+    "median": 67947,
+    "mean": 93919.9
   },
   "number_buckets": [
     {
@@ -425,42 +425,42 @@
     {
       "range_label": "10,000 - 29,999 (Established Teams)",
       "count": 60,
-      "pct": 11.34
+      "pct": 11.32
     },
     {
       "range_label": "30,000 - 49,999 (Mid-Era Teams)",
       "count": 100,
-      "pct": 18.9
+      "pct": 18.87
     },
     {
       "range_label": "50,000 - 64,999 (Recent Teams 2021-2023)",
       "count": 48,
-      "pct": 9.07
+      "pct": 9.06
     },
     {
       "range_label": "65,000 - 74,999 (New Teams 2024-2025)",
       "count": 140,
-      "pct": 26.47
+      "pct": 26.42
     },
     {
       "range_label": ">= 75,000 (Brand New Teams 2025-2026)",
-      "count": 164,
-      "pct": 31.0
+      "count": 165,
+      "pct": 31.13
     }
   ],
   "prog_status_breakdown": {
     "FIRST LEGO League: Challenge": {
-      "total": 353,
-      "ready_good": 186,
-      "ready_good_pct": 52.69,
+      "total": 354,
+      "ready_good": 183,
+      "ready_good_pct": 51.69,
       "status_details": {
         "pending_national_screening": 16,
-        "waiting_invites": 76,
-        "good": 186,
-        "waiting_jotform": 10,
+        "waiting_invites": 77,
+        "good": 183,
+        "pending_fingerprinting": 43,
+        "waiting_jotform": 9,
         "waiting_members": 20,
-        "pending_fingerprinting": 42,
-        "roster_overload": 3
+        "roster_overload": 6
       }
     },
     "FIRST LEGO League: Explore": {
@@ -468,8 +468,8 @@
       "ready_good": 3,
       "ready_good_pct": 2.5,
       "status_details": {
-        "waiting_invites": 82,
-        "pending_fingerprinting": 26,
+        "waiting_invites": 81,
+        "pending_fingerprinting": 27,
         "waiting_members": 5,
         "pending_national_screening": 4,
         "good": 3
@@ -486,24 +486,24 @@
     },
     "FIRST LEGO League: Future Edition 3-5": {
       "total": 28,
-      "ready_good": 5,
-      "ready_good_pct": 17.86,
+      "ready_good": 6,
+      "ready_good_pct": 21.43,
       "status_details": {
         "pending_national_screening": 1,
         "pending_fingerprinting": 6,
-        "good": 5,
+        "good": 6,
         "waiting_invites": 11,
         "waiting_members": 3,
-        "waiting_jotform": 2
+        "waiting_jotform": 1
       }
     },
     "FIRST LEGO League: Future Edition 6-8": {
       "total": 25,
-      "ready_good": 10,
-      "ready_good_pct": 40.0,
+      "ready_good": 11,
+      "ready_good_pct": 44.0,
       "status_details": {
-        "waiting_invites": 5,
-        "good": 10,
+        "waiting_invites": 4,
+        "good": 11,
         "pending_fingerprinting": 7,
         "waiting_members": 2,
         "waiting_jotform": 1
@@ -512,17 +512,17 @@
   },
   "org_status_breakdown": {
     "School / Academic Institution": {
-      "total": 142,
-      "ready_good": 75,
-      "ready_good_pct": 52.82,
+      "total": 143,
+      "ready_good": 74,
+      "ready_good_pct": 51.75,
       "status_details": {
         "pending_national_screening": 7,
         "waiting_invites": 22,
-        "good": 75,
+        "good": 74,
+        "pending_fingerprinting": 20,
         "waiting_members": 14,
-        "pending_fingerprinting": 18,
-        "roster_overload": 2,
-        "waiting_jotform": 4
+        "roster_overload": 4,
+        "waiting_jotform": 2
       }
     },
     "Other / Private Org": {
@@ -546,10 +546,10 @@
         "waiting_jotform": 8,
         "waiting_members": 11,
         "waiting_invites": 33,
-        "pending_fingerprinting": 31,
+        "pending_fingerprinting": 30,
         "good": 119,
         "pending_national_screening": 12,
-        "roster_overload": 1
+        "roster_overload": 2
       }
     },
     "Piedmont Makers": {
@@ -557,69 +557,69 @@
       "ready_good": 2,
       "ready_good_pct": 1.37,
       "status_details": {
-        "waiting_invites": 113,
-        "pending_fingerprinting": 29,
+        "waiting_invites": 112,
+        "pending_fingerprinting": 30,
         "waiting_members": 1,
         "pending_national_screening": 1,
         "good": 2
       }
     }
   },
-  "registered_events_teams": 154,
+  "registered_events_teams": 169,
   "advancements_breakdown": {
-    "none": 529
+    "none": 530
   },
   "history_summary": {
-    "teams_with_history_count": 278,
-    "teams_with_history_pct": 52.55,
+    "teams_with_history_count": 282,
+    "teams_with_history_pct": 53.21,
     "teams_with_scores_count": 205,
-    "teams_with_scores_pct": 38.75,
+    "teams_with_scores_pct": 38.68,
     "teams_with_awards_count": 86,
-    "teams_with_awards_pct": 16.26,
+    "teams_with_awards_pct": 16.23,
     "teams_with_advancements_count": 70,
     "teams_with_championship_count": 73,
     "experience_tier_stats": [
       {
         "tier": "Rookie (新队伍)",
-        "count": 251,
-        "pct": 47.45
+        "count": 248,
+        "pct": 46.79
       },
       {
         "tier": "Veteran (老牌强队)",
-        "count": 172,
-        "pct": 32.51
+        "count": 178,
+        "pct": 33.58
       },
       {
         "tier": "Experienced (有参赛经验)",
-        "count": 106,
-        "pct": 20.04
+        "count": 104,
+        "pct": 19.62
       }
     ],
     "score_tier_stats": [
       {
         "tier": "暂无得分记录",
-        "count": 324,
-        "pct": 61.25
+        "count": 325,
+        "pct": 61.32
       },
       {
         "tier": "<300 (入门发展)",
         "count": 130,
-        "pct": 24.57
+        "pct": 24.53
       },
       {
         "tier": "300-399 (中坚晋级)",
         "count": 56,
-        "pct": 10.59
+        "pct": 10.57
       },
       {
         "tier": "400-499 (一档强队)",
         "count": 15,
-        "pct": 2.84
+        "pct": 2.83
       },
       {
         "tier": "500+ (争冠顶尖)",
         "count": 4,
-        "pct": 0.76
+        "pct": 0.75
       }
     ],
     "top_scoring_teams": [
@@ -852,9 +852,10 @@
         "awards_count": 0,
         "advancements_count": 0,
         "seasons": [
-          "2025 - UNEARTHED (Challenge)"
+          "2025 - UNEARTHED (Challenge)",
+          "2026 - BIOGLOW (Challenge)"
         ],
-        "events_count": 1
+        "events_count": 2
       },
       {
         "number": 57382,
@@ -924,9 +925,10 @@
         "seasons": [
           "2023 - MASTERPIECE (Challenge)",
           "2024 - SUBMERGED (Challenge)",
-          "2025 - UNEARTHED (Challenge)"
+          "2025 - UNEARTHED (Challenge)",
+          "2026 - BIOGLOW (Challenge)"
         ],
-        "events_count": 6
+        "events_count": 7
       },
       {
         "number": 66820,
@@ -1039,7 +1041,8 @@
         "seasons": [
           "2023 - MASTERPIECE (Challenge)",
           "2024 - SUBMERGED (Challenge)",
-          "2025 - UNEARTHED (Challenge)"
+          "2025 - UNEARTHED (Challenge)",
+          "2026 - BIOGLOW (Challenge)"
         ],
         "sample_awards": [
           "Champion's Award",
@@ -1292,19 +1295,19 @@
     ],
     "readiness_by_exp": {
       "Veteran (老牌强队)": {
-        "total": 172,
-        "ready_count": 120,
-        "ready_pct": 69.77
+        "total": 178,
+        "ready_count": 121,
+        "ready_pct": 67.98
       },
       "Experienced (有参赛经验)": {
-        "total": 106,
-        "ready_count": 67,
-        "ready_pct": 63.21
+        "total": 104,
+        "ready_count": 66,
+        "ready_pct": 63.46
       },
       "Rookie (新队伍)": {
-        "total": 251,
-        "ready_count": 17,
-        "ready_pct": 6.77
+        "total": 248,
+        "ready_count": 16,
+        "ready_pct": 6.45
       }
     },
     "regional_history_summary": [
@@ -1317,9 +1320,9 @@
       },
       {
         "region": "南湾 / 硅谷 (South Bay)",
-        "total_teams": 178,
-        "veterans": 66,
-        "veteran_pct": 37.08,
+        "total_teams": 179,
+        "veterans": 70,
+        "veteran_pct": 39.11,
         "elite_scorers_400plus": 10
       },
       {
@@ -1332,8 +1335,8 @@
       {
         "region": "首府圈与中谷 (Sacramento & Valley)",
         "total_teams": 39,
-        "veterans": 17,
-        "veteran_pct": 43.59,
+        "veterans": 19,
+        "veteran_pct": 48.72,
         "elite_scorers_400plus": 4
       },
       {

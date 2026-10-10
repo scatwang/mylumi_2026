@@ -1,7 +1,7 @@
 {
   "event_id": 312,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
-  "count": 6,
+  "count": 11,
   "teams": [
     {
       "id": 2275,
@@ -64,12 +64,72 @@
       "advancing_wait_list": false
     },
     {
+      "id": 2436,
+      "team": {
+        "id": 2763,
+        "number": 66137,
+        "name": "Robo Pets - SBR",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2437,
+      "team": {
+        "id": 2793,
+        "number": 70221,
+        "name": "Hydrobots - SBR",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
       "id": 2357,
       "team": {
         "id": 3023,
         "number": 71598,
         "name": "Bobstormers",
         "city": "San Jose",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2438,
+      "team": {
+        "id": 2937,
+        "number": 72371,
+        "name": "Blue Macaws - SBR",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2439,
+      "team": {
+        "id": 2970,
+        "number": 72379,
+        "name": "Bamboo Bots - SBR",
+        "city": "Sunnyvale",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2440,
+      "team": {
+        "id": 2938,
+        "number": 75135,
+        "name": "Robotic Dragons - SBR",
+        "city": "Sunnyvale",
         "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,

@@ -6,7 +6,7 @@
   "program_abbreviation": "fll68",
   "description": "",
   "capacity": 12,
-  "total_registered": 5,
+  "total_registered": 6,
   "level": {
     "id": 173,
     "name": "NorCal FLL Future 6-8 Edition 2026 Event Level",
@@ -24,7 +24,7 @@
   "status_v2": "open",
   "event_day_phase": "check_in",
   "get_event_day_phase_display": "Check-in / Pre-start",
-  "registered": 5,
+  "registered": 6,
   "total_reserved": 0,
   "start_time": "2026-11-22T08:00:00-08:00",
   "end_time": "2026-11-22T18:00:00-08:00",
@@ -45,15 +45,15 @@
   "website_uri": "/en/event/315/",
   "volunteer_website": "https://mylumi.playingatlearning.org/en/event/315/#volunteer",
   "team_stats": {
-    "teams": 5,
-    "students": 33,
+    "teams": 6,
+    "students": 41,
     "cities": [
       "santa clara",
       "fremont",
       "san jose",
       "sunnyvale"
     ],
-    "rookies": 5
+    "rookies": 6
   },
   "event_day_visible": false,
   "season_public": {

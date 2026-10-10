@@ -1,13 +1,14 @@
 {
+  "generated_at": "2026-10-09",
   "total_events": 16,
   "total_capacity": 264,
-  "total_registered": 155,
-  "overall_fill_rate": 58.7,
-  "total_spots_remaining": 109,
-  "overall_ready_count": 155,
-  "overall_ready_pct": 100.0,
-  "overall_veteran_count": 105,
-  "overall_veteran_pct": 67.7,
+  "total_registered": 169,
+  "overall_fill_rate": 64.0,
+  "total_spots_remaining": 95,
+  "overall_ready_count": 165,
+  "overall_ready_pct": 97.6,
+  "overall_veteran_count": 115,
+  "overall_veteran_pct": 68.0,
   "highest_overall_score": 540.0,
   "highest_scoring_team": {
     "event_id": 312,
@@ -2289,31 +2290,31 @@
       "venue_name": "The Dorris-Eaton School",
       "start_time": "2026-11-07",
       "capacity": 12,
-      "total_registered": 10,
-      "fill_rate": 83.3,
-      "spots_remaining": 2,
-      "ready_count": 10,
+      "total_registered": 11,
+      "fill_rate": 91.7,
+      "spots_remaining": 1,
+      "ready_count": 11,
       "ready_pct": 100.0,
       "pending_count": 0,
       "status_counts": {
-        "good": 10
+        "good": 11
       },
       "experience": {
-        "veteran_count": 8,
-        "veteran_pct": 80.0,
+        "veteran_count": 9,
+        "veteran_pct": 81.8,
         "experienced_count": 2,
-        "experienced_pct": 20.0,
+        "experienced_pct": 18.2,
         "rookie_count": 0,
         "rookie_pct": 0.0
       },
       "strength": {
-        "top_career_score": 350.0,
-        "top_team_number": 66292,
-        "top_team_name": "CookieBots",
-        "avg_career_score": 232.5,
-        "avg_power_score": 22.5,
+        "top_career_score": 440.0,
+        "top_team_number": 71804,
+        "top_team_name": "Astrobot",
+        "avg_career_score": 255.6,
+        "avg_power_score": 24.5,
         "tier_s_count": 0,
-        "tier_a_count": 1,
+        "tier_a_count": 2,
         "tier_b_count": 7,
         "tier_c_count": 2,
         "tier_rookie_count": 0,
@@ -2322,7 +2323,7 @@
         "teams_with_advancement": 2,
         "score_tier_counts": {
           "500+ (争冠顶尖)": 0,
-          "400-499 (一档强队)": 0,
+          "400-499 (一档强队)": 1,
           "300-399 (中坚晋级)": 2,
           "<300 (入门发展)": 6,
           "暂无得分记录": 2
@@ -2332,76 +2333,86 @@
         {
           "city": "Danville",
           "count": 3,
-          "pct": 30.0
+          "pct": 27.3
         },
         {
           "city": "Dublin",
           "count": 2,
-          "pct": 20.0
+          "pct": 18.2
         },
         {
           "city": "San Ramon",
           "count": 1,
-          "pct": 10.0
+          "pct": 9.1
         },
         {
           "city": "Pleasanton",
           "count": 1,
-          "pct": 10.0
+          "pct": 9.1
+        },
+        {
+          "city": "Mountain House",
+          "count": 1,
+          "pct": 9.1
         },
         {
           "city": "Newark",
           "count": 1,
-          "pct": 10.0
+          "pct": 9.1
         },
         {
           "city": "Union City",
           "count": 1,
-          "pct": 10.0
+          "pct": 9.1
         },
         {
           "city": "Richmond",
           "count": 1,
-          "pct": 10.0
+          "pct": 9.1
         }
       ],
       "regions_dist": [
         {
           "region": "东湾 (East Bay)",
           "count": 9,
-          "pct": 90.0
+          "pct": 81.8
+        },
+        {
+          "region": "中央谷/萨克拉门托 (Central Valley)",
+          "count": 1,
+          "pct": 9.1
         },
         {
           "region": "其他地区 (Other)",
           "count": 1,
-          "pct": 10.0
+          "pct": 9.1
         }
       ],
       "top_orgs": [
         {
           "org": "Family/Community",
-          "count": 5,
-          "pct": 50.0
+          "count": 6,
+          "pct": 54.5
         },
         {
           "org": "Athenian School",
           "count": 2,
-          "pct": 20.0
+          "pct": 18.2
         },
         {
           "org": "Home School",
           "count": 1,
-          "pct": 10.0
+          "pct": 9.1
         },
         {
           "org": "Girl Scouts",
           "count": 1,
-          "pct": 10.0
+          "pct": 9.1
         },
         {
           "org": "Union City Robotics",
           "count": 1,
-          "pct": 10.0
+          "pct": 9.1
         }
       ],
       "teams": [
@@ -2686,6 +2697,190 @@
             }
           },
           "power_score": 52.4,
+          "tier": "Tier A (种子强队/劲旅)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
+        },
+        {
+          "number": 71804,
+          "name": "Astrobot",
+          "city": "Mountain House",
+          "region": "中央谷/萨克拉门托 (Central Valley)",
+          "org_name": "Family/Community",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "success",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 2/2",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 2,
+              "bcia": "complete",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [],
+          "past_names_details": [],
+          "history": {
+            "has_history": true,
+            "past_names": [],
+            "past_names_details": [],
+            "events_count": 2,
+            "seasons_count": 2,
+            "seasons": [
+              "2025 - UNEARTHED (Challenge)",
+              "2026 - BIOGLOW (Challenge)"
+            ],
+            "max_score": 440.0,
+            "avg_score": 440.0,
+            "best_ranking": 1,
+            "score_records_count": 1,
+            "awards_count": 0,
+            "champions_count": 0,
+            "core_awards_count": 0,
+            "power_score": 45.4,
+            "tier": "Tier A (种子强队/劲旅)",
+            "awards": [],
+            "advancements_count": 0,
+            "has_championship": false,
+            "experience_tier": "Veteran (老牌强队)",
+            "score_tier": "400-499 (一档强队)",
+            "events": [
+              {
+                "event_id": 302,
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT – The Dorris-Eaton School, San Ramon",
+                "season": "2026 - BIOGLOW (Challenge)",
+                "date": "2026-11-07",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              },
+              {
+                "event_id": 176,
+                "event_name": "2025 NorCal FLL-C:  Modesto QT at Beyer HS",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "date": "2025-11-08",
+                "highest_score": 440.0,
+                "ranking": 1,
+                "advanced": false,
+                "awards": []
+              }
+            ],
+            "recent_event": {
+              "event_id": 302,
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT – The Dorris-Eaton School, San Ramon",
+              "season": "2026 - BIOGLOW (Challenge)",
+              "date": "2026-11-07",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 176,
+                  "event_name": "2025 NorCal FLL-C:  Modesto QT at Beyer HS",
+                  "season": "2025 - UNEARTHED (Challenge)",
+                  "date": "2025-11-08",
+                  "highest_score": 440.0,
+                  "ranking": 1,
+                  "advanced": false,
+                  "awards": []
+                },
+                "champ": null
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              }
+            }
+          },
+          "power_score": 45.4,
           "tier": "Tier A (种子强队/劲旅)",
           "advancing_to_next_level": false,
           "advancing_wait_list": false
@@ -4266,15 +4461,15 @@
             "roster_status": {
               "good": true,
               "details": "",
-              "count": 3,
-              "threshold": 3,
+              "count": 4,
+              "threshold": 4,
               "icon": "users",
               "icon_good": "users-circle-check",
               "color": "success",
               "title": "Roster",
-              "tooltip": "<strong>Roster</strong>: 3",
-              "total": 3,
-              "required_count": 3,
+              "tooltip": "<strong>Roster</strong>: 4",
+              "total": 4,
+              "required_count": 4,
               "min": 2,
               "max": 10,
               "not_with_first": 0
@@ -5983,20 +6178,20 @@
       "venue_name": "San Francisco Day School",
       "start_time": "2026-11-14",
       "capacity": 18,
-      "total_registered": 6,
-      "fill_rate": 33.3,
-      "spots_remaining": 12,
-      "ready_count": 6,
+      "total_registered": 7,
+      "fill_rate": 38.9,
+      "spots_remaining": 11,
+      "ready_count": 7,
       "ready_pct": 100.0,
       "pending_count": 0,
       "status_counts": {
-        "good": 6
+        "good": 7
       },
       "experience": {
         "veteran_count": 4,
-        "veteran_pct": 66.7,
-        "experienced_count": 2,
-        "experienced_pct": 33.3,
+        "veteran_pct": 57.1,
+        "experienced_count": 3,
+        "experienced_pct": 42.9,
         "rookie_count": 0,
         "rookie_pct": 0.0
       },
@@ -6005,11 +6200,11 @@
         "top_team_number": 57382,
         "top_team_name": "RoboRise",
         "avg_career_score": 236.2,
-        "avg_power_score": 21.8,
+        "avg_power_score": 18.9,
         "tier_s_count": 1,
         "tier_a_count": 0,
         "tier_b_count": 3,
-        "tier_c_count": 2,
+        "tier_c_count": 3,
         "tier_rookie_count": 0,
         "teams_with_awards": 2,
         "total_career_awards": 4,
@@ -6019,73 +6214,83 @@
           "400-499 (一档强队)": 1,
           "300-399 (中坚晋级)": 0,
           "<300 (入门发展)": 3,
-          "暂无得分记录": 2
+          "暂无得分记录": 3
         }
       },
       "cities_dist": [
         {
           "city": "Oakland",
           "count": 2,
-          "pct": 33.3
+          "pct": 28.6
         },
         {
           "city": "Albany",
           "count": 1,
-          "pct": 16.7
+          "pct": 14.3
         },
         {
           "city": "Foster City",
           "count": 1,
-          "pct": 16.7
+          "pct": 14.3
         },
         {
           "city": "San Francisco",
           "count": 1,
-          "pct": 16.7
+          "pct": 14.3
         },
         {
           "city": "Cupertino",
           "count": 1,
-          "pct": 16.7
+          "pct": 14.3
+        },
+        {
+          "city": "Saratoga",
+          "count": 1,
+          "pct": 14.3
         }
       ],
       "regions_dist": [
         {
           "region": "东湾 (East Bay)",
           "count": 3,
-          "pct": 50.0
+          "pct": 42.9
+        },
+        {
+          "region": "南湾 (South Bay)",
+          "count": 2,
+          "pct": 28.6
         },
         {
           "region": "半岛 (Peninsula)",
           "count": 1,
-          "pct": 16.7
+          "pct": 14.3
         },
         {
           "region": "旧金山 (San Francisco)",
           "count": 1,
-          "pct": 16.7
-        },
-        {
-          "region": "南湾 (South Bay)",
-          "count": 1,
-          "pct": 16.7
+          "pct": 14.3
         }
       ],
       "top_orgs": [
         {
           "org": "Family/Community",
           "count": 3,
-          "pct": 50.0
+          "pct": 42.9
         },
         {
           "org": "Westlake Middle",
           "count": 2,
-          "pct": 33.3
+          "pct": 28.6
         },
         {
           "org": "St Thomas More Elementary School",
           "count": 1,
-          "pct": 16.7
+          "pct": 14.3
+        },
+        {
+          "org": "Foothill Elementary",
+          "count": 1,
+          "pct": 14.3
         }
       ],
       "teams": [
@@ -7328,6 +7533,170 @@
           "tier": "Tier C (成长中队伍/新锐)",
           "advancing_to_next_level": false,
           "advancing_wait_list": false
+        },
+        {
+          "number": 76441,
+          "name": "The Legends Foothill",
+          "city": "Saratoga",
+          "region": "南湾 (South Bay)",
+          "org_name": "Foothill Elementary",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "success",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 2/2",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 2,
+              "bcia": "complete",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 5,
+              "threshold": 5,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 5",
+              "total": 5,
+              "required_count": 5,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [],
+          "past_names_details": [],
+          "history": {
+            "has_history": true,
+            "past_names": [],
+            "past_names_details": [],
+            "events_count": 1,
+            "seasons_count": 1,
+            "seasons": [
+              "2026 - BIOGLOW (Challenge)"
+            ],
+            "max_score": null,
+            "avg_score": null,
+            "best_ranking": null,
+            "score_records_count": 0,
+            "awards_count": 0,
+            "champions_count": 0,
+            "core_awards_count": 0,
+            "power_score": 1.1,
+            "tier": "Tier C (成长中队伍/新锐)",
+            "awards": [],
+            "advancements_count": 0,
+            "has_championship": false,
+            "experience_tier": "Experienced (有参赛经验)",
+            "score_tier": "暂无得分记录",
+            "events": [
+              {
+                "event_id": 304,
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT- SF Day School",
+                "season": "2026 - BIOGLOW (Challenge)",
+                "date": "2026-11-14",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              }
+            ],
+            "recent_event": {
+              "event_id": 304,
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT- SF Day School",
+              "season": "2026 - BIOGLOW (Challenge)",
+              "date": "2026-11-14",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              }
+            }
+          },
+          "power_score": 1.1,
+          "tier": "Tier C (成长中队伍/新锐)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
         }
       ]
     },
@@ -7343,11 +7712,13 @@
       "total_registered": 16,
       "fill_rate": 88.9,
       "spots_remaining": 2,
-      "ready_count": 16,
-      "ready_pct": 100.0,
-      "pending_count": 0,
+      "ready_count": 14,
+      "ready_pct": 87.5,
+      "pending_count": 2,
       "status_counts": {
-        "good": 16
+        "good": 14,
+        "pending_fingerprinting": 1,
+        "roster_overload": 1
       },
       "experience": {
         "veteran_count": 14,
@@ -7720,7 +8091,7 @@
           "city": "Santa Clara",
           "region": "南湾 (South Bay)",
           "org_name": "Cabrillo Middle School",
-          "status_v2": "good",
+          "status_v2": "pending_fingerprinting",
           "status_quickview": {
             "screening": {
               "good": true,
@@ -7735,17 +8106,17 @@
               "skipped": false
             },
             "fingerprinting": {
-              "good": true,
-              "details": "2/2 complete",
-              "count": 2,
+              "good": false,
+              "details": "1/2 complete",
+              "count": 1,
               "threshold": 2,
               "icon": "fingerprint",
               "icon_good": "fingerprint-circle-check",
-              "color": "success",
+              "color": "error",
               "title": "Fingerprinting",
-              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 2/2",
-              "livescan_count": 2,
-              "mrt_count": 2,
+              "tooltip": "<strong>Fingerprinting</strong>: 1/2 complete<br/>Live Scan 1/2<br/>MRT 1/2<br/>BCIA 9018 2/2",
+              "livescan_count": 1,
+              "mrt_count": 1,
               "bcia_count": 2,
               "bcia": "complete",
               "bcia_enforced": false,
@@ -7753,17 +8124,17 @@
               "bcia_effective_date": "2027-01-01"
             },
             "coaches": {
-              "good": true,
-              "details": "",
-              "count": 2,
-              "threshold": 2,
+              "good": false,
+              "details": "Above maximum: 3/2",
+              "count": 3,
+              "threshold": 3,
               "icon": "user",
               "icon_good": "user-circle-check",
-              "color": "success",
+              "color": "error",
               "title": "Coaches",
-              "tooltip": "<strong>Coaches</strong>: 2",
-              "total": 2,
-              "required_count": 2,
+              "tooltip": "<strong>Coaches</strong>: 3<br/>Issues: Above maximum: 3/2",
+              "total": 3,
+              "required_count": 3,
               "min": 2,
               "max": 2,
               "invited": 0
@@ -7797,7 +8168,7 @@
               "title": "Agreements",
               "tooltip": "<strong>Agreements</strong>: All complete"
             },
-            "status": "good"
+            "status": "pending_fingerprinting"
           },
           "past_names": [
             "Otter Bots",
@@ -8563,7 +8934,7 @@
           "city": "Santa Clara",
           "region": "南湾 (South Bay)",
           "org_name": "Cabrillo Middle School",
-          "status_v2": "good",
+          "status_v2": "roster_overload",
           "status_quickview": {
             "screening": {
               "good": true,
@@ -8596,17 +8967,17 @@
               "bcia_effective_date": "2027-01-01"
             },
             "coaches": {
-              "good": true,
-              "details": "",
-              "count": 2,
-              "threshold": 2,
+              "good": false,
+              "details": "Above maximum: 3/2",
+              "count": 3,
+              "threshold": 3,
               "icon": "user",
               "icon_good": "user-circle-check",
-              "color": "success",
+              "color": "error",
               "title": "Coaches",
-              "tooltip": "<strong>Coaches</strong>: 2",
-              "total": 2,
-              "required_count": 2,
+              "tooltip": "<strong>Coaches</strong>: 3<br/>Issues: Above maximum: 3/2",
+              "total": 3,
+              "required_count": 3,
               "min": 2,
               "max": 2,
               "invited": 0
@@ -8640,7 +9011,7 @@
               "title": "Agreements",
               "tooltip": "<strong>Agreements</strong>: All complete"
             },
-            "status": "good"
+            "status": "roster_overload"
           },
           "past_names": [
             "Octonauts",
@@ -11340,20 +11711,20 @@
       "venue_name": "TBD",
       "start_time": "2026-11-14",
       "capacity": 18,
-      "total_registered": 15,
-      "fill_rate": 83.3,
-      "spots_remaining": 3,
-      "ready_count": 15,
+      "total_registered": 16,
+      "fill_rate": 88.9,
+      "spots_remaining": 2,
+      "ready_count": 16,
       "ready_pct": 100.0,
       "pending_count": 0,
       "status_counts": {
-        "good": 15
+        "good": 16
       },
       "experience": {
-        "veteran_count": 10,
-        "veteran_pct": 66.7,
+        "veteran_count": 11,
+        "veteran_pct": 68.8,
         "experienced_count": 5,
-        "experienced_pct": 33.3,
+        "experienced_pct": 31.2,
         "rookie_count": 0,
         "rookie_pct": 0.0
       },
@@ -11361,21 +11732,21 @@
         "top_career_score": 515.0,
         "top_team_number": 60868,
         "top_team_name": "iBots",
-        "avg_career_score": 340.5,
-        "avg_power_score": 33.3,
+        "avg_career_score": 334.1,
+        "avg_power_score": 33.4,
         "tier_s_count": 2,
         "tier_a_count": 4,
-        "tier_b_count": 4,
+        "tier_b_count": 5,
         "tier_c_count": 5,
         "tier_rookie_count": 0,
-        "teams_with_awards": 7,
-        "total_career_awards": 27,
-        "teams_with_advancement": 8,
+        "teams_with_awards": 8,
+        "total_career_awards": 29,
+        "teams_with_advancement": 9,
         "score_tier_counts": {
           "500+ (争冠顶尖)": 1,
           "400-499 (一档强队)": 1,
           "300-399 (中坚晋级)": 4,
-          "<300 (入门发展)": 4,
+          "<300 (入门发展)": 5,
           "暂无得分记录": 5
         }
       },
@@ -11383,86 +11754,91 @@
         {
           "city": "Santa Clara",
           "count": 5,
-          "pct": 33.3
+          "pct": 31.2
         },
         {
           "city": "San Jose",
           "count": 4,
-          "pct": 26.7
+          "pct": 25.0
         },
         {
           "city": "Fremont",
           "count": 2,
-          "pct": 13.3
+          "pct": 12.5
+        },
+        {
+          "city": "fremont",
+          "count": 1,
+          "pct": 6.2
         },
         {
           "city": "Los Altos",
           "count": 1,
-          "pct": 6.7
+          "pct": 6.2
         },
         {
           "city": "Union City",
           "count": 1,
-          "pct": 6.7
+          "pct": 6.2
         },
         {
           "city": "Saratoga",
           "count": 1,
-          "pct": 6.7
+          "pct": 6.2
         },
         {
           "city": "Palo Alto",
           "count": 1,
-          "pct": 6.7
+          "pct": 6.2
         }
       ],
       "regions_dist": [
         {
           "region": "南湾 (South Bay)",
           "count": 10,
-          "pct": 66.7
+          "pct": 62.5
         },
         {
           "region": "东湾 (East Bay)",
-          "count": 3,
-          "pct": 20.0
+          "count": 4,
+          "pct": 25.0
         },
         {
           "region": "半岛 (Peninsula)",
           "count": 2,
-          "pct": 13.3
+          "pct": 12.5
         }
       ],
       "top_orgs": [
         {
           "org": "Family/Community",
-          "count": 7,
-          "pct": 46.7
+          "count": 8,
+          "pct": 50.0
         },
         {
           "org": "Cabrillo Middle School",
           "count": 4,
-          "pct": 26.7
+          "pct": 25.0
         },
         {
           "org": "Don Callejon",
           "count": 1,
-          "pct": 6.7
+          "pct": 6.2
         },
         {
           "org": "Valley Christian Elementary",
           "count": 1,
-          "pct": 6.7
+          "pct": 6.2
         },
         {
           "org": "Argonaut Elementary",
           "count": 1,
-          "pct": 6.7
+          "pct": 6.2
         },
         {
           "org": "Imagination Lab School",
           "count": 1,
-          "pct": 6.7
+          "pct": 6.2
         }
       ],
       "teams": [
@@ -13784,6 +14160,231 @@
             }
           },
           "power_score": 36.5,
+          "tier": "Tier B (中坚力量/资深)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
+        },
+        {
+          "number": 67854,
+          "name": "Superstars",
+          "city": "fremont",
+          "region": "东湾 (East Bay)",
+          "org_name": "Family/Community",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "success",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 2/2",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 2,
+              "bcia": "complete",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [],
+          "past_names_details": [],
+          "history": {
+            "has_history": true,
+            "past_names": [],
+            "past_names_details": [],
+            "events_count": 3,
+            "seasons_count": 3,
+            "seasons": [
+              "2024 - SUBMERGED (Challenge)",
+              "2025 - UNEARTHED (Challenge)",
+              "2026 - BIOGLOW (Challenge)"
+            ],
+            "max_score": 270.0,
+            "avg_score": 135.0,
+            "best_ranking": 6,
+            "score_records_count": 2,
+            "awards_count": 2,
+            "champions_count": 0,
+            "core_awards_count": 2,
+            "power_score": 35.0,
+            "tier": "Tier B (中坚力量/资深)",
+            "awards": [
+              {
+                "name": "Robot Design Award",
+                "category": "core",
+                "season": "2024 - SUBMERGED (Challenge)",
+                "event_name": "2024 NorCal FLL-C:  San Francisco QT at Lowell HS",
+                "place": 0
+              },
+              {
+                "name": "Coach/Mentor Award",
+                "category": "core",
+                "season": "2024 - SUBMERGED (Challenge)",
+                "event_name": "2024 NorCal FLL-C:  San Francisco QT at Lowell HS",
+                "place": 0
+              }
+            ],
+            "advancements_count": 1,
+            "has_championship": false,
+            "experience_tier": "Veteran (老牌强队)",
+            "score_tier": "<300 (入门发展)",
+            "events": [
+              {
+                "event_id": 306,
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - San Francisco Bay University, Fremont",
+                "season": "2026 - BIOGLOW (Challenge)",
+                "date": "2026-11-14",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              },
+              {
+                "event_id": 192,
+                "event_name": "2025 NorCal FLL-C:  Fremont QT at Gomes",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "date": "2025-11-08",
+                "highest_score": 270.0,
+                "ranking": 6,
+                "advanced": false,
+                "awards": []
+              },
+              {
+                "event_id": 47,
+                "event_name": "2024 NorCal FLL-C:  San Francisco QT at Lowell HS",
+                "season": "2024 - SUBMERGED (Challenge)",
+                "date": "2024-11-09",
+                "highest_score": 0.0,
+                "ranking": null,
+                "advanced": true,
+                "awards": [
+                  "Robot Design Award",
+                  "Coach/Mentor Award"
+                ]
+              }
+            ],
+            "recent_event": {
+              "event_id": 306,
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - San Francisco Bay University, Fremont",
+              "season": "2026 - BIOGLOW (Challenge)",
+              "date": "2026-11-14",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 192,
+                  "event_name": "2025 NorCal FLL-C:  Fremont QT at Gomes",
+                  "season": "2025 - UNEARTHED (Challenge)",
+                  "date": "2025-11-08",
+                  "highest_score": 270.0,
+                  "ranking": 6,
+                  "advanced": false,
+                  "awards": []
+                },
+                "champ": null
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 47,
+                  "event_name": "2024 NorCal FLL-C:  San Francisco QT at Lowell HS",
+                  "season": "2024 - SUBMERGED (Challenge)",
+                  "date": "2024-11-09",
+                  "highest_score": 0.0,
+                  "ranking": null,
+                  "advanced": true,
+                  "awards": [
+                    "Robot Design Award",
+                    "Coach/Mentor Award"
+                  ]
+                },
+                "champ": null
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              }
+            }
+          },
+          "power_score": 35.0,
           "tier": "Tier B (中坚力量/资深)",
           "advancing_to_next_level": false,
           "advancing_wait_list": false
@@ -19287,40 +19888,40 @@
       "venue_name": "TBD",
       "start_time": "2026-11-15",
       "capacity": 18,
-      "total_registered": 16,
-      "fill_rate": 88.9,
-      "spots_remaining": 2,
-      "ready_count": 16,
+      "total_registered": 17,
+      "fill_rate": 94.4,
+      "spots_remaining": 1,
+      "ready_count": 17,
       "ready_pct": 100.0,
       "pending_count": 0,
       "status_counts": {
-        "good": 16
+        "good": 17
       },
       "experience": {
-        "veteran_count": 8,
-        "veteran_pct": 50.0,
+        "veteran_count": 9,
+        "veteran_pct": 52.9,
         "experienced_count": 8,
-        "experienced_pct": 50.0,
+        "experienced_pct": 47.1,
         "rookie_count": 0,
         "rookie_pct": 0.0
       },
       "strength": {
-        "top_career_score": 330.0,
-        "top_team_number": 67635,
-        "top_team_name": "Mission LEGO Legends",
-        "avg_career_score": 225.0,
-        "avg_power_score": 13.8,
-        "tier_s_count": 0,
+        "top_career_score": 425.0,
+        "top_team_number": 54977,
+        "top_team_name": "Menlo Park Narleaotters",
+        "avg_career_score": 247.2,
+        "avg_power_score": 18.0,
+        "tier_s_count": 1,
         "tier_a_count": 2,
         "tier_b_count": 6,
         "tier_c_count": 8,
         "tier_rookie_count": 0,
-        "teams_with_awards": 3,
-        "total_career_awards": 4,
-        "teams_with_advancement": 1,
+        "teams_with_awards": 4,
+        "total_career_awards": 10,
+        "teams_with_advancement": 2,
         "score_tier_counts": {
           "500+ (争冠顶尖)": 0,
-          "400-499 (一档强队)": 0,
+          "400-499 (一档强队)": 1,
           "300-399 (中坚晋级)": 1,
           "<300 (入门发展)": 7,
           "暂无得分记录": 8
@@ -19330,114 +19931,467 @@
         {
           "city": "Berkeley",
           "count": 3,
-          "pct": 18.8
+          "pct": 17.6
         },
         {
           "city": "Hillsborough",
           "count": 2,
-          "pct": 12.5
+          "pct": 11.8
         },
         {
           "city": "San Mateo",
           "count": 2,
-          "pct": 12.5
+          "pct": 11.8
+        },
+        {
+          "city": "Menlo Park",
+          "count": 1,
+          "pct": 5.9
         },
         {
           "city": "Fremont",
           "count": 1,
-          "pct": 6.2
+          "pct": 5.9
         },
         {
           "city": "Saratoga",
           "count": 1,
-          "pct": 6.2
+          "pct": 5.9
         },
         {
           "city": "Milpitas",
           "count": 1,
-          "pct": 6.2
+          "pct": 5.9
         },
         {
           "city": "San Carlos",
           "count": 1,
-          "pct": 6.2
+          "pct": 5.9
         },
         {
           "city": "Cupertino",
           "count": 1,
-          "pct": 6.2
+          "pct": 5.9
         },
         {
           "city": "San Ramon",
           "count": 1,
-          "pct": 6.2
+          "pct": 5.9
         },
         {
           "city": "Los Altos",
           "count": 1,
-          "pct": 6.2
+          "pct": 5.9
         },
         {
           "city": "Sunnyvale",
           "count": 1,
-          "pct": 6.2
+          "pct": 5.9
         },
         {
           "city": "Palo Alto",
           "count": 1,
-          "pct": 6.2
+          "pct": 5.9
         }
       ],
       "regions_dist": [
         {
           "region": "半岛 (Peninsula)",
-          "count": 7,
-          "pct": 43.8
+          "count": 8,
+          "pct": 47.1
         },
         {
           "region": "东湾 (East Bay)",
           "count": 5,
-          "pct": 31.2
+          "pct": 29.4
         },
         {
           "region": "南湾 (South Bay)",
           "count": 4,
-          "pct": 25.0
+          "pct": 23.5
         }
       ],
       "top_orgs": [
         {
           "org": "Family/Community",
-          "count": 10,
-          "pct": 62.5
+          "count": 11,
+          "pct": 64.7
         },
         {
           "org": "Nueva School",
           "count": 2,
-          "pct": 12.5
+          "pct": 11.8
         },
         {
           "org": "William Hopkins Junior High",
           "count": 1,
-          "pct": 6.2
+          "pct": 5.9
         },
         {
           "org": "Argonaut Elementary",
           "count": 1,
-          "pct": 6.2
+          "pct": 5.9
         },
         {
           "org": "Tessellations School",
           "count": 1,
-          "pct": 6.2
+          "pct": 5.9
         },
         {
           "org": "ULEAP",
           "count": 1,
-          "pct": 6.2
+          "pct": 5.9
         }
       ],
       "teams": [
+        {
+          "number": 54977,
+          "name": "Menlo Park Narleaotters",
+          "city": "Menlo Park",
+          "region": "半岛 (Peninsula)",
+          "org_name": "Family/Community",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "success",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 2/2",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 2,
+              "bcia": "complete",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 4,
+              "threshold": 4,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 4",
+              "total": 4,
+              "required_count": 4,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [],
+          "past_names_details": [],
+          "history": {
+            "has_history": true,
+            "past_names": [],
+            "past_names_details": [],
+            "events_count": 7,
+            "seasons_count": 4,
+            "seasons": [
+              "2023 - MASTERPIECE (Challenge)",
+              "2024 - SUBMERGED (Challenge)",
+              "2025 - UNEARTHED (Challenge)",
+              "2026 - BIOGLOW (Challenge)"
+            ],
+            "max_score": 425.0,
+            "avg_score": 363.0,
+            "best_ranking": 2,
+            "score_records_count": 5,
+            "awards_count": 6,
+            "champions_count": 4,
+            "core_awards_count": 2,
+            "power_score": 84.6,
+            "tier": "Tier S (霸主/夺冠热门)",
+            "awards": [
+              {
+                "name": "Champion's Award",
+                "category": "core",
+                "season": "2023 - MASTERPIECE (Challenge)",
+                "event_name": "2023 Mountain View High School",
+                "place": 0
+              },
+              {
+                "name": "Champion's Award",
+                "category": "core",
+                "season": "2023 - MASTERPIECE (Challenge)",
+                "event_name": "2024 Peninsula District Championship",
+                "place": 0
+              },
+              {
+                "name": "Champion's Award",
+                "category": "core",
+                "season": "2024 - SUBMERGED (Challenge)",
+                "event_name": "2024 NorCal FLL-C:  Mt View QT at Mt View HS 11/16",
+                "place": 0
+              },
+              {
+                "name": "Robot Design Award",
+                "category": "core",
+                "season": "2024 - SUBMERGED (Challenge)",
+                "event_name": "2025 Peninsula District Championship",
+                "place": 0
+              },
+              {
+                "name": "Champion's Award",
+                "category": "core",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "event_name": "2025 NorCal FLL-C:  East Palo Alto QT at EPA Center",
+                "place": 0
+              },
+              {
+                "name": "Robot Design Award",
+                "category": "core",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "event_name": "2026 NorCal Bay Area Bedrock Championship - 2025/2026 Season",
+                "place": 0
+              }
+            ],
+            "advancements_count": 3,
+            "has_championship": true,
+            "experience_tier": "Veteran (老牌强队)",
+            "score_tier": "400-499 (一档强队)",
+            "events": [
+              {
+                "event_id": 309,
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Nueva School, San Mateo",
+                "season": "2026 - BIOGLOW (Challenge)",
+                "date": "2026-11-15",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              },
+              {
+                "event_id": 268,
+                "event_name": "2026 NorCal Bay Area Bedrock Championship - 2025/2026 Season",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "date": "2026-03-08",
+                "highest_score": 425.0,
+                "ranking": 18,
+                "advanced": false,
+                "awards": [
+                  "Robot Design Award"
+                ]
+              },
+              {
+                "event_id": 188,
+                "event_name": "2025 NorCal FLL-C:  East Palo Alto QT at EPA Center",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "date": "2025-11-16",
+                "highest_score": 350.0,
+                "ranking": 2,
+                "advanced": true,
+                "awards": [
+                  "Champion's Award"
+                ]
+              },
+              {
+                "event_id": 110,
+                "event_name": "2025 Peninsula District Championship",
+                "season": "2024 - SUBMERGED (Challenge)",
+                "date": "2025-03-09",
+                "highest_score": 370.0,
+                "ranking": 9,
+                "advanced": false,
+                "awards": [
+                  "Robot Design Award"
+                ]
+              },
+              {
+                "event_id": 60,
+                "event_name": "2024 NorCal FLL-C:  Mt View QT at Mt View HS 11/16",
+                "season": "2024 - SUBMERGED (Challenge)",
+                "date": "2024-11-16",
+                "highest_score": 275.0,
+                "ranking": 2,
+                "advanced": true,
+                "awards": [
+                  "Champion's Award"
+                ]
+              },
+              {
+                "event_id": 23,
+                "event_name": "2024 Peninsula District Championship",
+                "season": "2023 - MASTERPIECE (Challenge)",
+                "date": "2024-03-31",
+                "highest_score": 395.0,
+                "ranking": 6,
+                "advanced": false,
+                "awards": [
+                  "Champion's Award"
+                ]
+              },
+              {
+                "event_id": 10,
+                "event_name": "2023 Mountain View High School",
+                "season": "2023 - MASTERPIECE (Challenge)",
+                "date": "2023-11-18",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": true,
+                "awards": [
+                  "Champion's Award"
+                ]
+              }
+            ],
+            "recent_event": {
+              "event_id": 309,
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Nueva School, San Mateo",
+              "season": "2026 - BIOGLOW (Challenge)",
+              "date": "2026-11-15",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 188,
+                  "event_name": "2025 NorCal FLL-C:  East Palo Alto QT at EPA Center",
+                  "season": "2025 - UNEARTHED (Challenge)",
+                  "date": "2025-11-16",
+                  "highest_score": 350.0,
+                  "ranking": 2,
+                  "advanced": true,
+                  "awards": [
+                    "Champion's Award"
+                  ]
+                },
+                "champ": {
+                  "event_id": 268,
+                  "event_name": "2026 NorCal Bay Area Bedrock Championship - 2025/2026 Season",
+                  "season": "2025 - UNEARTHED (Challenge)",
+                  "date": "2026-03-08",
+                  "highest_score": 425.0,
+                  "ranking": 18,
+                  "advanced": false,
+                  "awards": [
+                    "Robot Design Award"
+                  ]
+                }
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 60,
+                  "event_name": "2024 NorCal FLL-C:  Mt View QT at Mt View HS 11/16",
+                  "season": "2024 - SUBMERGED (Challenge)",
+                  "date": "2024-11-16",
+                  "highest_score": 275.0,
+                  "ranking": 2,
+                  "advanced": true,
+                  "awards": [
+                    "Champion's Award"
+                  ]
+                },
+                "champ": {
+                  "event_id": 110,
+                  "event_name": "2025 Peninsula District Championship",
+                  "season": "2024 - SUBMERGED (Challenge)",
+                  "date": "2025-03-09",
+                  "highest_score": 370.0,
+                  "ranking": 9,
+                  "advanced": false,
+                  "awards": [
+                    "Robot Design Award"
+                  ]
+                }
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 10,
+                  "event_name": "2023 Mountain View High School",
+                  "season": "2023 - MASTERPIECE (Challenge)",
+                  "date": "2023-11-18",
+                  "highest_score": null,
+                  "ranking": null,
+                  "advanced": true,
+                  "awards": [
+                    "Champion's Award"
+                  ]
+                },
+                "champ": {
+                  "event_id": 23,
+                  "event_name": "2024 Peninsula District Championship",
+                  "season": "2023 - MASTERPIECE (Challenge)",
+                  "date": "2024-03-31",
+                  "highest_score": 395.0,
+                  "ranking": 6,
+                  "advanced": false,
+                  "awards": [
+                    "Champion's Award"
+                  ]
+                }
+              }
+            }
+          },
+          "power_score": 84.6,
+          "tier": "Tier S (霸主/夺冠热门)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
+        },
         {
           "number": 10586,
           "name": "The Minifigs",
@@ -22724,20 +23678,21 @@
       "venue_name": "Gunn High School",
       "start_time": "2026-11-21",
       "capacity": 18,
-      "total_registered": 17,
-      "fill_rate": 94.4,
-      "spots_remaining": 1,
+      "total_registered": 18,
+      "fill_rate": 100.0,
+      "spots_remaining": 0,
       "ready_count": 17,
-      "ready_pct": 100.0,
-      "pending_count": 0,
+      "ready_pct": 94.4,
+      "pending_count": 1,
       "status_counts": {
+        "pending_fingerprinting": 1,
         "good": 17
       },
       "experience": {
         "veteran_count": 11,
-        "veteran_pct": 64.7,
-        "experienced_count": 6,
-        "experienced_pct": 35.3,
+        "veteran_pct": 61.1,
+        "experienced_count": 7,
+        "experienced_pct": 38.9,
         "rookie_count": 0,
         "rookie_pct": 0.0
       },
@@ -22746,11 +23701,11 @@
         "top_team_number": 60085,
         "top_team_name": "Lego Artisans",
         "avg_career_score": 340.5,
-        "avg_power_score": 29.6,
+        "avg_power_score": 28.0,
         "tier_s_count": 1,
         "tier_a_count": 6,
         "tier_b_count": 4,
-        "tier_c_count": 6,
+        "tier_c_count": 7,
         "tier_rookie_count": 0,
         "teams_with_awards": 5,
         "total_career_awards": 16,
@@ -22760,128 +23715,133 @@
           "400-499 (一档强队)": 2,
           "300-399 (中坚晋级)": 4,
           "<300 (入门发展)": 4,
-          "暂无得分记录": 6
+          "暂无得分记录": 7
         }
       },
       "cities_dist": [
         {
           "city": "San Jose",
           "count": 3,
-          "pct": 17.6
+          "pct": 16.7
         },
         {
           "city": "Santa Clara",
           "count": 2,
-          "pct": 11.8
+          "pct": 11.1
         },
         {
           "city": "Cupertino",
           "count": 2,
-          "pct": 11.8
+          "pct": 11.1
         },
         {
           "city": "Fremont",
           "count": 2,
-          "pct": 11.8
+          "pct": 11.1
         },
         {
           "city": "Saratoga",
           "count": 2,
-          "pct": 11.8
+          "pct": 11.1
         },
         {
           "city": "Palo Alto",
           "count": 1,
-          "pct": 5.9
+          "pct": 5.6
         },
         {
           "city": "San Ramon",
           "count": 1,
-          "pct": 5.9
+          "pct": 5.6
         },
         {
           "city": "Tracy",
           "count": 1,
-          "pct": 5.9
+          "pct": 5.6
+        },
+        {
+          "city": "Los Gatos",
+          "count": 1,
+          "pct": 5.6
         },
         {
           "city": "Mountain View",
           "count": 1,
-          "pct": 5.9
+          "pct": 5.6
         },
         {
           "city": "El Dorado Hills",
           "count": 1,
-          "pct": 5.9
+          "pct": 5.6
         },
         {
           "city": "Sunnyvale",
           "count": 1,
-          "pct": 5.9
+          "pct": 5.6
         }
       ],
       "regions_dist": [
         {
           "region": "南湾 (South Bay)",
-          "count": 10,
-          "pct": 58.8
+          "count": 11,
+          "pct": 61.1
         },
         {
           "region": "东湾 (East Bay)",
           "count": 3,
-          "pct": 17.6
+          "pct": 16.7
         },
         {
           "region": "半岛 (Peninsula)",
           "count": 2,
-          "pct": 11.8
+          "pct": 11.1
         },
         {
           "region": "中央谷/萨克拉门托 (Central Valley)",
           "count": 1,
-          "pct": 5.9
+          "pct": 5.6
         },
         {
           "region": "其他地区 (Other)",
           "count": 1,
-          "pct": 5.9
+          "pct": 5.6
         }
       ],
       "top_orgs": [
         {
           "org": "Family/Community",
-          "count": 10,
-          "pct": 58.8
+          "count": 11,
+          "pct": 61.1
         },
         {
           "org": "Argonaut Elementary",
           "count": 2,
-          "pct": 11.8
+          "pct": 11.1
         },
         {
           "org": "Cabrillo Middle School",
           "count": 1,
-          "pct": 5.9
+          "pct": 5.6
         },
         {
           "org": "Santa Teresa Elementary, Stratford School - San Jose, Thornton Middle School, Patterson Elementary School",
           "count": 1,
-          "pct": 5.9
+          "pct": 5.6
         },
         {
           "org": "Sutter Middle, Winston Churchill Middle",
           "count": 1,
-          "pct": 5.9
+          "pct": 5.6
         },
         {
           "org": "Stratford School - Santa Clara Pomeroy",
           "count": 1,
-          "pct": 5.9
+          "pct": 5.6
         },
         {
           "org": "Stratford Middle School",
           "count": 1,
-          "pct": 5.9
+          "pct": 5.6
         }
       ],
       "teams": [
@@ -23728,7 +24688,7 @@
           "city": "Santa Clara",
           "region": "南湾 (South Bay)",
           "org_name": "Cabrillo Middle School",
-          "status_v2": "good",
+          "status_v2": "pending_fingerprinting",
           "status_quickview": {
             "screening": {
               "good": true,
@@ -23743,35 +24703,35 @@
               "skipped": false
             },
             "fingerprinting": {
-              "good": true,
-              "details": "2/2 complete",
-              "count": 2,
+              "good": false,
+              "details": "1/2 complete",
+              "count": 1,
               "threshold": 2,
               "icon": "fingerprint",
               "icon_good": "fingerprint-circle-check",
-              "color": "success",
+              "color": "error",
               "title": "Fingerprinting",
-              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 2/2",
+              "tooltip": "<strong>Fingerprinting</strong>: 1/2 complete<br/>Live Scan 2/2<br/>MRT 1/2<br/>BCIA 9018 1/2",
               "livescan_count": 2,
-              "mrt_count": 2,
-              "bcia_count": 2,
-              "bcia": "complete",
+              "mrt_count": 1,
+              "bcia_count": 1,
+              "bcia": "missing",
               "bcia_enforced": false,
               "skipped": false,
               "bcia_effective_date": "2027-01-01"
             },
             "coaches": {
-              "good": true,
-              "details": "",
-              "count": 2,
-              "threshold": 2,
+              "good": false,
+              "details": "Above maximum: 3/2",
+              "count": 3,
+              "threshold": 3,
               "icon": "user",
               "icon_good": "user-circle-check",
-              "color": "success",
+              "color": "error",
               "title": "Coaches",
-              "tooltip": "<strong>Coaches</strong>: 2",
-              "total": 2,
-              "required_count": 2,
+              "tooltip": "<strong>Coaches</strong>: 3<br/>Issues: Above maximum: 3/2",
+              "total": 3,
+              "required_count": 3,
               "min": 2,
               "max": 2,
               "invited": 0
@@ -23805,7 +24765,7 @@
               "title": "Agreements",
               "tooltip": "<strong>Agreements</strong>: All complete"
             },
-            "status": "good"
+            "status": "pending_fingerprinting"
           },
           "past_names": [
             "O.R.C.A",
@@ -25502,6 +26462,170 @@
           "advancing_wait_list": false
         },
         {
+          "number": 75933,
+          "name": "The Square Roots",
+          "city": "Los Gatos",
+          "region": "南湾 (South Bay)",
+          "org_name": "Family/Community",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "success",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 2/2",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 2,
+              "bcia": "complete",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 7,
+              "threshold": 7,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 7",
+              "total": 7,
+              "required_count": 7,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [],
+          "past_names_details": [],
+          "history": {
+            "has_history": true,
+            "past_names": [],
+            "past_names_details": [],
+            "events_count": 1,
+            "seasons_count": 1,
+            "seasons": [
+              "2026 - BIOGLOW (Challenge)"
+            ],
+            "max_score": null,
+            "avg_score": null,
+            "best_ranking": null,
+            "score_records_count": 0,
+            "awards_count": 0,
+            "champions_count": 0,
+            "core_awards_count": 0,
+            "power_score": 1.1,
+            "tier": "Tier C (成长中队伍/新锐)",
+            "awards": [],
+            "advancements_count": 0,
+            "has_championship": false,
+            "experience_tier": "Experienced (有参赛经验)",
+            "score_tier": "暂无得分记录",
+            "events": [
+              {
+                "event_id": 310,
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Gunn High School, Palo Alto",
+                "season": "2026 - BIOGLOW (Challenge)",
+                "date": "2026-11-21",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              }
+            ],
+            "recent_event": {
+              "event_id": 310,
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Gunn High School, Palo Alto",
+              "season": "2026 - BIOGLOW (Challenge)",
+              "date": "2026-11-21",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              }
+            }
+          },
+          "power_score": 1.1,
+          "tier": "Tier C (成长中队伍/新锐)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
+        },
+        {
           "number": 76109,
           "name": "Battle Bots",
           "city": "Fremont",
@@ -26489,27 +27613,28 @@
     },
     {
       "event_id": 311,
-      "name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+      "name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
       "season": "2026 - BIOGLOW (Challenge)",
       "program": "FIRST LEGO League: Challenge",
       "venue_city": "East Palo Alto",
       "venue_name": "EPA Center",
       "start_time": "2026-11-22",
       "capacity": 18,
-      "total_registered": 14,
-      "fill_rate": 77.8,
-      "spots_remaining": 4,
+      "total_registered": 15,
+      "fill_rate": 83.3,
+      "spots_remaining": 3,
       "ready_count": 14,
-      "ready_pct": 100.0,
-      "pending_count": 0,
+      "ready_pct": 93.3,
+      "pending_count": 1,
       "status_counts": {
-        "good": 14
+        "good": 14,
+        "roster_overload": 1
       },
       "experience": {
         "veteran_count": 7,
-        "veteran_pct": 50.0,
-        "experienced_count": 7,
-        "experienced_pct": 50.0,
+        "veteran_pct": 46.7,
+        "experienced_count": 8,
+        "experienced_pct": 53.3,
         "rookie_count": 0,
         "rookie_pct": 0.0
       },
@@ -26518,11 +27643,11 @@
         "top_team_number": 52363,
         "top_team_name": "TerraBytes",
         "avg_career_score": 357.9,
-        "avg_power_score": 23.4,
+        "avg_power_score": 21.9,
         "tier_s_count": 2,
         "tier_a_count": 2,
         "tier_b_count": 3,
-        "tier_c_count": 7,
+        "tier_c_count": 8,
         "tier_rookie_count": 0,
         "teams_with_awards": 4,
         "total_career_awards": 8,
@@ -26532,73 +27657,73 @@
           "400-499 (一档强队)": 3,
           "300-399 (中坚晋级)": 2,
           "<300 (入门发展)": 2,
-          "暂无得分记录": 7
+          "暂无得分记录": 8
         }
       },
       "cities_dist": [
         {
           "city": "San Jose",
-          "count": 6,
-          "pct": 42.9
+          "count": 7,
+          "pct": 46.7
         },
         {
           "city": "Fremont",
           "count": 4,
-          "pct": 28.6
+          "pct": 26.7
         },
         {
           "city": "Cupertino",
           "count": 1,
-          "pct": 7.1
+          "pct": 6.7
         },
         {
           "city": "Mountain View",
           "count": 1,
-          "pct": 7.1
+          "pct": 6.7
         },
         {
           "city": "Pleasanton",
           "count": 1,
-          "pct": 7.1
+          "pct": 6.7
         },
         {
           "city": "SAN JOSE",
           "count": 1,
-          "pct": 7.1
+          "pct": 6.7
         }
       ],
       "regions_dist": [
         {
           "region": "南湾 (South Bay)",
-          "count": 8,
-          "pct": 57.1
+          "count": 9,
+          "pct": 60.0
         },
         {
           "region": "东湾 (East Bay)",
           "count": 5,
-          "pct": 35.7
+          "pct": 33.3
         },
         {
           "region": "半岛 (Peninsula)",
           "count": 1,
-          "pct": 7.1
+          "pct": 6.7
         }
       ],
       "top_orgs": [
         {
           "org": "Family/Community",
-          "count": 12,
-          "pct": 85.7
+          "count": 13,
+          "pct": 86.7
         },
         {
           "org": "Warm Springs Elementary, Family/Community",
           "count": 1,
-          "pct": 7.1
+          "pct": 6.7
         },
         {
           "org": "Leadways School",
           "count": 1,
-          "pct": 7.1
+          "pct": 6.7
         }
       ],
       "teams": [
@@ -26759,7 +27884,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -26805,7 +27930,7 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -27007,7 +28132,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -27062,7 +28187,7 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -27148,7 +28273,7 @@
           "city": "San Jose",
           "region": "南湾 (South Bay)",
           "org_name": "Family/Community",
-          "status_v2": "good",
+          "status_v2": "roster_overload",
           "status_quickview": {
             "screening": {
               "good": true,
@@ -27203,14 +28328,14 @@
               "threshold": 9,
               "icon": "users",
               "icon_good": "users-circle-check",
-              "color": "success",
+              "color": "warning",
               "title": "Roster",
-              "tooltip": "<strong>Roster</strong>: 9",
+              "tooltip": "<strong>Roster</strong>: 9<br/>Issues: Not with FIRST: 1",
               "total": 9,
               "required_count": 9,
               "min": 2,
               "max": 10,
-              "not_with_first": 0
+              "not_with_first": 1
             },
             "agreements": {
               "good": true,
@@ -27225,7 +28350,7 @@
               "title": "Agreements",
               "tooltip": "<strong>Agreements</strong>: All complete"
             },
-            "status": "good"
+            "status": "roster_overload"
           },
           "past_names": [],
           "past_names_details": [],
@@ -27264,7 +28389,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -27297,7 +28422,7 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -27505,7 +28630,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -27550,7 +28675,7 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -27735,7 +28860,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -27756,7 +28881,7 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -27937,7 +29062,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -27958,7 +29083,7 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -28121,7 +29246,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -28142,7 +29267,7 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -28304,7 +29429,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -28315,7 +29440,7 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -28468,7 +29593,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -28479,7 +29604,7 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -28632,7 +29757,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -28643,7 +29768,171 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
+              "season": "2026 - BIOGLOW (Challenge)",
+              "date": "2026-11-22",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              }
+            }
+          },
+          "power_score": 1.1,
+          "tier": "Tier C (成长中队伍/新锐)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
+        },
+        {
+          "number": 75632,
+          "name": "F1FIFA",
+          "city": "San Jose",
+          "region": "南湾 (South Bay)",
+          "org_name": "Family/Community",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "warning",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 1/2<br/>BCIA 9018 form required from Jan 01, 2027",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 1,
+              "bcia": "missing",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 6,
+              "threshold": 6,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 6",
+              "total": 6,
+              "required_count": 6,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [],
+          "past_names_details": [],
+          "history": {
+            "has_history": true,
+            "past_names": [],
+            "past_names_details": [],
+            "events_count": 1,
+            "seasons_count": 1,
+            "seasons": [
+              "2026 - BIOGLOW (Challenge)"
+            ],
+            "max_score": null,
+            "avg_score": null,
+            "best_ranking": null,
+            "score_records_count": 0,
+            "awards_count": 0,
+            "champions_count": 0,
+            "core_awards_count": 0,
+            "power_score": 1.1,
+            "tier": "Tier C (成长中队伍/新锐)",
+            "awards": [],
+            "advancements_count": 0,
+            "has_championship": false,
+            "experience_tier": "Experienced (有参赛经验)",
+            "score_tier": "暂无得分记录",
+            "events": [
+              {
+                "event_id": 311,
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
+                "season": "2026 - BIOGLOW (Challenge)",
+                "date": "2026-11-22",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              }
+            ],
+            "recent_event": {
+              "event_id": 311,
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -28796,7 +30085,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -28807,7 +30096,7 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -28960,7 +30249,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -28971,7 +30260,7 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -29124,7 +30413,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -29135,7 +30424,7 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -29288,7 +30577,7 @@
             "events": [
               {
                 "event_id": 311,
-                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
                 "season": "2026 - BIOGLOW (Challenge)",
                 "date": "2026-11-22",
                 "highest_score": null,
@@ -29299,7 +30588,7 @@
             ],
             "recent_event": {
               "event_id": 311,
-              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
               "season": "2026 - BIOGLOW (Challenge)",
               "date": "2026-11-22",
               "highest_score": null,
@@ -29350,17 +30639,17 @@
       "venue_name": "Lowell High School",
       "start_time": "2026-11-21",
       "capacity": 18,
-      "total_registered": 6,
-      "fill_rate": 33.3,
-      "spots_remaining": 12,
-      "ready_count": 6,
+      "total_registered": 11,
+      "fill_rate": 61.1,
+      "spots_remaining": 7,
+      "ready_count": 11,
       "ready_pct": 100.0,
       "pending_count": 0,
       "status_counts": {
-        "good": 6
+        "good": 11
       },
       "experience": {
-        "veteran_count": 6,
+        "veteran_count": 11,
         "veteran_pct": 100.0,
         "experienced_count": 0,
         "experienced_pct": 0.0,
@@ -29371,73 +30660,78 @@
         "top_career_score": 540.0,
         "top_team_number": 64638,
         "top_team_name": "Brain Bots",
-        "avg_career_score": 352.5,
-        "avg_power_score": 46.3,
+        "avg_career_score": 272.7,
+        "avg_power_score": 34.5,
         "tier_s_count": 1,
         "tier_a_count": 3,
-        "tier_b_count": 2,
+        "tier_b_count": 7,
         "tier_c_count": 0,
         "tier_rookie_count": 0,
-        "teams_with_awards": 3,
-        "total_career_awards": 17,
+        "teams_with_awards": 4,
+        "total_career_awards": 18,
         "teams_with_advancement": 5,
         "score_tier_counts": {
           "500+ (争冠顶尖)": 1,
           "400-499 (一档强队)": 1,
           "300-399 (中坚晋级)": 2,
-          "<300 (入门发展)": 2,
+          "<300 (入门发展)": 7,
           "暂无得分记录": 0
         }
       },
       "cities_dist": [
         {
+          "city": "Sunnyvale",
+          "count": 5,
+          "pct": 45.5
+        },
+        {
           "city": "San Francisco",
           "count": 3,
-          "pct": 50.0
+          "pct": 27.3
         },
         {
           "city": "San Jose",
           "count": 2,
-          "pct": 33.3
+          "pct": 18.2
         },
         {
           "city": "Mountain House",
           "count": 1,
-          "pct": 16.7
+          "pct": 9.1
         }
       ],
       "regions_dist": [
         {
-          "region": "旧金山 (San Francisco)",
-          "count": 3,
-          "pct": 50.0
+          "region": "南湾 (South Bay)",
+          "count": 7,
+          "pct": 63.6
         },
         {
-          "region": "南湾 (South Bay)",
-          "count": 2,
-          "pct": 33.3
+          "region": "旧金山 (San Francisco)",
+          "count": 3,
+          "pct": 27.3
         },
         {
           "region": "中央谷/萨克拉门托 (Central Valley)",
           "count": 1,
-          "pct": 16.7
+          "pct": 9.1
         }
       ],
       "top_orgs": [
         {
           "org": "Family/Community",
-          "count": 3,
-          "pct": 50.0
+          "count": 8,
+          "pct": 72.7
         },
         {
           "org": "St. Gabriel School",
           "count": 2,
-          "pct": 33.3
+          "pct": 18.2
         },
         {
           "org": "James Denman Middle School",
           "count": 1,
-          "pct": 16.7
+          "pct": 9.1
         }
       ],
       "teams": [
@@ -30893,6 +32187,692 @@
           "advancing_wait_list": false
         },
         {
+          "number": 70221,
+          "name": "Hydrobots - SBR",
+          "city": "Sunnyvale",
+          "region": "南湾 (South Bay)",
+          "org_name": "Family/Community",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "success",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 2/2",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 2,
+              "bcia": "complete",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [
+            "BroBots - SBR",
+            "BroBots - SBR Team Sunnyvale"
+          ],
+          "past_names_details": [
+            {
+              "name": "BroBots - SBR",
+              "seasons": [
+                "2025 - UNEARTHED (Challenge)"
+              ]
+            },
+            {
+              "name": "BroBots - SBR Team Sunnyvale",
+              "seasons": [
+                "2024 - SUBMERGED (Challenge)"
+              ]
+            }
+          ],
+          "history": {
+            "has_history": true,
+            "past_names": [
+              "BroBots - SBR",
+              "BroBots - SBR Team Sunnyvale"
+            ],
+            "past_names_details": [
+              {
+                "name": "BroBots - SBR",
+                "seasons": [
+                  "2025 - UNEARTHED (Challenge)"
+                ]
+              },
+              {
+                "name": "BroBots - SBR Team Sunnyvale",
+                "seasons": [
+                  "2024 - SUBMERGED (Challenge)"
+                ]
+              }
+            ],
+            "events_count": 3,
+            "seasons_count": 3,
+            "seasons": [
+              "2024 - SUBMERGED (Challenge)",
+              "2025 - UNEARTHED (Challenge)",
+              "2026 - BIOGLOW (Challenge)"
+            ],
+            "max_score": 220.0,
+            "avg_score": 215.0,
+            "best_ranking": 5,
+            "score_records_count": 2,
+            "awards_count": 0,
+            "champions_count": 0,
+            "core_awards_count": 0,
+            "power_score": 24.4,
+            "tier": "Tier B (中坚力量/资深)",
+            "awards": [],
+            "advancements_count": 0,
+            "has_championship": false,
+            "experience_tier": "Veteran (老牌强队)",
+            "score_tier": "<300 (入门发展)",
+            "events": [
+              {
+                "event_id": 312,
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+                "season": "2026 - BIOGLOW (Challenge)",
+                "date": "2026-11-21",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              },
+              {
+                "event_id": 186,
+                "event_name": "2025 NorCal FLL-C:  San Jose QT at St Christopher",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "date": "2025-11-15",
+                "highest_score": 220.0,
+                "ranking": 9,
+                "advanced": false,
+                "awards": []
+              },
+              {
+                "event_id": 119,
+                "event_name": "2025 NorCal FLL-C : Sunnyvale Spring League - 4/26",
+                "season": "2024 - SUBMERGED (Challenge)",
+                "date": "2025-04-26",
+                "highest_score": 210.0,
+                "ranking": 5,
+                "advanced": false,
+                "awards": []
+              }
+            ],
+            "recent_event": {
+              "event_id": 312,
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+              "season": "2026 - BIOGLOW (Challenge)",
+              "date": "2026-11-21",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 186,
+                  "event_name": "2025 NorCal FLL-C:  San Jose QT at St Christopher",
+                  "season": "2025 - UNEARTHED (Challenge)",
+                  "date": "2025-11-15",
+                  "highest_score": 220.0,
+                  "ranking": 9,
+                  "advanced": false,
+                  "awards": []
+                },
+                "champ": null
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 119,
+                  "event_name": "2025 NorCal FLL-C : Sunnyvale Spring League - 4/26",
+                  "season": "2024 - SUBMERGED (Challenge)",
+                  "date": "2025-04-26",
+                  "highest_score": 210.0,
+                  "ranking": 5,
+                  "advanced": false,
+                  "awards": []
+                },
+                "champ": null
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              }
+            }
+          },
+          "power_score": 24.4,
+          "tier": "Tier B (中坚力量/资深)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
+        },
+        {
+          "number": 72379,
+          "name": "Bamboo Bots - SBR",
+          "city": "Sunnyvale",
+          "region": "南湾 (South Bay)",
+          "org_name": "Family/Community",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "warning",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 1/2<br/>BCIA 9018 form required from Jan 01, 2027",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 1,
+              "bcia": "missing",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 5,
+              "threshold": 5,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 5",
+              "total": 5,
+              "required_count": 5,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [
+            "SBR TEAM ORANGE"
+          ],
+          "past_names_details": [
+            {
+              "name": "SBR TEAM ORANGE",
+              "seasons": [
+                "2025 - UNEARTHED (Challenge)"
+              ]
+            }
+          ],
+          "history": {
+            "has_history": true,
+            "past_names": [
+              "SBR TEAM ORANGE"
+            ],
+            "past_names_details": [
+              {
+                "name": "SBR TEAM ORANGE",
+                "seasons": [
+                  "2025 - UNEARTHED (Challenge)"
+                ]
+              }
+            ],
+            "events_count": 2,
+            "seasons_count": 2,
+            "seasons": [
+              "2025 - UNEARTHED (Challenge)",
+              "2026 - BIOGLOW (Challenge)"
+            ],
+            "max_score": 220.0,
+            "avg_score": 220.0,
+            "best_ranking": 6,
+            "score_records_count": 1,
+            "awards_count": 0,
+            "champions_count": 0,
+            "core_awards_count": 0,
+            "power_score": 23.8,
+            "tier": "Tier B (中坚力量/资深)",
+            "awards": [],
+            "advancements_count": 0,
+            "has_championship": false,
+            "experience_tier": "Veteran (老牌强队)",
+            "score_tier": "<300 (入门发展)",
+            "events": [
+              {
+                "event_id": 312,
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+                "season": "2026 - BIOGLOW (Challenge)",
+                "date": "2026-11-21",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              },
+              {
+                "event_id": 178,
+                "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "date": "2025-11-15",
+                "highest_score": 220.0,
+                "ranking": 6,
+                "advanced": false,
+                "awards": []
+              }
+            ],
+            "recent_event": {
+              "event_id": 312,
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+              "season": "2026 - BIOGLOW (Challenge)",
+              "date": "2026-11-21",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 178,
+                  "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
+                  "season": "2025 - UNEARTHED (Challenge)",
+                  "date": "2025-11-15",
+                  "highest_score": 220.0,
+                  "ranking": 6,
+                  "advanced": false,
+                  "awards": []
+                },
+                "champ": null
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              }
+            }
+          },
+          "power_score": 23.8,
+          "tier": "Tier B (中坚力量/资深)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
+        },
+        {
+          "number": 66137,
+          "name": "Robo Pets - SBR",
+          "city": "Sunnyvale",
+          "region": "南湾 (South Bay)",
+          "org_name": "Family/Community",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "warning",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 1/2<br/>BCIA 9018 form required from Jan 01, 2027",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 1,
+              "bcia": "missing",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 4,
+              "threshold": 4,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 4",
+              "total": 4,
+              "required_count": 4,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [
+            "Build Guild - SBR",
+            "Build Guild - SBR Team Cupertino"
+          ],
+          "past_names_details": [
+            {
+              "name": "Build Guild - SBR",
+              "seasons": [
+                "2025 - UNEARTHED (Challenge)"
+              ]
+            },
+            {
+              "name": "Build Guild - SBR Team Cupertino",
+              "seasons": [
+                "2024 - SUBMERGED (Challenge)"
+              ]
+            }
+          ],
+          "history": {
+            "has_history": true,
+            "past_names": [
+              "Build Guild - SBR",
+              "Build Guild - SBR Team Cupertino"
+            ],
+            "past_names_details": [
+              {
+                "name": "Build Guild - SBR",
+                "seasons": [
+                  "2025 - UNEARTHED (Challenge)"
+                ]
+              },
+              {
+                "name": "Build Guild - SBR Team Cupertino",
+                "seasons": [
+                  "2024 - SUBMERGED (Challenge)"
+                ]
+              }
+            ],
+            "events_count": 3,
+            "seasons_count": 3,
+            "seasons": [
+              "2024 - SUBMERGED (Challenge)",
+              "2025 - UNEARTHED (Challenge)",
+              "2026 - BIOGLOW (Challenge)"
+            ],
+            "max_score": 185.0,
+            "avg_score": 152.5,
+            "best_ranking": 8,
+            "score_records_count": 2,
+            "awards_count": 1,
+            "champions_count": 0,
+            "core_awards_count": 1,
+            "power_score": 23.6,
+            "tier": "Tier B (中坚力量/资深)",
+            "awards": [
+              {
+                "name": "Robot Design Award",
+                "category": "core",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
+                "place": 0
+              }
+            ],
+            "advancements_count": 0,
+            "has_championship": false,
+            "experience_tier": "Veteran (老牌强队)",
+            "score_tier": "<300 (入门发展)",
+            "events": [
+              {
+                "event_id": 312,
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+                "season": "2026 - BIOGLOW (Challenge)",
+                "date": "2026-11-21",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              },
+              {
+                "event_id": 178,
+                "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "date": "2025-11-15",
+                "highest_score": 185.0,
+                "ranking": 8,
+                "advanced": false,
+                "awards": [
+                  "Robot Design Award"
+                ]
+              },
+              {
+                "event_id": 119,
+                "event_name": "2025 NorCal FLL-C : Sunnyvale Spring League - 4/26",
+                "season": "2024 - SUBMERGED (Challenge)",
+                "date": "2025-04-26",
+                "highest_score": 120.0,
+                "ranking": 17,
+                "advanced": false,
+                "awards": []
+              }
+            ],
+            "recent_event": {
+              "event_id": 312,
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+              "season": "2026 - BIOGLOW (Challenge)",
+              "date": "2026-11-21",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 178,
+                  "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
+                  "season": "2025 - UNEARTHED (Challenge)",
+                  "date": "2025-11-15",
+                  "highest_score": 185.0,
+                  "ranking": 8,
+                  "advanced": false,
+                  "awards": [
+                    "Robot Design Award"
+                  ]
+                },
+                "champ": null
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 119,
+                  "event_name": "2025 NorCal FLL-C : Sunnyvale Spring League - 4/26",
+                  "season": "2024 - SUBMERGED (Challenge)",
+                  "date": "2025-04-26",
+                  "highest_score": 120.0,
+                  "ranking": 17,
+                  "advanced": false,
+                  "awards": []
+                },
+                "champ": null
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              }
+            }
+          },
+          "power_score": 23.6,
+          "tier": "Tier B (中坚力量/资深)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
+        },
+        {
           "number": 7453,
           "name": "ChronoCrafters",
           "city": "San Francisco",
@@ -31147,6 +33127,410 @@
           "tier": "Tier B (中坚力量/资深)",
           "advancing_to_next_level": false,
           "advancing_wait_list": false
+        },
+        {
+          "number": 72371,
+          "name": "Blue Macaws - SBR",
+          "city": "Sunnyvale",
+          "region": "南湾 (South Bay)",
+          "org_name": "Family/Community",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "warning",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 1/2<br/>BCIA 9018 form required from Jan 01, 2027",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 1,
+              "bcia": "missing",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 3,
+              "threshold": 3,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 3",
+              "total": 3,
+              "required_count": 3,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [
+            "SBR TEAM RED"
+          ],
+          "past_names_details": [
+            {
+              "name": "SBR TEAM RED",
+              "seasons": [
+                "2025 - UNEARTHED (Challenge)"
+              ]
+            }
+          ],
+          "history": {
+            "has_history": true,
+            "past_names": [
+              "SBR TEAM RED"
+            ],
+            "past_names_details": [
+              {
+                "name": "SBR TEAM RED",
+                "seasons": [
+                  "2025 - UNEARTHED (Challenge)"
+                ]
+              }
+            ],
+            "events_count": 2,
+            "seasons_count": 2,
+            "seasons": [
+              "2025 - UNEARTHED (Challenge)",
+              "2026 - BIOGLOW (Challenge)"
+            ],
+            "max_score": 135.0,
+            "avg_score": 135.0,
+            "best_ranking": 12,
+            "score_records_count": 1,
+            "awards_count": 0,
+            "champions_count": 0,
+            "core_awards_count": 0,
+            "power_score": 15.4,
+            "tier": "Tier B (中坚力量/资深)",
+            "awards": [],
+            "advancements_count": 0,
+            "has_championship": false,
+            "experience_tier": "Veteran (老牌强队)",
+            "score_tier": "<300 (入门发展)",
+            "events": [
+              {
+                "event_id": 312,
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+                "season": "2026 - BIOGLOW (Challenge)",
+                "date": "2026-11-21",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              },
+              {
+                "event_id": 178,
+                "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "date": "2025-11-15",
+                "highest_score": 135.0,
+                "ranking": 12,
+                "advanced": false,
+                "awards": []
+              }
+            ],
+            "recent_event": {
+              "event_id": 312,
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+              "season": "2026 - BIOGLOW (Challenge)",
+              "date": "2026-11-21",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 178,
+                  "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
+                  "season": "2025 - UNEARTHED (Challenge)",
+                  "date": "2025-11-15",
+                  "highest_score": 135.0,
+                  "ranking": 12,
+                  "advanced": false,
+                  "awards": []
+                },
+                "champ": null
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              }
+            }
+          },
+          "power_score": 15.4,
+          "tier": "Tier B (中坚力量/资深)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
+        },
+        {
+          "number": 75135,
+          "name": "Robotic Dragons - SBR",
+          "city": "Sunnyvale",
+          "region": "南湾 (South Bay)",
+          "org_name": "Family/Community",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "warning",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 1/2<br/>BCIA 9018 form required from Jan 01, 2027",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 1,
+              "bcia": "missing",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 5,
+              "threshold": 5,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 5",
+              "total": 5,
+              "required_count": 5,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [
+            "Robotic Dragons"
+          ],
+          "past_names_details": [
+            {
+              "name": "Robotic Dragons",
+              "seasons": [
+                "2025 - UNEARTHED (Challenge)"
+              ]
+            }
+          ],
+          "history": {
+            "has_history": true,
+            "past_names": [
+              "Robotic Dragons"
+            ],
+            "past_names_details": [
+              {
+                "name": "Robotic Dragons",
+                "seasons": [
+                  "2025 - UNEARTHED (Challenge)"
+                ]
+              }
+            ],
+            "events_count": 2,
+            "seasons_count": 2,
+            "seasons": [
+              "2025 - UNEARTHED (Challenge)",
+              "2026 - BIOGLOW (Challenge)"
+            ],
+            "max_score": 125.0,
+            "avg_score": 125.0,
+            "best_ranking": 10,
+            "score_records_count": 1,
+            "awards_count": 0,
+            "champions_count": 0,
+            "core_awards_count": 0,
+            "power_score": 14.5,
+            "tier": "Tier B (中坚力量/资深)",
+            "awards": [],
+            "advancements_count": 0,
+            "has_championship": false,
+            "experience_tier": "Veteran (老牌强队)",
+            "score_tier": "<300 (入门发展)",
+            "events": [
+              {
+                "event_id": 312,
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+                "season": "2026 - BIOGLOW (Challenge)",
+                "date": "2026-11-21",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              },
+              {
+                "event_id": 280,
+                "event_name": "2026 NorCal FLL-C: San Jose Spring League at The Play Space 5/3",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "date": "2026-05-03",
+                "highest_score": 125.0,
+                "ranking": 10,
+                "advanced": false,
+                "awards": []
+              }
+            ],
+            "recent_event": {
+              "event_id": 312,
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+              "season": "2026 - BIOGLOW (Challenge)",
+              "date": "2026-11-21",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 280,
+                  "event_name": "2026 NorCal FLL-C: San Jose Spring League at The Play Space 5/3",
+                  "season": "2025 - UNEARTHED (Challenge)",
+                  "date": "2026-05-03",
+                  "highest_score": 125.0,
+                  "ranking": 10,
+                  "advanced": false,
+                  "awards": []
+                },
+                "champ": null
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              }
+            }
+          },
+          "power_score": 14.5,
+          "tier": "Tier B (中坚力量/资深)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
         }
       ]
     },
@@ -31159,20 +33543,20 @@
       "venue_name": "TBD",
       "start_time": "2026-11-14",
       "capacity": 18,
-      "total_registered": 9,
-      "fill_rate": 50.0,
-      "spots_remaining": 9,
-      "ready_count": 9,
+      "total_registered": 10,
+      "fill_rate": 55.6,
+      "spots_remaining": 8,
+      "ready_count": 10,
       "ready_pct": 100.0,
       "pending_count": 0,
       "status_counts": {
-        "good": 9
+        "good": 10
       },
       "experience": {
-        "veteran_count": 8,
-        "veteran_pct": 88.9,
+        "veteran_count": 9,
+        "veteran_pct": 90.0,
         "experienced_count": 1,
-        "experienced_pct": 11.1,
+        "experienced_pct": 10.0,
         "rookie_count": 0,
         "rookie_pct": 0.0
       },
@@ -31180,10 +33564,10 @@
         "top_career_score": 380.0,
         "top_team_number": 73516,
         "top_team_name": "Dino Nuggets (BBQ)",
-        "avg_career_score": 301.2,
-        "avg_power_score": 31.5,
+        "avg_career_score": 305.0,
+        "avg_power_score": 31.9,
         "tier_s_count": 0,
-        "tier_a_count": 5,
+        "tier_a_count": 6,
         "tier_b_count": 3,
         "tier_c_count": 1,
         "tier_rookie_count": 0,
@@ -31193,7 +33577,7 @@
         "score_tier_counts": {
           "500+ (争冠顶尖)": 0,
           "400-499 (一档强队)": 0,
-          "300-399 (中坚晋级)": 4,
+          "300-399 (中坚晋级)": 5,
           "<300 (入门发展)": 4,
           "暂无得分记录": 1
         }
@@ -31202,66 +33586,76 @@
         {
           "city": "San Ramon",
           "count": 2,
-          "pct": 22.2
+          "pct": 20.0
         },
         {
           "city": "Walnut Creek",
           "count": 2,
-          "pct": 22.2
+          "pct": 20.0
         },
         {
           "city": "Dublin",
           "count": 2,
-          "pct": 22.2
+          "pct": 20.0
         },
         {
           "city": "San Leandro",
           "count": 1,
-          "pct": 11.1
+          "pct": 10.0
+        },
+        {
+          "city": "San Jose",
+          "count": 1,
+          "pct": 10.0
         },
         {
           "city": "Fremont",
           "count": 1,
-          "pct": 11.1
+          "pct": 10.0
         },
         {
           "city": "Fremount",
           "count": 1,
-          "pct": 11.1
+          "pct": 10.0
         }
       ],
       "regions_dist": [
         {
           "region": "东湾 (East Bay)",
           "count": 8,
-          "pct": 88.9
+          "pct": 80.0
+        },
+        {
+          "region": "南湾 (South Bay)",
+          "count": 1,
+          "pct": 10.0
         },
         {
           "region": "其他地区 (Other)",
           "count": 1,
-          "pct": 11.1
+          "pct": 10.0
         }
       ],
       "top_orgs": [
         {
           "org": "Family/Community",
-          "count": 6,
-          "pct": 66.7
+          "count": 7,
+          "pct": 70.0
         },
         {
           "org": "Home School",
           "count": 1,
-          "pct": 11.1
+          "pct": 10.0
         },
         {
           "org": "Piedmont Makers",
           "count": 1,
-          "pct": 11.1
+          "pct": 10.0
         },
         {
           "org": "Mission San Jose Elementary, William Hopkins Junior High",
           "count": 1,
-          "pct": 11.1
+          "pct": 10.0
         }
       ],
       "teams": [
@@ -32202,6 +34596,208 @@
             }
           },
           "power_score": 35.6,
+          "tier": "Tier A (种子强队/劲旅)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
+        },
+        {
+          "number": 71748,
+          "name": "Volt Vipers",
+          "city": "San Jose",
+          "region": "南湾 (South Bay)",
+          "org_name": "Family/Community",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "success",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 2/2",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 2,
+              "bcia": "complete",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 8,
+              "threshold": 8,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 8",
+              "total": 8,
+              "required_count": 8,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [
+            "Golden Gears"
+          ],
+          "past_names_details": [
+            {
+              "name": "Golden Gears",
+              "seasons": [
+                "2025 - UNEARTHED (Challenge)"
+              ]
+            }
+          ],
+          "history": {
+            "has_history": true,
+            "past_names": [
+              "Golden Gears"
+            ],
+            "past_names_details": [
+              {
+                "name": "Golden Gears",
+                "seasons": [
+                  "2025 - UNEARTHED (Challenge)"
+                ]
+              }
+            ],
+            "events_count": 2,
+            "seasons_count": 2,
+            "seasons": [
+              "2025 - UNEARTHED (Challenge)",
+              "2026 - BIOGLOW (Challenge)"
+            ],
+            "max_score": 335.0,
+            "avg_score": 335.0,
+            "best_ranking": 3,
+            "score_records_count": 1,
+            "awards_count": 0,
+            "champions_count": 0,
+            "core_awards_count": 0,
+            "power_score": 35.1,
+            "tier": "Tier A (种子强队/劲旅)",
+            "awards": [],
+            "advancements_count": 0,
+            "has_championship": false,
+            "experience_tier": "Veteran (老牌强队)",
+            "score_tier": "300-399 (中坚晋级)",
+            "events": [
+              {
+                "event_id": 313,
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - BASIS Independent School, Dublin",
+                "season": "2026 - BIOGLOW (Challenge)",
+                "date": "2026-11-14",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              },
+              {
+                "event_id": 274,
+                "event_name": "2026 NorCal FLL-C:  Livermore Spring League at East Avenue Middle School",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "date": "2026-05-02",
+                "highest_score": 335.0,
+                "ranking": 3,
+                "advanced": false,
+                "awards": []
+              }
+            ],
+            "recent_event": {
+              "event_id": 313,
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - BASIS Independent School, Dublin",
+              "season": "2026 - BIOGLOW (Challenge)",
+              "date": "2026-11-14",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 274,
+                  "event_name": "2026 NorCal FLL-C:  Livermore Spring League at East Avenue Middle School",
+                  "season": "2025 - UNEARTHED (Challenge)",
+                  "date": "2026-05-02",
+                  "highest_score": 335.0,
+                  "ranking": 3,
+                  "advanced": false,
+                  "awards": []
+                },
+                "champ": null
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              }
+            }
+          },
+          "power_score": 35.1,
           "tier": "Tier A (种子强队/劲旅)",
           "advancing_to_next_level": false,
           "advancing_wait_list": false
@@ -33342,20 +35938,20 @@
       "venue_name": "Pleasant Grove High School",
       "start_time": "2026-11-15",
       "capacity": 18,
-      "total_registered": 5,
-      "fill_rate": 27.8,
-      "spots_remaining": 13,
-      "ready_count": 5,
+      "total_registered": 6,
+      "fill_rate": 33.3,
+      "spots_remaining": 12,
+      "ready_count": 6,
       "ready_pct": 100.0,
       "pending_count": 0,
       "status_counts": {
-        "good": 5
+        "good": 6
       },
       "experience": {
-        "veteran_count": 4,
-        "veteran_pct": 80.0,
+        "veteran_count": 5,
+        "veteran_pct": 83.3,
         "experienced_count": 1,
-        "experienced_pct": 20.0,
+        "experienced_pct": 16.7,
         "rookie_count": 0,
         "rookie_pct": 0.0
       },
@@ -33363,11 +35959,11 @@
         "top_career_score": 360.0,
         "top_team_number": 64898,
         "top_team_name": "Circuit Breakers",
-        "avg_career_score": 290.0,
-        "avg_power_score": 27.5,
+        "avg_career_score": 264.0,
+        "avg_power_score": 25.9,
         "tier_s_count": 0,
         "tier_a_count": 2,
-        "tier_b_count": 2,
+        "tier_b_count": 3,
         "tier_c_count": 1,
         "tier_rookie_count": 0,
         "teams_with_awards": 1,
@@ -33377,69 +35973,69 @@
           "500+ (争冠顶尖)": 0,
           "400-499 (一档强队)": 0,
           "300-399 (中坚晋级)": 2,
-          "<300 (入门发展)": 2,
+          "<300 (入门发展)": 3,
           "暂无得分记录": 1
         }
       },
       "cities_dist": [
         {
+          "city": "Folsom",
+          "count": 2,
+          "pct": 33.3
+        },
+        {
           "city": "Sacramento",
           "count": 1,
-          "pct": 20.0
+          "pct": 16.7
         },
         {
           "city": "Tracy",
           "count": 1,
-          "pct": 20.0
-        },
-        {
-          "city": "Folsom",
-          "count": 1,
-          "pct": 20.0
+          "pct": 16.7
         },
         {
           "city": "Fremont",
           "count": 1,
-          "pct": 20.0
+          "pct": 16.7
         },
         {
           "city": "San Jose",
           "count": 1,
-          "pct": 20.0
+          "pct": 16.7
         }
       ],
       "regions_dist": [
         {
           "region": "中央谷/萨克拉门托 (Central Valley)",
-          "count": 3,
-          "pct": 60.0
+          "count": 4,
+          "pct": 66.7
         },
         {
           "region": "东湾 (East Bay)",
           "count": 1,
-          "pct": 20.0
+          "pct": 16.7
         },
         {
           "region": "南湾 (South Bay)",
           "count": 1,
-          "pct": 20.0
+          "pct": 16.7
         }
       ],
       "top_orgs": [
         {
           "org": "Family/Community",
-          "count": 3,
-          "pct": 60.0
+          "count": 4,
+          "pct": 66.7
         },
         {
           "org": "Sacramento Country Day School",
           "count": 1,
-          "pct": 20.0
+          "pct": 16.7
         },
         {
           "org": "Fred E. Weibel Elementary",
           "count": 1,
-          "pct": 20.0
+          "pct": 16.7
         }
       ],
       "teams": [
@@ -34337,6 +36933,190 @@
           "advancing_wait_list": false
         },
         {
+          "number": 73742,
+          "name": "Sphere Scavengers",
+          "city": "Folsom",
+          "region": "中央谷/萨克拉门托 (Central Valley)",
+          "org_name": "Family/Community",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "success",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 2/2",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 2,
+              "bcia": "complete",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 4,
+              "threshold": 4,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 4",
+              "total": 4,
+              "required_count": 4,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [],
+          "past_names_details": [],
+          "history": {
+            "has_history": true,
+            "past_names": [],
+            "past_names_details": [],
+            "events_count": 2,
+            "seasons_count": 2,
+            "seasons": [
+              "2025 - UNEARTHED (Challenge)",
+              "2026 - BIOGLOW (Challenge)"
+            ],
+            "max_score": 160.0,
+            "avg_score": 160.0,
+            "best_ranking": 8,
+            "score_records_count": 1,
+            "awards_count": 0,
+            "champions_count": 0,
+            "core_awards_count": 0,
+            "power_score": 17.9,
+            "tier": "Tier B (中坚力量/资深)",
+            "awards": [],
+            "advancements_count": 0,
+            "has_championship": false,
+            "experience_tier": "Veteran (老牌强队)",
+            "score_tier": "<300 (入门发展)",
+            "events": [
+              {
+                "event_id": 314,
+                "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Pleasant Grove High School, Elk Grove",
+                "season": "2026 - BIOGLOW (Challenge)",
+                "date": "2026-11-15",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              },
+              {
+                "event_id": 278,
+                "event_name": "2026 NorCal FLL-C:  Spring League at Jessup University  Rocklin",
+                "season": "2025 - UNEARTHED (Challenge)",
+                "date": "2026-04-26",
+                "highest_score": 160.0,
+                "ranking": 8,
+                "advanced": false,
+                "awards": []
+              }
+            ],
+            "recent_event": {
+              "event_id": 314,
+              "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Pleasant Grove High School, Elk Grove",
+              "season": "2026 - BIOGLOW (Challenge)",
+              "date": "2026-11-15",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": true,
+                "qt": {
+                  "event_id": 278,
+                  "event_name": "2026 NorCal FLL-C:  Spring League at Jessup University  Rocklin",
+                  "season": "2025 - UNEARTHED (Challenge)",
+                  "date": "2026-04-26",
+                  "highest_score": 160.0,
+                  "ranking": 8,
+                  "advanced": false,
+                  "awards": []
+                },
+                "champ": null
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              }
+            }
+          },
+          "power_score": 17.9,
+          "tier": "Tier B (中坚力量/资深)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
+        },
+        {
           "number": 75809,
           "name": "CyberBots",
           "city": "San Jose",
@@ -34511,19 +37291,19 @@
       "venue_name": "The Play Space",
       "start_time": "2026-11-22",
       "capacity": 12,
-      "total_registered": 5,
-      "fill_rate": 41.7,
-      "spots_remaining": 7,
-      "ready_count": 5,
+      "total_registered": 6,
+      "fill_rate": 50.0,
+      "spots_remaining": 6,
+      "ready_count": 6,
       "ready_pct": 100.0,
       "pending_count": 0,
       "status_counts": {
-        "good": 5
+        "good": 6
       },
       "experience": {
         "veteran_count": 0,
         "veteran_pct": 0.0,
-        "experienced_count": 5,
+        "experienced_count": 6,
         "experienced_pct": 100.0,
         "rookie_count": 0,
         "rookie_pct": 0.0
@@ -34537,7 +37317,7 @@
         "tier_s_count": 0,
         "tier_a_count": 0,
         "tier_b_count": 0,
-        "tier_c_count": 5,
+        "tier_c_count": 6,
         "tier_rookie_count": 0,
         "teams_with_awards": 0,
         "total_career_awards": 0,
@@ -34547,58 +37327,63 @@
           "400-499 (一档强队)": 0,
           "300-399 (中坚晋级)": 0,
           "<300 (入门发展)": 0,
-          "暂无得分记录": 5
+          "暂无得分记录": 6
         }
       },
       "cities_dist": [
         {
-          "city": "San Jose",
+          "city": "Santa Clara",
           "count": 2,
-          "pct": 40.0
+          "pct": 33.3
         },
         {
-          "city": "Santa Clara",
-          "count": 1,
-          "pct": 20.0
+          "city": "San Jose",
+          "count": 2,
+          "pct": 33.3
         },
         {
           "city": "Fremont",
           "count": 1,
-          "pct": 20.0
+          "pct": 16.7
         },
         {
           "city": "Sunnyvale",
           "count": 1,
-          "pct": 20.0
+          "pct": 16.7
         }
       ],
       "regions_dist": [
         {
           "region": "南湾 (South Bay)",
-          "count": 4,
-          "pct": 80.0
+          "count": 5,
+          "pct": 83.3
         },
         {
           "region": "东湾 (East Bay)",
           "count": 1,
-          "pct": 20.0
+          "pct": 16.7
         }
       ],
       "top_orgs": [
         {
           "org": "Family/Community",
           "count": 3,
-          "pct": 60.0
+          "pct": 50.0
         },
         {
           "org": "Stratford Middle School, Harker",
           "count": 1,
-          "pct": 20.0
+          "pct": 16.7
+        },
+        {
+          "org": "Don Callejon",
+          "count": 1,
+          "pct": 16.7
         },
         {
           "org": "Bret Harte Middle",
           "count": 1,
-          "pct": 20.0
+          "pct": 16.7
         }
       ],
       "teams": [
@@ -34668,6 +37453,170 @@
               "tooltip": "<strong>Roster</strong>: 5",
               "total": 5,
               "required_count": 5,
+              "min": 2,
+              "max": 10,
+              "not_with_first": 0
+            },
+            "agreements": {
+              "good": true,
+              "details": "",
+              "coaches_pending": 0,
+              "students_pending": 0,
+              "jotform_required": true,
+              "jotform_complete": true,
+              "icon": "file-contract",
+              "icon_good": "file-contract-circle-check",
+              "color": "success",
+              "title": "Agreements",
+              "tooltip": "<strong>Agreements</strong>: All complete"
+            },
+            "status": "good"
+          },
+          "past_names": [],
+          "past_names_details": [],
+          "history": {
+            "has_history": true,
+            "past_names": [],
+            "past_names_details": [],
+            "events_count": 1,
+            "seasons_count": 1,
+            "seasons": [
+              "2026 - BIOGLOW (Future 6-8)"
+            ],
+            "max_score": null,
+            "avg_score": null,
+            "best_ranking": null,
+            "score_records_count": 0,
+            "awards_count": 0,
+            "champions_count": 0,
+            "core_awards_count": 0,
+            "power_score": 1.1,
+            "tier": "Tier C (成长中队伍/新锐)",
+            "awards": [],
+            "advancements_count": 0,
+            "has_championship": false,
+            "experience_tier": "Experienced (有参赛经验)",
+            "score_tier": "暂无得分记录",
+            "events": [
+              {
+                "event_id": 315,
+                "event_name": "2026 NorCal FLL FUTURE BIOGLOW Event - NOV 22 The Play Space, San Jose",
+                "season": "2026 - BIOGLOW (Future 6-8)",
+                "date": "2026-11-22",
+                "highest_score": null,
+                "ranking": null,
+                "advanced": false,
+                "awards": []
+              }
+            ],
+            "recent_event": {
+              "event_id": 315,
+              "event_name": "2026 NorCal FLL FUTURE BIOGLOW Event - NOV 22 The Play Space, San Jose",
+              "season": "2026 - BIOGLOW (Future 6-8)",
+              "date": "2026-11-22",
+              "highest_score": null,
+              "ranking": null,
+              "advanced": false,
+              "awards": []
+            },
+            "by_season": {
+              "2025": {
+                "season_key": "2025",
+                "season_label": "2025-26",
+                "theme": "UNEARTHED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2024": {
+                "season_key": "2024",
+                "season_label": "2024-25",
+                "theme": "SUBMERGED",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              },
+              "2023": {
+                "season_key": "2023",
+                "season_label": "2023-24",
+                "theme": "MASTERPIECE",
+                "has_participated": false,
+                "qt": null,
+                "champ": null
+              }
+            }
+          },
+          "power_score": 1.1,
+          "tier": "Tier C (成长中队伍/新锐)",
+          "advancing_to_next_level": false,
+          "advancing_wait_list": false
+        },
+        {
+          "number": 600121,
+          "name": "DCADS Robo Cubs",
+          "city": "Santa Clara",
+          "region": "南湾 (South Bay)",
+          "org_name": "Don Callejon",
+          "status_v2": "good",
+          "status_quickview": {
+            "screening": {
+              "good": true,
+              "details": "2/2 screened",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user-viewfinder",
+              "icon_good": "user-viewfinder-circle-check",
+              "color": "success",
+              "title": "Screening",
+              "tooltip": "<strong>Screening</strong>: 2/2 screened",
+              "skipped": false
+            },
+            "fingerprinting": {
+              "good": true,
+              "details": "2/2 complete",
+              "count": 2,
+              "threshold": 2,
+              "icon": "fingerprint",
+              "icon_good": "fingerprint-circle-check",
+              "color": "warning",
+              "title": "Fingerprinting",
+              "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 1/2<br/>BCIA 9018 form required from Jan 01, 2027",
+              "livescan_count": 2,
+              "mrt_count": 2,
+              "bcia_count": 1,
+              "bcia": "missing",
+              "bcia_enforced": false,
+              "skipped": false,
+              "bcia_effective_date": "2027-01-01"
+            },
+            "coaches": {
+              "good": true,
+              "details": "",
+              "count": 2,
+              "threshold": 2,
+              "icon": "user",
+              "icon_good": "user-circle-check",
+              "color": "success",
+              "title": "Coaches",
+              "tooltip": "<strong>Coaches</strong>: 2",
+              "total": 2,
+              "required_count": 2,
+              "min": 2,
+              "max": 2,
+              "invited": 0
+            },
+            "roster_status": {
+              "good": true,
+              "details": "",
+              "count": 8,
+              "threshold": 8,
+              "icon": "users",
+              "icon_good": "users-circle-check",
+              "color": "success",
+              "title": "Roster",
+              "tooltip": "<strong>Roster</strong>: 8",
+              "total": 8,
+              "required_count": 8,
               "min": 2,
               "max": 10,
               "not_with_first": 0
@@ -34932,7 +37881,7 @@
         },
         {
           "number": 600480,
-          "name": "Relic Raiders",
+          "name": "Mike Wazowskis",
           "city": "San Jose",
           "region": "南湾 (South Bay)",
           "org_name": "Bret Harte Middle",

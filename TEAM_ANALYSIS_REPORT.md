@@ -2,7 +2,7 @@
 
 > **数据来源**: MyLumi Public Team API (`https://mylumi.playingatlearning.org/api/team/public/list/`)
 
-> **队伍总数**: **529 支** | **覆盖城市**: **72 个** | **归属组织/学校**: **108 个**
+> **队伍总数**: **530 支** | **覆盖城市**: **72 个** | **归属组织/学校**: **108 个**
 
 
 ---
@@ -11,9 +11,9 @@
 
 1. **队伍就绪度（Readiness）不高，仅约 1/3 队伍完全就绪**：
 
-   - 达到完全就绪 (`status = good`) 的队伍共 **204 支 (38.56%)**。
+   - 达到完全就绪 (`status = good`) 的队伍共 **203 支 (38.3%)**。
 
-   - 其余 **325 支队伍 (61.44%)** 仍卡在审核流或邀请中。
+   - 其余 **327 支队伍 (61.7%)** 仍卡在审核流或邀请中。
 
 2. **最大审核阻碍：花名册人数不足、加州指纹审查与队员/教练邀请**：
 
@@ -52,10 +52,10 @@
 
 | 比赛项目 (Program) | 队伍数 (Count) | 占比 (Percentage) | 状态 |
 | :--- | :---: | :---: | :--- |
-| **FIRST LEGO League: Challenge** | 353 | 66.73% | 主力组别 |
-| **FIRST LEGO League: Explore** | 120 | 22.68% | 主力组别 |
-| **FIRST LEGO League: Future Edition 3-5** | 28 | 5.29% | 创新/探索 |
-| **FIRST LEGO League: Future Edition 6-8** | 25 | 4.73% | 创新/探索 |
+| **FIRST LEGO League: Challenge** | 354 | 66.79% | 主力组别 |
+| **FIRST LEGO League: Explore** | 120 | 22.64% | 主力组别 |
+| **FIRST LEGO League: Future Edition 3-5** | 28 | 5.28% | 创新/探索 |
+| **FIRST LEGO League: Future Edition 6-8** | 25 | 4.72% | 创新/探索 |
 | **FIRST LEGO League: Future Edition K-2** | 3 | 0.57% | 创新/探索 |
 
 
@@ -65,24 +65,24 @@
 
 | 状态代码 (Status) | 解释说明 | 队伍数 | 占比 |
 | :--- | :--- | :---: | :---: |
-| `good` | ✅ 完全合规就绪 (可参加正式赛事/抽签) | 204 | 38.56% |
-| `waiting_invites` | ⏳ 等待邀请接受 (队员/教练已发出邀请但未确认) | 176 | 33.27% |
-| `pending_fingerprinting` | ⚠️ 卡在加州指纹背景审查 (LiveScan / MRT 缺失) | 82 | 15.5% |
-| `waiting_members` | 👥 队伍人数不足 (未达 2 名正式学生队员最低门槛) | 30 | 5.67% |
-| `pending_national_screening` | 🔍 卡在 FIRST 全美背景调查 (Screening 待处理) | 21 | 3.97% |
-| `waiting_jotform` | 📝 线上免责表单/Jotform 待签署 | 13 | 2.46% |
-| `roster_overload` | 🚫 花名册超员 (超出官方人数上限) | 3 | 0.57% |
+| `good` | ✅ 完全合规就绪 (可参加正式赛事/抽签) | 203 | 38.3% |
+| `waiting_invites` | ⏳ 等待邀请接受 (队员/教练已发出邀请但未确认) | 175 | 33.02% |
+| `pending_fingerprinting` | ⚠️ 卡在加州指纹背景审查 (LiveScan / MRT 缺失) | 84 | 15.85% |
+| `waiting_members` | 👥 队伍人数不足 (未达 2 名正式学生队员最低门槛) | 30 | 5.66% |
+| `pending_national_screening` | 🔍 卡在 FIRST 全美背景调查 (Screening 待处理) | 21 | 3.96% |
+| `waiting_jotform` | 📝 线上免责表单/Jotform 待签署 | 11 | 2.08% |
+| `roster_overload` | 🚫 花名册超员 (超出官方人数上限) | 6 | 1.13% |
 
 
 ### 3.2 五大关键合规环节通过率
 
 | 审核环节 (Compliance Step) | 通过队伍数 | 通过率 (Pass Rate) | 未完成/失败数 | 未完成比例 |
 | :--- | :---: | :---: | :---: | :---: |
-| 👨‍🏫 教练人数要求 (至少2位教练) | 425 | **80.34%** | 104 | 19.66% |
-| 🛡️ FIRST 全美背景审查 (Screening) | 332 | **62.76%** | 197 | 37.24% |
-| 🖐️ 加州司法部指纹背景调查 (Fingerprinting) | 286 | **54.06%** | 243 | 45.94% |
-| 📑 家长/教练免责协议 (Jotform / Agreements) | 346 | **65.41%** | 183 | 34.59% |
-| 📋 学生队员花名册要求 (至少2人，未超员) | 259 | **48.96%** | 270 | 51.04% |
+| 👨‍🏫 教练人数要求 (至少2位教练) | 423 | **79.81%** | 107 | 20.19% |
+| 🛡️ FIRST 全美背景审查 (Screening) | 333 | **62.83%** | 197 | 37.17% |
+| 🖐️ 加州司法部指纹背景调查 (Fingerprinting) | 286 | **53.96%** | 244 | 46.04% |
+| 📑 家长/教练免责协议 (Jotform / Agreements) | 348 | **65.66%** | 182 | 34.34% |
+| 📋 学生队员花名册要求 (至少2人，未超员) | 260 | **49.06%** | 270 | 50.94% |
 
 
 ## 4. 地域与区域分布 (Regional & Geographic Distribution)
@@ -91,10 +91,10 @@
 
 | 大区域 (Region) | 队伍数量 | 占比 (All Teams) | 包含的核心代表城市 |
 | :--- | :---: | :---: | :--- |
-| **东湾 (East Bay)** | 263 队 | **49.72%** | Oakland, Piedmont, Fremont, Dublin, Pleasanton, San Ramon, Berkeley, Castro Valley, Hayward... |
-| **南湾 / 硅谷 (South Bay)** | 178 队 | **33.65%** | San Jose, Santa Clara, Sunnyvale, Mountain View, Saratoga, Cupertino, Los Altos, Milpitas, Palo Alto... |
-| **半岛与旧金山 (Peninsula & SF)** | 47 队 | **8.88%** | San Francisco, Burlingame, Hillsborough, San Carlos, San Mateo, Menlo Park, Belmont... |
-| **首府圈与中谷 (Sacramento & Valley)** | 39 队 | **7.37%** | Folsom, Mountain House, Sacramento, El Dorado Hills, Tracy, Lathrop, Modesto, Roseville... |
+| **东湾 (East Bay)** | 263 队 | **49.62%** | Oakland, Piedmont, Fremont, Dublin, Pleasanton, San Ramon, Berkeley, Castro Valley, Hayward... |
+| **南湾 / 硅谷 (South Bay)** | 179 队 | **33.77%** | San Jose, Santa Clara, Sunnyvale, Mountain View, Saratoga, Cupertino, Los Altos, Milpitas, Palo Alto... |
+| **半岛与旧金山 (Peninsula & SF)** | 47 队 | **8.87%** | San Francisco, Burlingame, Hillsborough, San Carlos, San Mateo, Menlo Park, Belmont... |
+| **首府圈与中谷 (Sacramento & Valley)** | 39 队 | **7.36%** | Folsom, Mountain House, Sacramento, El Dorado Hills, Tracy, Lathrop, Modesto, Roseville... |
 | **北湾 (North Bay)** | 1 队 | **0.19%** | Kentfield (Marin County) 等 |
 | **其他 / 外围区域 (Other)** | 1 队 | **0.19%** | 其他边缘城市及未标明区域 |
 
@@ -103,10 +103,10 @@
 
 | 大区域 (Region) | Challenge 队伍数 | 占 Challenge 比例 | 区域主力特征 |
 | :--- | :---: | :---: | :--- |
-| **南湾 / 硅谷 (South Bay)** | 143 队 | **40.51%** | 🏆 跃升为 Challenge 第一主力！硅谷科技学区与独立创客汇聚 |
-| **东湾 (East Bay)** | 140 队 | **39.66%** | 🥈 Challenge 第二主力，拥有老牌社区队与创客俱乐部 |
-| **半岛与旧金山 (Peninsula & SF)** | 39 队 | **11.05%** | 🥉 集中在旧金山私校与半岛学区 |
-| **首府圈与中谷 (Sacramento & Valley)** | 30 队 | **8.5%** | 第四主力，Folsom / Mountain House 增长迅速 |
+| **南湾 / 硅谷 (South Bay)** | 144 队 | **40.68%** | 🏆 跃升为 Challenge 第一主力！硅谷科技学区与独立创客汇聚 |
+| **东湾 (East Bay)** | 140 队 | **39.55%** | 🥈 Challenge 第二主力，拥有老牌社区队与创客俱乐部 |
+| **半岛与旧金山 (Peninsula & SF)** | 39 队 | **11.02%** | 🥉 集中在旧金山私校与半岛学区 |
+| **首府圈与中谷 (Sacramento & Valley)** | 30 队 | **8.47%** | 第四主力，Folsom / Mountain House 增长迅速 |
 | **北湾 (North Bay)** | 1 队 | **0.28%** | Marin County 等低密度区域 |
 
 
@@ -114,17 +114,17 @@
 
 | 排名 | 城市 (City) | 队伍数 | 占总队伍比例 |
 | :---: | :--- | :---: | :---: |
-| 1 | **Oakland** | 84 | 15.88% |
-| 2 | **Piedmont** | 70 | 13.23% |
-| 3 | **San Jose** | 54 | 10.21% |
-| 4 | **Fremont** | 44 | 8.32% |
-| 5 | **Santa Clara** | 27 | 5.1% |
-| 6 | **San Francisco** | 23 | 4.35% |
-| 7 | **Mountain View** | 22 | 4.16% |
+| 1 | **Oakland** | 84 | 15.85% |
+| 2 | **Piedmont** | 70 | 13.21% |
+| 3 | **San Jose** | 54 | 10.19% |
+| 4 | **Fremont** | 44 | 8.3% |
+| 5 | **Santa Clara** | 27 | 5.09% |
+| 6 | **San Francisco** | 23 | 4.34% |
+| 7 | **Mountain View** | 22 | 4.15% |
 | 8 | **Dublin** | 17 | 3.21% |
 | 9 | **Sunnyvale** | 16 | 3.02% |
-| 10 | **Saratoga** | 15 | 2.84% |
-| 11 | **Cupertino** | 14 | 2.65% |
+| 10 | **Saratoga** | 16 | 3.02% |
+| 11 | **Cupertino** | 14 | 2.64% |
 | 12 | **Folsom** | 11 | 2.08% |
 | 13 | **Pleasanton** | 10 | 1.89% |
 | 14 | **Los Altos** | 7 | 1.32% |
@@ -137,9 +137,9 @@
 
 | 组织类别 (Category) | 队伍数 | 占比 | 特征说明 |
 | :--- | :---: | :---: | :--- |
-| **Family/Community** | 215 | 40.64% | 家长自发组建或社区邻里团队，灵活性高但指纹审查容易掉队 |
-| **Piedmont Makers** | 146 | 27.6% | Piedmont 区域极具影响力的创客公益联盟，建制化规模极大 |
-| **School / Academic Institution** | 142 | 26.84% | 公立学区或私立学校校队，合规受学区流程制约 |
+| **Family/Community** | 215 | 40.57% | 家长自发组建或社区邻里团队，灵活性高但指纹审查容易掉队 |
+| **Piedmont Makers** | 146 | 27.55% | Piedmont 区域极具影响力的创客公益联盟，建制化规模极大 |
+| **School / Academic Institution** | 143 | 26.98% | 公立学区或私立学校校队，合规受学区流程制约 |
 | **Other / Private Org** | 26 | 4.91% | 课外科技机构、俱乐部或独立培训中心 |
 
 
@@ -147,53 +147,53 @@
 
 | 排名 | 机构/学校名称 (Org Name) | 队伍数 | 占总队伍比例 |
 | :---: | :--- | :---: | :---: |
-| 1 | **Family/Community** | 207 | 39.13% |
-| 2 | **Piedmont Makers** | 136 | 25.71% |
-| 3 | **Cabrillo Middle School** | 12 | 2.27% |
+| 1 | **Family/Community** | 207 | 39.06% |
+| 2 | **Piedmont Makers** | 136 | 25.66% |
+| 3 | **Cabrillo Middle School** | 12 | 2.26% |
 | 4 | **Town School for Boys** | 8 | 1.51% |
 | 5 | **Argonaut Elementary** | 8 | 1.51% |
 | 6 | **Home School** | 7 | 1.32% |
 | 7 | **Tom Matsumoto Elementary** | 7 | 1.32% |
-| 8 | **San Francisco Day School** | 5 | 0.95% |
-| 9 | **Nueva School** | 4 | 0.76% |
-| 10 | **Piedmont makers** | 4 | 0.76% |
+| 8 | **San Francisco Day School** | 5 | 0.94% |
+| 9 | **Foothill Elementary** | 5 | 0.94% |
+| 10 | **Nueva School** | 4 | 0.75% |
 
 
 ## 6. 队伍编号与资历分析 (Team Number & Vintage)
 
 - **最低队伍编号**: `#445` (Matsuyama RoboPines，极早期老牌老队)
 - **最高队伍编号**: `#600743` (今年全新注册队伍)
-- **编号中位数**: `#67854` | **编号平均数**: `#93952.9`
+- **编号中位数**: `#67947` | **编号平均数**: `#93919.9`
 
 | 编号区间 (Team Number Range) | 代表建队年代 / 阶段 | 队伍数量 | 占比 |
 | :--- | :--- | :---: | :---: |
 | `< 10,000 (Veteran/Early Teams)` | 历史资历 | 17 | 3.21% |
-| `10,000 - 29,999 (Established Teams)` | 历史资历 | 60 | 11.34% |
-| `30,000 - 49,999 (Mid-Era Teams)` | 历史资历 | 100 | 18.9% |
-| `50,000 - 64,999 (Recent Teams 2021-2023)` | 历史资历 | 48 | 9.07% |
-| `65,000 - 74,999 (New Teams 2024-2025)` | 历史资历 | 140 | 26.47% |
-| `>= 75,000 (Brand New Teams 2025-2026)` | 历史资历 | 164 | 31.0% |
+| `10,000 - 29,999 (Established Teams)` | 历史资历 | 60 | 11.32% |
+| `30,000 - 49,999 (Mid-Era Teams)` | 历史资历 | 100 | 18.87% |
+| `50,000 - 64,999 (Recent Teams 2021-2023)` | 历史资历 | 48 | 9.06% |
+| `65,000 - 74,999 (New Teams 2024-2025)` | 历史资历 | 140 | 26.42% |
+| `>= 75,000 (Brand New Teams 2025-2026)` | 历史资历 | 165 | 31.13% |
 
 
 ## 7. 教练配置分析 (Coaches Configuration)
 
 | 教练人数 (Coaches Count) | 队伍数 | 占比 | 官方标准评估 |
 | :---: | :---: | :---: | :--- |
-| **0 人** | 19 | 3.59% | ⚠️ 警告：不足2人，不符青年保护政策 |
-| **1 人** | 71 | 13.42% | ⚠️ 警告：不足2人，不符青年保护政策 |
-| **2 人** | 428 | 80.91% | ✅ 标配（2名成人教练） |
-| **3 人** | 11 | 2.08% | ➕ 增配副教练/助理 |
+| **0 人** | 19 | 3.58% | ⚠️ 警告：不足2人，不符青年保护政策 |
+| **1 人** | 70 | 13.21% | ⚠️ 警告：不足2人，不符青年保护政策 |
+| **2 人** | 426 | 80.38% | ✅ 标配（2名成人教练） |
+| **3 人** | 15 | 2.83% | ➕ 增配副教练/助理 |
 
 
 ## 8. 队伍历史战绩与历届成绩综合分析 (Historical Performance & Veteran Analysis)
 
 > **数据整合来源**: 关联以往官方赛事库 (`data/mylumi.db` 中 `events`, `scores`, `awards`, `event_teams` 表)
 
-- **历史参赛战队覆盖率**: **278 支 / 519 支 (52.55%)** 拥有官方参赛记录。
+- **历史参赛战队覆盖率**: **282 支 / 519 支 (53.21%)** 拥有官方参赛记录。
 
-- **机器人比赛得分记录**: **205 支 (38.75%)** 记录有真实对战最高分。
+- **机器人比赛得分记录**: **205 支 (38.68%)** 记录有真实对战最高分。
 
-- **斩获官方奖项队伍**: **86 支 (16.26%)** 斩获过冠亚季军、核心价值或机器人设计等奖项。
+- **斩获官方奖项队伍**: **86 支 (16.23%)** 斩获过冠亚季军、核心价值或机器人设计等奖项。
 
 - **成功晋级更高级别队伍**: **70 支** 在往届资格赛中成功晋级。
 
@@ -204,20 +204,20 @@
 
 | 资历梯队 (Tier) | 队伍数量 | 占比 | 梯队特征描述 |
 | :--- | :---: | :---: | :--- |
-| **Rookie (新队伍)** | 251 队 | **47.45%** | 今年新注册或首次加入 MyLumi 系统的初生战队 |
-| **Veteran (老牌强队)** | 172 队 | **32.51%** | 跨多赛季参赛、晋级过 Championship 或斩获多项大奖的老牌王者 |
-| **Experienced (有参赛经验)** | 106 队 | **20.04%** | 参加过往届赛事，具备完整正赛与机器人调试经验 |
+| **Rookie (新队伍)** | 248 队 | **46.79%** | 今年新注册或首次加入 MyLumi 系统的初生战队 |
+| **Veteran (老牌强队)** | 178 队 | **33.58%** | 跨多赛季参赛、晋级过 Championship 或斩获多项大奖的老牌王者 |
+| **Experienced (有参赛经验)** | 104 队 | **19.62%** | 参加过往届赛事，具备完整正赛与机器人调试经验 |
 
 
 ### 8.2 历史战绩得分实力梯队 (Score Tier)
 
 | 历史最高分梯队 | 队伍数量 | 占总队伍比 | 战力梯队特征 |
 | :--- | :---: | :---: | :--- |
-| **暂无得分记录** | 324 队 | **61.25%** | - |
-| **<300 (入门发展)** | 130 队 | **24.57%** | 🌱 基础任务得分梯队，仍在成长与打磨中 |
-| **300-399 (中坚晋级)** | 56 队 | **10.59%** | 💪 地区晋级核心主力，具备稳健的机械与编程能力 |
-| **400-499 (一档强队)** | 15 队 | **2.84%** | ⚡ 具备稳进 Championship 实力的一档种子队 |
-| **500+ (争冠顶尖)** | 4 队 | **0.76%** | 🔥 绝对争冠梯队，场地任务全清或近乎满分 |
+| **暂无得分记录** | 325 队 | **61.32%** | - |
+| **<300 (入门发展)** | 130 队 | **24.53%** | 🌱 基础任务得分梯队，仍在成长与打磨中 |
+| **300-399 (中坚晋级)** | 56 队 | **10.57%** | 💪 地区晋级核心主力，具备稳健的机械与编程能力 |
+| **400-499 (一档强队)** | 15 队 | **2.83%** | ⚡ 具备稳进 Championship 实力的一档种子队 |
+| **500+ (争冠顶尖)** | 4 队 | **0.75%** | 🔥 绝对争冠梯队，场地任务全清或近乎满分 |
 
 
 ### 8.3 机器人对战生涯最高分排行榜 Top 15 (Top Career High Scores)
@@ -236,7 +236,7 @@
 | 10 | `#48793` | **Mountain House** | Mountain House (首府圈与中谷) | **455.0** | 319.0 | 第 2 名 | 🏆 4 | 🚀 3 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
 | 11 | `#52363` | **TerraBytes** | San Jose (南湾) | **450.0** | 306.2 | 第 4 名 | 🏆 2 | 🚀 1 | 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
 | 12 | `#71232` | **Aura100%** | San Jose (南湾) | **440.0** | 410.0 | 第 1 名 | 🏆 1 | 🚀 1 | 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
-| 13 | `#71804` | **Astrobot** | Mountain House (首府圈与中谷) | **440.0** | 440.0 | 第 1 名 | 🏆 0 | 🚀 0 | 2025 - UNEARTHED (Challenge) |
+| 13 | `#71804` | **Astrobot** | Mountain House (首府圈与中谷) | **440.0** | 440.0 | 第 1 名 | 🏆 0 | 🚀 0 | 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
 | 14 | `#57382` | **RoboRise** | Foster City (半岛与旧金山) | **435.0** | 365.0 | 第 5 名 | 🏆 3 | 🚀 2 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge), 2025 - UNEARTHED (Challenge), 2026 - BIOGLOW (Challenge) |
 | 15 | `#44532` | **FLL-C 44532** | Piedmont (东湾) | **430.0** | 305.0 | 第 4 名 | 🏆 4 | 🚀 1 | 2023 - MASTERPIECE (Challenge), 2024 - SUBMERGED (Challenge) |
 
@@ -261,9 +261,9 @@
 
 | 队伍资历梯队 | 队伍总数 | 全部就绪队伍 (Good) | 完全就绪率 (Readiness) | 深度洞察 |
 | :--- | :---: | :---: | :---: | :--- |
-| **Veteran (老牌强队)** | 172 | 120 | **69.77%** | 老牌队伍流程轻车熟路，教练指纹背景常驻有效，就绪率显著高于平均 |
-| **Experienced (有经验)** | 106 | 67 | **63.21%** | 中坚队伍就绪度平稳 |
-| **Rookie (新队伍)** | 251 | 17 | **6.77%** | 新手队伍大幅拖累整体就绪率，主要卡在加州指纹预约与队员邀请 |
+| **Veteran (老牌强队)** | 178 | 121 | **67.98%** | 老牌队伍流程轻车熟路，教练指纹背景常驻有效，就绪率显著高于平均 |
+| **Experienced (有经验)** | 104 | 66 | **63.46%** | 中坚队伍就绪度平稳 |
+| **Rookie (新队伍)** | 248 | 16 | **6.45%** | 新手队伍大幅拖累整体就绪率，主要卡在加州指纹预约与队员邀请 |
 
 
 ## 9. 给参赛队伍与组委会的行动建议 (Actionable Insights)

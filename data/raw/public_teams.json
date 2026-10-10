@@ -1423,8 +1423,8 @@
     "name": "4416",
     "city": "Santa Clara",
     "org_name": "Cabrillo Middle School",
-    "coaches_count": 2,
-    "status_v2": "good",
+    "coaches_count": 3,
+    "status_v2": "pending_fingerprinting",
     "status_quickview": {
       "screening": {
         "good": true,
@@ -1439,35 +1439,35 @@
         "skipped": false
       },
       "fingerprinting": {
-        "good": true,
-        "details": "2/2 complete",
-        "count": 2,
+        "good": false,
+        "details": "1/2 complete",
+        "count": 1,
         "threshold": 2,
         "icon": "fingerprint",
         "icon_good": "fingerprint-circle-check",
-        "color": "success",
+        "color": "error",
         "title": "Fingerprinting",
-        "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 2/2",
+        "tooltip": "<strong>Fingerprinting</strong>: 1/2 complete<br/>Live Scan 2/2<br/>MRT 1/2<br/>BCIA 9018 1/2",
         "livescan_count": 2,
-        "mrt_count": 2,
-        "bcia_count": 2,
-        "bcia": "complete",
+        "mrt_count": 1,
+        "bcia_count": 1,
+        "bcia": "missing",
         "bcia_enforced": false,
         "skipped": false,
         "bcia_effective_date": "2027-01-01"
       },
       "coaches": {
-        "good": true,
-        "details": "",
-        "count": 2,
-        "threshold": 2,
+        "good": false,
+        "details": "Above maximum: 3/2",
+        "count": 3,
+        "threshold": 3,
         "icon": "user",
         "icon_good": "user-circle-check",
-        "color": "success",
+        "color": "error",
         "title": "Coaches",
-        "tooltip": "<strong>Coaches</strong>: 2",
-        "total": 2,
-        "required_count": 2,
+        "tooltip": "<strong>Coaches</strong>: 3<br/>Issues: Above maximum: 3/2",
+        "total": 3,
+        "required_count": 3,
         "min": 2,
         "max": 2,
         "invited": 0
@@ -1501,7 +1501,7 @@
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: All complete"
       },
-      "status": "good"
+      "status": "pending_fingerprinting"
     },
     "registered_events": [
       {
@@ -2086,15 +2086,15 @@
       "roster_status": {
         "good": true,
         "details": "",
-        "count": 6,
-        "threshold": 6,
+        "count": 7,
+        "threshold": 7,
         "icon": "users",
         "icon_good": "users-circle-check",
         "color": "success",
         "title": "Roster",
-        "tooltip": "<strong>Roster</strong>: 6",
-        "total": 6,
-        "required_count": 6,
+        "tooltip": "<strong>Roster</strong>: 7",
+        "total": 7,
+        "required_count": 7,
         "min": 2,
         "max": 10,
         "not_with_first": 0
@@ -2182,8 +2182,8 @@
     "name": "4978",
     "city": "Santa Clara",
     "org_name": "Cabrillo Middle School",
-    "coaches_count": 2,
-    "status_v2": "good",
+    "coaches_count": 3,
+    "status_v2": "pending_fingerprinting",
     "status_quickview": {
       "screening": {
         "good": true,
@@ -2198,17 +2198,17 @@
         "skipped": false
       },
       "fingerprinting": {
-        "good": true,
-        "details": "2/2 complete",
-        "count": 2,
+        "good": false,
+        "details": "1/2 complete",
+        "count": 1,
         "threshold": 2,
         "icon": "fingerprint",
         "icon_good": "fingerprint-circle-check",
-        "color": "success",
+        "color": "error",
         "title": "Fingerprinting",
-        "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 2/2",
-        "livescan_count": 2,
-        "mrt_count": 2,
+        "tooltip": "<strong>Fingerprinting</strong>: 1/2 complete<br/>Live Scan 1/2<br/>MRT 1/2<br/>BCIA 9018 2/2",
+        "livescan_count": 1,
+        "mrt_count": 1,
         "bcia_count": 2,
         "bcia": "complete",
         "bcia_enforced": false,
@@ -2216,17 +2216,17 @@
         "bcia_effective_date": "2027-01-01"
       },
       "coaches": {
-        "good": true,
-        "details": "",
-        "count": 2,
-        "threshold": 2,
+        "good": false,
+        "details": "Above maximum: 3/2",
+        "count": 3,
+        "threshold": 3,
         "icon": "user",
         "icon_good": "user-circle-check",
-        "color": "success",
+        "color": "error",
         "title": "Coaches",
-        "tooltip": "<strong>Coaches</strong>: 2",
-        "total": 2,
-        "required_count": 2,
+        "tooltip": "<strong>Coaches</strong>: 3<br/>Issues: Above maximum: 3/2",
+        "total": 3,
+        "required_count": 3,
         "min": 2,
         "max": 2,
         "invited": 0
@@ -2260,7 +2260,7 @@
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: All complete"
       },
-      "status": "good"
+      "status": "pending_fingerprinting"
     },
     "registered_events": [
       {
@@ -10342,8 +10342,8 @@
     "name": "25572",
     "city": "Santa Clara",
     "org_name": "Cabrillo Middle School",
-    "coaches_count": 2,
-    "status_v2": "good",
+    "coaches_count": 3,
+    "status_v2": "roster_overload",
     "status_quickview": {
       "screening": {
         "good": true,
@@ -10376,17 +10376,17 @@
         "bcia_effective_date": "2027-01-01"
       },
       "coaches": {
-        "good": true,
-        "details": "",
-        "count": 2,
-        "threshold": 2,
+        "good": false,
+        "details": "Above maximum: 3/2",
+        "count": 3,
+        "threshold": 3,
         "icon": "user",
         "icon_good": "user-circle-check",
-        "color": "success",
+        "color": "error",
         "title": "Coaches",
-        "tooltip": "<strong>Coaches</strong>: 2",
-        "total": 2,
-        "required_count": 2,
+        "tooltip": "<strong>Coaches</strong>: 3<br/>Issues: Above maximum: 3/2",
+        "total": 3,
+        "required_count": 3,
         "min": 2,
         "max": 2,
         "invited": 0
@@ -10420,7 +10420,7 @@
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: All complete"
       },
-      "status": "good"
+      "status": "roster_overload"
     },
     "registered_events": [
       {
@@ -14724,15 +14724,15 @@
       "roster_status": {
         "good": true,
         "details": "",
-        "count": 6,
-        "threshold": 6,
+        "count": 8,
+        "threshold": 8,
         "icon": "users",
         "icon_good": "users-circle-check",
         "color": "success",
         "title": "Roster",
-        "tooltip": "<strong>Roster</strong>: 6",
-        "total": 6,
-        "required_count": 6,
+        "tooltip": "<strong>Roster</strong>: 8",
+        "total": 8,
+        "required_count": 8,
         "min": 2,
         "max": 10,
         "not_with_first": 0
@@ -20279,7 +20279,7 @@
     "city": "Oakland",
     "org_name": "Piedmont Makers",
     "coaches_count": 1,
-    "status_v2": "waiting_invites",
+    "status_v2": "pending_fingerprinting",
     "status_quickview": {
       "screening": {
         "good": false,
@@ -20325,7 +20325,7 @@
         "required_count": 1,
         "min": 2,
         "max": 2,
-        "invited": 1
+        "invited": 0
       },
       "roster_status": {
         "good": false,
@@ -20356,7 +20356,7 @@
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: All complete"
       },
-      "status": "waiting_invites"
+      "status": "pending_fingerprinting"
     },
     "registered_events": [],
     "advancement": {
@@ -29530,8 +29530,8 @@
     "name": "The Legos",
     "city": "Dublin",
     "org_name": "Quarry Lane School",
-    "coaches_count": 2,
-    "status_v2": "pending_fingerprinting",
+    "coaches_count": 3,
+    "status_v2": "waiting_invites",
     "status_quickview": {
       "screening": {
         "good": false,
@@ -29558,26 +29558,26 @@
         "livescan_count": 1,
         "mrt_count": 1,
         "bcia_count": 1,
-        "bcia": "unknown",
+        "bcia": "missing",
         "bcia_enforced": false,
         "skipped": false,
         "bcia_effective_date": "2027-01-01"
       },
       "coaches": {
-        "good": true,
-        "details": "",
-        "count": 2,
-        "threshold": 2,
+        "good": false,
+        "details": "Above maximum: 3/2",
+        "count": 3,
+        "threshold": 3,
         "icon": "user",
         "icon_good": "user-circle-check",
-        "color": "success",
+        "color": "error",
         "title": "Coaches",
-        "tooltip": "<strong>Coaches</strong>: 2",
-        "total": 2,
-        "required_count": 2,
+        "tooltip": "<strong>Coaches</strong>: 3<br/>Issues: Above maximum: 3/2",
+        "total": 3,
+        "required_count": 3,
         "min": 2,
         "max": 2,
-        "invited": 0
+        "invited": 1
       },
       "roster_status": {
         "good": false,
@@ -29608,7 +29608,7 @@
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: Jotform pending"
       },
-      "status": "pending_fingerprinting"
+      "status": "waiting_invites"
     },
     "registered_events": [],
     "advancement": {
@@ -31952,8 +31952,8 @@
     "name": "Oreo Pandas",
     "city": "Dublin",
     "org_name": "Quarry Lane School",
-    "coaches_count": 2,
-    "status_v2": "pending_fingerprinting",
+    "coaches_count": 3,
+    "status_v2": "waiting_invites",
     "status_quickview": {
       "screening": {
         "good": false,
@@ -31980,26 +31980,26 @@
         "livescan_count": 1,
         "mrt_count": 1,
         "bcia_count": 1,
-        "bcia": "unknown",
+        "bcia": "missing",
         "bcia_enforced": false,
         "skipped": false,
         "bcia_effective_date": "2027-01-01"
       },
       "coaches": {
-        "good": true,
-        "details": "",
-        "count": 2,
-        "threshold": 2,
+        "good": false,
+        "details": "Above maximum: 3/2",
+        "count": 3,
+        "threshold": 3,
         "icon": "user",
         "icon_good": "user-circle-check",
-        "color": "success",
+        "color": "error",
         "title": "Coaches",
-        "tooltip": "<strong>Coaches</strong>: 2",
-        "total": 2,
-        "required_count": 2,
+        "tooltip": "<strong>Coaches</strong>: 3<br/>Issues: Above maximum: 3/2",
+        "total": 3,
+        "required_count": 3,
         "min": 2,
         "max": 2,
-        "invited": 0
+        "invited": 1
       },
       "roster_status": {
         "good": false,
@@ -32030,7 +32030,7 @@
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: Jotform pending"
       },
-      "status": "pending_fingerprinting"
+      "status": "waiting_invites"
     },
     "registered_events": [],
     "advancement": {
@@ -33121,7 +33121,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -33176,7 +33176,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -35012,7 +35012,7 @@
     "city": "San Francisco",
     "org_name": "Town School for Boys",
     "coaches_count": 2,
-    "status_v2": "good",
+    "status_v2": "roster_overload",
     "status_quickview": {
       "screening": {
         "good": true,
@@ -35067,14 +35067,14 @@
         "threshold": 6,
         "icon": "users",
         "icon_good": "users-circle-check",
-        "color": "success",
+        "color": "warning",
         "title": "Roster",
-        "tooltip": "<strong>Roster</strong>: 6",
+        "tooltip": "<strong>Roster</strong>: 6<br/>Issues: Not with FIRST: 1",
         "total": 6,
         "required_count": 6,
         "min": 2,
         "max": 10,
-        "not_with_first": 0
+        "not_with_first": 1
       },
       "agreements": {
         "good": true,
@@ -35089,7 +35089,7 @@
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: All complete"
       },
-      "status": "good"
+      "status": "roster_overload"
     },
     "registered_events": [],
     "advancement": {
@@ -35317,15 +35317,15 @@
       "roster_status": {
         "good": true,
         "details": "",
-        "count": 5,
-        "threshold": 5,
+        "count": 6,
+        "threshold": 6,
         "icon": "users",
         "icon_good": "users-circle-check",
         "color": "success",
         "title": "Roster",
-        "tooltip": "<strong>Roster</strong>: 5",
-        "total": 5,
-        "required_count": 5,
+        "tooltip": "<strong>Roster</strong>: 6",
+        "total": 6,
+        "required_count": 6,
         "min": 2,
         "max": 10,
         "not_with_first": 0
@@ -35563,7 +35563,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 309,
+        "name": "NorCal FLL Challenge BIOGLOW QT - Nueva School, San Mateo",
+        "date": "2026-11-15T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/309/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -35575,12 +35584,13 @@
       "has_history": true,
       "past_names": [],
       "past_names_details": [],
-      "events_count": 6,
-      "seasons_count": 3,
+      "events_count": 7,
+      "seasons_count": 4,
       "seasons": [
         "2023 - MASTERPIECE (Challenge)",
         "2024 - SUBMERGED (Challenge)",
-        "2025 - UNEARTHED (Challenge)"
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
       ],
       "max_score": 425.0,
       "avg_score": 363.0,
@@ -35640,6 +35650,16 @@
       "experience_tier": "Veteran (老牌强队)",
       "score_tier": "400-499 (一档强队)",
       "events": [
+        {
+          "event_id": 309,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Nueva School, San Mateo",
+          "season": "2026 - BIOGLOW (Challenge)",
+          "date": "2026-11-15",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        },
         {
           "event_id": 268,
           "event_name": "2026 NorCal Bay Area Bedrock Championship - 2025/2026 Season",
@@ -35714,16 +35734,14 @@
         }
       ],
       "recent_event": {
-        "event_id": 268,
-        "event_name": "2026 NorCal Bay Area Bedrock Championship - 2025/2026 Season",
-        "season": "2025 - UNEARTHED (Challenge)",
-        "date": "2026-03-08",
-        "highest_score": 425.0,
-        "ranking": 18,
+        "event_id": 309,
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Nueva School, San Mateo",
+        "season": "2026 - BIOGLOW (Challenge)",
+        "date": "2026-11-15",
+        "highest_score": null,
+        "ranking": null,
         "advanced": false,
-        "awards": [
-          "Robot Design Award"
-        ]
+        "awards": []
       },
       "by_season": {
         "2025": {
@@ -45072,7 +45090,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -45117,7 +45135,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -49075,7 +49093,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 312,
+        "name": "NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+        "date": "2026-11-21T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/312/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -49103,11 +49130,12 @@
           ]
         }
       ],
-      "events_count": 2,
-      "seasons_count": 2,
+      "events_count": 3,
+      "seasons_count": 3,
       "seasons": [
         "2024 - SUBMERGED (Challenge)",
-        "2025 - UNEARTHED (Challenge)"
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
       ],
       "max_score": 185.0,
       "avg_score": 152.5,
@@ -49116,7 +49144,7 @@
       "awards_count": 1,
       "champions_count": 0,
       "core_awards_count": 1,
-      "power_score": 22.8,
+      "power_score": 23.6,
       "tier": "Tier B (中坚力量/资深)",
       "awards": [
         {
@@ -49132,6 +49160,16 @@
       "experience_tier": "Veteran (老牌强队)",
       "score_tier": "<300 (入门发展)",
       "events": [
+        {
+          "event_id": 312,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+          "season": "2026 - BIOGLOW (Challenge)",
+          "date": "2026-11-21",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        },
         {
           "event_id": 178,
           "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
@@ -49156,16 +49194,14 @@
         }
       ],
       "recent_event": {
-        "event_id": 178,
-        "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
-        "season": "2025 - UNEARTHED (Challenge)",
-        "date": "2025-11-15",
-        "highest_score": 185.0,
-        "ranking": 8,
+        "event_id": 312,
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+        "season": "2026 - BIOGLOW (Challenge)",
+        "date": "2026-11-21",
+        "highest_score": null,
+        "ranking": null,
         "advanced": false,
-        "awards": [
-          "Robot Design Award"
-        ]
+        "awards": []
       },
       "by_season": {
         "2025": {
@@ -49218,7 +49254,7 @@
       "Build Guild - SBR",
       "Build Guild - SBR Team Cupertino"
     ],
-    "power_score": 22.8,
+    "power_score": 23.6,
     "tier": "Tier B (中坚力量/资深)"
   },
   {
@@ -51434,7 +51470,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -51480,7 +51516,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -53200,7 +53236,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 306,
+        "name": "NorCal FLL Challenge BIOGLOW QT - San Francisco Bay University, Fremont",
+        "date": "2026-11-14T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/306/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -53212,11 +53257,12 @@
       "has_history": true,
       "past_names": [],
       "past_names_details": [],
-      "events_count": 2,
-      "seasons_count": 2,
+      "events_count": 3,
+      "seasons_count": 3,
       "seasons": [
         "2024 - SUBMERGED (Challenge)",
-        "2025 - UNEARTHED (Challenge)"
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
       ],
       "max_score": 270.0,
       "avg_score": 135.0,
@@ -53225,7 +53271,7 @@
       "awards_count": 2,
       "champions_count": 0,
       "core_awards_count": 2,
-      "power_score": 34.2,
+      "power_score": 35.0,
       "tier": "Tier B (中坚力量/资深)",
       "awards": [
         {
@@ -53248,6 +53294,16 @@
       "experience_tier": "Veteran (老牌强队)",
       "score_tier": "<300 (入门发展)",
       "events": [
+        {
+          "event_id": 306,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - San Francisco Bay University, Fremont",
+          "season": "2026 - BIOGLOW (Challenge)",
+          "date": "2026-11-14",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        },
         {
           "event_id": 192,
           "event_name": "2025 NorCal FLL-C:  Fremont QT at Gomes",
@@ -53273,12 +53329,12 @@
         }
       ],
       "recent_event": {
-        "event_id": 192,
-        "event_name": "2025 NorCal FLL-C:  Fremont QT at Gomes",
-        "season": "2025 - UNEARTHED (Challenge)",
-        "date": "2025-11-08",
-        "highest_score": 270.0,
-        "ranking": 6,
+        "event_id": 306,
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - San Francisco Bay University, Fremont",
+        "season": "2026 - BIOGLOW (Challenge)",
+        "date": "2026-11-14",
+        "highest_score": null,
+        "ranking": null,
         "advanced": false,
         "awards": []
       },
@@ -53331,7 +53387,7 @@
       }
     },
     "past_names": [],
-    "power_score": 34.2,
+    "power_score": 35.0,
     "tier": "Tier B (中坚力量/资深)"
   },
   {
@@ -57320,7 +57376,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 312,
+        "name": "NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+        "date": "2026-11-21T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/312/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -57348,11 +57413,12 @@
           ]
         }
       ],
-      "events_count": 2,
-      "seasons_count": 2,
+      "events_count": 3,
+      "seasons_count": 3,
       "seasons": [
         "2024 - SUBMERGED (Challenge)",
-        "2025 - UNEARTHED (Challenge)"
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
       ],
       "max_score": 220.0,
       "avg_score": 215.0,
@@ -57361,7 +57427,7 @@
       "awards_count": 0,
       "champions_count": 0,
       "core_awards_count": 0,
-      "power_score": 23.6,
+      "power_score": 24.4,
       "tier": "Tier B (中坚力量/资深)",
       "awards": [],
       "advancements_count": 0,
@@ -57369,6 +57435,16 @@
       "experience_tier": "Veteran (老牌强队)",
       "score_tier": "<300 (入门发展)",
       "events": [
+        {
+          "event_id": 312,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+          "season": "2026 - BIOGLOW (Challenge)",
+          "date": "2026-11-21",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        },
         {
           "event_id": 186,
           "event_name": "2025 NorCal FLL-C:  San Jose QT at St Christopher",
@@ -57391,12 +57467,12 @@
         }
       ],
       "recent_event": {
-        "event_id": 186,
-        "event_name": "2025 NorCal FLL-C:  San Jose QT at St Christopher",
-        "season": "2025 - UNEARTHED (Challenge)",
-        "date": "2025-11-15",
-        "highest_score": 220.0,
-        "ranking": 9,
+        "event_id": 312,
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+        "season": "2026 - BIOGLOW (Challenge)",
+        "date": "2026-11-21",
+        "highest_score": null,
+        "ranking": null,
         "advanced": false,
         "awards": []
       },
@@ -57449,7 +57525,7 @@
       "BroBots - SBR",
       "BroBots - SBR Team Sunnyvale"
     ],
-    "power_score": 23.6,
+    "power_score": 24.4,
     "tier": "Tier B (中坚力量/资深)"
   },
   {
@@ -58551,7 +58627,7 @@
     "city": "San Jose",
     "org_name": "Family/Community",
     "coaches_count": 2,
-    "status_v2": "good",
+    "status_v2": "roster_overload",
     "status_quickview": {
       "screening": {
         "good": true,
@@ -58606,14 +58682,14 @@
         "threshold": 9,
         "icon": "users",
         "icon_good": "users-circle-check",
-        "color": "success",
+        "color": "warning",
         "title": "Roster",
-        "tooltip": "<strong>Roster</strong>: 9",
+        "tooltip": "<strong>Roster</strong>: 9<br/>Issues: Not with FIRST: 1",
         "total": 9,
         "required_count": 9,
         "min": 2,
         "max": 10,
-        "not_with_first": 0
+        "not_with_first": 1
       },
       "agreements": {
         "good": true,
@@ -58628,7 +58704,7 @@
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: All complete"
       },
-      "status": "good"
+      "status": "roster_overload"
     },
     "registered_events": [
       {
@@ -58682,7 +58758,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -58715,7 +58791,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -63736,7 +63812,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 313,
+        "name": "NorCal FLL Challenge BIOGLOW QT - BASIS Independent School, Dublin",
+        "date": "2026-11-14T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/313/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -63757,10 +63842,11 @@
           ]
         }
       ],
-      "events_count": 1,
-      "seasons_count": 1,
+      "events_count": 2,
+      "seasons_count": 2,
       "seasons": [
-        "2025 - UNEARTHED (Challenge)"
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
       ],
       "max_score": 335.0,
       "avg_score": 335.0,
@@ -63769,14 +63855,24 @@
       "awards_count": 0,
       "champions_count": 0,
       "core_awards_count": 0,
-      "power_score": 34.0,
-      "tier": "Tier B (中坚力量/资深)",
+      "power_score": 35.1,
+      "tier": "Tier A (种子强队/劲旅)",
       "awards": [],
       "advancements_count": 0,
       "has_championship": false,
-      "experience_tier": "Experienced (有参赛经验)",
+      "experience_tier": "Veteran (老牌强队)",
       "score_tier": "300-399 (中坚晋级)",
       "events": [
+        {
+          "event_id": 313,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - BASIS Independent School, Dublin",
+          "season": "2026 - BIOGLOW (Challenge)",
+          "date": "2026-11-14",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        },
         {
           "event_id": 274,
           "event_name": "2026 NorCal FLL-C:  Livermore Spring League at East Avenue Middle School",
@@ -63789,12 +63885,12 @@
         }
       ],
       "recent_event": {
-        "event_id": 274,
-        "event_name": "2026 NorCal FLL-C:  Livermore Spring League at East Avenue Middle School",
-        "season": "2025 - UNEARTHED (Challenge)",
-        "date": "2026-05-02",
-        "highest_score": 335.0,
-        "ranking": 3,
+        "event_id": 313,
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - BASIS Independent School, Dublin",
+        "season": "2026 - BIOGLOW (Challenge)",
+        "date": "2026-11-14",
+        "highest_score": null,
+        "ranking": null,
         "advanced": false,
         "awards": []
       },
@@ -63837,8 +63933,8 @@
     "past_names": [
       "Golden Gears"
     ],
-    "power_score": 34.0,
-    "tier": "Tier B (中坚力量/资深)"
+    "power_score": 35.1,
+    "tier": "Tier A (种子强队/劲旅)"
   },
   {
     "id": 2828,
@@ -64346,7 +64442,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 302,
+        "name": "NorCal FLL Challenge BIOGLOW QT – The Dorris-Eaton School, San Ramon",
+        "date": "2026-11-07T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/302/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -64358,10 +64463,11 @@
       "has_history": true,
       "past_names": [],
       "past_names_details": [],
-      "events_count": 1,
-      "seasons_count": 1,
+      "events_count": 2,
+      "seasons_count": 2,
       "seasons": [
-        "2025 - UNEARTHED (Challenge)"
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
       ],
       "max_score": 440.0,
       "avg_score": 440.0,
@@ -64370,14 +64476,24 @@
       "awards_count": 0,
       "champions_count": 0,
       "core_awards_count": 0,
-      "power_score": 44.3,
+      "power_score": 45.4,
       "tier": "Tier A (种子强队/劲旅)",
       "awards": [],
       "advancements_count": 0,
       "has_championship": false,
-      "experience_tier": "Experienced (有参赛经验)",
+      "experience_tier": "Veteran (老牌强队)",
       "score_tier": "400-499 (一档强队)",
       "events": [
+        {
+          "event_id": 302,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT – The Dorris-Eaton School, San Ramon",
+          "season": "2026 - BIOGLOW (Challenge)",
+          "date": "2026-11-07",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        },
         {
           "event_id": 176,
           "event_name": "2025 NorCal FLL-C:  Modesto QT at Beyer HS",
@@ -64390,12 +64506,12 @@
         }
       ],
       "recent_event": {
-        "event_id": 176,
-        "event_name": "2025 NorCal FLL-C:  Modesto QT at Beyer HS",
-        "season": "2025 - UNEARTHED (Challenge)",
-        "date": "2025-11-08",
-        "highest_score": 440.0,
-        "ranking": 1,
+        "event_id": 302,
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT – The Dorris-Eaton School, San Ramon",
+        "season": "2026 - BIOGLOW (Challenge)",
+        "date": "2026-11-07",
+        "highest_score": null,
+        "ranking": null,
         "advanced": false,
         "awards": []
       },
@@ -64436,7 +64552,7 @@
       }
     },
     "past_names": [],
-    "power_score": 44.3,
+    "power_score": 45.4,
     "tier": "Tier A (种子强队/劲旅)"
   },
   {
@@ -64905,7 +65021,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -64926,7 +65042,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -65885,7 +66001,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 312,
+        "name": "NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+        "date": "2026-11-21T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/312/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -65906,10 +66031,11 @@
           ]
         }
       ],
-      "events_count": 1,
-      "seasons_count": 1,
+      "events_count": 2,
+      "seasons_count": 2,
       "seasons": [
-        "2025 - UNEARTHED (Challenge)"
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
       ],
       "max_score": 135.0,
       "avg_score": 135.0,
@@ -65918,14 +66044,24 @@
       "awards_count": 0,
       "champions_count": 0,
       "core_awards_count": 0,
-      "power_score": 14.3,
-      "tier": "Tier C (成长中队伍/新锐)",
+      "power_score": 15.4,
+      "tier": "Tier B (中坚力量/资深)",
       "awards": [],
       "advancements_count": 0,
       "has_championship": false,
-      "experience_tier": "Experienced (有参赛经验)",
+      "experience_tier": "Veteran (老牌强队)",
       "score_tier": "<300 (入门发展)",
       "events": [
+        {
+          "event_id": 312,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+          "season": "2026 - BIOGLOW (Challenge)",
+          "date": "2026-11-21",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        },
         {
           "event_id": 178,
           "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
@@ -65938,12 +66074,12 @@
         }
       ],
       "recent_event": {
-        "event_id": 178,
-        "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
-        "season": "2025 - UNEARTHED (Challenge)",
-        "date": "2025-11-15",
-        "highest_score": 135.0,
-        "ranking": 12,
+        "event_id": 312,
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+        "season": "2026 - BIOGLOW (Challenge)",
+        "date": "2026-11-21",
+        "highest_score": null,
+        "ranking": null,
         "advanced": false,
         "awards": []
       },
@@ -65986,8 +66122,8 @@
     "past_names": [
       "SBR TEAM RED"
     ],
-    "power_score": 14.3,
-    "tier": "Tier C (成长中队伍/新锐)"
+    "power_score": 15.4,
+    "tier": "Tier B (中坚力量/资深)"
   },
   {
     "id": 2970,
@@ -66075,7 +66211,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 312,
+        "name": "NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+        "date": "2026-11-21T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/312/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -66096,10 +66241,11 @@
           ]
         }
       ],
-      "events_count": 1,
-      "seasons_count": 1,
+      "events_count": 2,
+      "seasons_count": 2,
       "seasons": [
-        "2025 - UNEARTHED (Challenge)"
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
       ],
       "max_score": 220.0,
       "avg_score": 220.0,
@@ -66108,14 +66254,24 @@
       "awards_count": 0,
       "champions_count": 0,
       "core_awards_count": 0,
-      "power_score": 22.7,
-      "tier": "Tier C (成长中队伍/新锐)",
+      "power_score": 23.8,
+      "tier": "Tier B (中坚力量/资深)",
       "awards": [],
       "advancements_count": 0,
       "has_championship": false,
-      "experience_tier": "Experienced (有参赛经验)",
+      "experience_tier": "Veteran (老牌强队)",
       "score_tier": "<300 (入门发展)",
       "events": [
+        {
+          "event_id": 312,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+          "season": "2026 - BIOGLOW (Challenge)",
+          "date": "2026-11-21",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        },
         {
           "event_id": 178,
           "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
@@ -66128,12 +66284,12 @@
         }
       ],
       "recent_event": {
-        "event_id": 178,
-        "event_name": "2025 NorCal FLL-C:  Sunnyvale QT at The King's Academy",
-        "season": "2025 - UNEARTHED (Challenge)",
-        "date": "2025-11-15",
-        "highest_score": 220.0,
-        "ranking": 6,
+        "event_id": 312,
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+        "season": "2026 - BIOGLOW (Challenge)",
+        "date": "2026-11-21",
+        "highest_score": null,
+        "ranking": null,
         "advanced": false,
         "awards": []
       },
@@ -66176,8 +66332,8 @@
     "past_names": [
       "SBR TEAM ORANGE"
     ],
-    "power_score": 22.7,
-    "tier": "Tier C (成长中队伍/新锐)"
+    "power_score": 23.8,
+    "tier": "Tier B (中坚力量/资深)"
   },
   {
     "id": 2837,
@@ -66265,7 +66421,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 310,
+        "name": "NorCal FLL Challenge BIOGLOW QT - Gunn High School, Palo Alto",
+        "date": "2026-11-21T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/310/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -68815,7 +68980,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -68836,7 +69001,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -70924,15 +71089,15 @@
       "roster_status": {
         "good": true,
         "details": "",
-        "count": 3,
-        "threshold": 3,
+        "count": 4,
+        "threshold": 4,
         "icon": "users",
         "icon_good": "users-circle-check",
         "color": "success",
         "title": "Roster",
-        "tooltip": "<strong>Roster</strong>: 3",
-        "total": 3,
-        "required_count": 3,
+        "tooltip": "<strong>Roster</strong>: 4",
+        "total": 4,
+        "required_count": 4,
         "min": 2,
         "max": 10,
         "not_with_first": 0
@@ -70952,7 +71117,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 314,
+        "name": "NorCal FLL Challenge BIOGLOW QT - Pleasant Grove High School, Elk Grove",
+        "date": "2026-11-15T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/314/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -70964,10 +71138,11 @@
       "has_history": true,
       "past_names": [],
       "past_names_details": [],
-      "events_count": 1,
-      "seasons_count": 1,
+      "events_count": 2,
+      "seasons_count": 2,
       "seasons": [
-        "2025 - UNEARTHED (Challenge)"
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
       ],
       "max_score": 160.0,
       "avg_score": 160.0,
@@ -70976,14 +71151,24 @@
       "awards_count": 0,
       "champions_count": 0,
       "core_awards_count": 0,
-      "power_score": 16.8,
-      "tier": "Tier C (成长中队伍/新锐)",
+      "power_score": 17.9,
+      "tier": "Tier B (中坚力量/资深)",
       "awards": [],
       "advancements_count": 0,
       "has_championship": false,
-      "experience_tier": "Experienced (有参赛经验)",
+      "experience_tier": "Veteran (老牌强队)",
       "score_tier": "<300 (入门发展)",
       "events": [
+        {
+          "event_id": 314,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Pleasant Grove High School, Elk Grove",
+          "season": "2026 - BIOGLOW (Challenge)",
+          "date": "2026-11-15",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        },
         {
           "event_id": 278,
           "event_name": "2026 NorCal FLL-C:  Spring League at Jessup University  Rocklin",
@@ -70996,12 +71181,12 @@
         }
       ],
       "recent_event": {
-        "event_id": 278,
-        "event_name": "2026 NorCal FLL-C:  Spring League at Jessup University  Rocklin",
-        "season": "2025 - UNEARTHED (Challenge)",
-        "date": "2026-04-26",
-        "highest_score": 160.0,
-        "ranking": 8,
+        "event_id": 314,
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Pleasant Grove High School, Elk Grove",
+        "season": "2026 - BIOGLOW (Challenge)",
+        "date": "2026-11-15",
+        "highest_score": null,
+        "ranking": null,
         "advanced": false,
         "awards": []
       },
@@ -71042,8 +71227,8 @@
       }
     },
     "past_names": [],
-    "power_score": 16.8,
-    "tier": "Tier C (成长中队伍/新锐)"
+    "power_score": 17.9,
+    "tier": "Tier B (中坚力量/资深)"
   },
   {
     "id": 3007,
@@ -71743,7 +71928,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -71764,7 +71949,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -73009,7 +73194,7 @@
     "city": "Cupertino",
     "org_name": "Leadways School",
     "coaches_count": 2,
-    "status_v2": "waiting_jotform",
+    "status_v2": "good",
     "status_quickview": {
       "screening": {
         "good": true,
@@ -73074,19 +73259,19 @@
         "not_with_first": 0
       },
       "agreements": {
-        "good": false,
-        "details": "Jotform pending",
+        "good": true,
+        "details": "",
         "coaches_pending": 0,
         "students_pending": 0,
         "jotform_required": true,
-        "jotform_complete": false,
+        "jotform_complete": true,
         "icon": "file-contract",
         "icon_good": "file-contract-circle-check",
-        "color": "info",
+        "color": "success",
         "title": "Agreements",
-        "tooltip": "<strong>Agreements</strong>: Jotform pending"
+        "tooltip": "<strong>Agreements</strong>: All complete"
       },
-      "status": "waiting_jotform"
+      "status": "good"
     },
     "registered_events": [],
     "advancement": {
@@ -73866,7 +74051,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 312,
+        "name": "NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+        "date": "2026-11-21T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/312/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -73887,10 +74081,11 @@
           ]
         }
       ],
-      "events_count": 1,
-      "seasons_count": 1,
+      "events_count": 2,
+      "seasons_count": 2,
       "seasons": [
-        "2025 - UNEARTHED (Challenge)"
+        "2025 - UNEARTHED (Challenge)",
+        "2026 - BIOGLOW (Challenge)"
       ],
       "max_score": 125.0,
       "avg_score": 125.0,
@@ -73899,14 +74094,24 @@
       "awards_count": 0,
       "champions_count": 0,
       "core_awards_count": 0,
-      "power_score": 13.4,
-      "tier": "Tier C (成长中队伍/新锐)",
+      "power_score": 14.5,
+      "tier": "Tier B (中坚力量/资深)",
       "awards": [],
       "advancements_count": 0,
       "has_championship": false,
-      "experience_tier": "Experienced (有参赛经验)",
+      "experience_tier": "Veteran (老牌强队)",
       "score_tier": "<300 (入门发展)",
       "events": [
+        {
+          "event_id": 312,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+          "season": "2026 - BIOGLOW (Challenge)",
+          "date": "2026-11-21",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        },
         {
           "event_id": 280,
           "event_name": "2026 NorCal FLL-C: San Jose Spring League at The Play Space 5/3",
@@ -73919,12 +74124,12 @@
         }
       ],
       "recent_event": {
-        "event_id": 280,
-        "event_name": "2026 NorCal FLL-C: San Jose Spring League at The Play Space 5/3",
-        "season": "2025 - UNEARTHED (Challenge)",
-        "date": "2026-05-03",
-        "highest_score": 125.0,
-        "ranking": 10,
+        "event_id": 312,
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
+        "season": "2026 - BIOGLOW (Challenge)",
+        "date": "2026-11-21",
+        "highest_score": null,
+        "ranking": null,
         "advanced": false,
         "awards": []
       },
@@ -73967,8 +74172,8 @@
     "past_names": [
       "Robotic Dragons"
     ],
-    "power_score": 13.4,
-    "tier": "Tier C (成长中队伍/新锐)"
+    "power_score": 14.5,
+    "tier": "Tier B (中坚力量/资深)"
   },
   {
     "id": 3026,
@@ -74426,7 +74631,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -74437,7 +74642,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -75617,7 +75822,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -75628,7 +75833,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -76052,15 +76257,15 @@
       "roster_status": {
         "good": true,
         "details": "",
-        "count": 3,
-        "threshold": 3,
+        "count": 4,
+        "threshold": 4,
         "icon": "users",
         "icon_good": "users-circle-check",
         "color": "success",
         "title": "Roster",
-        "tooltip": "<strong>Roster</strong>: 3",
-        "total": 3,
-        "required_count": 3,
+        "tooltip": "<strong>Roster</strong>: 4",
+        "total": 4,
+        "required_count": 4,
         "min": 2,
         "max": 10,
         "not_with_first": 0
@@ -76481,7 +76686,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -76492,7 +76697,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -76617,7 +76822,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 311,
+        "name": "NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
+        "date": "2026-11-22T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/311/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -76626,12 +76840,14 @@
     "program_id": 1,
     "program_label": "FIRST LEGO League: Challenge",
     "history": {
-      "has_history": false,
+      "has_history": true,
       "past_names": [],
       "past_names_details": [],
-      "events_count": 0,
-      "seasons_count": 0,
-      "seasons": [],
+      "events_count": 1,
+      "seasons_count": 1,
+      "seasons": [
+        "2026 - BIOGLOW (Challenge)"
+      ],
       "max_score": null,
       "avg_score": null,
       "best_ranking": null,
@@ -76639,15 +76855,35 @@
       "awards_count": 0,
       "champions_count": 0,
       "core_awards_count": 0,
-      "power_score": 0.0,
-      "tier": "Rookie (新队伍/待赛)",
+      "power_score": 1.1,
+      "tier": "Tier C (成长中队伍/新锐)",
       "awards": [],
       "advancements_count": 0,
       "has_championship": false,
-      "experience_tier": "Rookie (新队伍)",
+      "experience_tier": "Experienced (有参赛经验)",
       "score_tier": "暂无得分记录",
-      "events": [],
-      "recent_event": null,
+      "events": [
+        {
+          "event_id": 311,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
+          "season": "2026 - BIOGLOW (Challenge)",
+          "date": "2026-11-22",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        }
+      ],
+      "recent_event": {
+        "event_id": 311,
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
+        "season": "2026 - BIOGLOW (Challenge)",
+        "date": "2026-11-22",
+        "highest_score": null,
+        "ranking": null,
+        "advanced": false,
+        "awards": []
+      },
       "by_season": {
         "2025": {
           "season_key": "2025",
@@ -76676,8 +76912,8 @@
       }
     },
     "past_names": [],
-    "power_score": 0.0,
-    "tier": "Rookie (新队伍/待赛)"
+    "power_score": 1.1,
+    "tier": "Tier C (成长中队伍/新锐)"
   },
   {
     "id": 2615,
@@ -77548,7 +77784,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -77559,7 +77795,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -78443,7 +78679,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -78454,7 +78690,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -79381,7 +79617,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 310,
+        "name": "NorCal FLL Challenge BIOGLOW QT - Gunn High School, Palo Alto",
+        "date": "2026-11-21T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/310/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -79390,12 +79635,14 @@
     "program_id": 1,
     "program_label": "FIRST LEGO League: Challenge",
     "history": {
-      "has_history": false,
+      "has_history": true,
       "past_names": [],
       "past_names_details": [],
-      "events_count": 0,
-      "seasons_count": 0,
-      "seasons": [],
+      "events_count": 1,
+      "seasons_count": 1,
+      "seasons": [
+        "2026 - BIOGLOW (Challenge)"
+      ],
       "max_score": null,
       "avg_score": null,
       "best_ranking": null,
@@ -79403,15 +79650,35 @@
       "awards_count": 0,
       "champions_count": 0,
       "core_awards_count": 0,
-      "power_score": 0.0,
-      "tier": "Rookie (新队伍/待赛)",
+      "power_score": 1.1,
+      "tier": "Tier C (成长中队伍/新锐)",
       "awards": [],
       "advancements_count": 0,
       "has_championship": false,
-      "experience_tier": "Rookie (新队伍)",
+      "experience_tier": "Experienced (有参赛经验)",
       "score_tier": "暂无得分记录",
-      "events": [],
-      "recent_event": null,
+      "events": [
+        {
+          "event_id": 310,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Gunn High School, Palo Alto",
+          "season": "2026 - BIOGLOW (Challenge)",
+          "date": "2026-11-21",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        }
+      ],
+      "recent_event": {
+        "event_id": 310,
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Gunn High School, Palo Alto",
+        "season": "2026 - BIOGLOW (Challenge)",
+        "date": "2026-11-21",
+        "highest_score": null,
+        "ranking": null,
+        "advanced": false,
+        "awards": []
+      },
       "by_season": {
         "2025": {
           "season_key": "2025",
@@ -79440,8 +79707,8 @@
       }
     },
     "past_names": [],
-    "power_score": 0.0,
-    "tier": "Rookie (新队伍/待赛)"
+    "power_score": 1.1,
+    "tier": "Tier C (成长中队伍/新锐)"
   },
   {
     "id": 2923,
@@ -82182,8 +82449,8 @@
     "name": "Biomes",
     "city": "San Jose",
     "org_name": "Family/Community",
-    "coaches_count": 1,
-    "status_v2": "pending_fingerprinting",
+    "coaches_count": 2,
+    "status_v2": "waiting_invites",
     "status_quickview": {
       "screening": {
         "good": false,
@@ -82216,20 +82483,20 @@
         "bcia_effective_date": "2027-01-01"
       },
       "coaches": {
-        "good": false,
-        "details": "Below minimum: 1/2 required",
-        "count": 1,
+        "good": true,
+        "details": "",
+        "count": 2,
         "threshold": 2,
         "icon": "user",
         "icon_good": "user-circle-check",
-        "color": "info",
+        "color": "warning",
         "title": "Coaches",
-        "tooltip": "<strong>Coaches</strong>: 1<br/>Issues: Below minimum: 1/2 required",
-        "total": 1,
-        "required_count": 1,
+        "tooltip": "<strong>Coaches</strong>: 2<br/>Issues: Pending invite: 1",
+        "total": 2,
+        "required_count": 2,
         "min": 2,
         "max": 2,
-        "invited": 0
+        "invited": 1
       },
       "roster_status": {
         "good": false,
@@ -82260,7 +82527,7 @@
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: Jotform pending"
       },
-      "status": "pending_fingerprinting"
+      "status": "waiting_invites"
     },
     "registered_events": [],
     "advancement": {
@@ -83138,7 +83405,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -83149,7 +83416,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -83343,7 +83610,7 @@
     "city": "Saratoga",
     "org_name": "Foothill Elementary",
     "coaches_count": 2,
-    "status_v2": "waiting_invites",
+    "status_v2": "good",
     "status_quickview": {
       "screening": {
         "good": true,
@@ -83358,17 +83625,17 @@
         "skipped": false
       },
       "fingerprinting": {
-        "good": false,
-        "details": "1/2 complete",
-        "count": 1,
+        "good": true,
+        "details": "2/2 complete",
+        "count": 2,
         "threshold": 2,
         "icon": "fingerprint",
         "icon_good": "fingerprint-circle-check",
-        "color": "error",
+        "color": "success",
         "title": "Fingerprinting",
-        "tooltip": "<strong>Fingerprinting</strong>: 1/2 complete<br/>Live Scan 2/2<br/>MRT 1/2<br/>BCIA 9018 2/2",
+        "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 2/2",
         "livescan_count": 2,
-        "mrt_count": 1,
+        "mrt_count": 2,
         "bcia_count": 2,
         "bcia": "complete",
         "bcia_enforced": false,
@@ -83419,6 +83686,185 @@
         "color": "success",
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: All complete"
+      },
+      "status": "good"
+    },
+    "registered_events": [
+      {
+        "id": 304,
+        "name": "NorCal FLL Challenge BIOGLOW QT- SF Day School",
+        "date": "2026-11-14T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/304/",
+        "level_name": "NorCal FLL Founders Edition 2026 Event Level"
+      }
+    ],
+    "advancement": {
+      "state": "none"
+    },
+    "program_logo_path": "/static/images/program_logos/fll_challenge_logo.png",
+    "season_logo_path": "/static/images/season_logos/2026_fll_challenge.png",
+    "program_id": 1,
+    "program_label": "FIRST LEGO League: Challenge",
+    "history": {
+      "has_history": true,
+      "past_names": [],
+      "past_names_details": [],
+      "events_count": 1,
+      "seasons_count": 1,
+      "seasons": [
+        "2026 - BIOGLOW (Challenge)"
+      ],
+      "max_score": null,
+      "avg_score": null,
+      "best_ranking": null,
+      "score_records_count": 0,
+      "awards_count": 0,
+      "champions_count": 0,
+      "core_awards_count": 0,
+      "power_score": 1.1,
+      "tier": "Tier C (成长中队伍/新锐)",
+      "awards": [],
+      "advancements_count": 0,
+      "has_championship": false,
+      "experience_tier": "Experienced (有参赛经验)",
+      "score_tier": "暂无得分记录",
+      "events": [
+        {
+          "event_id": 304,
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT- SF Day School",
+          "season": "2026 - BIOGLOW (Challenge)",
+          "date": "2026-11-14",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        }
+      ],
+      "recent_event": {
+        "event_id": 304,
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT- SF Day School",
+        "season": "2026 - BIOGLOW (Challenge)",
+        "date": "2026-11-14",
+        "highest_score": null,
+        "ranking": null,
+        "advanced": false,
+        "awards": []
+      },
+      "by_season": {
+        "2025": {
+          "season_key": "2025",
+          "season_label": "2025-26",
+          "theme": "UNEARTHED",
+          "has_participated": false,
+          "qt": null,
+          "champ": null
+        },
+        "2024": {
+          "season_key": "2024",
+          "season_label": "2024-25",
+          "theme": "SUBMERGED",
+          "has_participated": false,
+          "qt": null,
+          "champ": null
+        },
+        "2023": {
+          "season_key": "2023",
+          "season_label": "2023-24",
+          "theme": "MASTERPIECE",
+          "has_participated": false,
+          "qt": null,
+          "champ": null
+        }
+      }
+    },
+    "past_names": [],
+    "power_score": 1.1,
+    "tier": "Tier C (成长中队伍/新锐)"
+  },
+  {
+    "id": 3071,
+    "number": 76443,
+    "name": "Robox",
+    "city": "Saratoga",
+    "org_name": "Foothill Elementary",
+    "coaches_count": 2,
+    "status_v2": "waiting_invites",
+    "status_quickview": {
+      "screening": {
+        "good": true,
+        "details": "2/2 screened",
+        "count": 2,
+        "threshold": 2,
+        "icon": "user-viewfinder",
+        "icon_good": "user-viewfinder-circle-check",
+        "color": "success",
+        "title": "Screening",
+        "tooltip": "<strong>Screening</strong>: 2/2 screened",
+        "skipped": false
+      },
+      "fingerprinting": {
+        "good": false,
+        "details": "0/2 complete",
+        "count": 0,
+        "threshold": 2,
+        "icon": "fingerprint",
+        "icon_good": "fingerprint-circle-check",
+        "color": "error",
+        "title": "Fingerprinting",
+        "tooltip": "<strong>Fingerprinting</strong>: 0/2 complete<br/>Live Scan 0/2<br/>MRT 0/2<br/>BCIA 9018 1/2",
+        "livescan_count": 0,
+        "mrt_count": 0,
+        "bcia_count": 1,
+        "bcia": "missing",
+        "bcia_enforced": false,
+        "skipped": false,
+        "bcia_effective_date": "2027-01-01"
+      },
+      "coaches": {
+        "good": true,
+        "details": "",
+        "count": 2,
+        "threshold": 2,
+        "icon": "user",
+        "icon_good": "user-circle-check",
+        "color": "warning",
+        "title": "Coaches",
+        "tooltip": "<strong>Coaches</strong>: 2<br/>Issues: Pending invites: 2",
+        "total": 2,
+        "required_count": 2,
+        "min": 2,
+        "max": 2,
+        "invited": 2
+      },
+      "roster_status": {
+        "good": true,
+        "details": "",
+        "count": 5,
+        "threshold": 5,
+        "icon": "users",
+        "icon_good": "users-circle-check",
+        "color": "success",
+        "title": "Roster",
+        "tooltip": "<strong>Roster</strong>: 5",
+        "total": 5,
+        "required_count": 5,
+        "min": 2,
+        "max": 10,
+        "not_with_first": 0
+      },
+      "agreements": {
+        "good": false,
+        "details": "Jotform pending",
+        "coaches_pending": 0,
+        "students_pending": 0,
+        "jotform_required": true,
+        "jotform_complete": false,
+        "icon": "file-contract",
+        "icon_good": "file-contract-circle-check",
+        "color": "info",
+        "title": "Agreements",
+        "tooltip": "<strong>Agreements</strong>: Jotform pending"
       },
       "status": "waiting_invites"
     },
@@ -83491,7 +83937,7 @@
     "city": "Saratoga",
     "org_name": "Foothill Elementary",
     "coaches_count": 2,
-    "status_v2": "waiting_invites",
+    "status_v2": "pending_fingerprinting",
     "status_quickview": {
       "screening": {
         "good": true,
@@ -83568,7 +84014,7 @@
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: Jotform pending"
       },
-      "status": "waiting_invites"
+      "status": "pending_fingerprinting"
     },
     "registered_events": [],
     "advancement": {
@@ -83639,7 +84085,7 @@
     "city": "Saratoga",
     "org_name": "Foothill Elementary",
     "coaches_count": 2,
-    "status_v2": "waiting_invites",
+    "status_v2": "pending_fingerprinting",
     "status_quickview": {
       "screening": {
         "good": true,
@@ -83716,7 +84162,7 @@
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: Jotform pending"
       },
-      "status": "waiting_invites"
+      "status": "pending_fingerprinting"
     },
     "registered_events": [],
     "advancement": {
@@ -84088,7 +84534,7 @@
       "events": [
         {
           "event_id": 311,
-          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+          "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
           "season": "2026 - BIOGLOW (Challenge)",
           "date": "2026-11-22",
           "highest_score": null,
@@ -84099,7 +84545,7 @@
       ],
       "recent_event": {
         "event_id": 311,
-        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
+        "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
         "season": "2026 - BIOGLOW (Challenge)",
         "date": "2026-11-22",
         "highest_score": null,
@@ -94488,7 +94934,7 @@
     "city": "San Jose",
     "org_name": "Valley Christian Elementary",
     "coaches_count": 2,
-    "status_v2": "waiting_jotform",
+    "status_v2": "good",
     "status_quickview": {
       "screening": {
         "good": true,
@@ -94553,19 +94999,19 @@
         "not_with_first": 0
       },
       "agreements": {
-        "good": false,
-        "details": "Jotform pending",
+        "good": true,
+        "details": "",
         "coaches_pending": 0,
         "students_pending": 0,
         "jotform_required": true,
-        "jotform_complete": false,
+        "jotform_complete": true,
         "icon": "file-contract",
         "icon_good": "file-contract-circle-check",
-        "color": "info",
+        "color": "success",
         "title": "Agreements",
-        "tooltip": "<strong>Agreements</strong>: Jotform pending"
+        "tooltip": "<strong>Agreements</strong>: All complete"
       },
-      "status": "waiting_jotform"
+      "status": "good"
     },
     "registered_events": [],
     "advancement": {
@@ -95111,7 +95557,7 @@
     "city": "Pleasanton",
     "org_name": "Family/Community",
     "coaches_count": 2,
-    "status_v2": "pending_fingerprinting",
+    "status_v2": "good",
     "status_quickview": {
       "screening": {
         "good": true,
@@ -95126,17 +95572,17 @@
         "skipped": false
       },
       "fingerprinting": {
-        "good": false,
-        "details": "1/2 complete",
-        "count": 1,
+        "good": true,
+        "details": "2/2 complete",
+        "count": 2,
         "threshold": 2,
         "icon": "fingerprint",
         "icon_good": "fingerprint-circle-check",
-        "color": "error",
+        "color": "warning",
         "title": "Fingerprinting",
-        "tooltip": "<strong>Fingerprinting</strong>: 1/2 complete<br/>Live Scan 2/2<br/>MRT 1/2<br/>BCIA 9018 1/2",
+        "tooltip": "<strong>Fingerprinting</strong>: 2/2 complete<br/>Live Scan 2/2<br/>MRT 2/2<br/>BCIA 9018 1/2<br/>BCIA 9018 form required from Jan 01, 2027",
         "livescan_count": 2,
-        "mrt_count": 1,
+        "mrt_count": 2,
         "bcia_count": 1,
         "bcia": "missing",
         "bcia_enforced": false,
@@ -95188,7 +95634,7 @@
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: All complete"
       },
-      "status": "pending_fingerprinting"
+      "status": "good"
     },
     "registered_events": [],
     "advancement": {
@@ -95637,15 +96083,15 @@
       "roster_status": {
         "good": true,
         "details": "",
-        "count": 7,
-        "threshold": 7,
+        "count": 8,
+        "threshold": 8,
         "icon": "users",
         "icon_good": "users-circle-check",
         "color": "success",
         "title": "Roster",
-        "tooltip": "<strong>Roster</strong>: 7",
-        "total": 7,
-        "required_count": 7,
+        "tooltip": "<strong>Roster</strong>: 8",
+        "total": 8,
+        "required_count": 8,
         "min": 2,
         "max": 10,
         "not_with_first": 0
@@ -95665,7 +96111,16 @@
       },
       "status": "good"
     },
-    "registered_events": [],
+    "registered_events": [
+      {
+        "id": 315,
+        "name": "NorCal FLL FUTURE BIOGLOW Event - NOV 22 The Play Space, San Jose",
+        "date": "2026-11-22T16:00:00Z",
+        "timezone": "America/Los_Angeles",
+        "website_uri": "https://mylumi.playingatlearning.org/en/event/315/",
+        "level_name": "NorCal FLL Future 6-8 Edition 2026 Event Level"
+      }
+    ],
     "advancement": {
       "state": "none"
     },
@@ -95674,12 +96129,14 @@
     "program_id": 40,
     "program_label": "FIRST LEGO League: Future Edition 6-8",
     "history": {
-      "has_history": false,
+      "has_history": true,
       "past_names": [],
       "past_names_details": [],
-      "events_count": 0,
-      "seasons_count": 0,
-      "seasons": [],
+      "events_count": 1,
+      "seasons_count": 1,
+      "seasons": [
+        "2026 - BIOGLOW (Future 6-8)"
+      ],
       "max_score": null,
       "avg_score": null,
       "best_ranking": null,
@@ -95687,15 +96144,35 @@
       "awards_count": 0,
       "champions_count": 0,
       "core_awards_count": 0,
-      "power_score": 0.0,
-      "tier": "Rookie (新队伍/待赛)",
+      "power_score": 1.1,
+      "tier": "Tier C (成长中队伍/新锐)",
       "awards": [],
       "advancements_count": 0,
       "has_championship": false,
-      "experience_tier": "Rookie (新队伍)",
+      "experience_tier": "Experienced (有参赛经验)",
       "score_tier": "暂无得分记录",
-      "events": [],
-      "recent_event": null,
+      "events": [
+        {
+          "event_id": 315,
+          "event_name": "2026 NorCal FLL FUTURE BIOGLOW Event - NOV 22 The Play Space, San Jose",
+          "season": "2026 - BIOGLOW (Future 6-8)",
+          "date": "2026-11-22",
+          "highest_score": null,
+          "ranking": null,
+          "advanced": false,
+          "awards": []
+        }
+      ],
+      "recent_event": {
+        "event_id": 315,
+        "event_name": "2026 NorCal FLL FUTURE BIOGLOW Event - NOV 22 The Play Space, San Jose",
+        "season": "2026 - BIOGLOW (Future 6-8)",
+        "date": "2026-11-22",
+        "highest_score": null,
+        "ranking": null,
+        "advanced": false,
+        "awards": []
+      },
       "by_season": {
         "2025": {
           "season_key": "2025",
@@ -95724,8 +96201,8 @@
       }
     },
     "past_names": [],
-    "power_score": 0.0,
-    "tier": "Rookie (新队伍/待赛)"
+    "power_score": 1.1,
+    "tier": "Tier C (成长中队伍/新锐)"
   },
   {
     "id": 2909,
@@ -95882,7 +96359,7 @@
     "city": "Fremont",
     "org_name": "Family/Community",
     "coaches_count": 2,
-    "status_v2": "waiting_invites",
+    "status_v2": "pending_fingerprinting",
     "status_quickview": {
       "screening": {
         "good": true,
@@ -95905,8 +96382,8 @@
         "icon_good": "fingerprint-circle-check",
         "color": "error",
         "title": "Fingerprinting",
-        "tooltip": "<strong>Fingerprinting</strong>: 0/2 complete<br/>Live Scan 0/2<br/>MRT 1/2<br/>BCIA 9018 0/2",
-        "livescan_count": 0,
+        "tooltip": "<strong>Fingerprinting</strong>: 0/2 complete<br/>Live Scan 1/2<br/>MRT 1/2<br/>BCIA 9018 0/2",
+        "livescan_count": 1,
         "mrt_count": 1,
         "bcia_count": 0,
         "bcia": "missing",
@@ -95921,14 +96398,14 @@
         "threshold": 2,
         "icon": "user",
         "icon_good": "user-circle-check",
-        "color": "warning",
+        "color": "success",
         "title": "Coaches",
-        "tooltip": "<strong>Coaches</strong>: 2<br/>Issues: Pending invite: 1",
+        "tooltip": "<strong>Coaches</strong>: 2",
         "total": 2,
         "required_count": 2,
         "min": 2,
         "max": 2,
-        "invited": 1
+        "invited": 0
       },
       "roster_status": {
         "good": true,
@@ -95959,7 +96436,7 @@
         "title": "Agreements",
         "tooltip": "<strong>Agreements</strong>: All complete"
       },
-      "status": "waiting_invites"
+      "status": "pending_fingerprinting"
     },
     "registered_events": [],
     "advancement": {
@@ -97781,7 +98258,7 @@
     "name": "SaveTheWorld2027",
     "city": "Fremont",
     "org_name": "John M. Horner Middle",
-    "coaches_count": 3,
+    "coaches_count": 2,
     "status_v2": "pending_fingerprinting",
     "status_quickview": {
       "screening": {
@@ -97815,17 +98292,17 @@
         "bcia_effective_date": "2027-01-01"
       },
       "coaches": {
-        "good": false,
-        "details": "Above maximum: 3/2",
-        "count": 3,
-        "threshold": 3,
+        "good": true,
+        "details": "",
+        "count": 2,
+        "threshold": 2,
         "icon": "user",
         "icon_good": "user-circle-check",
-        "color": "error",
+        "color": "success",
         "title": "Coaches",
-        "tooltip": "<strong>Coaches</strong>: 3<br/>Issues: Above maximum: 3/2",
-        "total": 3,
-        "required_count": 3,
+        "tooltip": "<strong>Coaches</strong>: 2",
+        "total": 2,
+        "required_count": 2,
         "min": 2,
         "max": 2,
         "invited": 0
@@ -97926,7 +98403,7 @@
   {
     "id": 2919,
     "number": 600480,
-    "name": "Relic Raiders",
+    "name": "Mike Wazowskis",
     "city": "San Jose",
     "org_name": "Bret Harte Middle",
     "coaches_count": 2,

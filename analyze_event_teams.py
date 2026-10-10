@@ -10,6 +10,7 @@ Outputs:
 - EVENT_TEAMS_ANALYSIS_REPORT.md
 """
 
+from datetime import datetime
 import json
 import logging
 from pathlib import Path
@@ -327,6 +328,7 @@ def generate_full_analysis():
             }
 
     overall_summary = {
+        "generated_at": datetime.now().strftime("%Y-%m-%d"),
         "total_events": len(event_analyses),
         "total_capacity": total_capacity,
         "total_registered": total_registered,
@@ -369,7 +371,7 @@ def generate_markdown_report(data):
     lines = [
         "# NorCal FLL BIOGLOW 2026 · 每场比赛参赛队伍竞技与合规全景分析报告",
         "",
-        f"> **生成时间**: 2026-10-06 | **涵盖分站赛**: {data['total_events']} 站 | **总报名队伍**: {data['total_registered']} / {data['total_capacity']} 席位 ({data['overall_fill_rate']}%)",
+        f"> **生成时间**: {data.get('generated_at', datetime.now().strftime('%Y-%m-%d'))} | **涵盖分站赛**: {data['total_events']} 站 | **总报名队伍**: {data['total_registered']} / {data['total_capacity']} 席位 ({data['overall_fill_rate']}%)",
         "",
         "---",
         "",

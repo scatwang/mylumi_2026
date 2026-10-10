@@ -1,7 +1,7 @@
 {
   "event_id": 306,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - San Francisco Bay University, Fremont",
-  "count": 15,
+  "count": 16,
   "teams": [
     {
       "id": 2366,
@@ -106,6 +106,18 @@
         "number": 67727,
         "name": "Thunderbolts",
         "city": "Fremont",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2435,
+      "team": {
+        "id": 2780,
+        "number": 67854,
+        "name": "Superstars",
+        "city": "fremont",
         "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,

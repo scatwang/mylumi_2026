@@ -1,7 +1,7 @@
 {
   "event_id": 309,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Nueva School, San Mateo",
-  "count": 16,
+  "count": 17,
   "teams": [
     {
       "id": 2273,
@@ -23,6 +23,18 @@
         "name": "The DMV Carrots",
         "city": "Hillsborough",
         "org_name": "Nueva School"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2431,
+      "team": {
+        "id": 2715,
+        "number": 54977,
+        "name": "Menlo Park Narleaotters",
+        "city": "Menlo Park",
+        "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,
       "advancing_wait_list": false

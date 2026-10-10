@@ -1,7 +1,7 @@
 {
   "event_id": 302,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT – The Dorris-Eaton School, San Ramon",
-  "count": 10,
+  "count": 11,
   "teams": [
     {
       "id": 2359,
@@ -70,6 +70,18 @@
         "number": 71771,
         "name": "Quantum Big Macs = Big Backs",
         "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2428,
+      "team": {
+        "id": 2830,
+        "number": 71804,
+        "name": "Astrobot",
+        "city": "Mountain House",
         "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,

@@ -129,7 +129,7 @@
   "302": {
     "event_id": 302,
     "event_name": "2026 NorCal FLL Challenge BIOGLOW QT – The Dorris-Eaton School, San Ramon",
-    "count": 10,
+    "count": 11,
     "teams": [
       {
         "id": 2359,
@@ -198,6 +198,18 @@
           "number": 71771,
           "name": "Quantum Big Macs = Big Backs",
           "city": "Dublin",
+          "org_name": "Family/Community"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
+      },
+      {
+        "id": 2428,
+        "team": {
+          "id": 2830,
+          "number": 71804,
+          "name": "Astrobot",
+          "city": "Mountain House",
           "org_name": "Family/Community"
         },
         "advancing_to_next_level": false,
@@ -323,7 +335,7 @@
   "304": {
     "event_id": 304,
     "event_name": "2026 NorCal FLL Challenge BIOGLOW QT- SF Day School",
-    "count": 6,
+    "count": 7,
     "teams": [
       {
         "id": 2426,
@@ -393,6 +405,18 @@
           "name": "Shark Bytes",
           "city": "Cupertino",
           "org_name": "Family/Community"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
+      },
+      {
+        "id": 2441,
+        "team": {
+          "id": 2972,
+          "number": 76441,
+          "name": "The Legends Foothill",
+          "city": "Saratoga",
+          "org_name": "Foothill Elementary"
         },
         "advancing_to_next_level": false,
         "advancing_wait_list": false
@@ -601,7 +625,7 @@
   "306": {
     "event_id": 306,
     "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - San Francisco Bay University, Fremont",
-    "count": 15,
+    "count": 16,
     "teams": [
       {
         "id": 2366,
@@ -706,6 +730,18 @@
           "number": 67727,
           "name": "Thunderbolts",
           "city": "Fremont",
+          "org_name": "Family/Community"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
+      },
+      {
+        "id": 2435,
+        "team": {
+          "id": 2780,
+          "number": 67854,
+          "name": "Superstars",
+          "city": "fremont",
           "org_name": "Family/Community"
         },
         "advancing_to_next_level": false,
@@ -1006,7 +1042,7 @@
   "309": {
     "event_id": 309,
     "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Nueva School, San Mateo",
-    "count": 16,
+    "count": 17,
     "teams": [
       {
         "id": 2273,
@@ -1028,6 +1064,18 @@
           "name": "The DMV Carrots",
           "city": "Hillsborough",
           "org_name": "Nueva School"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
+      },
+      {
+        "id": 2431,
+        "team": {
+          "id": 2715,
+          "number": 54977,
+          "name": "Menlo Park Narleaotters",
+          "city": "Menlo Park",
+          "org_name": "Family/Community"
         },
         "advancing_to_next_level": false,
         "advancing_wait_list": false
@@ -1205,7 +1253,7 @@
   "310": {
     "event_id": 310,
     "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Gunn High School, Palo Alto",
-    "count": 17,
+    "count": 18,
     "teams": [
       {
         "id": 2353,
@@ -1340,6 +1388,18 @@
         "advancing_wait_list": false
       },
       {
+        "id": 2434,
+        "team": {
+          "id": 2629,
+          "number": 75933,
+          "name": "The Square Roots",
+          "city": "Los Gatos",
+          "org_name": "Family/Community"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
+      },
+      {
         "id": 2344,
         "team": {
           "id": 2634,
@@ -1415,8 +1475,8 @@
   },
   "311": {
     "event_id": 311,
-    "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - EPA Center, East Palo Alto",
-    "count": 14,
+    "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Girl Scouts at EPA Center, East Palo Alto",
+    "count": 15,
     "teams": [
       {
         "id": 2361,
@@ -1539,6 +1599,18 @@
         "advancing_wait_list": false
       },
       {
+        "id": 2429,
+        "team": {
+          "id": 3014,
+          "number": 75632,
+          "name": "F1FIFA",
+          "city": "San Jose",
+          "org_name": "Family/Community"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
+      },
+      {
         "id": 2364,
         "team": {
           "id": 2620,
@@ -1591,7 +1663,7 @@
   "312": {
     "event_id": 312,
     "event_name": "2026 NorCal FLL Challenge BIOGLOW QT  - Lowell High School, San Francisco",
-    "count": 6,
+    "count": 11,
     "teams": [
       {
         "id": 2275,
@@ -1654,6 +1726,30 @@
         "advancing_wait_list": false
       },
       {
+        "id": 2436,
+        "team": {
+          "id": 2763,
+          "number": 66137,
+          "name": "Robo Pets - SBR",
+          "city": "Sunnyvale",
+          "org_name": "Family/Community"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
+      },
+      {
+        "id": 2437,
+        "team": {
+          "id": 2793,
+          "number": 70221,
+          "name": "Hydrobots - SBR",
+          "city": "Sunnyvale",
+          "org_name": "Family/Community"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
+      },
+      {
         "id": 2357,
         "team": {
           "id": 3023,
@@ -1664,13 +1760,49 @@
         },
         "advancing_to_next_level": false,
         "advancing_wait_list": false
+      },
+      {
+        "id": 2438,
+        "team": {
+          "id": 2937,
+          "number": 72371,
+          "name": "Blue Macaws - SBR",
+          "city": "Sunnyvale",
+          "org_name": "Family/Community"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
+      },
+      {
+        "id": 2439,
+        "team": {
+          "id": 2970,
+          "number": 72379,
+          "name": "Bamboo Bots - SBR",
+          "city": "Sunnyvale",
+          "org_name": "Family/Community"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
+      },
+      {
+        "id": 2440,
+        "team": {
+          "id": 2938,
+          "number": 75135,
+          "name": "Robotic Dragons - SBR",
+          "city": "Sunnyvale",
+          "org_name": "Family/Community"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
       }
     ]
   },
   "313": {
     "event_id": 313,
     "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - BASIS Independent School, Dublin",
-    "count": 9,
+    "count": 10,
     "teams": [
       {
         "id": 2308,
@@ -1733,6 +1865,18 @@
         "advancing_wait_list": false
       },
       {
+        "id": 2432,
+        "team": {
+          "id": 2827,
+          "number": 71748,
+          "name": "Volt Vipers",
+          "city": "San Jose",
+          "org_name": "Family/Community"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
+      },
+      {
         "id": 2274,
         "team": {
           "id": 2836,
@@ -1785,7 +1929,7 @@
   "314": {
     "event_id": 314,
     "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Pleasant Grove High School, Elk Grove",
-    "count": 5,
+    "count": 6,
     "teams": [
       {
         "id": 2307,
@@ -1836,6 +1980,18 @@
         "advancing_wait_list": false
       },
       {
+        "id": 2430,
+        "team": {
+          "id": 2858,
+          "number": 73742,
+          "name": "Sphere Scavengers",
+          "city": "Folsom",
+          "org_name": "Family/Community"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
+      },
+      {
         "id": 2324,
         "team": {
           "id": 2624,
@@ -1852,7 +2008,7 @@
   "315": {
     "event_id": 315,
     "event_name": "2026 NorCal FLL FUTURE BIOGLOW Event - NOV 22 The Play Space, San Jose",
-    "count": 5,
+    "count": 6,
     "teams": [
       {
         "id": 2392,
@@ -1862,6 +2018,18 @@
           "name": "Master Builders",
           "city": "Santa Clara",
           "org_name": "Stratford Middle School, Harker"
+        },
+        "advancing_to_next_level": false,
+        "advancing_wait_list": false
+      },
+      {
+        "id": 2433,
+        "team": {
+          "id": 2908,
+          "number": 600121,
+          "name": "DCADS Robo Cubs",
+          "city": "Santa Clara",
+          "org_name": "Don Callejon"
         },
         "advancing_to_next_level": false,
         "advancing_wait_list": false
@@ -1883,7 +2051,7 @@
         "team": {
           "id": 2919,
           "number": 600480,
-          "name": "Relic Raiders",
+          "name": "Mike Wazowskis",
           "city": "San Jose",
           "org_name": "Bret Harte Middle"
         },

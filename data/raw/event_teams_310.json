@@ -1,7 +1,7 @@
 {
   "event_id": 310,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - Gunn High School, Palo Alto",
-  "count": 17,
+  "count": 18,
   "teams": [
     {
       "id": 2353,
@@ -130,6 +130,18 @@
         "number": 73068,
         "name": "Tracy Tech Titans",
         "city": "Tracy",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2434,
+      "team": {
+        "id": 2629,
+        "number": 75933,
+        "name": "The Square Roots",
+        "city": "Los Gatos",
         "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,

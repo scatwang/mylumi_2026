@@ -1,7 +1,7 @@
 {
   "event_id": 313,
   "event_name": "2026 NorCal FLL Challenge BIOGLOW QT - BASIS Independent School, Dublin",
-  "count": 9,
+  "count": 10,
   "teams": [
     {
       "id": 2308,
@@ -58,6 +58,18 @@
         "number": 69015,
         "name": "Quantum Tacocats",
         "city": "Dublin",
+        "org_name": "Family/Community"
+      },
+      "advancing_to_next_level": false,
+      "advancing_wait_list": false
+    },
+    {
+      "id": 2432,
+      "team": {
+        "id": 2827,
+        "number": 71748,
+        "name": "Volt Vipers",
+        "city": "San Jose",
         "org_name": "Family/Community"
       },
       "advancing_to_next_level": false,
